@@ -1,12 +1,50 @@
 body {
     font-family: sans-serif;
     display: flex;
+    /* Making body a flex container to center quiz selection initially,
+       quiz-container will be hidden then shown by JS, potentially re-centering if needed */
+    flex-direction: column; /* Stack selection and quiz container if both were visible */
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     margin: 0;
     background-color: #f0f0f0;
     color: #333;
+}
+
+#quiz-selection-container {
+    width: 90%;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+#quiz-selection-container h1 {
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 1.8em; /* Example size for selection title */
+}
+
+#quiz-buttons-container button {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 10px;
+    font-size: 1.1em;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#quiz-buttons-container button:hover {
+    background-color: #0056b3;
 }
 
 .quiz-container {
@@ -17,27 +55,36 @@ body {
     width: 90%;
     max-width: 600px;
     text-align: center;
+    /* margin: 20px auto; */ /* Centering if body wasn't flex, but JS will manage visibility */
 }
 
-h1 {
+/* Styles for the h1 inside quiz-container, now with an ID */
+#quiz-title-display {
     color: #333;
-    margin-bottom: 20px;
+    margin-bottom: 20px; /* Original h1 margin */
+    font-size: 1.8em; /* Consistent with selection title, or adjust as needed */
 }
 
 #score-container {
     font-size: 1.1em;
-    margin-bottom: 15px; /* Space below the score, above progress bar */
+    margin-bottom: 15px;
     color: #333;
     font-weight: bold;
 }
 
-#score-value, #total-questions {
-    /* Styles for the numbers themselves if needed, e.g., different color or weight */
+.score-correct-value {
+    color: #28a745;
+    font-weight: bold;
+}
+
+.score-incorrect-value {
+    color: #dc3545;
+    font-weight: bold;
 }
 
 #question-container {
     margin-bottom: 20px;
-    min-height: 50px; /* Ensure space for question text */
+    min-height: 50px;
 }
 
 #question-text {
@@ -47,7 +94,7 @@ h1 {
 
 #feedback-container {
     margin-top: 20px;
-    min-height: 60px; /* Ensure space for feedback */
+    min-height: 60px;
 }
 
 #feedback-text {
@@ -59,7 +106,6 @@ h1 {
     color: #555;
 }
 
-/* General button styling - Prawda, Fałsz, and Następne */
 .btn {
     background-color: #007bff;
     color: white;
@@ -70,95 +116,99 @@ h1 {
     cursor: pointer;
     font-size: 1em;
     transition: background-color 0.3s ease;
-    display: inline-block; /* Ensure it's inline-block for proper layout */
+    display: inline-block;
 }
 
 .btn:hover {
     background-color: #0056b3;
 }
 
-/* Specific styling for the next button if needed, e.g., spacing */
 #next-btn {
-    margin-top: 20px; /* Add more space above the next button */
-    /* background-color and hover are inherited from .btn, if #next-btn should keep the default blue color */
+    margin-top: 20px;
 }
 
 #true-btn {
-    background-color: #28a745; /* Green */
+    background-color: #28a745;
 }
 
 #true-btn:hover {
-    background-color: #218838; /* Darker Green */
+    background-color: #218838;
 }
 
 #false-btn {
-    background-color: #dc3545; /* Red */
+    background-color: #dc3545;
 }
 
 #false-btn:hover {
-    background-color: #c82333; /* Darker Red */
+    background-color: #c82333;
 }
 
 #reset-btn {
-    background-color: #ffc107; /* Amber/Yellow */
-    color: #212529; /* Darker text for better contrast on yellow */
-    margin-top: 10px; /* Space above it */
+    background-color: #ffc107;
+    color: #212529;
+    margin-top: 10px;
 }
 
 #reset-btn:hover {
-    background-color: #e0a800; /* Darker amber/yellow on hover */
+    background-color: #e0a800;
+}
+
+#back-to-menu-btn {
+    background-color: #6c757d; /* Grey color */
+    color: white;
+    margin-top: 10px;
+}
+
+#back-to-menu-btn:hover {
+    background-color: #5a6268;
 }
 
 .hidden {
-    display: none !important; /* Ensure it always hides */
+    display: none !important;
 }
 
-/* Progress Bar Styles */
 .progress-bar-container {
     width: 100%;
-    background-color: #e0e0e0; /* Light grey background for the bar track */
+    background-color: #e0e0e0;
     border-radius: 4px;
-    margin-bottom: 20px; /* Space below the progress bar */
-    height: 20px; /* Height of the progress bar */
-    overflow: hidden; /* Ensures the fill doesn't spill out if border-radius is used on fill too */
+    margin-bottom: 20px;
+    height: 20px;
+    overflow: hidden;
 }
 
 #progress-bar {
-    width: 0%; /* Initial width, will be updated by JS */
+    width: 0%;
     height: 100%;
-    background-color: #007bff; /* Blue color for the progress fill, can be changed */
-    border-radius: 4px; /* Optional: if you want rounded fill, but container handles clipping */
-    transition: width 0.3s ease-in-out; /* Smooth transition for width changes */
-    text-align: center; /* For potential percentage text inside */
-    line-height: 20px; /* Vertically center text if added */
-    color: white; /* Text color if you add percentage inside */
+    background-color: #007bff;
+    border-radius: 4px;
+    transition: width 0.3s ease-in-out;
+    text-align: center;
+    line-height: 20px;
+    color: white;
 }
 
-
-/* Responsive adjustments */
 @media (max-width: 480px) {
-    .quiz-container {
+    .quiz-container, #quiz-selection-container { /* Ensure selection container also adapts */
         padding: 15px;
     }
 
-    /* Target buttons specifically within answers-container for stacking */
     #answers-container .btn {
         display: block;
         width: 100%;
-        margin: 10px 0; /* Adjust margin for stacked buttons */
+        margin: 10px 0;
     }
 
-    #next-btn, #reset-btn {
+    #next-btn, #reset-btn, #back-to-menu-btn { /* Grouped all footer buttons for mobile stacking */
        display: block;
        width: 100%;
-       margin-left: 0; /* Ensure full width takes effect */
+       margin-left: 0;
        margin-right: 0;
-       margin-top: 10px; /* Consistent top margin for these buttons on mobile */
+       margin-top: 10px;
     }
-    /* next-btn.hidden is already handled by .hidden's !important */
 
-    h1 {
-        font-size: 1.5em;
+    /* General h1 inside quiz-container and selection-container for mobile */
+    .quiz-container h1, #quiz-selection-container h1, #quiz-title-display {
+        font-size: 1.5em; /* Unified smaller size for h1 on mobile */
     }
 
     #question-text {

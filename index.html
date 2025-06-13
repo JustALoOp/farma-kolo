@@ -3,16 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Farmakologia kolokwium</title>
+    <title>Farmakologia kolokwium</title> <!-- Title updated -->
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="quiz-container">
-        <h1>Quiz Prawda/Fałsz</h1>
-        <div id="score-container"> <!-- New container for score -->
-            Aktualny wynik: <span id="score-value">0</span>/<span id="total-questions">0</span>
+    <div id="quiz-selection-container">
+        <h1>Wybierz Quiz</h1>
+        <div id="quiz-buttons-container">
+            <!-- Quiz buttons will be dynamically added here by JavaScript -->
         </div>
-        <!-- Progress Bar -->
+    </div>
+
+    <div class="quiz-container hidden"> <!-- Added 'hidden' class -->
+        <h1 id="quiz-title-display">Quiz Prawda/Fałsz</h1> <!-- Changed h1 to have an ID for dynamic title -->
+        <div id="score-container">
+            Wynik:
+            <span id="score-correct" class="score-correct-value">0</span> /
+            <span id="score-incorrect" class="score-incorrect-value">0</span> /
+            <span id="score-total">0</span>
+        </div>
         <div class="progress-bar-container" id="progress-container">
             <div id="progress-bar"></div>
         </div>
@@ -28,7 +37,8 @@
             <p id="justification-text"></p>
         </div>
         <button id="next-btn" class="btn hidden">Następne pytanie</button>
-        <button id="reset-btn" class="btn">Resetuj Quiz</button> <!-- New Reset Button -->
+        <button id="reset-btn" class="btn">Resetuj Quiz</button>
+        <button id="back-to-menu-btn" class="btn">Wróć do Menu</button> <!-- Added Back to Menu button -->
     </div>
     <script src="script.js"></script>
 </body>

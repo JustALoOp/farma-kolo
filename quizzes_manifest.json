@@ -1,0 +1,17 @@
+[
+    {
+        "id": "farmakologia_ogolna",
+        "title": "Farmakologia Ogólna (Testowy)",
+        "file": "questions.json"
+    },
+    {
+        "id": "anatomia_1",
+        "title": "Anatomia - Układ Kostny (Przykład)",
+        "file": "anatomia_kostny.json"
+    },
+    {
+        "id": "biochemia_metabolizm",
+        "title": "Biochemia - Metabolizm Węglowodanów (Przykład)",
+        "file": "biochem_wegle.json"
+    }
+]
