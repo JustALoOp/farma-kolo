@@ -24,6 +24,17 @@ h1 {
     margin-bottom: 20px;
 }
 
+#score-container {
+    font-size: 1.1em;
+    margin-bottom: 15px; /* Space below the score, above progress bar */
+    color: #333;
+    font-weight: bold;
+}
+
+#score-value, #total-questions {
+    /* Styles for the numbers themselves if needed, e.g., different color or weight */
+}
+
 #question-container {
     margin-bottom: 20px;
     min-height: 50px; /* Ensure space for question text */
@@ -69,11 +80,60 @@ h1 {
 /* Specific styling for the next button if needed, e.g., spacing */
 #next-btn {
     margin-top: 20px; /* Add more space above the next button */
+    /* background-color and hover are inherited from .btn, if #next-btn should keep the default blue color */
+}
+
+#true-btn {
+    background-color: #28a745; /* Green */
+}
+
+#true-btn:hover {
+    background-color: #218838; /* Darker Green */
+}
+
+#false-btn {
+    background-color: #dc3545; /* Red */
+}
+
+#false-btn:hover {
+    background-color: #c82333; /* Darker Red */
+}
+
+#reset-btn {
+    background-color: #ffc107; /* Amber/Yellow */
+    color: #212529; /* Darker text for better contrast on yellow */
+    margin-top: 10px; /* Space above it */
+}
+
+#reset-btn:hover {
+    background-color: #e0a800; /* Darker amber/yellow on hover */
 }
 
 .hidden {
     display: none !important; /* Ensure it always hides */
 }
+
+/* Progress Bar Styles */
+.progress-bar-container {
+    width: 100%;
+    background-color: #e0e0e0; /* Light grey background for the bar track */
+    border-radius: 4px;
+    margin-bottom: 20px; /* Space below the progress bar */
+    height: 20px; /* Height of the progress bar */
+    overflow: hidden; /* Ensures the fill doesn't spill out if border-radius is used on fill too */
+}
+
+#progress-bar {
+    width: 0%; /* Initial width, will be updated by JS */
+    height: 100%;
+    background-color: #007bff; /* Blue color for the progress fill, can be changed */
+    border-radius: 4px; /* Optional: if you want rounded fill, but container handles clipping */
+    transition: width 0.3s ease-in-out; /* Smooth transition for width changes */
+    text-align: center; /* For potential percentage text inside */
+    line-height: 20px; /* Vertically center text if added */
+    color: white; /* Text color if you add percentage inside */
+}
+
 
 /* Responsive adjustments */
 @media (max-width: 480px) {
@@ -88,13 +148,14 @@ h1 {
         margin: 10px 0; /* Adjust margin for stacked buttons */
     }
 
-    /* If next-btn should also be full width on mobile, uncomment this:
-    #next-btn {
-        display: block;
-        width: 100%;
-        margin-top: 20px; // Ensure margin is consistent if it becomes block
+    #next-btn, #reset-btn {
+       display: block;
+       width: 100%;
+       margin-left: 0; /* Ensure full width takes effect */
+       margin-right: 0;
+       margin-top: 10px; /* Consistent top margin for these buttons on mobile */
     }
-    */
+    /* next-btn.hidden is already handled by .hidden's !important */
 
     h1 {
         font-size: 1.5em;

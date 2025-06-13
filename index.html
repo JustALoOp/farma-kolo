@@ -3,12 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz Prawda/Fałsz</title>
+    <title>Farmakologia kolokwium</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="quiz-container">
         <h1>Quiz Prawda/Fałsz</h1>
+        <div id="score-container"> <!-- New container for score -->
+            Aktualny wynik: <span id="score-value">0</span>/<span id="total-questions">0</span>
+        </div>
+        <!-- Progress Bar -->
+        <div class="progress-bar-container" id="progress-container">
+            <div id="progress-bar"></div>
+        </div>
         <div id="question-container">
             <p id="question-text"></p>
         </div>
@@ -21,6 +28,7 @@
             <p id="justification-text"></p>
         </div>
         <button id="next-btn" class="btn hidden">Następne pytanie</button>
+        <button id="reset-btn" class="btn">Resetuj Quiz</button> <!-- New Reset Button -->
     </div>
     <script src="script.js"></script>
 </body>
