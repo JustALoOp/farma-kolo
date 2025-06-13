@@ -10,6 +10,16 @@
         "file": "questions_2.json"
     },
     {
+        "id": "wyklady_1",
+        "title": "Pytania z wykładów - 1",
+        "file": "wyklady_1.json"
+    },
+    {
+        "id": "wyklady_2",
+        "title": "Pytania z wykładów - 2",
+        "file": "wyklady_2.json"
+    },
+    {
         "id": "gielda_1",
         "title": "Giełda",
         "file": "gielda_1.json"
