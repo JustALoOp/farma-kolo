@@ -34,22 +34,6 @@ h1 {
     margin-bottom: 10px;
 }
 
-#answers-container button {
-    background-color: #007bff;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    margin: 5px;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 1em;
-    transition: background-color 0.3s ease;
-}
-
-#answers-container button:hover {
-    background-color: #0056b3;
-}
-
 #feedback-container {
     margin-top: 20px;
     min-height: 60px; /* Ensure space for feedback */
@@ -64,12 +48,31 @@ h1 {
     color: #555;
 }
 
+/* General button styling - Prawda, Fałsz, and Następne */
 .btn {
-    display: inline-block; /* Ensure buttons are on the same line if space allows */
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+    display: inline-block; /* Ensure it's inline-block for proper layout */
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+/* Specific styling for the next button if needed, e.g., spacing */
+#next-btn {
+    margin-top: 20px; /* Add more space above the next button */
 }
 
 .hidden {
-    display: none;
+    display: none !important; /* Ensure it always hides */
 }
 
 /* Responsive adjustments */
@@ -78,11 +81,20 @@ h1 {
         padding: 15px;
     }
 
-    #answers-container button {
-        display: block; /* Stack buttons vertically on small screens */
+    /* Target buttons specifically within answers-container for stacking */
+    #answers-container .btn {
+        display: block;
         width: 100%;
         margin: 10px 0; /* Adjust margin for stacked buttons */
     }
+
+    /* If next-btn should also be full width on mobile, uncomment this:
+    #next-btn {
+        display: block;
+        width: 100%;
+        margin-top: 20px; // Ensure margin is consistent if it becomes block
+    }
+    */
 
     h1 {
         font-size: 1.5em;
