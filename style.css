@@ -1,0 +1,94 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.quiz-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+#question-container {
+    margin-bottom: 20px;
+    min-height: 50px; /* Ensure space for question text */
+}
+
+#question-text {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+#answers-container button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.3s ease;
+}
+
+#answers-container button:hover {
+    background-color: #0056b3;
+}
+
+#feedback-container {
+    margin-top: 20px;
+    min-height: 60px; /* Ensure space for feedback */
+}
+
+#feedback-text {
+    font-weight: bold;
+}
+
+#justification-text {
+    margin-top: 5px;
+    color: #555;
+}
+
+.btn {
+    display: inline-block; /* Ensure buttons are on the same line if space allows */
+}
+
+.hidden {
+    display: none;
+}
+
+/* Responsive adjustments */
+@media (max-width: 480px) {
+    .quiz-container {
+        padding: 15px;
+    }
+
+    #answers-container button {
+        display: block; /* Stack buttons vertically on small screens */
+        width: 100%;
+        margin: 10px 0; /* Adjust margin for stacked buttons */
+    }
+
+    h1 {
+        font-size: 1.5em;
+    }
+
+    #question-text {
+        font-size: 1.1em;
+    }
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Słońce jest gwiazdą.",
+        "answer": true,
+        "justification": "Słońce jest gwiazdą typu G, znajdującą się w centrum Układu Słonecznego."
+    },
+    {
+        "question": "Polska graniczy z Rosją tylko przez Obwód Kaliningradzki.",
+        "answer": true,
+        "justification": "Polska ma granicę lądową z Rosją (Obwód Kaliningradzki) oraz granicę morską."
+    },
+    {
+        "question": "Mount Everest jest najwyższą górą na świecie mierzoną od podstawy do szczytu.",
+        "answer": false,
+        "justification": "Mauna Kea na Hawajach jest wyższa, jeśli mierzyć od jej podwodnej podstawy. Everest jest najwyższy, jeśli mierzyć od poziomu morza."
+    },
+    {
+        "question": "Woda zawsze wrze w temperaturze 100 stopni Celsjusza.",
+        "answer": false,
+        "justification": "Temperatura wrzenia wody zależy od ciśnienia atmosferycznego. Na większych wysokościach woda wrze w niższej temperaturze."
+    },
+    {
+        "question": "Pierwszym językiem programowania był Fortran.",
+        "answer": false,
+        "justification": "Za pierwszy język programowania wysokiego poziomu uważa się Plankalkül, stworzony przez Konrada Zuse, choć Fortran był pierwszym szeroko stosowanym."
+    }
+]
