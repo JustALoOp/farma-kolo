@@ -1,0 +1,377 @@
+[
+  {
+    "question": "Farmakodynamika to matematyczna ocena ilościowa procesów, jakim lek podlega w organizmie.",
+    "answer": false,
+    "justification": "Jest to definicja farmakokinetyki. Farmakodynamika to badanie wpływu leku na organizm i mechanizm jego działania („co lek robi z organizmem”)."
+  },
+  {
+    "question": "Działanie orzecznicze i konsultacyjne nie należy do zadań farmakologii klinicznej.",
+    "answer": false,
+    "justification": "Zgodnie z prezentacją, działanie orzecznicze i konsultacyjne jest jednym z pięciu głównych zadań farmakologii klinicznej."
+  },
+  {
+    "question": "Chronofarmakologia, czyli badanie biorytmów w działaniu leków, jest jedną z dziedzin farmakologii klinicznej.",
+    "answer": true,
+    "justification": "Prezentacja wymienia chronofarmakologię jako jedną z dziedzin farmakologii klinicznej, obok farmakogenetyki, farmakoekonomiki i innych."
+  },
+  {
+    "question": "Różnice w szybkości metabolizmu leków u pacjentów mogą prowadzić do odmiennych reakcji, takich jak brak odpowiedzi terapeutycznej lub toksyczność.",
+    "answer": true,
+    "justification": "Prezentacja ilustruje, że zmienność w metabolizmie leków w populacji skutkuje dobrą odpowiedzią, brakiem odpowiedzi lub toksycznością u różnych pacjentów."
+  },
+  {
+    "question": "Stężenie glukozy we krwi nie podlega rytmom dobowym.",
+    "answer": false,
+    "justification": "Prezentacja wymienia stężenie glukozy, obok hormonów i neuroprzekaźników, jako parametr podlegający rytmom dobowym, co ma znaczenie w chronofarmakologii."
+  },
+  {
+    "question": "Leki przeciwhistaminowe (anty-H2) stosowane w chorobie wrzodowej należy podawać rano, aby uzyskać maksymalną skuteczność.",
+    "answer": false,
+    "justification": "Zgodnie z zasadami chronofarmakologii, leki anty-H2 w chorobie wrzodowej podaje się wieczorem, aby zredukować nocne wydzielanie kwasu solnego."
+  },
+  {
+    "question": "Oznaczanie genotypu pacjenta pod kątem enzymów CYP2D6 i CYP3A4 jest jednym ze sposobów racjonalizacji farmakoterapii.",
+    "answer": true,
+    "justification": "Oznaczanie genotypu/fenotypu pacjenta pozwala na indywidualizację terapii i przewidywanie odpowiedzi na leki metabolizowane przez te enzymy, co jest elementem racjonalnej farmakoterapii."
+  },
+  {
+    "question": "Faza I badań klinicznych polega na ocenie działania leku u dużej grupy chorych pacjentów.",
+    "answer": false,
+    "justification": "Faza I badań klinicznych to ogólna ocena działania i bezpieczeństwa leku u małej grupy zdrowych ochotników. Ocena u chorych ma miejsce w fazie II."
+  },
+  {
+    "question": "Badanie toksyczności ostrej (LD50) w badaniach przedklinicznych wymaga podania pojedynczej dawki leku co najmniej dwóm gatunkom zwierząt.",
+    "answer": true,
+    "justification": "Prezentacja precyzuje, że badanie toksyczności ostrej zazwyczaj obejmuje co najmniej 2 gatunki, dwie drogi podania i pojedynczą dawkę leku."
+  },
+  {
+    "question": "Deklaracja Helsińska jest jednym z kluczowych międzynarodowych dokumentów regulujących etyczne aspekty badań klinicznych.",
+    "answer": true,
+    "justification": "Prezentacja wymienia Deklarację Helsińską (I - 1964r., II - 1975r.) obok Kodeksu Norymberskiego jako fundamentalne deklaracje międzynarodowe w etyce badań medycznych."
+  },
+  {
+    "question": "Zasady Dobrej Praktyki Klinicznej (GCP) dotyczą wyłącznie fazy IV badań klinicznych, czyli badań po wprowadzeniu leku na rynek.",
+    "answer": false,
+    "justification": "Zasady Dobrej Praktyki Klinicznej (Good Clinical Practice - GCP) obejmują wszystkie fazy badań klinicznych produktów medycznych (I-IV), a także badania biodostępności i biorównoważności."
+  },
+  {
+    "question": "Badania kliniczne fazy II prowadzone są bez grupy kontrolnej.",
+    "answer": false,
+    "justification": "Faza II badań klinicznych to wstępne kontrolowane badania, które obejmują grupę kontrolną otrzymującą placebo lub lek standardowy."
+  },
+  {
+    "question": "Faza III badań klinicznych ma na celu porównanie badanego leku z placebo lub lekiem już zarejestrowanym i jest prowadzona na dużej grupie pacjentów (nawet do 2000).",
+    "answer": true,
+    "justification": "Jest to dokładny opis celów i skali fazy III badań klinicznych, która jest podstawą do rejestracji leku."
+  },
+  {
+    "question": "Faza IV badań klinicznych służy wyłącznie do potwierdzenia skuteczności leku we wcześniej ustalonych wskazaniach.",
+    "answer": false,
+    "justification": "Faza IV (po rejestracji leku) służy również do oceny nowych wskazań, interakcji, rzadkich działań niepożądanych oraz oceny leku w specjalnych populacjach (dzieci, osoby starsze, kobiety w ciąży)."
+  },
+  {
+    "question": "W skali Jadad badanie kliniczne, które uzyskało wynik poniżej 3 punktów, jest uważane za badanie wysokiej jakości.",
+    "answer": false,
+    "justification": "Zgodnie ze skalą Jadad, wynik poniżej 3 punktów świadczy o niskiej jakości ('poor quality') badania klinicznego."
+  },
+  {
+    "question": "Parametr NNT (Number Needed to Treat) oznacza liczbę osób, którą należy poddać interwencji, aby uzyskać pożądany efekt zdrowotny u wszystkich z nich.",
+    "answer": false,
+    "justification": "NNT (Number Needed to Treat) to liczba osób, którą należy poddać interwencji, aby uzyskać pożądany efekt zdrowotny u JEDNEJ z nich."
+  },
+  {
+    "question": "Ryzyko w grupie badanej (Rb) oblicza się jako stosunek liczby zdarzeń negatywnych (a) do liczby zdarzeń pozytywnych (c) w tej grupie.",
+    "answer": false,
+    "justification": "Ryzyko w grupie badanej (Rb) oblicza się jako stosunek liczby zdarzeń negatywnych (a) do całkowitej liczby osób w tej grupie (a+c)."
+  },
+  {
+    "question": "Ryzyko względne (RR) to część ryzyka, jaka została usunięta w wyniku interwencji.",
+    "answer": false,
+    "justification": "Ryzyko względne (RR) to część ryzyka, jaka POZOSTAJE po interwencji. Część ryzyka, która została usunięta to Redukcja Ryzyka Względnego (RRR)."
+  },
+  {
+    "question": "Wartość ryzyka względnego (RR) równa 1 oznacza, że badana interwencja jest bardzo skuteczna.",
+    "answer": false,
+    "justification": "RR = 1 oznacza, że ryzyko w grupie badanej i kontrolnej jest takie samo, a więc interwencja nie ma wpływu na wystąpienie punktu końcowego."
+  },
+  {
+    "question": "Wyniki badań kliniczno-kontrolnych (case-control) przedstawiane są zazwyczaj za pomocą ryzyka względnego (RR).",
+    "answer": false,
+    "justification": "Wyniki badań kliniczno-kontrolnych przedstawia się za pomocą ilorazu szans (OR). Ryzyko względne (RR) stosuje się w badaniach randomizowanych i kohortowych."
+  },
+  {
+    "question": "Iloraz szans (OR) w porównaniu z ryzykiem względnym (RR) zawsze zaniża siłę interwencji.",
+    "answer": false,
+    "justification": "OR, w porównaniu z RR, zawsze zawyża siłę (skuteczność) interwencji, zwłaszcza gdy punkt końcowy występuje często."
+  },
+  {
+    "question": "NNT (Number Needed to Treat) jest odwrotnością bezwzględnej redukcji ryzyka (ARR).",
+    "answer": true,
+    "justification": "Wzór na NNT to 1/ARR. Jest to miara bezwzględna, pokazująca ilu pacjentów trzeba leczyć, aby zapobiec jednemu negatywnemu wynikowi."
+  },
+  {
+    "question": "Jeśli dla technologii medycznej 1 NNT=5, a dla technologii 2 NNT=10, to technologia 2 jest korzystniejsza.",
+    "answer": false,
+    "justification": "Niższa wartość NNT oznacza większą skuteczność interwencji. Technologia 1 jest korzystniejsza, ponieważ trzeba leczyć mniej pacjentów (5), aby osiągnąć jeden pozytywny efekt."
+  },
+  {
+    "question": "NNH (Number Needed to Harm) określa ilu pacjentów należy leczyć, aby u jednego z nich wystąpił dodatkowy negatywny wynik (np. działanie niepożądane).",
+    "answer": true,
+    "justification": "Jest to definicja NNH, która jest miarą ryzyka związanego z interwencją. Oblicza się ją, gdy interwencja jest szkodliwa."
+  },
+  {
+    "question": "Terapia monitorowana stężeniami leków (TDM) polega na takim dawkowaniu, aby stężenia leku były zawsze maksymalne, niezależnie od przedziału terapeutycznego.",
+    "answer": false,
+    "justification": "Celem TDM jest takie dawkowanie leku, aby jego stężenia mieściły się w zakresie przedziału terapeutycznego, czyli zapewniały skuteczność przy minimalnym ryzyku toksyczności."
+  },
+  {
+    "question": "Lek o szerokim współczynniku terapeutycznym jest głównym kandydatem do terapii monitorowanej stężeniami (TDM).",
+    "answer": false,
+    "justification": "Do TDM kwalifikują się przede wszystkim leki o wąskim współczynniku terapeutycznym, gdzie niewielka zmiana stężenia może prowadzić do nieskuteczności lub toksyczności."
+  },
+  {
+    "question": "Wskazaniem do oznaczania stężenia wolnej frakcji leku jest hipoalbuminemia.",
+    "answer": true,
+    "justification": "Hipoalbuminemia prowadzi do zmniejszenia wiązania leków z białkami i wzrostu ich wolnej, aktywnej frakcji. To może zwiększać ryzyko toksyczności, stąd potrzeba monitorowania stężenia wolnej frakcji."
+  },
+  {
+    "question": "W farmakokinetyce liniowej, aby podwoić stężenie leku we krwi, należy czterokrotnie zwiększyć dawkę.",
+    "answer": false,
+    "justification": "W kinetyce liniowej istnieje wprost proporcjonalna zależność między dawką a stężeniem. Aby podwoić stężenie, należy podwoić dawkę."
+  },
+  {
+    "question": "Eliminacja leku jest synonimem jego wydalania.",
+    "answer": false,
+    "justification": "Eliminacja leku to suma dwóch procesów: metabolizmu (biotransformacji) i wydalania."
+  },
+  {
+    "question": "Farmakokinetyka nieliniowa charakteryzuje się brakiem wprost proporcjonalnej zależności między stężeniem leku a podaną dawką.",
+    "answer": true,
+    "justification": "Jest to definicja kinetyki nieliniowej (wysycenia), w której podwojenie dawki może prowadzić do więcej niż dwukrotnego wzrostu stężenia."
+  },
+  {
+    "question": "Słabe kwasy (np. kwas acetylosalicylowy) lepiej wchłaniają się w zasadowym środowisku jelita cienkiego niż w kwaśnym środowisku żołądka.",
+    "answer": false,
+    "justification": "Słabe kwasy lepiej wchłaniają się w środowisku kwaśnym (żołądek), gdzie występują głównie w formie niezjonizowanej, która łatwiej przenika przez błony biologiczne."
+  },
+  {
+    "question": "Dostępność biologiczna bezwzględna to porównanie badanego preparatu z preparatem standardowym o znanej dostępności.",
+    "answer": false,
+    "justification": "Jest to definicja dostępności biologicznej względnej. Dostępność bezwzględna to porównanie leku podanego pozanaczyniowo z tym samym lekiem podanym donaczyniowo (którego dostępność wynosi 100%)."
+  },
+  {
+    "question": "Niewydolność wątroby zmniejsza dostępność biologiczną leków ulegających efektowi pierwszego przejścia.",
+    "answer": false,
+    "justification": "Niewydolność wątroby upośledza jej zdolność metaboliczną, co prowadzi do zmniejszenia efektu pierwszego przejścia i w konsekwencji do ZWIĘKSZENIA dostępności biologicznej leku."
+  },
+  {
+    "question": "Glikoproteina P (P-gp) jest pompą błonową, która ułatwia wchłanianie leków do komórek, zwiększając ich kumulację.",
+    "answer": false,
+    "justification": "Glikoproteina P to pompa wyrzucająca leki Z komórki, co zapobiega ich kumulacji i zmniejsza ich biodostępność (np. w jelicie) lub penetrację (np. do mózgu)."
+  },
+  {
+    "question": "Wytrącanie neuroleptyków przez garbniki zawarte w herbacie i kawie zwiększa ich wchłanianie.",
+    "answer": false,
+    "justification": "Wytrącanie leków w przewodzie pokarmowym prowadzi do powstawania nierozpuszczalnych kompleksów, co utrudnia lub uniemożliwia ich wchłanianie."
+  },
+  {
+    "question": "Sok grejpfrutowy zmniejsza stężenie statyn (np. simwastatyny) we krwi.",
+    "answer": false,
+    "justification": "Sok grejpfrutowy hamuje enzym CYP3A4 w ścianie jelita, co prowadzi do zmniejszenia metabolizmu pierwszego przejścia i ZWIĘKSZENIA stężenia statyn we krwi."
+  },
+  {
+    "question": "Leki o charakterze zasadowym, jak propranolol, wiążą się głównie z albuminami.",
+    "answer": false,
+    "justification": "Leki zasadowe wiążą się głównie z kwaśną α1-glikoproteiną. Z albuminami wiążą się przede wszystkim leki o charakterze kwaśnym (np. warfaryna)."
+  },
+  {
+    "question": "Metabolizm leku zawsze prowadzi do jego unieczynnienia.",
+    "answer": false,
+    "justification": "Metabolizm może prowadzić do powstania aktywnego metabolitu (np. amitryptylina -> nortryptylina), toksycznego metabolitu (np. paracetamol -> NAPQI) lub do aktywacji proleku (np. cyklofosfamid)."
+  },
+  {
+    "question": "Fenobarbital jest inhibitorem enzymatycznym.",
+    "answer": false,
+    "justification": "Fenobarbital jest klasycznym induktorem enzymów mikrosomalnych wątroby, co przyspiesza metabolizm wielu leków."
+  },
+  {
+    "question": "Jednorazowe spożycie dużej dawki etanolu hamuje metabolizm leków, podczas gdy przewlekłe spożywanie go indukuje.",
+    "answer": true,
+    "justification": "Ostre spożycie etanolu działa jako inhibitor enzymatyczny (konkuruje z lekami o enzymy). Przewlekłe spożywanie prowadzi do indukcji (zwiększenia ilości) enzymów, co przyspiesza metabolizm leków."
+  },
+  {
+    "question": "W kinetyce liniowej stan stacjonarny ustala się po około 10-12 okresach półtrwania leku.",
+    "answer": false,
+    "justification": "Stan stacjonarny ustala się po około 3-5 okresach półtrwania (T1/2) leku."
+  },
+  {
+    "question": "Działanie niepożądane leku (ADR) to reakcja występująca wyłącznie przy stosowaniu dawek większych niż zalecane.",
+    "answer": false,
+    "justification": "Zgodnie z definicją, działanie niepożądane to szkodliwa i niezamierzona reakcja występująca podczas stosowania dawek zalecanych."
+  },
+  {
+    "question": "Stosowanie leku \"off-label\" przenosi odpowiedzialność za ewentualne powikłania z koncernu farmaceutycznego na lekarza.",
+    "answer": true,
+    "justification": "Gdy lekarz przepisuje lek poza zarejestrowanymi wskazaniami (off-label), bierze na siebie pełną odpowiedzialność za skuteczność i bezpieczeństwo takiej terapii."
+  },
+  {
+    "question": "Reakcje niepożądane typu A (augmented) są nieprzewidywalne i niezależne od dawki.",
+    "answer": false,
+    "justification": "Reakcje typu A są zależne od właściwości farmakologicznych leku i podanej dawki, a co za tym idzie - są przewidywalne. Reakcje nieprzewidywalne i niezależne od dawki to reakcje typu B (bizarre)."
+  },
+  {
+    "question": "Radiologiczne środki cieniujące nie mogą powodować wstrząsu anafilaktycznego.",
+    "answer": false,
+    "justification": "Prezentacja wymienia radiologiczne środki cieniujące jako jedną z grup substancji mogących wywołać polekowy wstrząs anafilaktyczny."
+  },
+  {
+    "question": "Przerost dziąseł jest działaniem niepożądanym związanym ze stosowaniem cyklosporyny i antagonistów kanału wapniowego, a jego nasilenie nie zależy od stężenia leku we krwi.",
+    "answer": false,
+    "justification": "Nasilenie przerostu dziąseł jest wprost proporcjonalne do stężenia leku we krwi."
+  },
+  {
+    "question": "Zmniejszone wydzielanie śliny (suchość w ustach) jest charakterystycznym działaniem niepożądanym leków o działaniu cholinomimetycznym.",
+    "answer": false,
+    "justification": "Suchość w ustach jest wynikiem działania antycholinergicznego (cholinolitycznego), które hamuje wydzielanie śliny. Przykładami są atropina i trójpierścieniowe leki przeciwdepresyjne."
+  },
+  {
+    "question": "Rzekomobłoniaste zapalenie jelit jest najczęściej powodowane przez antybiotyki o wąskim spektrum działania.",
+    "answer": false,
+    "justification": "Rzekomobłoniaste zapalenie jelit jest powodowane przez antybiotyki o szerokim spektrum działania, które niszczą fizjologiczną florę bakteryjną jelit, umożliwiając namnożenie Clostridioides difficile."
+  },
+  {
+    "question": "Stosowanie salicylanów u dzieci poniżej 12 roku życia, zwłaszcza w trakcie infekcji wirusowej, nie wiąże się z żadnym ryzykiem.",
+    "answer": false,
+    "justification": "Stosowanie salicylanów w tej grupie wiekowej wiąże się z ryzykiem wystąpienia potencjalnie śmiertelnego zespołu Reye'a (uszkodzenie wątroby i encefalopatia)."
+  },
+  {
+    "question": "Suchy, uporczywy kaszel jest znanym działaniem niepożądanym inhibitorów konwertazy angiotensyny (IKA).",
+    "answer": true,
+    "justification": "Jest to jedno z najczęstszych działań niepożądanych IKA, wynikające z hamowania rozkładu bradykininy w płucach."
+  },
+  {
+    "question": "Wypieranie leku z połączeń z białkami ma największe znaczenie kliniczne w przypadku leków o szerokim indeksie terapeutycznym.",
+    "answer": false,
+    "justification": "Interakcja ta jest najgroźniejsza w przypadku leków o wąskim indeksie terapeutycznym (np. warfaryna), gdzie nawet niewielki wzrost stężenia wolnej frakcji może prowadzić do toksyczności."
+  },
+  {
+    "question": "Ryzyko niepożądanych interakcji lekowych maleje wraz ze wzrostem liczby przyjmowanych leków.",
+    "answer": false,
+    "justification": "Ryzyko interakcji rośnie proporcjonalnie, a nawet wykładniczo (przy >5 lekach) wraz ze wzrostem liczby jednocześnie stosowanych leków (polipragmazja)."
+  },
+  {
+    "question": "Ryfampicyna, hamując aktywność glikoproteiny P (gp-P) w jelitach, zwiększa stężenie digoksyny w surowicy.",
+    "answer": false,
+    "justification": "Ryfampicyna jest induktorem aktywności P-gp w jelitach, co zwiększa usuwanie digoksyny do światła jelita i zmniejsza jej stężenie w surowicy."
+  },
+  {
+    "question": "Probenecyd hamuje wydzielanie kanalikowe penicyliny, co prowadzi do zwiększenia jej stężenia we krwi i przedłużenia działania.",
+    "answer": true,
+    "justification": "Probenecyd konkuruje z penicyliną o system transportu w cewkach nerkowych, co hamuje jej wydzielanie i jest celowo wykorzystywane w terapii do podniesienia stężenia antybiotyku."
+  },
+  {
+    "question": "Jednoczesne podanie nieselektywnego beta-blokera i leku obkurczającego naczynia (np. adrenaliny w znieczuleniu miejscowym) może prowadzić do gwałtownego spadku ciśnienia tętniczego.",
+    "answer": false,
+    "justification": "Takie połączenie może prowadzić do gwałtownego wzrostu ciśnienia (bo zablokowane są receptory beta2-adrenergiczne rozszerzające naczynia) i odruchowej bradykardii."
+  },
+  {
+    "question": "Jednoczesne stosowanie NLPZ i doustnych leków przeciwzakrzepowych zmniejsza ryzyko krwawienia.",
+    "answer": false,
+    "justification": "NLPZ, poprzez swoje działanie przeciwpłytkowe i gastrotoksyczne, znacznie zwiększają ryzyko krwawienia u pacjentów stosujących leki przeciwzakrzepowe."
+  },
+  {
+    "question": "Dziurawiec (Hypericum perforatum) osłabia działanie wielu leków, ponieważ hamuje aktywność enzymu CYP3A4.",
+    "answer": false,
+    "justification": "Dziurawiec osłabia działanie leków, ponieważ jest induktorem (aktywuje) enzymu CYP3A4, przyspieszając ich metabolizm."
+  },
+  {
+    "question": "NLPZ nasilają działanie hipotensyjne leków obniżających ciśnienie, takich jak diuretyki i inhibitory konwertazy angiotensyny.",
+    "answer": false,
+    "justification": "NLPZ, poprzez hamowanie syntezy prostaglandyn rozszerzających naczynia, osłabiają działanie hipotensyjne wielu leków przeciwnadciśnieniowych."
+  },
+  {
+    "question": "Jednoczesne przyjmowanie tetracyklin i preparatów zawierających jony wapnia (np. mleko) prowadzi do upośledzenia wchłaniania antybiotyku.",
+    "answer": true,
+    "justification": "Tetracykliny tworzą z jonami dwu- i trójwartościowymi (wapń, magnez, żelazo, glin) trwałe, niewchłanialne chelaty, co znacznie zmniejsza ich biodostępność."
+  },
+  {
+    "question": "W ciąży dochodzi do upośledzenia procesów detoksykacji II fazy, zwłaszcza sprzęgania z kwasem glukuronowym.",
+    "answer": true,
+    "justification": "Prezentacja wskazuje, że metabolizm w ciąży ulega zmianom, w tym dochodzi do upośledzenia procesów II fazy (np. sprzęgania z kwasem glukuronowym), co może wpływać na kinetykę leków."
+  },
+  {
+    "question": "W ciąży, na skutek zmniejszenia nerkowego przepływu osocza i przesączania kłębuszkowego, eliminacja leków wydalanych przez nerki jest spowolniona.",
+    "answer": false,
+    "justification": "W ciąży dochodzi do zwiększenia przepływu nerkowego (o 25-50%) i przesączania kłębuszkowego (o ok. 50%), co prowadzi do szybszej eliminacji leków wydalanych tą drogą."
+  },
+  {
+    "question": "Lek z kategorii A wg FDA to lek, w przypadku którego badania na zwierzętach wykazały ryzyko dla płodu, ale nie potwierdzono tego u kobiet.",
+    "answer": false,
+    "justification": "Kategoria A oznacza, że kontrolowane badania u kobiet w ciąży nie wykazały szkodliwego działania na płód. Opis w pytaniu pasuje do kategorii B."
+  },
+  {
+    "question": "Leki z kategorii X wg FDA są bezwzględnie przeciwwskazane u kobiet w ciąży, ponieważ ryzyko ich stosowania przewyższa wszelkie możliwe korzyści.",
+    "answer": true,
+    "justification": "Jest to dokładna definicja kategorii X wg FDA, np. talidomid, retinoidy."
+  },
+  {
+    "question": "Ibuprofen (kategoria B/B/D) może być bezpiecznie stosowany przez cały okres ciąży.",
+    "answer": false,
+    "justification": "Ibuprofen i inne NLPZ są przeciwwskazane w III trymestrze ciąży (kategoria D) z powodu ryzyka przedwczesnego zamknięcia przewodu tętniczego, nefrotoksyczności i powikłań okołoporodowych."
+  },
+  {
+    "question": "I trymestr ciąży to najkorzystniejszy moment na planowe leczenie stomatologiczne.",
+    "answer": false,
+    "justification": "W I trymestrze należy unikać zabiegów stomatologicznych (poza koniecznymi) z powodu trwającej organogenezy. Najkorzystniejszy moment to II trymestr."
+  },
+  {
+    "question": "U noworodków sulfonamidy mogą wypierać bilirubinę z połączeń z białkami, co zmniejsza ryzyko żółtaczki jąder podkorowych.",
+    "answer": false,
+    "justification": "Wypieranie bilirubiny z połączeń z białkami przez leki (np. sulfonamidy) zwiększa stężenie wolnej, toksycznej bilirubiny, co ZWIĘKSZA ryzyko żółtaczki jąder podkorowych mózgu (kernicterus)."
+  },
+  {
+    "question": "Fenobarbital, jako induktor enzymatyczny, jest stosowany u noworodków w celu zmniejszenia stężenia bilirubiny.",
+    "answer": true,
+    "justification": "Fenobarbital pobudza czynność enzymów wątrobowych (m.in. UGT) odpowiedzialnych za sprzęganie bilirubiny, co przyspiesza jej eliminację i jest wykorzystywany w leczeniu żółtaczki noworodków."
+  },
+  {
+    "question": "Leki o charakterze kwaśnym i słabo rozpuszczalne w tłuszczach łatwiej przenikają do mleka kobiecego.",
+    "answer": false,
+    "justification": "Do mleka (które jest bardziej kwaśne i bogatsze w tłuszcze niż osocze) łatwiej przenikają leki o charakterze zasadowym i lipofilne."
+  },
+  {
+    "question": "Bromokryptyna, doustne środki antykoncepcyjne i diuretyki pętlowe są lekami bezpiecznymi w okresie karmienia piersią.",
+    "answer": false,
+    "justification": "Są to leki przeciwwskazane w okresie karmienia, ponieważ hamują laktację."
+  },
+  {
+    "question": "U osób starszych, ze względu na zmniejszenie masy wątroby i przepływu krwi przez ten narząd, biodostępność leków o wysokim efekcie pierwszego przejścia (np. propranolol) jest zmniejszona.",
+    "answer": false,
+    "justification": "Wymienione czynniki prowadzą do osłabienia efektu pierwszego przejścia, co skutkuje ZWIĘKSZENIEM biodostępności i stężenia tych leków w surowicy."
+  },
+  {
+    "question": "U osób starszych, z powodu zmniejszenia objętości wody w organizmie, objętość dystrybucji leków hydrofilnych (np. digoksyna) jest mniejsza.",
+    "answer": true,
+    "justification": "Zmniejszenie całkowitej ilości wody w organizmie u osób starszych prowadzi do mniejszej objętości dystrybucji dla leków hydrofilnych, co może skutkować ich wyższym stężeniem we krwi i zwiększoną toksycznością."
+  },
+  {
+    "question": "U osób starszych wrażliwość receptorów beta-adrenergicznych wzrasta.",
+    "answer": false,
+    "justification": "U osób starszych obserwuje się zmniejszenie wrażliwości receptorów beta-adrenergicznych, m.in. z powodu zmniejszenia aktywności cyklazy adenylowej."
+  },
+  {
+    "question": "Zgodnie z drabiną analgetyczną WHO, na II stopniu leczenia bólu stosuje się silne opioidy w połączeniu z adjuwantami.",
+    "answer": false,
+    "justification": "Na II stopniu drabiny analgetycznej stosuje się leki nieopioidowe, słabe opioidy (np. tramadol, kodeina) oraz leki uzupełniające (adjuwanty). Silne opioidy są zarezerwowane dla III stopnia."
+  },
+  {
+    "question": "Pentazocyna (Fortral) jest zalecanym słabym opioidem II stopnia drabiny analgetycznej WHO.",
+    "answer": false,
+    "justification": "Prezentacja wskazuje, że pentazocyny nie należy używać, m.in. ze względu na jej działanie agonistyczno-antagonistyczne i ryzyko efektów psychomimetycznych."
+  },
+  {
+    "question": "Fentanyl jest czystym agonistą receptora opioidowego μ i jest około 150 razy silniejszy od morfiny.",
+    "answer": true,
+    "justification": "Jest to prawidłowa charakterystyka fentanylu, który jest bardzo silnym, lipofilnym opioidem, co czyni go idealnym do podawania przezskórnego."
+  }
+]
