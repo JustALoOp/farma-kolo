@@ -1,0 +1,266 @@
+[
+    {
+        "question": "Jakie są prawidłowe wartości akcji serca (tętna) u dziecka powyżej 12. roku życia?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "40-90/min",
+            "B": "95-140/min",
+            "C": "60-100/min",
+            "D": "110-160/min"
+        },
+        "answer": "C",
+        "justification": "U dzieci powyżej 10-12 roku życia normy tętna spoczynkowego zbliżają się do norm dla dorosłych i wynoszą 60-100 uderzeń na minutę. Wyższe wartości (np. 110-160) są charakterystyczne dla noworodków i niemowląt."
+    },
+    {
+        "question": "Co jest charakterystycznym objawem koarktacji aorty (zwężenia cieśni aorty)?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Podwyższone tętno na tętnicach udowych",
+            "B": "Zanik lub słabo wyczuwalne tętno na tętnicach udowych",
+            "C": "Symetrycznie wysokie ciśnienie na wszystkich kończynach",
+            "D": "Sinica centralna od urodzenia"
+        },
+        "answer": "B",
+        "justification": "Koarktacja aorty to zwężenie aorty, najczęściej zlokalizowane poniżej odejścia lewej tętnicy podobojczykowej. Powoduje to wysokie ciśnienie na kończynach górnych i znacznie niższe na dolnych, co objawia się słabym lub niewyczuwalnym tętnem na tętnicach udowych."
+    },
+    {
+        "question": "W przypadku zwężenia przewodu nosowo-łzowego u noworodka, które postępowanie jest prawidłowe?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Jest to stan wymagający natychmiastowej interwencji chirurgicznej",
+            "B": "Charakterystyczna jest suchość oka",
+            "C": "Należy masować woreczek łzowy, ponieważ w większości przypadków ustępuje samoistnie",
+            "D": "Występuje u ponad 50% noworodków"
+        },
+        "answer": "C",
+        "justification": "Wrodzona niedrożność przewodu nosowo-łzowego jest spowodowana przetrwałą zastawką Hasnera i występuje u ok. 5% noworodków. Objawia się łzawieniem i ropieniem oka. Podstawowym postępowaniem jest masaż woreczka łzowego, który w ponad 90% przypadków prowadzi do samoistnego udrożnienia."
+    },
+    {
+        "question": "Wada przewodozależna serca to wada, w której:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "nie stanowi bezpośredniego zagrożenia dla życia dziecka",
+            "B": "drożność przewodu tętniczego warunkuje przeżycie dziecka",
+            "C": "zawsze ma charakter siniczy",
+            "D": "dochodzi do zamknięcia przewodu tętniczego zaraz po urodzeniu"
+        },
+        "answer": "B",
+        "justification": "W niektórych złożonych wadach serca (np. krytycznym zwężeniu zastawki pnia płucnego) drożny przewód tętniczy (Botalla) jest jedyną drogą zapewniającą przepływ krwi do krążenia płucnego lub systemowego. Jego zamknięcie prowadzi do gwałtownego pogorszenia stanu dziecka i zgonu."
+    },
+    {
+        "question": "Jaki jest patognomoniczny (charakterystyczny) wykwit w ospie wietrznej?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Grudka",
+            "B": "Plamka",
+            "C": "Pęcherzyk",
+            "D": "Strupek"
+        },
+        "answer": "C",
+        "justification": "Ospa wietrzna charakteryzuje się polimorficzną osutką, gdzie jednocześnie występują różne stadia wykwitów. Jednak to pęcherzyk wypełniony płynem surowiczym, przypominający \"kroplę rosy na płatku róży\", jest uważany za wykwit pierwotny i najbardziej charakterystyczny."
+    },
+    {
+        "question": "Szczekający, \"foczy\" kaszel jest typowym objawem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zapalenia płuc",
+            "B": "Zapalenia oskrzelików",
+            "C": "Podgłośniowego zapalenia krtani (krupu wirusowego)",
+            "D": "Astmy oskrzelowej"
+        },
+        "answer": "C",
+        "justification": "Szczekający kaszel, stridor wdechowy i duszność to triada objawów charakterystyczna dla ostrego podgłośniowego zapalenia krtani. Kaszel ten jest wynikiem obrzęku błony śluzowej w najwęższym miejscu krtani u dziecka."
+    },
+    {
+        "question": "Która z poniższych chorób jest wywoływana przez bakterię *Streptococcus pyogenes* (paciorkowca grupy A)?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ospa wietrzna",
+            "B": "Mononukleoza zakaźna",
+            "C": "Rumień zakaźny",
+            "D": "Szkarlatyna (płonica)"
+        },
+        "answer": "D",
+        "justification": "Szkarlatyna jest ostrą chorobą zakaźną spowodowaną przez szczepy *Streptococcus pyogenes* produkujące toksynę erytrogenną. Objawia się gorączką, zapaleniem gardła, \"malinowym\" językiem i drobnoplamistą wysypką."
+    },
+    {
+        "question": "Którego szczepienia nie zaliczamy do obowiązkowych w polskim Programie Szczepień Ochronnych (PSO)?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Przeciwko WZW typu B",
+            "B": "Przeciwko odrze, śwince i różyczce (MMR)",
+            "C": "Przeciwko rotawirusom",
+            "D": "Przeciwko gruźlicy"
+        },
+        "answer": "C",
+        "justification": "Szczepienia przeciwko rotawirusom, meningokokom czy ospie wietrznej należą do szczepień zalecanych (płatnych), a nie obowiązkowych w Polsce."
+    },
+    {
+        "question": "Jaka jest najczęstsza przyczyna biegunek infekcyjnych u małych dzieci, często wymagająca hospitalizacji?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zakażenia rotawirusami",
+            "B": "Zakażenia bakteryjne (Salmonella, E. coli)",
+            "C": "Błędy dietetyczne",
+            "D": "Alergia pokarmowa"
+        },
+        "answer": "A",
+        "justification": "Rotawirusy są najczęstszą przyczyną ostrych biegunek (nieżytów żołądkowo-jelitowych) u niemowląt i małych dzieci na świecie. Infekcja może prowadzić do ciężkiego odwodnienia wymagającego leczenia szpitalnego."
+    },
+    {
+        "question": "Jaki jest najczęstszy nowotwór złośliwy u dzieci?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Chłoniak",
+            "B": "Guz Wilmsa",
+            "C": "Białaczki",
+            "D": "Neuroblastoma (nerwiak zarodkowy)"
+        },
+        "answer": "C",
+        "justification": "Białaczki, a zwłaszcza ostra białaczka limfoblastyczna (ALL), stanowią najliczniejszą grupę nowotworów złośliwych w populacji dziecięcej (ok. 25-30% wszystkich zachorowań)."
+    },
+    {
+        "question": "\"Kocie oko\" lub leukokoria (biały odblask z dna oka) jest charakterystycznym objawem dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Nerczaka zarodkowego",
+            "B": "Chłoniaka",
+            "C": "Siatkówczaka (retinoblastoma)",
+            "D": "Guza mózgu"
+        },
+        "answer": "C",
+        "justification": "Leukokoria jest najczęstszym objawem siatkówczaka, wewnątrzgałkowego nowotworu złośliwego oka występującego u dzieci. Jest to objaw alarmowy, wymagający pilnej diagnostyki okulistycznej."
+    },
+    {
+        "question": "Jaka jest najczęstsza przyczyna niedokrwistości u dzieci w krajach rozwiniętych?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Niedobór witaminy B12",
+            "B": "Niedobór kwasu foliowego",
+            "C": "Niedokrwistość hemolityczna",
+            "D": "Niedobór żelaza"
+        },
+        "answer": "D",
+        "justification": "Niedokrwistość z niedoboru żelaza jest najpowszechniejszą formą niedokrwistości na świecie, w tym również u dzieci. Wynika najczęściej z niedostatecznej podaży żelaza w diecie w okresach szybkiego wzrostu."
+    },
+    {
+        "question": "Odsetek całkowitych wyleczeń w ostrej białaczce limfoblastycznej (ALL) u dzieci wynosi obecnie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "20-30%",
+            "B": "40-50%",
+            "C": "60-70%",
+            "D": "80-90%"
+        },
+        "answer": "D",
+        "justification": "Dzięki postępom w chemioterapii, odsetek 5-letnich przeżyć wolnych od choroby (co jest uznawane za wyleczenie) w ALL u dzieci sięga 80-90%."
+    },
+    {
+        "question": "Wybroczyny na twarzy, szczególnie w okolicy oczodołów, pojawiające się u dziecka po nasilonym kaszlu lub kichaniu:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Są objawem skazy krwotocznej",
+            "B": "Zawsze wymagają diagnostyki w kierunku małopłytkowości",
+            "C": "Są wynikiem wzrostu ciśnienia w naczyniach włosowatych i nie świadczą o chorobie",
+            "D": "Znikają pod wpływem ucisku"
+        },
+        "answer": "C",
+        "justification": "Nagły, krótkotrwały wzrost ciśnienia żylnego w obrębie głowy (np. podczas kaszlu) może prowadzić do pękania drobnych naczyń. Jest to zjawisko fizjologiczne. Wybroczyny nie bledną pod uciskiem."
+    },
+    {
+        "question": "Co ocenia skala Apgar?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Dojrzałość płciową dziecka",
+            "B": "Stan adaptacji noworodka do życia pozamacicznego zaraz po urodzeniu",
+            "C": "Ryzyko wystąpienia wad genetycznych",
+            "D": "Prawidłowy przyrost masy ciała w pierwszym miesiącu życia"
+        },
+        "answer": "B",
+        "justification": "Skala Apgar, stosowana w 1., 3., 5. i 10. minucie życia, ocenia pięć parametrów (czynność serca, oddychanie, napięcie mięśni, odruchy, zabarwienie skóry) w celu określenia stanu noworodka."
+    },
+    {
+        "question": "W jakim wieku u dziecka najczęściej zamyka się ciemiączko przednie?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "W 3. miesiącu życia",
+            "B": "W 6. miesiącu życia",
+            "C": "Między 9. a 18. miesiącem życia",
+            "D": "Po ukończeniu 3. roku życia"
+        },
+        "answer": "C",
+        "justification": "Ciemiączko przednie, zlokalizowane na skrzyżowaniu szwów czaszki, fizjologicznie zarasta pomiędzy 9. a 18. miesiącem życia."
+    },
+    {
+        "question": "Smółka to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Drugi lub trzeci stolec noworodka",
+            "B": "Pierwszy stolec oddany przez noworodka, zazwyczaj w ciągu 24-48 godzin po urodzeniu",
+            "C": "Patologiczny, krwisty stolec u niemowlęcia",
+            "D": "Zielony, pienisty stolec w przebiegu biegunki"
+        },
+        "answer": "B",
+        "justification": "Smółka to pierwszy stolec noworodka, o ciemnej, smolistej barwie. Jej oddanie świadczy o drożności przewodu pokarmowego."
+    },
+    {
+        "question": "Do objawów odwodnienia u niemowlęcia należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wypukłe, tętniące ciemię",
+            "B": "Wzmożone napięcie skóry",
+            "C": "Zapadnięte ciemię, suchość błon śluzowych, sucha skóra",
+            "D": "Nadmierne wydzielanie śliny i łez"
+        },
+        "answer": "C",
+        "justification": "Objawy odwodnienia wynikają z utraty wody z organizmu. Należą do nich: zapadnięte ciemiączko, suche błony śluzowe, zapadnięte gałki oczne, zmniejszona elastyczność skóry, płacz bez łez oraz zmniejszona diureza."
+    },
+    {
+        "question": "Zapach acetonu z ust dziecka może występować w przebiegu:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Niekontrolowanej cukrzycy (kwasica ketonowa)",
+            "B": "Wymiotów acetonemicznych",
+            "C": "Zatrucia salicylanami",
+            "D": "Wszystkie powyższe"
+        },
+        "answer": "D",
+        "justification": "Zapach acetonu (owoców) z ust jest objawem kwasicy ketonowej, która może być spowodowana różnymi stanami, m.in. zdekompensowaną cukrzycą typu 1, uporczywymi wymiotami prowadzącymi do głodzenia, a także ciężkim zatruciem salicylanami."
+    },
+    {
+        "question": "Jaki jest złoty standard w diagnostyce alergii pokarmowej?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ocena stężenia swoistych przeciwciał IgE",
+            "B": "Punktowe testy skórne",
+            "C": "Próba eliminacji i prowokacji pokarmowej",
+            "D": "Badanie kału na obecność krwi utajonej"
+        },
+        "answer": "C",
+        "justification": "Za \"złoty standard\" w diagnostyce alergii pokarmowej uważa się dietę eliminacyjną (usunięcie podejrzanego alergenu i obserwacja ustąpienia objawów), a następnie doustną próbę prowokacji (ponowne podanie alergenu pod kontrolą i obserwacja nawrotu objawów)."
+    },
+    {
+        "question": "Który z poniższych objawów NIE występuje w nadczynności tarczycy?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Utrata masy ciała",
+            "B": "Suchość skóry",
+            "C": "Nadmierna potliwość",
+            "D": "Tachykardia (przyspieszenie akcji serca)"
+        },
+        "answer": "B",
+        "justification": "Nadczynność tarczycy wiąże się z przyspieszeniem metabolizmu, a objawy to m.in. chudnięcie, tachykardia, nietolerancja ciepła oraz ciepła, wilgotna skóra. Sucha, zimna skóra jest charakterystyczna dla niedoczynności tarczycy."
+    },
+    {
+        "question": "Pneumocystis jirovecii (dawniej carinii) jest czynnikiem etiologicznym powodującym:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zapalenie płuc",
+            "B": "Ostrą biegunkę",
+            "C": "Zapalenie opon mózgowo-rdzeniowych",
+            "D": "Zapalenie wsierdzia"
+        },
+        "answer": "A",
+        "justification": "Pneumocystis jirovecii to grzyb, który jest przyczyną śródmiąższowego zapalenia płuc, szczególnie u osób z obniżoną odpornością (np. zakażonych HIV, po chemioterapii)."
+    }
+]-
