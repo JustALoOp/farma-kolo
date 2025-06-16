@@ -73,13 +73,6 @@
         "justification": "\"Szczekający kaszel\" to typowy objaw ostrego podgłośniowego zapalenia krtani (krupu). Leczeniem pierwszego rzutu są glikokortykosteroidy, podawane doustnie, domięśniowo lub w nebulizacji (np. budezonid). Nebulizacja z GKS jest standardem postępowania."
     },
     {
-        "question": "Drugie pytanie o to samo co w 6 inaczej ujęte",
-        "type": "single_choice_abcd",
-        "options": {},
-        "answer": null,
-        "justification": "To jest komentarz w arkuszu egzaminacyjnym, a nie pytanie merytoryczne. Odnosi się do poprzedniego pytania o leczenie 'szczekającego kaszlu'."
-    },
-    {
         "question": "Przyczyną niedokrwistości hemolitycznej jest:",
         "type": "single_choice_abcd",
         "options": {
