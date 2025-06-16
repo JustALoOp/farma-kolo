@@ -604,5 +604,385 @@
         },
         "answer": "B",
         "justification": "Zwiększona objętość krwinki czerwonej (MCV - Mean Corpuscular Volume) to makrocytoza. Jest ona charakterystyczna dla niedokrwistości megaloblastycznych, których najczęstszą przyczyną jest niedobór witaminy B12 lub kwasu foliowego. Niedobór żelaza i talasemia powodują mikrocytozę (małą objętość), a sferocytoza normocytozę lub mikrocytozę."
+    },
+    {
+        "question": "Spośród białaczek najczęściej u dzieci występuje:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Przewlekła białaczka limfoblastyczna",
+            "B": "Ostra białaczka szpikowa",
+            "C": "Przewlekła białaczka szpikowa",
+            "D": "Ostra białaczka limfoblastyczna",
+            "E": "Młodzieńcza białaczka mielomonocytowa"
+        },
+        "answer": "D",
+        "justification": "Ostra białaczka limfoblastyczna (ALL) jest najczęstszym nowotworem wieku dziecięcego, stanowiąc około 80% wszystkich białaczek u dzieci. Przewlekłe białaczki są w tej grupie wiekowej rzadkie."
+    },
+    {
+        "question": "Do skutecznych metod zapobiegania inwazyjnej chorobie meningokokowej należą: 1. Szczepienie, 2. Podaż antybiotyku po kontakcie z osobą chorą, 3. Podaż lewoskrętnej postaci witaminy C, 4. Podaż aktywnej formy witaminy D.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 2",
+            "B": "2, 3",
+            "C": "1",
+            "D": "1, 4",
+            "E": "3, 4"
+        },
+        "answer": "A",
+        "justification": "Podstawową metodą profilaktyki pierwotnej są szczepienia ochronne (1). Kluczową metodą profilaktyki poekspozycyjnej (po bliskim kontakcie z chorym) jest chemioprofilaktyka, czyli podaż antybiotyku (2). Podawanie witamin C i D nie jest uznaną metodą zapobiegania tej chorobie."
+    },
+    {
+        "question": "Leczeniem pierwszego rzutu w zakażeniu HSV jamy ustnej jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Amoksycylina",
+            "B": "Klarytromycyna",
+            "C": "Acyklowir",
+            "D": "Gancyklowir",
+            "E": "Paracetamol"
+        },
+        "answer": "C",
+        "justification": "Zakażenie jamy ustnej wirusem opryczki pospolitej (HSV) jest infekcją wirusową. Lekiem z wyboru (leczenie przyczynowe) jest acyklowir. Paracetamol stosuje się objawowo (przeciwgorączkowo i przeciwbólowo), a antybiotyki (amoksycylina, klarytromycyna) nie działają na wirusy."
+    },
+    {
+        "question": "Najczęstszą lokalizacją chłoniaka Burkitta jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "pierścień Waldeyera",
+            "B": "ośrodkowy układ nerwowy",
+            "C": "klatka piersiowa",
+            "D": "jama brzuszna",
+            "E": "jądra"
+        },
+        "answer": "D",
+        "justification": "W postaci sporadycznej chłoniaka Burkitta, która jest najczęstsza w Europie i Ameryce Północnej, dominującą lokalizacją jest jama brzuszna, najczęściej w okolicy krętniczo-kątniczej."
+    },
+    {
+        "question": "Do typowych objawów niedoczynności kory nadnerczy należą: I) Nadciśnienie tętnicze, II) Hipoglikemia, III) Hipokaliemia, IV) Hiponatremia, V) Nadmierny apetyt.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "I, III",
+            "B": "II, III",
+            "C": "II, IV, V",
+            "D": "II, IV"
+        },
+        "answer": "D",
+        "justification": "Niedoczynność kory nadnerczy (choroba Addisona) charakteryzuje się niedoborem kortyzolu i aldosteronu. Prowadzi to do hipoglikemii (II), hiponatremii (IV), hiperkaliemii (a nie hipokaliemii) oraz hipotonii (a nie nadciśnienia). Typowa jest również utrata apetytu."
+    },
+    {
+        "question": "W ocenie układu krążenia istotne znaczenie ma ocena ciśnienia tętniczego i akcji serca. U 2-letniego chłopca podczas rutynowej kontroli zmierzono ciśnienie tętnicze oraz akcję serca. Która odpowiedź przedstawia prawidłowe wartości?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "BP: 81/40mmHg; AS: 42/min",
+            "B": "BP: 98/63mmHg; AS: 112/min",
+            "C": "BP: 189/110mmHg; AS: 156/min",
+            "D": "BP: 40/15mmHg; AS: 51/min",
+            "E": "BP: 162/77mmHg; AS: 71/min"
+        },
+        "answer": "B",
+        "justification": "Dla 2-letniego dziecka prawidłowe ciśnienie tętnicze (BP) wynosi w przybliżeniu 90-105/50-65 mmHg, a prawidłowa akcja serca (AS) spoczynkowa to około 80-130/min. Wartości BP: 98/63 mmHg i AS: 112/min mieszczą się w tych normach."
+    },
+    {
+        "question": "Norma stężenia płytek krwi to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "100-450 G/l",
+            "B": "4-11 G/l",
+            "C": "9-14 G/l",
+            "D": "200-1000 G/l"
+        },
+        "answer": "A",
+        "justification": "Standardowy zakres referencyjny dla liczby płytek krwi (PLT) u dzieci i dorosłych to 150-450 G/l (czyli 150 000 - 450 000/µl). Podana w odpowiedzi A wartość 100-450 G/l jest najbardziej zbliżona i często przyjmowana w praktyce klinicznej. Zakres 4-11 G/l dotyczy leukocytów."
+    },
+    {
+        "question": "Najczęstszą przyczyną małopłytkowości u dzieci jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "małopłytkowość immunologiczna (ITP)",
+            "B": "białaczka",
+            "C": "choroby zakaźne wieku dziecięcego",
+            "D": "nowotwory lite",
+            "E": "niedobory pokarmowe"
+        },
+        "answer": "A",
+        "justification": "Pierwotna małopłytkowość immunologiczna (ITP) jest najczęstszą przyczyną nabytej, izolowanej małopłytkowości u zdrowych w pozostałych aspektach dzieci."
+    },
+    {
+        "question": "Przeciwwskazaniem do szczepienia jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "ostra choroba infekcyjna przebiegająca z gorączką",
+            "B": "astma",
+            "C": "reakcja anafilaktyczna na jad owadów błonkoskrzydłych",
+            "D": "cukrzyca typu 1"
+        },
+        "answer": "A",
+        "justification": "Trwałym przeciwwskazaniem do szczepienia jest ciężka reakcja anafilaktyczna po poprzedniej dawce szczepionki lub na jej składnik. Czasowym przeciwwskazaniem jest ostra choroba o umiarkowanym lub ciężkim przebiegu z gorączką lub bez niej. Astma czy cukrzyca nie są przeciwwskazaniami."
+    },
+    {
+        "question": "Optymalny czas do wprowadzenia glutenu do diety niemowlęcia to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "3 miesiąc życia",
+            "B": "między 4 a 7 miesiącem życia",
+            "C": "po ukończeniu 1. roku życia"
+        },
+        "answer": "B",
+        "justification": "Zgodnie z zaleceniami ESPGHAN, gluten należy wprowadzić do diety niemowlęcia nie wcześniej niż po ukończeniu 4. miesiąca życia i nie później niż przed ukończeniem 12. miesiąca życia. Przedział 4-7 miesięcy jest więc prawidłowy."
+    },
+    {
+        "question": "Gorączka, objaw dziecka spoliczkowanego, girlandowata osutka są typowe dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Rumienia zakaźnego (parvovirus B19)",
+            "B": "Rumienia nagłego (HHV-6)",
+            "C": "Różyczki",
+            "D": "„Trzydniówki\"",
+            "E": "„Bostonki\""
+        },
+        "answer": "A",
+        "justification": "Opisany obraz kliniczny: silnie zaczerwienione policzki ('spoliczkowane dziecko') z bladym trójkątem wokół ust, a następnie pojawienie się siateczkowatej (girlandowatej) wysypki na tułowiu i kończynach, jest patognomoniczny dla rumienia zakaźnego, wywołanego przez parwowirusa B19."
+    },
+    {
+        "question": "Do najczęstszych jednostek chorobowych w pediatrii predysponujących do wystąpienia niedożywienia należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Alergie i nietolerancje pokarmowe",
+            "B": "Mukowiscydoza",
+            "C": "Zakażenie rotawirusowe",
+            "D": "A i B",
+            "E": "A i C"
+        },
+        "answer": "D",
+        "justification": "Zarówno alergie i nietolerancje pokarmowe (np. celiakia, alergia na białka mleka krowiego), jak i mukowiscydoza są przewlekłymi schorzeniami, które prowadzą do zaburzeń wchłaniania i w konsekwencji do niedożywienia. Zakażenie rotawirusowe powoduje ostrą biegunkę, ale rzadko jest przyczyną przewlekłego niedożywienia."
+    },
+    {
+        "question": "Do niedokrwistości niedoborowych należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Niedokrwistość z niedoboru żelaza",
+            "B": "Niedokrwistość megaloblastyczna",
+            "C": "Niedokrwistość hemolityczna",
+            "D": "Sferocytoza wrodzona",
+            "E": "A i B"
+        },
+        "answer": "E",
+        "justification": "Niedokrwistości niedoborowe wynikają z braku substratów do produkcji erytrocytów. Należą do nich niedokrwistość z niedoboru żelaza (A) oraz niedokrwistości megaloblastyczne (B), spowodowane najczęściej niedoborem witaminy B12 lub kwasu foliowego. Anemie hemolityczne wynikają ze skróconego czasu życia krwinek."
+    },
+    {
+        "question": "Do niesiniczych wad serca z przeciekiem nie należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ubytek w przegrodzie międzyprzedsionkowej",
+            "B": "Niedomykalność zastawki trójdzielnej",
+            "C": "Ubytek w przegrodzie międzykomorowej",
+            "D": "Przetrwały przewód tętniczy"
+        },
+        "answer": "B",
+        "justification": "Wady z przeciekiem lewo-prawym (niesinicze) to m.in. ubytek w przegrodzie międzyprzedsionkowej (ASD), ubytek w przegrodzie międzykomorowej (VSD) i przetrwały przewód tętniczy (PDA). Niedomykalność zastawki trójdzielnej jest wadą zastawkową, a nie wadą z pierwotnym przeciekiem między krążeniem dużym a małym."
+    },
+    {
+        "question": "Naciekanie dziąseł jest charakterystycznym objawem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "CML",
+            "B": "Zespołu mielodysplastycznego",
+            "C": "Anemii aplastycznej",
+            "D": "AML",
+            "E": "Wszystkich wymienionych"
+        },
+        "answer": "D",
+        "justification": "Przerost i naciekanie dziąseł przez komórki nowotworowe jest charakterystycznym objawem, występującym u części pacjentów z ostrą białaczką szpikową (AML), zwłaszcza w podtypach monocytarnych (M4, M5)."
+    },
+    {
+        "question": "Do objawów białaczki u dzieci należą wszystkie oprócz:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Niedokrwistość",
+            "B": "Wzrost masy ciała i męczliwość",
+            "C": "Infekcje i niewyjaśnione epizody gorączki",
+            "D": "Powiększenie narządów miąższowych (wątroba, śledziona)"
+        },
+        "answer": "B",
+        "justification": "Do typowych objawów białaczki należą: objawy wynikające z niewydolności szpiku (niedokrwistość, infekcje, skaza krwotoczna), powiększenie wątroby, śledziony i węzłów chłonnych, bóle kostne oraz objawy ogólne takie jak gorączka i utrata masy ciała. Wzrost masy ciała nie jest typowym objawem."
+    },
+    {
+        "question": "Najczęstsze wczesne powikłania po chemioterapii to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Nudności i wymioty",
+            "B": "Mielosupresja objawiająca się leukopenią, trombocytopenią i anemią",
+            "C": "Niepłodność u chłopców",
+            "D": "Zapalenia jamy ustnej (mucositis)",
+            "E": "a, b, d"
+        },
+        "answer": "E",
+        "justification": "Nudności i wymioty (A), mielosupresja (supresja szpiku) (B) oraz zapalenie błon śluzowych (mucositis) (D) to najczęstsze i typowe wczesne powikłania chemioterapii. Niepłodność (C) jest powikłaniem odległym (późnym)."
+    },
+    {
+        "question": "Do objawów choroby refluksowej w wieku niemowlęcym należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wymioty, ulewania",
+            "B": "Słaby przyrost masy ciała",
+            "C": "Niepokój przy karmieniu",
+            "D": "Odgięciowa pozycja ciała",
+            "E": "Wszystkie objawy mogą występować w chorobie refluksowej"
+        },
+        "answer": "E",
+        "justification": "Wszystkie wymienione objawy: ulewania/wymioty (A), słaby przyrost masy (B), niepokój i płaczliwość zwłaszcza przy karmieniu (C) oraz przyjmowanie odgięciowej pozycji ciała (zespół Sandifera) (D) są charakterystyczne dla choroby refluksowej przełyku u niemowląt."
+    },
+    {
+        "question": "Afty mogą występować w:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Chorobie Leśniowskiego-Crohna",
+            "B": "Celiakii",
+            "C": "Wrzodziejącym zapaleniu jelita grubego",
+            "E": "A i b są prawidłowe"
+        },
+        "answer": "E",
+        "justification": "Aftowe zapalenie jamy ustnej jest częstą manifestacją pozajelitową zarówno w chorobie Leśniowskiego-Crohna (A), jak i w celiakii (B)."
+    },
+    {
+        "question": "Hipoplazja szkliwa, hipokalcemia, skurcze mięśni mimicznych twarzy mogą być objawami sugerującymi:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Niedoczynności przytarczyc",
+            "B": "Nadczynności tarczycy",
+            "C": "Niedoczynności tarczycy",
+            "D": "Nadczynności kory nadnerczy"
+        },
+        "answer": "A",
+        "justification": "Niedoczynność przytarczyc prowadzi do hipokalcemii (niskiego poziomu wapnia). Hipokalcemia objawia się tężyczką, której symptomem są m.in. skurcze mięśni twarzy (objaw Chvostka). Przewlekła hipokalcemia w okresie rozwoju zębów może prowadzić do hipoplazji szkliwa."
+    },
+    {
+        "question": "Anoreksja, spadek masy ciała, wymioty, brak łaknienia, osłabienie, nudności i hiperpigmentacja skóry z ciemnieniem blizn i śluzówek jamy ustnej to objawy mogące sugerować:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Niedoczynność tarczycy",
+            "B": "Wrzodziejące zapalenie jelita grubego",
+            "C": "Przewlekłą pierwotną niedoczynność kory nadnerczy (chorobę Addisona)",
+            "D": "Zespół paranowotworowy",
+            "E": "Celiakię"
+        },
+        "answer": "C",
+        "justification": "Zestawienie objawów ogólnych (spadek masy ciała, osłabienie, anoreksja) z hiperpigmentacją skóry i błon śluzowych jest klasycznym obrazem pierwotnej niedoczynności kory nadnerczy, czyli choroby Addisona."
+    },
+    {
+        "question": "Zapalenie języka może być jednym z objawów:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Awitaminozy",
+            "B": "Niedokrwistości z niedoboru żelaza",
+            "C": "Hemofilii",
+            "D": "Cukrzycy",
+            "E": "Odpowiedzi a, b i d są prawidłowe"
+        },
+        "answer": "E",
+        "justification": "Zapalenie języka (glossitis) jest typowym objawem niedoborów witamin (zwłaszcza z grupy B), niedokrwistości z niedoboru żelaza oraz może występować w źle kontrolowanej cukrzycy. Nie jest to objaw hemofilii."
+    },
+    {
+        "question": "Do dominujących przyczyn nadciśnienia tętniczego u dzieci do 10 roku życia nie należy/ą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Choroby nerek",
+            "B": "Wady rozwojowe nerek",
+            "C": "Nadciśnienie samoistne",
+            "D": "Zaburzenia endokrynologiczne",
+            "E": "Przewodnienie"
+        },
+        "answer": "C",
+        "justification": "U dzieci, zwłaszcza poniżej 10. roku życia, nadciśnienie tętnicze jest w zdecydowanej większości przypadków wtórne. Najczęstszą przyczyną są choroby nerek (nefropatie, wady). Nadciśnienie samoistne (pierwotne) jest typowe dla dorosłych i starszej młodzieży, a rzadkie u małych dzieci."
+    },
+    {
+        "question": "Hipoglikemia u dzieci może być spowodowana:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Względnym/bezwzględnym nadmiarem insuliny",
+            "B": "Opuszczeniem/opóźnieniem spożycia posiłku",
+            "C": "Spożyciem alkoholu",
+            "D": "Błędem w stosowaniu insuliny",
+            "E": "Wszystkie prawidłowe"
+        },
+        "answer": "E",
+        "justification": "Wszystkie wymienione czynniki mogą prowadzić do hipoglikemii, zwłaszcza u pacjentów leczonych insuliną. Nadmiar insuliny, pominięcie posiłku, wysiłek fizyczny, alkohol czy błędy w dawkowaniu leków to klasyczne przyczyny."
+    },
+    {
+        "question": "Zapalenie wyrostka robaczkowego u dzieci należy różnicować z:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zapaleniem węzłów chłonnych krezkowych",
+            "B": "Kamicą moczową",
+            "C": "Zapaleniem uchyłku Meckela",
+            "D": "Wgłobieniem",
+            "E": "Wszystkie prawidłowe"
+        },
+        "answer": "E",
+        "justification": "Diagnostyka różnicowa ostrego bólu brzucha w prawym dolnym kwadrancie u dzieci jest bardzo szeroka. Wszystkie wymienione stany: zapalenie węzłów chłonnych krezki, kamica moczowa, zapalenie uchyłka Meckela i wgłobienie, mogą naśladować objawy zapalenia wyrostka robaczkowego."
+    },
+    {
+        "question": "Niedrożność przewodu pokarmowego, spowodowana zamknięciem światła przez znajdującą się w jelicie treść nazywamy niedrożnością:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Strangulacyjną",
+            "B": "Mechaniczną (obturacyjną)",
+            "C": "Porażenną",
+            "D": "Czynnościową"
+        },
+        "answer": "B",
+        "justification": "Niedrożność spowodowana fizyczną przeszkodą w świetle jelita (np. kamień żółciowy, guz, treść pokarmowa) to niedrożność mechaniczna z zatkania (obturacyjna). Niedrożność porażenna/czynnościowa wynika z zaburzeń motoryki, a strangulacyjna z zadzierzgnięcia (upośledzenia ukrwienia)."
+    },
+    {
+        "question": "Najczęstszą przyczyną bólu w klatce piersiowej u dzieci jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Przyczyna sercowa",
+            "B": "Przyczyna oddechowa",
+            "C": "Przyczyna żołądkowo-jelitowa",
+            "D": "Mięśniowo-szkieletowa",
+            "E": "Przyczyna hematologiczna"
+        },
+        "answer": "D",
+        "justification": "W przeciwieństwie do dorosłych, u dzieci ból w klatce piersiowej najrzadziej ma etiologię sercową. Zdecydowanie najczęstszą przyczyną są bóle kostno-stawowe i mięśniowe, takie jak zapalenie chrząstek żebrowych (zespół Tietzego) czy urazy."
+    },
+    {
+        "question": "Do powikłań radioterapii należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wzrost produkcji śliny",
+            "B": "Mucositis",
+            "C": "Kserostomia",
+            "D": "Odpowiedzi b, c są prawidłowe",
+            "E": "Odpowiedzi a, c są prawidłowe"
+        },
+        "answer": "D",
+        "justification": "Radioterapia, zwłaszcza w okolicy głowy i szyi, uszkadza śluzówki (prowadząc do mucositis - zapalenia błon śluzowych) oraz ślinianki (prowadząc do kserostomii - suchości w jamie ustnej). Powoduje ona zmniejszenie, a nie wzrost produkcji śliny."
+    },
+    {
+        "question": "Objawy alarmujące w chorobie refluksowej u dzieci to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Krew w zwracanym pokarmie",
+            "B": "Zaburzenia połykania",
+            "C": "Bóle brzucha",
+            "D": "Zachłyśnięcie",
+            "E": "Odpowiedzi a, b i d są prawidłowe"
+        },
+        "answer": "E",
+        "justification": "Tak zwane 'czerwone flagi' (objawy alarmujące) w chorobie refluksowej, które wymagają pilnej diagnostyki, to m.in. krwiste lub żółciowe wymioty (A), dysfagia (trudności w połykaniu) (B), zachłyśnięcia i napady bezdechu (D), a także zahamowanie przyrostu masy ciała. Odpowiedzi a, b i d są zatem prawidłowe."
+    },
+    {
+        "question": "Dziewczynka 8-letnia z osłabieniem i bólami głowy. Morfologia: Hemoglobina 8,7 g/dl, MCV 68 fl, MCHC 31,0 g/dl, Płytki krwi 470 G/l. Najbardziej prawdopodobne rozpoznanie to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "ostra białaczka limfoblastyczna",
+            "B": "anemia aplastyczna",
+            "C": "małopłytkowość immunologiczna",
+            "D": "niedokrwistość z niedoboru żelaza",
+            "E": "niedokrwistość z niedoboru wit. B12"
+        },
+        "answer": "D",
+        "justification": "Wyniki laboratoryjne pokazują niedokrwistość (niska hemoglobina) mikrocytarną (niskie MCV). Jest to obraz typowy dla niedokrwistości z niedoboru żelaza. Dodatkowo, w niedoborze żelaza często występuje reaktywna nadpłytkowość (podwyższona liczba płytek), co również widać w wynikach."
     }
 ]
