@@ -1,0 +1,242 @@
+[
+    {
+        "question": "Który nowotwór jest najczęstszą chorobą nowotworową wieku dziecięcego?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Chłoniaki",
+            "B": "Guzy OUN",
+            "C": "Białaczki",
+            "D": "Guz Wilmsa (nerczak płodowy)"
+        },
+        "answer": "C",
+        "justification": "Zgodnie z danymi epidemiologicznymi przedstawionymi na slajdach (Slajd 3 i 7), białaczki są najczęstszym nowotworem u dzieci, stanowiąc około 31-35% wszystkich zachorowań."
+    },
+    {
+        "question": "W obrazie morfologii krwi w ostrej białaczce typowo NIE stwierdza się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Niedokrwistości normocytarnej",
+            "B": "Małopłytkowości",
+            "C": "Obecności blastów",
+            "D": "Nadpłytkowości"
+        },
+        "answer": "D",
+        "justification": "W ostrej białaczce dochodzi do wyparcia prawidłowych linii krwiotworzenia przez komórki nowotworowe, co prowadzi do cytopenii w trzech liniach: niedokrwistości, małopłytkowości i granulocytopenii. Nadpłytkowość nie jest typowym objawem (Slajd 9)."
+    },
+    {
+        "question": "Który z wymienionych czynników jest uznawany za DOBRY czynnik rokowniczy w ostrej białaczce limfoblastycznej (ALL) u dzieci?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wiek > 6 lat w momencie rozpoznania",
+            "B": "Leukocytoza > 20 000/mm³",
+            "C": "Płeć żeńska",
+            "D": "Obecność guza w śródpiersiu"
+        },
+        "answer": "C",
+        "justification": "Slajd 'Czynniki rokownicze' (Slajd 15) wymienia płeć żeńską jako jeden z dobrych czynników prognostycznych. Pozostałe opcje (starszy wiek, wysoka leukocytoza, guz śródpiersia) są czynnikami niekorzystnymi."
+    },
+    {
+        "question": "Najczęstszą lokalizacją pierwotną chłoniaka nieziarniczego (NHL) typu B u dzieci jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Śródpiersie",
+            "B": "Jama brzuszna",
+            "C": "Kości",
+            "D": "Ośrodkowy układ nerwowy"
+        },
+        "answer": "B",
+        "justification": "Jak wskazuje slajd 'Najczęstsza lokalizacja pierwotnych zmian w NHL u dzieci' (Slajd 21), chłoniaki typu B (NHL-B) najczęściej lokalizują się w jamie brzusznej."
+    },
+    {
+        "question": "Które stwierdzenie dotyczące ziarnicy złośliwej (chłoniaka Hodgkina) u dzieci jest prawdziwe?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Rokowanie jest złe, wyleczalność wynosi poniżej 50%",
+            "B": "Częstość jej występowania ma związek z zakażeniem wirusem EBV",
+            "C": "Najczęstszym objawem są bolesne, symetryczne pakiety węzłów chłonnych",
+            "D": "Leczeniem z wyboru jest wyłącznie radioterapia"
+        },
+        "answer": "B",
+        "justification": "Slajd 'Ziarnica złośliwa' (Slajd 26) podaje, że istnieje prawdopodobny związek choroby z zakażeniem wirusem Epsteina-Barr (EBV). Rokowanie jest bardzo dobre (ponad 90% wyleczeń), węzły są typowo niebolesne, a leczenie to chemioterapia +/- radioterapia."
+    },
+    {
+        "question": "Guzy OUN u dzieci najczęściej lokalizują się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Podnamiotowo",
+            "B": "Nadnamiotowo",
+            "C": "W rdzeniu kręgowym",
+            "D": "Przerzutowo z innych narządów"
+        },
+        "answer": "A",
+        "justification": "U dzieci, w przeciwieństwie do dorosłych, guzy wewnątrzczaszkowe częściej (60%) lokalizują się podnamiotowo (w tylnym dole czaszki), co wcześnie prowadzi do objawów wzmożonego ciśnienia śródczaszkowego (Slajd 33)."
+    },
+    {
+        "question": "Neuroblastoma (zwojak zarodkowy współczulny) jest najczęściej rozpoznawanym:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Nowotworem wewnątrzgałkowym",
+            "B": "Guzem kości",
+            "C": "Nowotworem wewnątrzczaszkowym",
+            "D": "Pozaczaszkowym guzem litym wieku dziecięcego"
+        },
+        "answer": "D",
+        "justification": "Zgodnie z informacją na slajdzie 41, neuroblastoma jest najczęściej rozpoznawanym pozaczaszkowym złośliwym guzem litym u dzieci."
+    },
+    {
+        "question": "W diagnostyce neuroblastoma kluczowe znaczenie ma oznaczenie w moczu:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Kwasu wanilinomigdałowego (VMA)",
+            "B": "Alfa-fetoproteiny (AFP)",
+            "C": "Gonadotropiny kosmówkowej (hCG)",
+            "D": "Antygenu karcinoembrionalnego (CEA)"
+        },
+        "answer": "A",
+        "justification": "Neuroblastoma wywodzi się z komórek cewy nerwowej i produkuje katecholaminy. Ich metabolity, takie jak kwas wanilinomigdałowy (VMA) i homowanilinowy (HVA), są markerami nowotworowymi oznaczanymi w moczu (Slajd 54, 57)."
+    },
+    {
+        "question": "Który z poniższych zespołów genetycznych NIE jest związany z podwyższonym ryzykiem rozwoju guza Wilmsa?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zespół WAGR",
+            "B": "Zespół Beckwitha-Wiedemana",
+            "C": "Zespół Downa",
+            "D": "Zespół Denysa-Drasha"
+        },
+        "answer": "C",
+        "justification": "Slajd 'Zespoły genetyczne współistniejące z guzem Wilmsa' (Slajd 67) wymienia zespoły WAGR, Beckwitha-Wiedemana i Denysa-Drasha. Zespół Downa nie jest klasycznie kojarzony ze zwiększonym ryzykiem guza Wilmsa."
+    },
+    {
+        "question": "Najczęstszym objawem guza Wilmsa jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Krwiomocz",
+            "B": "Gorączka o nieznanej przyczynie",
+            "C": "Wyczuwalny palpacyjnie, niebolesny guz w jamie brzusznej",
+            "D": "Nadciśnienie tętnicze"
+        },
+        "answer": "C",
+        "justification": "Zgodnie z danymi ze slajdu 69, najczęstszym (60-70%) objawem guza Wilmsa jest wyczuwalny guz brzucha lub powiększenie jego obwodu. Pozostałe objawy, jak krwiomocz czy nadciśnienie, są rzadsze."
+    },
+    {
+        "question": "Obraz \"łusek cebuli\" na zdjęciu RTG, czyli nawarstwienia okostnowe, jest charakterystyczny dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Osteosarcoma",
+            "B": "Chondrosarcoma",
+            "C": "Mięsaka Ewinga",
+            "D": "Przerzutu raka do kości"
+        },
+        "answer": "C",
+        "justification": "Charakterystycznym, choć nie patognomonicznym, objawem radiologicznym dla mięsaka Ewinga są odczynowe, wielowarstwowe nawarstwienia okostnowe, przypominające wyglądem łuski cebuli (Slajd 105)."
+    },
+    {
+        "question": "W diagnostyce różnicowej ostrej białaczki limfoblastycznej (ALL) od szpikowej (ANLL) pomocne jest barwienie cytochemiczne. Jaka reakcja jest charakterystyczna dla limfoblastów?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Reakcja na peroksydazę (POX)",
+            "B": "Reakcja na esterazy",
+            "C": "Reakcja na glikogen (PAS)",
+            "D": "Reakcja z błękitem pruskim"
+        },
+        "answer": "C",
+        "justification": "Slajd 12 ('Badanie cytochemiczne') wskazuje, że reakcja PAS (wykrywająca glikogen) jest charakterystyczna dla limfoblastów, podczas gdy reakcja POX (na peroksydazę) jest typowa dla mieloblastów."
+    },
+    {
+        "question": "Wiek jest kluczowym czynnikiem prognostycznym w neuroblastomie. Jaki jest wiek graniczny, po którym rokowanie znacząco się pogarsza?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "6 miesięcy",
+            "B": "1 rok",
+            "C": "3 lata",
+            "D": "5 lat"
+        },
+        "answer": "B",
+        "justification": "Slajd 44 ('Odrębności kliniczne') podaje, że 1 rok życia jest wiekiem granicznym dla odrębnych cech biologicznych i klinicznych. Dzieci zdiagnozowane poniżej 1 roku życia mają znacznie lepsze rokowanie, nawet w chorobie rozsianej (stadium IVs)."
+    },
+    {
+        "question": "Głównym i najczęstszym objawem klinicznym kostniakomięsaka (osteosarcoma) jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Złamanie patologiczne",
+            "B": "Ból, często nasilający się w nocy",
+            "C": "Gorączka i utrata masy ciała",
+            "D": "Ograniczenie ruchomości w stawie"
+        },
+        "answer": "B",
+        "justification": "Slajd 94 ('Objawy kliniczne osteosarcoma') jednoznacznie wskazuje, że ból (stały, narastający, często nocny) jest zwykle pierwszym i głównym objawem. Złamania patologiczne są rzadkie."
+    },
+    {
+        "question": "Wirusowe podgłośniowe zapalenie krtani (krup) charakteryzuje się wszystkimi cechami, Z WYJĄTKIEM:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Szczekającego kaszlu",
+            "B": "Duszności wdechowej (stridoru)",
+            "C": "Wysokiej gorączki i ciężkiego stanu ogólnego",
+            "D": "Nagłego początku, często w nocy"
+        },
+        "answer": "C",
+        "justification": "Dla krupu wirusowego typowa jest niewysoka gorączka i stosunkowo dobry stan ogólny (Slajd 114). Wysoka gorączka, toksyczny wygląd i dysfagia sugerują znacznie groźniejsze, bakteryjne zapalenie nagłośni."
+    },
+    {
+        "question": "U podłoża mukowiscydozy leży mutacja genu kodującego białko:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Hemoglobiny",
+            "B": "Dystrofiny",
+            "C": "CFTR (kanał chlorkowy)",
+            "D": "Fenyloalaninohydroksylazy"
+        },
+        "answer": "C",
+        "justification": "Mukowiscydoza jest chorobą genetyczną spowodowaną mutacjami w genie CFTR, który koduje białko błonowe pełniące funkcję kanału chlorkowego. Jego dysfunkcja prowadzi do produkcji nadmiernie gęstego śluzu (Slajd 131)."
+    },
+    {
+        "question": "„Złotym standardem” w diagnostyce mukowiscydozy jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Badanie genetyczne",
+            "B": "Pomiar stężenia chlorków w pocie",
+            "C": "Pomiar stężenia trypsynogenu we krwi",
+            "D": "Spirometria"
+        },
+        "answer": "B",
+        "justification": "Kryterium diagnostycznym i złotym standardem jest stwierdzenie podwyższonego stężenia chlorków w pocie (> 60 mmol/l) w co najmniej dwóch badaniach (tzw. test potowy) (Slajd 136)."
+    },
+    {
+        "question": "Klasyczna triada objawów cukrzycy typu 1 (tzw. 3xP) to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Poliuria, Polidypsja, Polifagia",
+            "B": "Poliuria, Prącie, Pokrzywka",
+            "C": "Polidypsja, Parestezje, Przebarwienia",
+            "D": "Polifagia, Pankreatitis, Paraliż"
+        },
+        "answer": "A",
+        "justification": "Klasyczne, osmotyczne objawy cukrzycy wynikające z hiperglikemii to wielomocz (poliuria), wzmożone pragnienie (polidypsja) oraz wzmożony apetyt (polifagia), często z paradoksalną utratą masy ciała (Slajd 168)."
+    },
+    {
+        "question": "W leczeniu ciężkiego napadu astmy oskrzelowej lub zaostrzenia krupu wirusowego, w celu szybkiego zniesienia obrzęku dróg oddechowych, można zastosować:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Antybiotyk dożylnie",
+            "B": "Lek przeciwkaszlowy",
+            "C": "Adrenalinę w nebulizacji",
+            "D": "Lek przeciwhistaminowy"
+        },
+        "answer": "C",
+        "justification": "Adrenalina podana w nebulizacji ma silne działanie obkurczające naczynia krwionośne, co prowadzi do szybkiego zmniejszenia obrzęku błony śluzowej krtani i oskrzeli. Jest to lek ratunkowy w ciężkiej duszności w przebiegu krupu i astmy (Slajd 114)."
+    },
+    {
+        "question": "U pacjenta z cukrzycą typu 1 stwierdzono hiperglikemię > 250 mg/dl, pH krwi < 7,3 oraz obecność ciał ketonowych w moczu. Jakie jest najbardziej prawdopodobne rozpoznanie?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Hipoglikemia",
+            "B": "Cukrzycowa kwasica ketonowa (DKA)",
+            "C": "Stan hiperglikemiczno-hiperosmolalny",
+            "D": "Kwasica mleczanowa"
+        },
+        "answer": "B",
+        "justification": "Triada objawów: hiperglikemia, kwasica metaboliczna (niskie pH i wodorowęglany) oraz ketonemia/ketonuria jest definicją cukrzycowej kwasicy ketonowej, która jest ostrym, zagrażającym życiu powikłaniem cukrzycy (Slajd 174)."
+    }
+]
