@@ -34,5 +34,11 @@
         "title": "Pediatria 1",
         "subject": "Pediatria",
         "file": "Pediatria/questions_pediatria_1.json"
+    },
+    {
+        "id": "pediatria_wyklady_1",
+        "title": "Wykłady - 1",
+        "subject": "Pediatria",
+        "file": "Pediatria/questions_pediatria_wyklady_1.json"
     }
 ]
