@@ -1,0 +1,334 @@
+[
+    {
+        "question": "Prawidłowe wartości akcji serca >12 lat:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "40-90",
+            "B": "95-140",
+            "C": "60-100",
+            "D": "110-160",
+            "E": ""
+        },
+        "answer": "C",
+        "justification": "Dla dzieci powyżej 12 lat i dorosłych, prawidłowa spoczynkowa akcja serca (tętno) mieści się w zakresie 60-100 uderzeń na minutę. Pozostałe zakresy są charakterystyczne dla młodszych grup wiekowych lub stanów patologicznych."
+    },
+    {
+        "question": "Pneumocystis carinii (obecnie Pneumocystis jirovecii) powoduje:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "Zapalenie płuc",
+            "B": "Skazę krwi",
+            "C": "Zapalenie opon mózgowo-rdzeniowych",
+            "D": "Ostrą biegunkę",
+            "E": ""
+        },
+        "answer": "A",
+        "justification": "Pneumocystis jirovecii jest grzybem oportunistycznym, który jest najczęstszą przyczyną ciężkiego, śródmiąższowego zapalenia płuc u osób z obniżoną odpornością, np. u pacjentów z AIDS lub po chemioterapii."
+    },
+    {
+        "question": "W zapaleniu krtani świst jest:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "Wdechowy",
+            "B": "Wydechowy",
+            "C": "Wdechowo-wydechowy",
+            "D": "Nie ma świstu",
+            "E": ""
+        },
+        "answer": "A",
+        "justification": "W zapaleniu krtani (np. w krupie) obrzęk zlokalizowany jest w okolicy podgłośniowej, co powoduje zwężenie górnych dróg oddechowych. Taki typ zwężenia powoduje charakterystyczny świst krtaniowy (stridor) słyszalny podczas wdechu."
+    },
+    {
+        "question": "W leczeniu zapalenia śluzówek (prawdopodobnie chodzi o opryszczkowe zapalenie jamy ustnej) lekiem pierwszego rzutu jest:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "Amoksycylina",
+            "B": "Klarytromycyna",
+            "C": "Acyklowir",
+            "D": "Gancyklowir",
+            "E": "Cefuroksym"
+        },
+        "answer": "C",
+        "justification": "Pytanie jest nieprecyzyjne, ale najczęstszym wirusowym zapaleniem śluzówek u dzieci jest opryszczkowe zapalenie jamy ustnej i dziąseł wywołane przez wirusa HSV. Lekiem z wyboru w leczeniu zakażeń HSV jest acyklowir. Pozostałe leki to antybiotyki (A, B, E) lub silniejszy lek przeciwwirusowy (D) stosowany w cięższych zakażeniach, np. CMV."
+    },
+    {
+        "question": "Do najczęstszych przyczyn bólu brzucha u dzieci należy:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "Zapalenie układu oddechowego",
+            "B": "Zakażenie układu moczowego",
+            "C": "Zakażenia pasożytnicze",
+            "D": "",
+            "E": "Wszystkie"
+        },
+        "answer": "E",
+        "justification": "Ból brzucha u dzieci jest objawem niespecyficznym. Może być powodowany przez choroby samego przewodu pokarmowego, ale bardzo często towarzyszy infekcjom innych układów. Zarówno infekcje dróg oddechowych (np. zapalenie gardła, płuc), zakażenia układu moczowego, jak i infekcje pasożytnicze są częstymi przyczynami bólu brzucha u dzieci."
+    },
+    {
+        "question": "W leczeniu choroby, gdzie występuje „szczekający kaszel\" stosuje się:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "NLPZ",
+            "B": "Glikokortykosteroidy doustnie",
+            "C": "Glikokortykosteroidy w nebulizacji",
+            "D": "Adrenalinę",
+            "E": ""
+        },
+        "answer": "C",
+        "justification": "Szczekający kaszel to objaw krupu (ostrego podgłośniowego zapalenia krtani). Podstawą leczenia są glikokortykosteroidy (GKS). Zarówno GKS doustne (np. deksametazon), jak i w nebulizacji (budezonid) są skuteczne i stosowane jako leczenie pierwszego rzutu. Adrenalina jest stosowana w cięższych przypadkach z dusznością spoczynkową. Biorąc pod uwagę opcje, GKS w nebulizacji jest kluczowym i bardzo częstym elementem terapii."
+    },
+    {
+        "question": "Drugie pytanie o to samo co w 6 inaczej ujęte",
+        "type": "info",
+        "options": {},
+        "answer": null,
+        "justification": "To nie jest pytanie, a komentarz w teście."
+    },
+    {
+        "question": "Przyczyną niedokrwistości hemolitycznej jest:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "Niedobór żelaza",
+            "B": "Sferocytoza",
+            "C": "",
+            "D": "Wiek niemowlęcy",
+            "E": ""
+        },
+        "answer": "B",
+        "justification": "Sferocytoza wrodzona jest najczęstszą wrodzoną niedokrwistością hemolityczną w populacji europejskiej. Jest to spowodowane defektem białek błony komórkowej erytrocytów, co prowadzi do ich niszczenia w śledzionie. Niedobór żelaza powoduje niedokrwistość mikrocytarną, a nie hemolityczną."
+    },
+    {
+        "question": "Wybroczyny:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "U dzieci przy nasilonym kaszlu/kichaniu na twarzy, szczególnie w okolicy oczodołów",
+            "B": "Znikają pod wpływem ucisku",
+            "C": "W trombocytopenii",
+            "D": "W małopłytkowości immunologicznej",
+            "E": "Wszystkie prawidłowe"
+        },
+        "answer": "E",
+        "justification": "A - prawidłowe, wzrost ciśnienia w naczyniach włosowatych może powodować wybroczyny. B - fałszywe, wybroczyny nie bledną pod uciskiem. C i D - prawidłowe, trombocytopenia (małopłytkowość) to niska liczba płytek, co prowadzi do powstawania wybroczyn; małopłytkowość immunologiczna to rodzaj trombocytopenii. Pytanie jest źle skonstruowane, bo B jest fałszywe, a E sugeruje, że wszystkie są prawidłowe. Zakładając błąd w opcji B i intencję autora, najbardziej kompleksowa odpowiedź łącząca pozostałe to E. Jednak, jeśli oceniać literalnie, żadna odpowiedź nie jest w pełni poprawna. Najbezpieczniej wskazać, że wybroczyny są objawem małopłytkowości (C i D) i mogą powstawać mechanicznie (A). Ze względu na błąd w B, interpretuję, że E było zamierzone jako 'A, C i D są prawidłowe'."
+    },
+    {
+        "question": "Najczęstszy nowotwór wewnątrzgałkowy u dzieci:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "Siatkówczak",
+            "B": "Chłoniak",
+            "C": "Mięśniakomięsak prążkowanokomórkowy",
+            "D": "Nerwiak zarodkowy",
+            "E": "Mięśniakomięsak gładkokomórkowy"
+        },
+        "answer": "A",
+        "justification": "Siatkówczak (retinoblastoma) jest najczęstszym pierwotnym nowotworem złośliwym wewnątrzgałkowym występującym w wieku dziecięcym."
+    },
+    {
+        "question": "Prawdziwe o trombocytopenii u dzieci:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "",
+            "B": "Z reguły nie wymaga leczenia",
+            "C": "",
+            "D": "Stosuje się leki (5 liter skrót)",
+            "E": ""
+        },
+        "answer": "B",
+        "justification": "Pytanie jest bardzo niekompletne. Jednak najczęstszą przyczyną trombocytopenii u dzieci jest pierwotna małopłytkowość immunologiczna (ITP), która w większości przypadków ma przebieg łagodny i samoograniczający się, nie wymagając leczenia, a jedynie obserwacji. W cięższych przypadkach stosuje się GKS (glikokortykosteroidy) lub IVIG (immunoglobuliny)."
+    },
+    {
+        "question": "Fałszywe o leczeniu próchnicy u dzieci z nowotworami:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "Należy przeprowadzić sanację jamy ustnej przed leczeniem",
+            "B": "",
+            "C": "Występowanie nowotworu i jego leczenie jest przeciwskazaniem do interwencji stomatologicznej",
+            "D": "",
+            "E": "Dzieci te nie wymagają w ogóle leczenia stomatologicznego"
+        },
+        "answer": "C",
+        "justification": "Stwierdzenie C jest fałszywe. Wręcz przeciwnie, leczenie onkologiczne nie jest przeciwwskazaniem, a sanacja jamy ustnej (usunięcie ognisk zakażenia, w tym leczenie próchnicy) jest kluczowym elementem przygotowania dziecka do chemioterapii, aby zapobiec groźnym powikłaniom infekcyjnym. Opcje C i E są fałszywe, ale C jest 'bardziej' fałszywe w kontekście medycznym."
+    },
+    {
+        "question": "W ospie wietrznej wykwitem patognomicznym jest:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "",
+            "B": "Grudka",
+            "C": "Krostka",
+            "D": "Pęcherzyk",
+            "E": "Strupek"
+        },
+        "answer": "D",
+        "justification": "Chociaż w ospie wietrznej występuje polimorfizm wykwitów (plamki, grudki, pęcherzyki, krosty, strupy jednocześnie - obraz 'gwiaździstego nieba'), to pęcherzyk wypełniony surowiczym płynem na podłożu rumieniowym ('kropla rosy na płatku róży') jest uważany za najbardziej charakterystyczny, pierwotny wykwit."
+    },
+    {
+        "question": "Mankiet u dziecka powinien obejmować szerokość ramienia w:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "1/3",
+            "B": "1/2",
+            "C": "2/3",
+            "D": "",
+            "E": "Nie ma znaczenia"
+        },
+        "answer": "C",
+        "justification": "Pytanie jest niejednoznaczne. Szerokość mankietu powinna stanowić około 40% obwodu ramienia, a długość części pompującej powinna obejmować 80-100% obwodu ramienia. Jeśli pytanie dotyczyło długości mankietu w stosunku do długości ramienia, żadna odpowiedź nie jest precyzyjna. Jeśli jednak interpretować 'szerokość' jako 'wysokość' mankietu, to powinien on obejmować ok. 2/3 długości ramienia. Jest to powszechna, choć uproszczona zasada."
+    },
+    {
+        "question": "Przyczyną najczęstszą PChN (Przewlekłej Choroby Nerek) u dzieci jest:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "Wady wrodzone nerek i glomerulopatie",
+            "B": "Cukrzycowa nefropatia i ...",
+            "C": "Nowotwory złośliwe nerek i ich leczenie",
+            "D": "Nowotwory złośliwe nerek i ...",
+            "E": "Tylko nowotwory złośliwe nerek"
+        },
+        "answer": "A",
+        "justification": "W przeciwieństwie do dorosłych, gdzie głównymi przyczynami PChN są cukrzyca i nadciśnienie, u dzieci dominują wrodzone wady układu moczowego (CAKUT - Congenital Anomalies of the Kidney and Urinary Tract) oraz glomerulopatie (choroby kłębuszków nerkowych)."
+    },
+    {
+        "question": "Jakie jest zapotrzebowanie dzienne na wodę dziecka o wadze 16 kg:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "1000 ml",
+            "B": "1300 ml",
+            "C": "1600 ml",
+            "D": "",
+            "E": ""
+        },
+        "answer": "B",
+        "justification": "Do obliczenia podstawowego zapotrzebowania na płyny u dzieci stosuje się regułę Hollidaya i Segara: 100 ml/kg na pierwsze 10 kg masy ciała, 50 ml/kg na kolejne 10 kg, 20 ml/kg na każdy kolejny kilogram. Dla dziecka 16 kg: (10 kg * 100 ml/kg) + (6 kg * 50 ml/kg) = 1000 ml + 300 ml = 1300 ml."
+    },
+    {
+        "question": "Prawidłowe o zwężeniu przewodu nosowo-łzowego:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "Występuje u 30% noworodków",
+            "B": "Charakterystyczny jest wysięk z przewodu nosowego",
+            "C": "Charakterystyczna jest suchość oka",
+            "D": "U dzieci w wieku 10 lat wymagane leczenie operacyjne",
+            "E": ""
+        },
+        "answer": "B",
+        "justification": "Wrodzona niedrożność przewodu nosowo-łzowego dotyczy ok. 5% noworodków. Objawia się nadmiernym łzawieniem i ropnym wysiękiem z worka łzowego, który może wydostawać się przez punkty łzowe (sprawiając wrażenie wysięku 'z oka') lub spływać do nosa. Charakterystyczny jest właśnie ten wysięk, a nie suchość oka. Leczenie operacyjne (sondowanie) rozważa się, jeśli objawy nie ustąpią do ok. 12 miesiąca życia, a nie w wieku 10 lat."
+    },
+    {
+        "question": "Bakteria najczęściej powodująca zapalenie płuc u dzieci to:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "Staphylococcus aureus",
+            "B": "Haemophilus influenzae",
+            "C": "",
+            "D": "",
+            "E": ""
+        },
+        "answer": "B",
+        "justification": "Pytanie nie jest kompletne, brakuje kluczowej opcji. Najczęstszą BAKTERYJNĄ przyczyną pozaszpitalnego zapalenia płuc u dzieci (zwłaszcza do 5 r.ż.) jest Streptococcus pneumoniae. Na drugim miejscu jest Haemophilus influenzae typ b (Hib), którego rola znacznie zmalała dzięki szczepieniom. Staphylococcus aureus jest przyczyną rzadszych, ale cięższych zapaleń. Z podanych opcji, H. influenzae jest ważnym czynnikiem etiologicznym, choć S. pneumoniae jest częstszy."
+    },
+    {
+        "question": "Odsetek całkowitych wyleczeń białaczek u dzieci wynosi:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "80-90%",
+            "B": "60%",
+            "C": "40%",
+            "D": "20%",
+            "E": "0%"
+        },
+        "answer": "A",
+        "justification": "Dzięki nowoczesnym protokołom chemioterapii, wyleczalność najczęstszej białaczki u dzieci - ostrej białaczki limfoblastycznej (ALL) - jest bardzo wysoka i sięga 80-90% w krajach rozwiniętych."
+    },
+    {
+        "question": "Szkarlatyna to:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "Ostra choroba bakteryjna",
+            "B": "Ostra choroba wirusowa",
+            "C": "Przewlekła choroba bakteryjna",
+            "D": "Przewlekła choroba wirusowa",
+            "E": ""
+        },
+        "answer": "A",
+        "justification": "Szkarlatyna (płonica) jest ostrą chorobą zakaźną wywoływaną przez szczepy paciorkowca beta-hemolizującego grupy A (Streptococcus pyogenes), które produkują toksynę erytrogenną."
+    },
+    {
+        "question": "Bilans służący do oceny dojrzałości płciowej dziecka to:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "Apgar",
+            "B": "Tanner",
+            "C": "",
+            "D": "",
+            "E": ""
+        },
+        "answer": "B",
+        "justification": "Skala Tannera służy do oceny stopnia dojrzałości płciowej dzieci i młodzieży na podstawie rozwoju drugorzędowych cech płciowych (owłosienie łonowe, rozwój piersi u dziewcząt, rozwój narządów płciowych u chłopców). Skala Apgar ocenia stan noworodka po urodzeniu."
+    },
+    {
+        "question": "Drgawki gorączkowe:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "Często występują u dzieci, u których rozwinie się padaczka",
+            "B": "Występują u ogólnie zdrowych dzieci mijając bez uszczerbku",
+            "C": "",
+            "D": "",
+            "E": "Występują u noworodków"
+        },
+        "answer": "B",
+        "justification": "Drgawki gorączkowe proste, najczęstszy typ, występują u ogólnie zdrowych neurologicznie dzieci w wieku od 6 miesięcy do 5 lat, w przebiegu gorączki. Z definicji mijają bez pozostawienia trwałego uszczerbku i nie zwiększają znacząco ryzyka rozwoju padaczki w przyszłości. Nie występują u noworodków."
+    },
+    {
+        "question": "Zapach acetonu z ust występuje w:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "Niekontrolowanej cukrzycy",
+            "B": "Wymiotach acetonemicznych",
+            "C": "Kwasicy ketonowej",
+            "D": "Zatruciu salicylanami",
+            "E": "Wszystkie"
+        },
+        "answer": "E",
+        "justification": "Zapach acetonu (owocowy, zapach 'zmywacza do paznokci') świadczy o obecności ciał ketonowych. Ketonemia i kwasica ketonowa występują w niekontrolowanej cukrzycy (zwłaszcza typu 1), w wymiotach acetonemicznych, w głodzeniu, a także w zatruciu salicylanami. Wszystkie podane opcje są prawidłowe."
+    },
+    {
+        "question": "Objawy niedokrwistości:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "Bladość skóry",
+            "B": "Bladość śluzówek",
+            "C": "Bradykardia",
+            "D": "Bóle głowy i senność",
+            "E": "Wszystkie"
+        },
+        "answer": "E",
+        "justification": "Wszystkie wymienione objawy są typowe dla niedokrwistości, z jednym zastrzeżeniem: w odpowiedzi na hipoksję organizm kompensacyjnie przyspiesza akcję serca, więc bardziej typowa jest TACHYKARDIA, a nie bradykardia (zwolnienie akcji serca). Jednak przy bardzo ciężkiej, przewlekłej anemii może dojść do niewydolności serca i bradykardii. Mimo tej nieścisłości, w kontekście testu, gdzie A, B i D są ewidentnie prawidłowe, najprawdopodobniej odpowiedź E była zamierzona jako poprawna."
+    },
+    {
+        "question": "W nadczynności tarczycy nie występuje:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "",
+            "B": "Suchość skóry",
+            "C": "",
+            "D": "",
+            "E": ""
+        },
+        "answer": "B",
+        "justification": "Suchość skóry jest charakterystycznym objawem NIEDOCZYNNOŚCI tarczycy. W nadczynności tarczycy skóra jest zazwyczaj ciepła, gładka i nadmiernie wilgotna (potliwa)."
+    },
+    {
+        "question": "Wskaż fałszywe o guzie Wilmsa:",
+        "type": "single_choice_abcde",
+        "options": {
+            "A": "Najczęściej występuje u młodzieży",
+            "B": "Jest najczęstszym nowotworem złośliwym nerki u dzieci",
+            "C": "Jego objawem może być nadciśnienie",
+            "D": "Występuje w skojarzeniu z wadami wrodzonymi",
+            "E": ""
+        },
+        "answer": "A",
+        "justification": "Stwierdzenie A jest fałszywe. Guz Wilmsa (nerczak zarodkowy, nephroblastoma) jest nowotworem typowym dla wczesnego dzieciństwa, szczyt zachorowań przypada między 2. a 3. rokiem życia. U młodzieży występuje niezmiernie rzadko. Pozostałe stwierdzenia (B, C, D) są prawdziwe."
+    }
+]
