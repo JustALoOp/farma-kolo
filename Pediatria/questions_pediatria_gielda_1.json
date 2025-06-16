@@ -1714,5 +1714,356 @@
         },
         "answer": "c",
         "justification": "Skala Apgar jest standardowym narzędziem służącym do oceny stanu klinicznego noworodka w 1., 3., 5. i 10. minucie po urodzeniu w celu oceny jego adaptacji do życia pozamacicznego."
+    },
+    {
+        "question": "Okres wylęgania ospy wietrznej wywoływanej przez wirusa Varicella Zoster wynosi",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "11-21 dni",
+            "b": "5-7 dni",
+            "c": "2-3 miesiące",
+            "d": "1-3 dni",
+            "e": "30-40 dni"
+        },
+        "answer": "a",
+        "justification": "Okres wylęgania ospy wietrznej, czyli czas od zakażenia do pojawienia się pierwszych objawów (wysypki), wynosi zazwyczaj od 10 do 21 dni, średnio 14 dni. Przedział 11-21 dni jest prawidłowy."
+    },
+    {
+        "question": "W Polsce u dzieci do 14 r.ż. najczęściej występującymi nowotworami są",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "nowotwory zarodkowe",
+            "b": "nowotwory mózgu",
+            "c": "białaczki",
+            "d": "chłoniaki",
+            "e": "mięsaki tkanek miękkich"
+        },
+        "answer": "c",
+        "justification": "Najczęstszymi nowotworami złośliwymi wieku dziecięcego (0-14 lat) są białaczki, które stanowią około 25-30% wszystkich zachorowań. Na drugim miejscu znajdują się guzy ośrodkowego układu nerwowego (OUN)."
+    },
+    {
+        "question": "Obecnie w Polsce najczęstszą przyczyną biegunek infekcyjnych u dzieci są",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Clostridium difficile",
+            "b": "Shigella",
+            "c": "Rotawirusy",
+            "d": "Salmonella",
+            "e": "Enteropatogenne szczepy E. coli"
+        },
+        "answer": "c",
+        "justification": "Mimo wprowadzenia szczepień, rotawirusy pozostają najczęstszą przyczyną ostrych biegunek infekcyjnych u dzieci, zwłaszcza tych wymagających hospitalizacji. Na drugim miejscu plasują się norowirusy i adenowirusy."
+    },
+    {
+        "question": "Przyczyną zespołu nerczycowego u dzieci najczęściej jest zmiana histopatologiczna określana jako:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Submikroskopowe zapalenie nerek (zmiany minimalne)",
+            "b": "Ogniskowe segmentalne stwardnienie kłębuszków (FSGS)",
+            "c": "Nefropatia błoniasta",
+            "d": "Błoniaste rozplemowe zapalenie kłębuszków nerkowych"
+        },
+        "answer": "a",
+        "justification": "Najczęstszą (w ok. 80% przypadków) przyczyną idiopatycznego zespołu nerczycowego u dzieci jest tzw. choroba zmian minimalnych (MCD), dawniej nazywana submikroskopowym zapaleniem nerek. Charakteryzuje się ona brakiem widocznych zmian w mikroskopie świetlnym i dobrą odpowiedzią na sterydoterapię."
+    },
+    {
+        "question": "Które z poniższych szczepień NIE należy do szczepień obowiązkowych w polskim Programie Szczepień Ochronnych?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Przeciwko WZW B",
+            "b": "Przeciwko grypie",
+            "c": "Przeciwko gruźlicy",
+            "d": "Przeciwko odrze, śwince i różyczce (MMR)"
+        },
+        "answer": "b",
+        "justification": "Szczepienia przeciwko WZW B, gruźlicy, pneumokokom, błonicy, tężcowi, krztuścowi, polio, Hib oraz odrze, śwince i różyczce są w Polsce obowiązkowe. Szczepienie przeciwko grypie jest szczepieniem zalecanym."
+    },
+    {
+        "question": "Obecność krwi utajonej w kale u dziecka może wskazywać na:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "szczelinę odbytu, zaparcia, alergię pokarmową",
+            "b": "wyłącznie chorobę nowotworową",
+            "c": "infekcję wirusową górnych dróg oddechowych",
+            "d": "fizjologiczne zjawisko u niemowląt"
+        },
+        "answer": "a",
+        "justification": "Krew utajona w kale świadczy o niewielkim krwawieniu z przewodu pokarmowego. U dzieci częstymi przyczynami są: szczelina odbytu, zaparcia (powodujące uszkodzenie śluzówki) oraz alergiczne zapalenie jelita (np. w alergii na białka mleka krowiego)."
+    },
+    {
+        "question": "Objawy płonicy (szkarlatyny) obejmujące wysypkę całego ciała z niezmienioną skórą między policzkami oraz malinowy język są związane z:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Trójkątem Fiłatowa i językiem malinowym",
+            "b": "Objawem Pastii",
+            "c": "Wysypką plamisto-grudkową",
+            "d": "Wyłącznie gorączką"
+        },
+        "answer": "a",
+        "justification": "Opisane objawy są klasyczne dla szkarlatyny. Drobnoplamista wysypka omijająca okolice ust tworzy tzw. trójkąt Fiłatowa. Język początkowo jest biały, a następnie staje się żywoczerwony z przerośniętymi brodawkami, co określa się jako 'język malinowy'."
+    },
+    {
+        "question": "Etiologicznym czynnikiem szkarlatyny jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Staphylococcus aureus",
+            "b": "Streptococcus pyogenes grupy A",
+            "c": "Parwowirus B19",
+            "d": "Wirus odry"
+        },
+        "answer": "b",
+        "justification": "Szkarlatyna jest wywoływana przez toksynotwórcze szczepy paciorkowca beta-hemolizującego grupy A, czyli Streptococcus pyogenes."
+    },
+    {
+        "question": "Które stwierdzenie dotyczące drgawek gorączkowych prostych jest prawdziwe?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Trwają ponad 15 minut i często powtarzają się w ciągu 24h",
+            "b": "Występują u 2-5% dzieci, mają charakter uogólniony, trwają poniżej 15 minut i nie powtarzają się w ciągu 24h",
+            "c": "Zawsze prowadzą do rozwoju padaczki",
+            "d": "Wymagają przewlekłego leczenia przeciwpadaczkowego"
+        },
+        "answer": "b",
+        "justification": "Drgawki gorączkowe proste dotyczą 2-5% populacji dziecięcej, mają charakter napadu toniczno-klonicznego uogólnionego, trwają krótko (do 15 minut) i nie powtarzają się w trakcie tej samej infekcji. Mają dobre rokowanie."
+    },
+    {
+        "question": "Które z objawów odwodnienia wskazują na ciężki stopień?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Suchość w ustach, wzmożone pragnienie",
+            "b": "Głęboki i szybki oddech, opóźniony powrót włośniczkowy >2 sekund, skóra rozprostowuje się bardzo wolno",
+            "c": "Zmniejszona elastyczność skóry, zmniejszona diureza",
+            "d": "Płaczliwość i niepokój"
+        },
+        "answer": "b",
+        "justification": "Opisane objawy: oddech Kussmaula (głęboki, szybki oddech w kwasicy), znacznie wydłużony powrót kapilarny (>2s) i objaw 'rozprostowanego fałdu' skórnego świadczą o ciężkim odwodnieniu i wstrząsie hipowolemicznym."
+    },
+    {
+        "question": "U osób chorych na cukrzycę typu 1 (DM1) obserwuje się zwiększone ryzyko wystąpienia:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "astmy oskrzelowej (10x częściej)",
+            "b": "celiakii (10x częściej)",
+            "c": "nadciśnienia tętniczego (10x częściej)",
+            "d": "choroby Leśniowskiego-Crohna (10x częściej)"
+        },
+        "answer": "b",
+        "justification": "Cukrzyca typu 1 jest chorobą autoimmunologiczną, która często współwystępuje z innymi chorobami o tym samym podłożu. Ryzyko wystąpienia celiakii u pacjentów z DM1 jest około 10 razy wyższe niż w populacji ogólnej."
+    },
+    {
+        "question": "Kryterium rozpoznania cukrzycy jest stężenie glukozy na czczo wynoszące:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "≥100 mg/dl (5,6 mmol/l)",
+            "b": "≥126 mg/dl (7,0 mmol/l) w co najmniej dwóch pomiarach",
+            "c": "≥140 mg/dl (7,8 mmol/l) w pojedynczym pomiarze",
+            "d": "≥200 mg/dl (11,1 mmol/l) w pojedynczym pomiarze na czczo"
+        },
+        "answer": "b",
+        "justification": "Zgodnie z kryteriami WHO i PTD, cukrzycę można rozpoznać na podstawie dwukrotnego stwierdzenia glikemii na czczo ≥126 mg/dl (7,0 mmol/l) lub jednorazowego pomiaru glikemii przygodnej ≥200 mg/dl z towarzyszącymi objawami."
+    },
+    {
+        "question": "Zanik tętna na tętnicy udowej przy zachowanym tętnie na tętnicy promieniowej jest charakterystyczny dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Przetrwałego przewodu tętniczego (PDA)",
+            "b": "Ubytku w przegrodzie międzykomorowej (VSD)",
+            "c": "Koarktacji aorty",
+            "d": "Tetralogii Fallota"
+        },
+        "answer": "c",
+        "justification": "Koarktacja aorty to zwężenie aorty, najczęściej zlokalizowane poniżej odejścia lewej tętnicy podobojczykowej. Powoduje to wysokie ciśnienie i dobrze wyczuwalne tętno na kończynach górnych oraz niskie ciśnienie i słabo wyczuwalne lub niewyczuwalne tętno na kończynach dolnych (w tym na tętnicach udowych)."
+    },
+    {
+        "question": "Lekiem z wyboru w leczeniu niepowikłanej anginy paciorkowcowej jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Amoksycylina z kwasem klawulanowym",
+            "b": "Fenoksymetylopenicylina",
+            "c": "Azytromycyna",
+            "d": "Cefuroksym"
+        },
+        "answer": "b",
+        "justification": "Zgodnie z rekomendacjami, lekiem pierwszego rzutu w leczeniu anginy paciorkowcowej jest fenoksymetylopenicylina (penicylina V) doustnie przez 10 dni, ze względu na jej celowane spektrum działania i skuteczność."
+    },
+    {
+        "question": "Wrodzona niedrożność przewodu nosowo-łzowego u noworodka jest najczęściej spowodowana:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "przetrwałą zastawką Hasnera",
+            "b": "brakiem kanalików łzowych",
+            "c": "wadą rozwojową nosa",
+            "d": "infekcją wewnątrzmaciczną"
+        },
+        "answer": "a",
+        "justification": "Najczęstszą przyczyną wrodzonej niedrożności przewodu nosowo-łzowego jest przetrwała błona w jego dystalnej części, na granicy z jamą nosową, nazywana zastawką Hasnera. Występuje u ok. 5% noworodków i w większości przypadków ulega samoistnemu udrożnieniu."
+    },
+    {
+        "question": "Najczęstszymi nowotworami u dzieci w kolejności występowania są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "białaczki, nowotwory OUN, chłoniaki",
+            "b": "chłoniaki, białaczki, nowotwory OUN",
+            "c": "nowotwory OUN, chłoniaki, białaczki",
+            "d": "nerwiak zarodkowy, guz Wilmsa, siatkówczak"
+        },
+        "answer": "a",
+        "justification": "Według danych epidemiologicznych, najczęstszą grupą nowotworów u dzieci są białaczki (ok. 26%), następnie guzy ośrodkowego układu nerwowego (ok. 20%), a na trzecim miejscu chłoniaki (ok. 10%)."
+    },
+    {
+        "question": "Najczęstszym nowotworem złośliwym u niemowląt jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Nerwiak zarodkowy współczulny (neuroblastoma)",
+            "b": "Guz Wilmsa (nerczak zarodkowy)",
+            "c": "Białaczka",
+            "d": "Siatkówczak"
+        },
+        "answer": "a",
+        "justification": "Nerwiak zarodkowy współczulny (neuroblastoma) jest najczęstszym nowotworem litym pozaczaszkowym u dzieci i najczęstszym nowotworem złośliwym rozpoznawanym w 1. roku życia."
+    },
+    {
+        "question": "Leukokoria (biały odblask z źrenicy) jest objawem mogącym wskazywać na:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zaćmę wrodzoną lub siatkówczaka",
+            "b": "jaskrę wrodzoną",
+            "c": "zapalenie błony naczyniowej",
+            "d": "wadę wzroku wymagającą korekcji okularowej"
+        },
+        "answer": "a",
+        "justification": "Leukokoria jest objawem alarmującym, wymagającym pilnej diagnostyki okulistycznej. Najczęstszymi przyczynami są zaćma wrodzona oraz siatkówczak (retinoblastoma), najczęstszy wewnątrzgałkowy nowotwór złośliwy u dzieci."
+    },
+    {
+        "question": "Najczęstszą przyczyną przednerkowej ostrej niewydolności nerek u dzieci jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "sepsa",
+            "b": "zespół hemolityczno-mocznicowy",
+            "c": "hipowolemia (np. z powodu utraty wody i elektrolitów)",
+            "d": "kłębuszkowe zapalenie nerek"
+        },
+        "answer": "c",
+        "justification": "Przednerkowa niewydolność nerek wynika z hipoperfuzji nerek. U dzieci najczęstszą przyczyną jest hipowolemia spowodowana odwodnieniem w przebiegu biegunki i wymiotów."
+    },
+    {
+        "question": "W przypadku podejrzenia wstrząsu anafilaktycznego po ugryzieniu przez pszczołę, postępowaniem pierwszego rzutu jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "podanie leku przeciwhistaminowego doustnie",
+            "b": "podanie adrenaliny domięśniowo",
+            "c": "podanie glikokortykosteroidu dożylnie",
+            "d": "obserwacja pacjenta przez 30 minut"
+        },
+        "answer": "b",
+        "justification": "W przypadku wstrząsu anafilaktycznego lekiem ratującym życie, który należy podać natychmiast, jest adrenalina podana domięśniowo w zewnętrzną powierzchnię uda."
+    },
+    {
+        "question": "Do cech zespołu Turnera nie należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Niski wzrost",
+            "b": "Płetwiasta szyja",
+            "c": "Prawidłowy rozwój intelektualny",
+            "d": "Wysoki wzrost"
+        },
+        "answer": "d",
+        "justification": "Jedną z kardynalnych cech zespołu Turnera jest niski wzrost. Pacjentki nieleczone hormonem wzrostu osiągają średnio ok. 143 cm. Wysoki wzrost jest cechą wykluczającą. Rozwój intelektualny jest zazwyczaj w normie."
+    },
+    {
+        "question": "Do objawów zespołu Downa nie należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zmarszczka nakątna",
+            "b": "wysoki wzrost",
+            "c": "hipotonia mięśniowa",
+            "d": "wady serca"
+        },
+        "answer": "b",
+        "justification": "Dla pacjentów z zespołem Downa charakterystyczny jest niski wzrost. Pozostałe cechy, takie jak zmarszczka nakątna, hipotonia czy wady serca (szczególnie wady przegród), są typowe dla tego zespołu."
+    },
+    {
+        "question": "W przypadku ostrej biegunki u niemowlęcia karmionego piersią, należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "natychmiast odstawić dziecko od piersi i podać mleko modyfikowane bezlaktozowe",
+            "b": "kontynuować karmienie piersią bez przerw",
+            "c": "zrobić 12-godzinną przerwę w karmieniu, podając tylko wodę",
+            "d": "podać leki przeciwbiegunkowe"
+        },
+        "answer": "b",
+        "justification": "Zgodnie z zaleceniami, w trakcie ostrej biegunki infekcyjnej należy kontynuować karmienie piersią. Mleko matki jest lekkostrawne, dostarcza płynów, elektrolitów, składników odżywczych i przeciwciał, co wspomaga leczenie."
+    },
+    {
+        "question": "Zielone stolce z domieszką śluzu u noworodka mogą wskazywać na:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zakażenie rotawirusem",
+            "b": "fizjologię",
+            "c": "niedrożność smółkową",
+            "d": "alergię na białka mleka krowiego"
+        },
+        "answer": "a",
+        "justification": "Pytanie jest wieloznaczne, ale w kontekście giełdy, zielone, wodniste stolce ze śluzem są często opisywane w przebiegu infekcji rotawirusowej. Należy jednak pamiętać, że podobny obraz może dawać alergia (d) lub być wariantem normy (b)."
+    },
+    {
+        "question": "Smółka to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "drugi stolec w życiu noworodka",
+            "b": "pierwszy stolec, który powinien być oddany w ciągu 24-48 godzin po urodzeniu",
+            "c": "stolec patologiczny, wskazujący na chorobę Hirschsprunga",
+            "d": "stolec o jasnym zabarwieniu"
+        },
+        "answer": "b",
+        "justification": "Smółka to pierwszy stolec oddawany przez noworodka, o ciemnozielonej, lepkiej konsystencji. Zdrowy, donoszony noworodek powinien oddać smółkę w ciągu pierwszych 24-48 godzin życia. Opóźnienie jej oddania może wskazywać na patologię."
+    },
+    {
+        "question": "Okres wylęgania ospy wietrznej wynosi:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "3-5 dni",
+            "b": "7 dni",
+            "c": "10-21 dni",
+            "d": "ponad miesiąc"
+        },
+        "answer": "c",
+        "justification": "Okres inkubacji wirusa ospy wietrznej i półpaśca (VZV) wynosi od 10 do 21 dni, średnio około 14 dni."
+    },
+    {
+        "question": "Do objawów białaczki należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "bladość powłok, bóle głowy, osłabienie, potliwość, kołatanie serca",
+            "b": "wyłącznie objawy skazy krwotocznej",
+            "c": "wyłącznie powiększenie węzłów chłonnych",
+            "d": "gorączka i ból gardła"
+        },
+        "answer": "a",
+        "justification": "Białaczka daje bardzo zróżnicowane objawy, wynikające z niewydolności szpiku kostnego. Objawy niedokrwistości, takie jak bladość, osłabienie, męczliwość, bóle głowy i kołatanie serca, są bardzo częste i często są pierwszymi zgłaszanymi symptomami."
+    },
+    {
+        "question": "Nacieki na dziąsłach są charakterystyczne dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ostrej białaczki limfoblastycznej (ALL)",
+            "b": "ostrej białaczki szpikowej (AML)",
+            "c": "przewlekłej białaczki szpikowej (CML)",
+            "d": "chłoniaka Hodgkina"
+        },
+        "answer": "a",
+        "justification": "Nacieki białaczkowe dziąseł, prowadzące do ich przerostu, są szczególnie charakterystyczne dla ostrej białaczki limfoblastycznej (ALL), choć mogą występować także w niektórych podtypach AML. W kontekście pytań egzaminacyjnych, najczęściej kojarzone są z ALL. (Uwaga: w innych pytaniach z tego zbioru nacieki dziąseł przypisano AML. Obie odpowiedzi mogą być poprawne, zależy to od źródła, jednak częściej opisuje się je w AML, podtypy monocytarne. W tym konkretnym pytaniu z giełdy, odpowiedź brzmiała ALL)."
+    },
+    {
+        "question": "Wzrost wagi powyżej 97 centyla na siatce centylowej definiuje się jako:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "nadwagę",
+            "b": "otyłość",
+            "c": "normę dla dużych dzieci",
+            "d": "ryzyko otyłości"
+        },
+        "answer": "b",
+        "justification": "Otyłość u dzieci definiuje się, gdy wskaźnik masy ciała (BMI) znajduje się na siatce centylowej powyżej 95. centyla dla wieku i płci. Waga powyżej 97. centyla również jednoznacznie wskazuje na otyłość."
     }
 ]
