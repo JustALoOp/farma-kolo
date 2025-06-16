@@ -2749,5 +2749,377 @@
         },
         "answer": "a",
         "justification": "Alergiczne zapalenie jelita grubego, najczęściej wywołane alergią na białka mleka krowiego, jest częstą przyczyną obecności krwi (jawnej lub utajonej) w stolcu u niemowląt."
+    },
+    {
+        "question": "Niedobór której witaminy jest główną przyczyną krzywicy u dzieci?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wit. D",
+            "b": "wit. B12",
+            "c": "wit. K",
+            "d": "wit. C"
+        },
+        "answer": "a",
+        "justification": "Krzywica jest chorobą metaboliczną kości wieku rozwojowego, spowodowaną nieprawidłową mineralizacją rosnącej kości. Najczęstszą przyczyną jest niedobór witaminy D, która jest niezbędna do wchłaniania wapnia i fosforu."
+    },
+    {
+        "question": "Czy u wcześniaków suplementuje się witaminę D?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "tak, ale większą dawkę niż u niemowląt urodzonych o czasie",
+            "b": "nie",
+            "c": "tak, tyle samo ile u niemowląt urodzonych o czasie",
+            "d": "tak, 400-800 j, ale tylko do wyrównania gdyby to dziecko urodziło się w 40 tygodniu"
+        },
+        "answer": "a",
+        "justification": "Wcześniaki mają znacznie mniejsze zapasy witaminy D i większe ryzyko jej niedoboru. Z tego powodu zaleca się u nich suplementację w wyższych dawkach (zazwyczaj 400-800 IU/dobę) niż u noworodków donoszonych (400 IU/dobę)."
+    },
+    {
+        "question": "Wada przewodozależna serca to wada, w której:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "nie stanowi bezpośredniego zagrożenia dla dziecka",
+            "b": "drożność przewodu tętniczego warunkuje przeżycie dziecka",
+            "c": "współistnieje ubytek w przegrodzie międzykomorowej i międzyprzedsionkowej",
+            "d": "wszystkie fałszywe"
+        },
+        "answer": "b",
+        "justification": "Wady przewodozależne to krytyczne wady serca, w których przepływ krwi do krążenia płucnego lub systemowego jest całkowicie zależny od drożnego przewodu tętniczego (PDA). Zamknięcie się PDA po urodzeniu prowadzi do gwałtownego pogorszenia stanu dziecka i zgonu, dlatego jego drożność warunkuje przeżycie do czasu interwencji kardiochirurgicznej."
+    },
+    {
+        "question": "Gdy nie nastąpi wyżynanie się zębów u dziecka do 12 m.ż., może to świadczyć o niedoborze:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wit. D",
+            "b": "wit. B12",
+            "c": "wit. K",
+            "d": "wit. C"
+        },
+        "answer": "a",
+        "justification": "Opóźnione ząbkowanie może być objawem różnych schorzeń, w tym niedoborów pokarmowych. Najczęściej jest kojarzone z niedoborem witaminy D i krzywicą, które zaburzają prawidłową mineralizację i rozwój kośćca, w tym zębów."
+    },
+    {
+        "question": "Przyczyną wrodzonej niedoczynności tarczycy u dziecka jest najczęściej:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niedoczynność tarczycy u matki w ciąży",
+            "b": "dysgenezja narządu (agenezja, hipoplazja, ektopia)",
+            "c": "niedobór jodu w diecie matki",
+            "d": "podawanie matce leków przeciwtarczycowych"
+        },
+        "answer": "b",
+        "justification": "Najczęstszą przyczyną (ok. 85%) trwałej wrodzonej niedoczynności tarczycy są wady rozwojowe gruczołu tarczowego, czyli dysgenezja (nieprawidłowe wykształcenie, np. brak tarczycy, jej niedorozwój lub nieprawidłowe położenie)."
+    },
+    {
+        "question": "Do kiedy należy suplementować witaminę D u dzieci?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "tylko w pierwszym roku życia",
+            "b": "u wcześniaków",
+            "c": "od urodzenia do 18. roku życia",
+            "d": "wcale"
+        },
+        "answer": "c",
+        "justification": "Zgodnie z aktualnymi polskimi zaleceniami, suplementację witaminy D należy prowadzić u wszystkich od urodzenia do 18. roku życia, dostosowując dawkę do wieku, masy ciała, pory roku i diety. U dorosłych również jest zalecana, zwłaszcza w okresie jesienno-zimowym."
+    },
+    {
+        "question": "Typowymi objawami niedoczynności tarczycy u niemowląt są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "tężyczka, hiponatremia",
+            "b": "zaparcia, sucha skóra",
+            "c": "biegunka, suchość w jamie ustnej",
+            "d": "sucha skóra, tężyczka"
+        },
+        "answer": "b",
+        "justification": "Niedoczynność tarczycy powoduje spowolnienie procesów metabolicznych. U niemowląt i dzieci objawia się to m.in. suchą, chłodną skórą, zaparciami, sennością, przedłużającą się żółtaczką i słabym przyrostem masy ciała."
+    },
+    {
+        "question": "Infekcyjne zapalenie wsierdzia najczęściej wywołują:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "bakterie",
+            "b": "wirusy",
+            "c": "grzyby",
+            "d": "pierwotniaki"
+        },
+        "answer": "a",
+        "justification": "Infekcyjne zapalenie wsierdzia (IZW) jest w zdecydowanej większości przypadków chorobą o etiologii bakteryjnej. Grzybicze IZW jest rzadsze i występuje głównie u osób z obniżoną odpornością lub po zabiegach kardiochirurgicznych."
+    },
+    {
+        "question": "Najczęstszymi bakteriami wywołującymi infekcyjne zapalenie wsierdzia są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "paciorkowce i gronkowce",
+            "b": "enterokoki",
+            "c": "bakterie z grupy HACEK",
+            "d": "pałeczki Gram-ujemne"
+        },
+        "answer": "a",
+        "justification": "Najczęstszymi patogenami odpowiedzialnymi za IZW są paciorkowce (zwłaszcza zieleniejące, Streptococcus viridans) oraz gronkowce (Staphylococcus aureus)."
+    },
+    {
+        "question": "Przyczyną zapalenia mięśnia sercowego u dzieci są najczęściej:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "bakterie",
+            "b": "wirusy",
+            "c": "grzyby",
+            "d": "pierwotniaki"
+        },
+        "answer": "b",
+        "justification": "Najczęstszą przyczyną zapalenia mięśnia sercowego (myocarditis) w populacji pediatrycznej są infekcje wirusowe. Najczęściej izolowane wirusy to parwowirus B19, wirusy Coxsackie B i adenowirusy."
+    },
+    {
+        "question": "Wysiękowe zapalenie osierdzia u dzieci jest najczęściej spowodowane przez:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "bakterie",
+            "b": "wirusy",
+            "c": "grzyby",
+            "d": "przyczyny autoimmunologiczne"
+        },
+        "answer": "b",
+        "justification": "Podobnie jak w przypadku zapalenia mięśnia sercowego, najczęstszą przyczyną zapalenia osierdzia (pericarditis), w tym postaci wysiękowej, u dzieci są infekcje wirusowe."
+    },
+    {
+        "question": "Groźnym powikłaniem wysiękowego zapalenia osierdzia jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "tamponada serca",
+            "b": "zawał serca",
+            "c": "pęknięcie ściany serca",
+            "d": "tętniak aorty"
+        },
+        "answer": "a",
+        "justification": "Gromadzenie się dużej ilości płynu w worku osierdziowym (wysięk) może prowadzić do ucisku na jamy serca i upośledzenia ich napełniania. Ten stan, nazywany tamponadą serca, jest stanem zagrożenia życia."
+    },
+    {
+        "question": "Najczęstszą przyczyną niedokrwistości niedoborowej u dzieci jest niedobór:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "żelaza",
+            "b": "witaminy B12",
+            "c": "kwasu foliowego",
+            "d": "miedzi"
+        },
+        "answer": "a",
+        "justification": "Niedokrwistość z niedoboru żelaza jest zdecydowanie najczęstszą postacią anemii u dzieci na całym świecie."
+    },
+    {
+        "question": "Niedokrwistość normocytarna i normochromiczna u dziecka może wystąpić w wyniku:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ostrej utraty krwi po urazie",
+            "b": "przewlekłego niedoboru żelaza",
+            "c": "niedoboru witaminy B12",
+            "d": "talasemii"
+        },
+        "answer": "a",
+        "justification": "W przypadku nagłej, ostrej utraty krwi (np. po urazie), organizm traci pełną krew. Zanim uruchomione zostaną mechanizmy kompensacyjne, niedokrwistość ma charakter normocytarny i normochromiczny. Niedobór żelaza i talasemia dają anemię mikrocytarną, a niedobór B12 - makrocytarną."
+    },
+    {
+        "question": "Wskaż fałszywe stwierdzenie o hemofilii A:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "dotyczy niedoboru czynnika IX",
+            "b": "występuje głównie u chłopców",
+            "c": "jest sprzężona z chromosomem X",
+            "d": "jest jedną z najczęstszych ciężkich skaz krwotocznych"
+        },
+        "answer": "a",
+        "justification": "Stwierdzenie A jest fałszywe. Hemofilia A jest spowodowana niedoborem czynnika krzepnięcia VIII. Niedobór czynnika IX to hemofilia B. Pozostałe stwierdzenia są prawdziwe."
+    },
+    {
+        "question": "Stopień wyleczenia w ostrych białaczkach limfoblastycznych u dzieci wynosi około:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "80%",
+            "b": "60%",
+            "c": "40%",
+            "d": "są niewyleczalne"
+        },
+        "answer": "a",
+        "justification": "Dzięki nowoczesnym protokołom leczenia, odsetek wyleczeń w ostrej białaczce limfoblastycznej (ALL) u dzieci sięga 80-90%."
+    },
+    {
+        "question": "W ciężkiej hemofilii A aktywność czynnika VIII we krwi wynosi:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "2-5%",
+            "b": "10%",
+            "c": "8%",
+            "d": "<1%"
+        },
+        "answer": "d",
+        "justification": "Ciężkość hemofilii klasyfikuje się na podstawie aktywności niedoborowego czynnika. Postać ciężka to aktywność poniżej 1% normy, umiarkowana 1-5%, a łagodna >5-40%."
+    },
+    {
+        "question": "Do objawów oponowych nie zaliczysz:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "objawu Brudzińskiego",
+            "b": "objawu Kerniga",
+            "c": "sztywności karku",
+            "d": "objawu Babińskiego"
+        },
+        "answer": "d",
+        "justification": "Objawy Brudzińskiego (karkowy, łonowy) i Kerniga oraz sztywność karku to klasyczne objawy oponowe, świadczące o podrażnieniu opon mózgowo-rdzeniowych. Objaw Babińskiego jest objawem neurologicznym świadczącym o uszkodzeniu drogi korowo-rdzeniowej (piramidowej)."
+    },
+    {
+        "question": "Najczęstszymi nowotworami u dzieci są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "chłoniaki",
+            "b": "białaczki",
+            "c": "guzy OUN",
+            "d": "neuroblastoma"
+        },
+        "answer": "b",
+        "justification": "Najliczniejszą grupę nowotworów złośliwych wieku dziecięcego stanowią białaczki, głównie ostra białaczka limfoblastyczna (ALL)."
+    },
+    {
+        "question": "Najczęstszymi nowotworami w kolejności u dzieci są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "białaczki, guzy OUN, chłoniaki",
+            "b": "chłoniaki, guzy OUN, białaczki",
+            "c": "guzy OUN, białaczki, chłoniaki",
+            "d": "białaczki, chłoniaki, guzy OUN"
+        },
+        "answer": "a",
+        "justification": "Prawidłowa kolejność występowania najczęstszych grup nowotworów u dzieci to: 1. Białaczki, 2. Guzy ośrodkowego układu nerwowego (OUN), 3. Chłoniaki."
+    },
+    {
+        "question": "Wskaż fałszywe zdanie o guzie Wilmsa:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "najczęściej występuje u młodzieży",
+            "b": "jest najczęstszym nowotworem złośliwym nerki u dzieci",
+            "c": "może występować obustronnie",
+            "d": "może być wyczuwalny przez powłoki ciała"
+        },
+        "answer": "a",
+        "justification": "Guz Wilmsa (nerczak zarodkowy) jest nowotworem typowym dla wczesnego dzieciństwa (szczyt 2-3 r.ż.). U młodzieży występuje niezmiernie rzadko."
+    },
+    {
+        "question": "Przyczyną 'szczekającego kaszlu' u dzieci są najczęściej:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "bakterie",
+            "b": "wirusy",
+            "c": "grzyby",
+            "d": "pierwotniaki"
+        },
+        "answer": "b",
+        "justification": "'Szczekający kaszel' to objaw krupu (ostrego podgłośniowego zapalenia krtani), które w zdecydowanej większości przypadków ma etiologię wirusową (najczęściej wirusy paragrypy)."
+    },
+    {
+        "question": "Najczęstszym guzem litym u dzieci zlokalizowanym poza okolicą głowy jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "neuroblastoma",
+            "b": "guz Wilmsa",
+            "c": "siatkówczak",
+            "d": "hepatoblastoma"
+        },
+        "answer": "a",
+        "justification": "Nerwiak zarodkowy współczulny (neuroblastoma) jest najczęstszym litym nowotworem pozaczaszkowym wieku dziecięcego. Najczęściej lokalizuje się w jamie brzusznej (w nadnerczu lub zwojach współczulnych)."
+    },
+    {
+        "question": "Do objawów wgłobienia jelita zaliczamy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "stolec w postaci 'malinowej galaretki'",
+            "b": "nagły, napadowy, kolkowy ból brzucha",
+            "c": "wyczuwalny guz w jamie brzusznej",
+            "d": "wszystkie powyższe"
+        },
+        "answer": "d",
+        "justification": "Wszystkie wymienione objawy są charakterystyczne dla wgłobienia jelita. Klasyczna triada to: napadowy ból brzucha, wyczuwalny opór w jamie brzusznej oraz stolec o wyglądzie galaretki porzeczkowej/malinowej (krew ze śluzem)."
+    },
+    {
+        "question": "Największy przyrost masy i długości (wzrostu) w życiu człowieka zachodzi w okresie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "noworodkowym",
+            "b": "niemowlęctwie",
+            "c": "przedszkolnym",
+            "d": "szkolnym"
+        },
+        "answer": "b",
+        "justification": "Okres niemowlęcy (pierwszy rok życia) charakteryzuje się najintensywniejszym tempem wzrastania w całym okresie postnatalnym. W tym czasie dziecko potraja swoją masę urodzeniową i zwiększa długość ciała o około 50%."
+    },
+    {
+        "question": "Największe zapotrzebowanie metaboliczne (w przeliczeniu na kg masy ciała) mają dzieci w okresie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "noworodkowym",
+            "b": "niemowlęctwie",
+            "c": "dojrzewania",
+            "d": "szkolnym"
+        },
+        "answer": "a",
+        "justification": "Zapotrzebowanie na energię w przeliczeniu na kilogram masy ciała jest najwyższe w okresie noworodkowym i niemowlęcym (ok. 100-120 kcal/kg/dobę) ze względu na bardzo intensywny metabolizm i tempo wzrostu. Następnie stopniowo maleje."
+    },
+    {
+        "question": "Przedwczesne dojrzewanie u chłopców rozpoznaje się, gdy cechy dojrzewania pojawiają się przed ukończeniem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "10 r.ż.",
+            "b": "9 r.ż.",
+            "c": "8 r.ż.",
+            "d": "7 r.ż."
+        },
+        "answer": "b",
+        "justification": "Zgodnie z definicją, przedwczesne dojrzewanie płciowe u chłopców rozpoznajemy, gdy objawy pokwitania (np. powiększenie objętości jąder) pojawiają się przed ukończeniem 9. roku życia. U dziewczynek granicą jest 8. rok życia."
+    },
+    {
+        "question": "Profilaktyka infekcyjnego zapalenia wsierdzia dotyczy głównie zabiegów z zakresu:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "chirurgii",
+            "b": "stomatologii",
+            "c": "diabetologii",
+            "d": "pediatrii"
+        },
+        "answer": "b",
+        "justification": "Profilaktykę antybiotykową IZW stosuje się u pacjentów z grupy najwyższego ryzyka przed procedurami stomatologicznymi, które wiążą się z ryzykiem bakteriemii (manipulacje w obrębie dziąseł, okolicy okołowierzchołkowej zęba, naruszenie ciągłości błony śluzowej)."
+    },
+    {
+        "question": "W profilaktyce infekcyjnego zapalenia wsierdzia przed zabiegiem stomatologicznym podajemy jednorazowo:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ampicylinę",
+            "b": "penicylinę",
+            "c": "streptomycynę",
+            "d": "amoksycylinę"
+        },
+        "answer": "d",
+        "justification": "Lekiem z wyboru w profilaktyce IZW jest amoksycylina podana doustnie w pojedynczej dawce na 30-60 minut przed zabiegiem. W przypadku uczulenia na penicyliny stosuje się klindamycynę."
+    },
+    {
+        "question": "W hipoglikemii jako objaw nie występuje:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "nadmierne pragnienie",
+            "b": "głód",
+            "c": "niepokój",
+            "d": "tachykardia"
+        },
+        "answer": "a",
+        "justification": "Nadmierne pragnienie (polidypsja) jest objawem hiperglikemii (wysokiego poziomu cukru), a nie hipoglikemii. Objawy hipoglikemii to m.in. uczucie głodu, niepokój, drżenie rąk, potliwość, tachykardia, a w ciężkich przypadkach zaburzenia świadomości i drgawki."
+    },
+    {
+        "question": "Objawy cukrzycy typu 1 to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "nadpobudliwość, nudności",
+            "b": "przybranie na wadze, poliuria",
+            "c": "strata wagi, nadpobudliwość",
+            "d": "poliuria, polifagia, polidypsja, rozmyte widzenie"
+        },
+        "answer": "d",
+        "justification": "Odpowiedź D najpełniej opisuje klasyczne objawy cukrzycy typu 1: poliuria (wielomocz), polifagia (wzmożony apetyt), polidypsja (wzmożone pragnienie). Mogą im towarzyszyć utrata masy ciała i zaburzenia widzenia."
     }
 ]
