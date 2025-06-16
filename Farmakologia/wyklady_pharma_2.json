@@ -1,152 +1,302 @@
 [
   {
     "question": "Lidokaina w plastrach 5%, stosowana w leczeniu allodynii, wykazuje silne działanie systemowe i często wchodzi w interakcje z innymi lekami.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Zgodnie z prezentacją, lidokaina w tej formie nie ma działania systemowego i charakteryzuje się brakiem interakcji."
   },
   {
     "question": "W celu minimalizacji ryzyka uzależnienia od opioidów, należy wybierać leki o krótkim okresie półtrwania (T1/2).",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Prezentacja zaleca wybieranie opioidowych leków przeciwbólowych o długim T1/2 lub w formach o przedłużonym działaniu."
   },
   {
     "question": "Metadon i ketamina należą do antagonistów receptora NMDA.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Zarówno metadon, jak i ketamina (oraz dekstrometorfan i bupiwakaina) są wymienione na slajdzie jako antagoniści receptora NMDA."
   },
   {
     "question": "Najczęstszym objawem ubocznym po zastosowaniu opioidów, występującym u 100% pacjentów, są zaparcia.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Prezentacja wskazuje, że zaparcia występują u 100% pacjentów leczonych opioidami, podczas gdy np. nudności i wymioty u 50%."
   },
   {
     "question": "W leczeniu bólu kostnego nie stosuje się bisfosfonianów ani kalcytoniny.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Zarówno bisfosfoniany, jak i kalcytonina są wymienione jako opcje terapeutyczne w leczeniu bólu kostnego, obok NLPZ, opioidów i radioterapii."
   },
   {
     "question": "Głównymi powikłaniami przerzutów nowotworowych do kości są ból, złamania patologiczne oraz hiperkalcemia.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Prezentacja wymienia ból, powikłania neurologiczne, złamania patologiczne, hiperkalcemię i niewydolność szpiku jako powikłania przerzutów do kości."
   },
   {
     "question": "Wskazaniem specjalnym do zastosowania kortykosteroidów w opiece paliatywnej jest m.in. hiperkalcemia oraz popromienne zapalenie płuc.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Zarówno hiperkalcemia, jak i popromienne zapalenie płuc są wymienione na liście wskazań specjalnych do stosowania kortykosteroidów."
   },
   {
     "question": "Lekami uzupełniającymi (koanalgetykami) w terapii bólu są m.in. leki przeciwdepresyjne, przeciwdrgawkowe oraz glikokortykoidy.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Wszystkie wymienione grupy leków są przedstawione na slajdzie jako przykłady koanalgetyków."
   },
   {
     "question": "Zgodnie z zasadami leczenia bólu wg WHO, leki należy podawać regularnie („reguła zegara”), a pacjent powinien być dodatkowo zaopatrzony w lek do leczenia bólu przebijającego.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Są to dwie z ogólnych zasad leczenia bólu nowotworowego przedstawionych na slajdzie."
   },
   {
     "question": "Paracetamol, ze względu na swój profil bezpieczeństwa, jest równie skuteczny w bólu nocyceptywnym jak inne leki z I stopnia drabiny analgetycznej.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Prezentacja podaje, że \"Paracetamol jest mniej skuteczny w bólu nocyceptywnym\"."
   },
   {
     "question": "Tramadol, oprócz działania na receptory opioidowe mi, hamuje również wychwyt zwrotny noradrenaliny i serotoniny.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Jest to opis podwójnego mechanizmu działania tramadolu przedstawiony w prezentacji."
   },
   {
     "question": "Morfina podawana doustnie jest 3 razy mniej skuteczna niż podawana parenteralnie.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Jest odwrotnie. Ze względu na efekt pierwszego przejścia, dawka doustna morfiny musi być około 3 razy wyższa od parenteralnej, aby uzyskać ten sam efekt."
   },
   {
     "question": "Buprenorfina, ze względu na swój metabolizm, nie jest rekomendowana u pacjentów z niewydolnością nerek i dializowanych.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Prezentacja wskazuje, że buprenorfina jest lekiem rekomendowanym u pacjentów z niewydolnością nerek (NN) i u pacjentów dializowanych."
   },
   {
     "question": "Przyczyną dny pierwotnej jest najczęściej nadmierna produkcja kwasu moczowego w organizmie.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Zgodnie z prezentacją, przyczyną w większości przypadków jest niedostateczne wydalanie kwasu moczowego przez nerki."
   },
   {
     "question": "Lekami pierwszego rzutu w leczeniu ostrego napadu dny są NLPZ, a w drugiej kolejności kolchicyna.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Lekiem pierwszego wyboru w ostrym napadzie dny jest kolchicyna. NLPZ (np. butapirazol) są stosowane w przypadku braku lub nietolerancji kolchicyny."
   },
   {
     "question": "Allopurynol i febuksostat to leki moczanopędne, zwiększające wydalanie kwasu moczowego z moczem.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Są to inhibitory oksydazy ksantynowej, które hamują syntezę kwasu moczowego. Lekami moczanopędnymi są np. probenecyd i benzbromaron."
   },
   {
     "question": "Raloksyfen jest lekiem pierwszego rzutu w osteoporozie pomenopauzalnej, ponieważ redukuje ryzyko złamań kręgów i pozakręgowych.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Prezentacja podaje, że raloksyfen redukuje złamania kręgów, ale w kolumnie dla złamań pozakręgowych (b.k.k.u) widnieje znak \"-\", co oznacza brak udowodnionej skuteczności."
   },
   {
     "question": "Zoledronian jest bisfosfonianem podawanym w comiesięcznych wlewach dożylnych.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Zoledronian podaje się we wlewie dożylnym (i.v.) w dawce 5 mg raz na rok."
   },
   {
     "question": "Denozumab, przeciwciało monoklonalne, działa antyresorpcyjnie w sposób odwracalny i może być stosowany u osób z niewydolnością nerek.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Prezentacja wymienia te cechy denozumabu: jest alternatywą dla bisfosfonianów, może być stosowany w niewydolności nerek, a jego działanie jest odwracalne."
   },
   {
     "question": "Teryparatyd, lek pobudzający kościotworzenie, jest bezpieczny w terapii długoterminowej, trwającej powyżej 24 miesięcy.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Prezentacja informuje, że bezpieczeństwo stosowania teryparatydu powyżej 24 miesięcy jest nieznane."
   },
   {
     "question": "Według teorii serotoninowej, napad migreny jest związany ze wzrostem poziomu serotoniny w mózgu.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Teoria serotoninowa zakłada, że napady migreny są związane ze spadkiem (\"decreased\") poziomu serotoniny."
   },
   {
     "question": "Beta-blokery są uważane za „złoty standard” w przerywaniu ostrego ataku migreny.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Beta-blokery (np. propranolol) są „złotym standardem” w leczeniu profilaktycznym (prewencji) migreny, a nie w przerywaniu ataku."
   },
   {
     "question": "W leczeniu anginy paciorkowcowej nie należy stosować trimetoprimu z sulfametoksazolem z powodu naturalnej oporności patogenu.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Prezentacja wyraźnie ostrzega przed stosowaniem tego połączenia w anginie paciorkowcowej, podając jako przyczynę naturalną oporność."
   },
   {
     "question": "W przypadku perforacji błony bębenkowej, w leczeniu zapalenia ucha zewnętrznego, można bezpiecznie stosować krople z cyprofloksacyną i sterydem.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Prezentacja wskazuje, że leczenie miejscowe jest przeciwwskazane przy perforacji, ale robi wyjątek dla preparatu z cyprofloksacyną i flucynolonem."
   },
   {
     "question": "Właściwe leczenie dzieci z nawracającym zapaleniem ucha środkowego nie wymaga badania mikrobiologicznego.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Ze względu na wysoki odsetek szczepów opornych, prezentacja podkreśla, że leczenie tej grupy pacjentów \"wymaga bezwzględnie badania mikrobiologicznego!!!\"."
   },
   {
     "question": "Klindamycyna w profilaktyce okołozabiegowej u dzieci uczulonych na penicylinę jest podawana w dawce 50 mg/kg m.c.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Zgodnie z rekomendacjami, dawka klindamycyny w tej sytuacji wynosi 20 mg/kg m.c."
   },
   {
     "question": "U pacjentów ze sztuczną zastawką serca nie zaleca się profilaktyki antybiotykowej przed zabiegami stomatologicznymi.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Pacjenci ze sztuczną zastawką serca należą do grupy najwyższego ryzyka wystąpienia IZW i wymagają profilaktyki antybiotykowej."
   },
   {
     "question": "Sam metanol jest silnie toksyczny, a jego metabolity (formaldehyd, kwas mrówkowy) są stosunkowo mało szkodliwe.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Jest odwrotnie. Sam metanol jest stosunkowo mało toksyczny, a jego metabolity są wysoce toksyczne i odpowiadają za objawy zatrucia (kwasica, ślepota)."
   },
   {
     "question": "Etanol jest odtrutką w zatruciu metanolem, ponieważ przyspiesza jego metabolizm do nietoksycznych związków.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Etanol jest odtrutką, ponieważ jako kompetytywny inhibitor dehydrogenazy alkoholowej hamuje metabolizm metanolu do toksycznych metabolitów."
   },
   {
     "question": "Zatrucie muchomorem sromotnikowym charakteryzuje się krótkim okresem utajenia (do 2 godzin) i łagodnym przebiegiem.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Zatrucie to charakteryzuje się długim okresem utajenia (8-48 godzin) i ciężkim przebiegiem z uszkodzeniem wątroby."
   }
-]s
+]

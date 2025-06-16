@@ -1,7 +1,6 @@
 // DOM Element Variables
 const questionTextElement = document.getElementById('question-text');
-const trueBtn = document.getElementById('true-btn');
-const falseBtn = document.getElementById('false-btn');
+const abcdAnswersContainer = document.getElementById('abcd-answers-container'); // Added
 const feedbackTextElement = document.getElementById('feedback-text');
 const justificationTextElement = document.getElementById('justification-text');
 const nextBtn = document.getElementById('next-btn');
@@ -60,14 +59,47 @@ function updateProgressBar() {
 }
 
 function disableAnswerButtons() {
-    trueBtn.disabled = true; falseBtn.disabled = true;
-    trueBtn.style.opacity = 0.7; falseBtn.style.opacity = 0.7;
+    if (abcdAnswersContainer) {
+        const singleChoiceButtons = abcdAnswersContainer.querySelectorAll('.btn-abcd');
+        singleChoiceButtons.forEach(button => {
+            button.disabled = true;
+            button.style.opacity = 0.7;
+        });
+
+        const checkboxes = abcdAnswersContainer.querySelectorAll('.checkbox-abcd');
+        checkboxes.forEach(checkbox => {
+            checkbox.disabled = true;
+        });
+
+        const submitMCQBtn = document.getElementById('submit-mcq-btn');
+        if (submitMCQBtn) {
+            submitMCQBtn.disabled = true;
+            submitMCQBtn.style.opacity = 0.7;
+        }
+    }
 }
 
 function enableAnswerButtons() {
-    trueBtn.disabled = false; falseBtn.disabled = false;
-    trueBtn.style.opacity = 1; falseBtn.style.opacity = 1;
+    if (abcdAnswersContainer) {
+        const singleChoiceButtons = abcdAnswersContainer.querySelectorAll('.btn-abcd');
+        singleChoiceButtons.forEach(button => {
+            button.disabled = false;
+            button.style.opacity = 1;
+        });
+
+        const checkboxes = abcdAnswersContainer.querySelectorAll('.checkbox-abcd');
+        checkboxes.forEach(checkbox => {
+            checkbox.disabled = false;
+        });
+
+        const submitMCQBtn = document.getElementById('submit-mcq-btn');
+        if (submitMCQBtn) { // Added null check
+            submitMCQBtn.disabled = false;
+            submitMCQBtn.style.opacity = 1;
+        }
+    }
 }
+
 
 // --- Quiz Logic Functions ---
 async function loadQuestions(fileName) {
@@ -127,13 +159,51 @@ async function loadQuestions(fileName) {
 function displayQuestion() {
     updateScoreDisplay();
     updateProgressBar();
+    if (abcdAnswersContainer) abcdAnswersContainer.innerHTML = ''; // Clear previous answer buttons
 
     if (currentQuestionIndex < questions.length) {
         const currentQuestion = questions[currentQuestionIndex];
         questionTextElement.textContent = currentQuestion.question;
+
+        if (currentQuestion.type === "single_choice_abcd") {
+            for (const optionKey in currentQuestion.options) {
+                const optionButton = document.createElement('button');
+                optionButton.textContent = optionKey + ": " + currentQuestion.options[optionKey];
+                optionButton.classList.add('btn');
+                optionButton.classList.add('btn-abcd');
+                optionButton.addEventListener('click', () => handleAnswer(optionKey));
+                if (abcdAnswersContainer) abcdAnswersContainer.appendChild(optionButton);
+            }
+        } else if (currentQuestion.type === "multiple_choice_abcd") {
+            for (const optionKey in currentQuestion.options) {
+                const optionDiv = document.createElement('div');
+                optionDiv.classList.add('mcq-option'); // For styling
+
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.id = `option_${optionKey}_checkbox`;
+                checkbox.value = optionKey;
+                checkbox.classList.add('checkbox-abcd');
+
+                const label = document.createElement('label');
+                label.htmlFor = checkbox.id;
+                label.textContent = optionKey + ": " + currentQuestion.options[optionKey];
+
+                optionDiv.appendChild(checkbox);
+                optionDiv.appendChild(label);
+                if (abcdAnswersContainer) abcdAnswersContainer.appendChild(optionDiv);
+            }
+            const submitMultipleChoiceBtn = document.createElement('button');
+            submitMultipleChoiceBtn.textContent = 'Potwierdź odpowiedzi';
+            submitMultipleChoiceBtn.id = 'submit-mcq-btn';
+            submitMultipleChoiceBtn.classList.add('btn');
+            submitMultipleChoiceBtn.addEventListener('click', handleMultipleChoiceAnswer);
+            if (abcdAnswersContainer) abcdAnswersContainer.appendChild(submitMultipleChoiceBtn);
+        }
+
         const finalScoreMsg = `Ostateczny wynik: ${correctScore} poprawnych, ${incorrectScore} niepoprawnych z ${questions.length} pytań.`;
         if (feedbackTextElement.textContent !== finalScoreMsg || currentQuestionIndex !== questions.length) {
-             feedbackTextElement.textContent = ''; // Clear feedback unless it's the final score message already set
+             feedbackTextElement.textContent = '';
         }
         justificationTextElement.textContent = '';
         nextBtn.classList.add('hidden');
@@ -148,14 +218,14 @@ function displayQuestion() {
     }
 }
 
-function handleAnswer(userAnswer) {
+function handleAnswer(userAnswer) { // userAnswer is now "A", "B", "C", or "D"
     if (currentQuestionIndex >= questions.length) return; // Quiz already ended
 
-    disableAnswerButtons();
+    disableAnswerButtons(); // Disable ABCD buttons
     const currentQuestion = questions[currentQuestionIndex];
     if (!currentQuestion) return;
 
-    const isCorrect = userAnswer === currentQuestion.answer;
+    const isCorrect = userAnswer === currentQuestion.answer; // Answer is "A", "B", etc.
 
     if (isCorrect) {
         correctScore++;
@@ -175,6 +245,43 @@ function handleAnswer(userAnswer) {
     updateScoreDisplay();
     nextBtn.classList.remove('hidden');
 }
+
+function handleMultipleChoiceAnswer() {
+    if (currentQuestionIndex >= questions.length) return;
+
+    const currentQuestion = questions[currentQuestionIndex];
+    if (!currentQuestion || currentQuestion.type !== "multiple_choice_abcd") return;
+
+    const selectedCheckboxes = abcdAnswersContainer.querySelectorAll('.checkbox-abcd:checked');
+    const selectedOptions = Array.from(selectedCheckboxes).map(cb => cb.value);
+
+    // Sort both arrays for consistent comparison
+    const sortedSelectedOptions = [...selectedOptions].sort();
+    const sortedCorrectAnswers = [...currentQuestion.answer].sort();
+
+    let isCorrect = sortedSelectedOptions.length === sortedCorrectAnswers.length &&
+                    sortedSelectedOptions.every((value, index) => value === sortedCorrectAnswers[index]);
+
+    if (isCorrect) {
+        correctScore++;
+        feedbackTextElement.textContent = 'Poprawna odpowiedź!';
+        feedbackTextElement.style.color = 'green';
+    } else {
+        incorrectScore++;
+        feedbackTextElement.textContent = 'Niepoprawna odpowiedź.';
+        feedbackTextElement.style.color = 'red';
+    }
+    justificationTextElement.textContent = currentQuestion.justification;
+
+    localStorage.setItem(getStorageKey('quizCurrentQuestionIndex'), currentQuestionIndex.toString());
+    localStorage.setItem(getStorageKey('quizCorrectScore'), correctScore.toString());
+    localStorage.setItem(getStorageKey('quizIncorrectScore'), incorrectScore.toString());
+
+    updateScoreDisplay();
+    nextBtn.classList.remove('hidden');
+    disableAnswerButtons(); // Disable checkboxes and submit button
+}
+
 
 function resetQuiz() {
     if (!currentQuizId || !currentQuizFile) {
@@ -223,13 +330,29 @@ function displayErrorInMenu(message) {
 }
 
 function populateQuizSelectionMenu() {
-    quizButtonsContainer.innerHTML = '';
+    quizButtonsContainer.innerHTML = ''; // Clear existing buttons
+    const quizzesBySubject = {};
     availableQuizzes.forEach(quizInfo => {
-        const button = document.createElement('button');
-        button.textContent = quizInfo.title;
-        button.addEventListener('click', () => startQuiz(quizInfo));
-        quizButtonsContainer.appendChild(button);
+        if (!quizzesBySubject[quizInfo.subject]) {
+            quizzesBySubject[quizInfo.subject] = [];
+        }
+        quizzesBySubject[quizInfo.subject].push(quizInfo);
     });
+
+    for (const subject in quizzesBySubject) {
+        const subjectHeading = document.createElement('h2');
+        subjectHeading.textContent = subject;
+        quizButtonsContainer.appendChild(subjectHeading);
+
+        quizzesBySubject[subject].forEach(quizInfo => {
+            const button = document.createElement('button');
+            button.textContent = quizInfo.title;
+            // Add class or style for better appearance if needed
+            // Example: button.classList.add('quiz-subject-button');
+            button.addEventListener('click', () => startQuiz(quizInfo));
+            quizButtonsContainer.appendChild(button);
+        });
+    }
 }
 
 function startQuiz(quizInfo) {
@@ -263,8 +386,8 @@ function showQuizContainer() {
 }
 
 // --- Event Listeners ---
-if (trueBtn) trueBtn.addEventListener('click', () => handleAnswer(true));
-if (falseBtn) falseBtn.addEventListener('click', () => handleAnswer(false));
+// Removed: if (trueBtn) trueBtn.addEventListener('click', () => handleAnswer(true));
+// Removed: if (falseBtn) falseBtn.addEventListener('click', () => handleAnswer(false));
 
 if (nextBtn) {
     nextBtn.addEventListener('click', () => {

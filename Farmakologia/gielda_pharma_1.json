@@ -1,367 +1,732 @@
 [
   {
     "question": "Nimesulid, nabumeton i etodolak należą do grupy NLPZ o przeważającym działaniu na enzym COX-1.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Nimesulid, nabumeton i etodolak to niesteroidowe leki przeciwzapalne (NLPZ) o preferencyjnym lub selektywnym działaniu na cyklooksygenazę 2 (COX-2), a nie COX-1."
   },
   {
     "question": "Leki przeciwbólowe z grupy NLPZ mogą istotnie zmniejszać działanie hipotensyjne leków z grupy IKA.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "NLPZ hamują syntezę prostaglandyn, które mają działanie rozszerzające naczynia krwionośne. Poprzez ten mechanizm osłabiają efekt hipotensyjny inhibitorów konwertazy angiotensyny (IKA)."
   },
   {
     "question": "IKA, poprawiając wrażliwość tkanek na insulinę, mogą w skojarzeniu z lekami hipoglikemizującymi być przyczyną istotnego zmniejszenia stężenia glukozy we krwi.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Inhibitory konwertazy angiotensyny (IKA) zwiększają wrażliwość tkanek na insulinę, co w połączeniu z lekami przeciwcukrzycowymi może nasilać ich działanie i prowadzić do hipoglikemii."
   },
   {
     "question": "Kolka żółciowa jest przeciwwskazaniem do stosowania morfiny.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Morfina powoduje skurcz zwieracza Oddiego, co może nasilać ból i objawy kolki żółciowej. Dlatego jest to względne przeciwwskazanie do jej stosowania w tym stanie."
   },
   {
     "question": "Zgodnie z klasyfikacją działań niepożądanych leków reakcje typu B są skutkiem nadwrażliwości immunologicznej lub idiosynkrazji organizmu na lek.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Reakcje niepożądane typu B (ang. bizarre - dziwaczne) są nieprzewidywalne, niezależne od dawki i wynikają z mechanizmów immunologicznych (alergie) lub nieimmunologicznych (idiosynkrazja, nadwrażliwość)."
   },
   {
     "question": "Przy skojarzonym leczeniu antybiotykami lek bakteriobójczy nie należy łączyć z lekiem bakteriostatycznym.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Jest to ogólna zasada farmakoterapii. Leki bakteriostatyczne hamują namnażanie się bakterii, a wiele leków bakteriobójczych (np. beta-laktamy) jest najskuteczniejszych wobec aktywnie dzielących się komórek. Połączenie tych grup może prowadzić do antagonizmu i osłabienia efektu terapeutycznego."
   },
   {
     "question": "Ropne zapalenie tkanki okołozębowej bakteriami beztlenowymi jest wskazaniem do zastosowania metronidazolu.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Metronidazol ma spektrum działania obejmujące bakterie beztlenowe, które są częstą przyczyną ropnych zakażeń w obrębie jamy ustnej i tkanek okołozębowych."
   },
   {
     "question": "Infekcja spowodowana szczepem Mycoplasma pneumoniae nie reaguje na antybiotyki betalaktamowe.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Mycoplasma pneumoniae jest bakterią atypową, która nie posiada ściany komórkowej. Antybiotyki beta-laktamowe działają poprzez hamowanie syntezy ściany komórkowej, dlatego są nieskuteczne w leczeniu zakażeń wywołanych przez Mycoplasma."
   },
   {
     "question": "Cyprofloksacyna należy do chemioterapeutyków z grupy makrolidów.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Cyprofloksacyna jest chemioterapeutykiem z grupy fluorochinolonów."
   },
   {
     "question": "Itrakonazol będzie zwiększał toksyczność atorwastatyny, ponieważ hamuje jej metabolizm.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Itrakonazol jest silnym inhibitorem enzymu cytochromu P450 3A4 (CYP3A4), który metabolizuje atorwastatynę. Zahamowanie metabolizmu prowadzi do wzrostu stężenia atorwastatyny we krwi i zwiększa ryzyko działań niepożądanych, w tym miopatii i rabdomiolizy."
   },
   {
     "question": "Flukonazol nie ma wystarczającej skuteczności w leczeniu grzybicy typu Aspergillosis.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Flukonazol ma ograniczone spektrum działania i jest nieskuteczny wobec grzybów z rodzaju Aspergillus. Lekami z wyboru w leczeniu aspergilozy są worykonazol lub amfoterycyna B."
   },
   {
     "question": "Oseltamiwir i zanamiwir to leki stosowane w leczeniu infekcji wirusami grypy blokujące enzym neuraminidazę.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "To jest dokładny opis mechanizmu działania oseltamiwiru i zanamiwiru. Są to inhibitory neuraminidazy wirusa grypy, które hamują uwalnianie nowych wirionów z zakażonych komórek."
   },
   {
     "question": "Lekiem z wyboru w leczeniu infekcji wirusem HBV jest lamiwudyna.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Lamiwudyna jest lekiem stosowanym w leczeniu WZW typu B. Należy jednak pamiętać, że ze względu na narastającą oporność, obecnie lekami pierwszego rzutu są entekawir i tenofowir."
   },
   {
     "question": "Hipoglikemia, hipourikemia i hiperpotasemia to najczęstsze działania niepożądane diuretyków tiazydowych.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Diuretyki tiazydowe powodują działania niepożądane o przeciwnym charakterze: hiperglikemię, hiperurykemię oraz hipokaliemię. Dodatkowo mogą powodować hiponatremię, hipomagnezemię i hiperkalcemię."
   },
   {
     "question": "Hydralazyna, pochodna hydrazyny, rozszerza tętnice, natomiast nie wpływa na żyły.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Hydralazyna jest pochodną ftalazyny, a nie hydrazyny. Rzeczywiście, działa niemal wyłącznie na tętnice, z minimalnym wpływem na żyły, ale błąd w klasyfikacji chemicznej czyni zdanie fałszywym."
   },
   {
     "question": "Klopidogrel to lek przeciwpłytkowy działający poprzez blokowanie enzymu COX-1.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Klopidogrel jest antagonistą receptorów P2Y12 dla ADP na płytkach krwi. Enzym COX-1 jest blokowany przez kwas acetylosalicylowy (aspirynę)."
   },
   {
     "question": "Bisoprolol, karwedilol i metoprolol to beta-blokery stosowane w leczeniu zastoinowej niewydolności serca.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Są to trzy z czterech (razem z nebiwololem) beta-blokerów, dla których udowodniono skuteczność w zmniejszaniu śmiertelności u pacjentów z przewlekłą niewydolnością serca z obniżoną frakcją wyrzutową (HFrEF)."
   },
   {
     "question": "Prokainamid to lek antyarytmiczny, którego częstym działaniem niepożądanym jest zespół toczniopodobny.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Długotrwałe stosowanie prokainamidu wiąże się z wysokim ryzykiem wystąpienia polekowego zespołu toczniopodobnego (drug-induced lupus erythematosus)."
   },
   {
     "question": "W celu minimalizacji działań niepożądanych sterydów należy podawać je wieczorem.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Glikokortykosteroidy należy podawać rano (zwykle między 6:00 a 8:00), aby naśladować naturalny dobowy rytm wydzielania kortyzolu, co minimalizuje supresję osi podwzgórze-przysadka-nadnercza."
   },
   {
     "question": "Hormonalna terapia zastępcza (HTZ) u kobiet po menopauzie zmniejsza ryzyko raka jelita grubego.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Badania kliniczne wykazały, że stosowanie hormonalnej terapii zastępczej (zarówno estrogenowej, jak i estrogenowo-progestagenowej) jest związane ze zmniejszeniem ryzyka zachorowania na raka jelita grubego."
   },
   {
     "question": "Insulinę typu glargin nie należy podawać łącznie z krótkodziałającymi preparatami, ponieważ z powodu różnicy pH dochodzi do wytrącenia roztworu.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Insulina glargin jest podstawą schematu leczenia bazal-bolus, w którym jest podawana razem (ale w oddzielnych wstrzyknięciach) z insulinami krótkodziałającymi. Nie należy ich mieszać w jednej strzykawce właśnie z powodu różnicy pH i ryzyka wytrącenia."
   },
   {
     "question": "U chorego z cukrzycą typu 2 metformina nie może doprowadzić do śpiączki hipoglikemicznej.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Metformina, stosowana w monoterapii, nie powoduje hipoglikemii, ponieważ jej mechanizm działania nie polega na stymulacji wydzielania insuliny. Najpoważniejszym, choć rzadkim, działaniem niepożądanym jest kwasica mleczanowa."
   },
   {
     "question": "Lekiem z wyboru u kobiet w ciąży z drgawkami na tle stanu rzucawkowego w celu ich przerwania jest siarczan magnezu.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Siarczan magnezu jest lekiem pierwszego rzutu w leczeniu i profilaktyce drgawek w przebiegu stanu przedrzucawkowego i rzucawki (eclampsia)."
   },
   {
     "question": "Aminoglutetymid to inhibitor syntezy sterydów stosowany u chorych z chorobą Cushinga.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Aminoglutetymid hamuje enzym desmolazę cholesterolową, blokując wczesny i kluczowy etap syntezy wszystkich hormonów steroidowych. Jest stosowany w leczeniu zespołu Cushinga."
   },
   {
     "question": "Hormony tarczycy T3 i T4 należy dawkować na podstawie poziomu TSH w surowicy.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Dawkowanie hormonów tarczycy monitoruje się głównie na podstawie stężenia TSH, ale ocenia się również poziom wolnych hormonów (szczególnie fT4), aby zapewnić optymalną substytucję. W niektórych stanach, np. wtórnej niedoczynności, monitorowanie opiera się wyłącznie na fT4."
   },
   {
     "question": "Omalizumab to lek przerywający atak astmy.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Omalizumab jest lekiem stosowanym w leczeniu przewlekłym ciężkiej astmy alergicznej w celu kontroli choroby. Nie jest lekiem ratunkowym i nie przerywa ostrego ataku duszności."
   },
   {
     "question": "Montelukast może być stosowany u dzieci z astmą od 6 roku życia.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Montelukast jest zatwierdzony do stosowania u znacznie młodszych dzieci, w zależności od postaci leku nawet od 6. miesiąca życia."
   },
   {
     "question": "Ondansetron to lek przeciwwymiotny skuteczny u chorych otrzymujących leki onkologiczne.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Ondansetron, antagonista receptora 5-HT3, jest podstawowym lekiem w profilaktyce i leczeniu nudności i wymiotów wywołanych chemioterapią (CINV)."
   },
   {
     "question": "Leki alkilujące zachowują swoje działanie przeciwnowotworowe niezależnie od cyklu podziału komórki nowotworowej.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Leki alkilujące są klasyfikowane jako leki cytostatyczne niezależne od fazy cyklu komórkowego (mogą uszkadzać DNA komórki w każdej fazie, w tym G0). Ich działanie jest jednak najsilniejsze na komórki aktywnie dzielące się."
   },
   {
     "question": "Imatinib to inhibitor kinazy tyrozynowej stosowany w leczeniu nowotworów typu GIST oraz białaczek CML i CLL.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Imatynib jest stosowany w leczeniu przewlekłej białaczki szpikowej (CML) i nowotworów GIST, ale nie jest stosowany w leczeniu przewlekłej białaczki limfocytowej (CLL)."
   },
   {
     "question": "Trastuzumab to przeciwciało przeciwko receptorom CD20 na limfocytach B stosowane w leczeniu chłonniaków nieziarniczych.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Opisany lek to Rytuksymab (przeciwciało anty-CD20). Trastuzumab jest przeciwciałem monoklonalnym skierowanym przeciwko receptorowi HER2, stosowanym w leczeniu raka piersi i żołądka."
   },
   {
     "question": "Lek L-DOPA ma większą biodostępność u osób starszych.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "U osób starszych dochodzi do zmniejszenia aktywności dekarboksylazy DOPA w jelitach, co prowadzi do mniejszego metabolizmu lewodopy przed wchłonięciem i w konsekwencji do jej zwiększonej biodostępności."
   },
   {
     "question": "W bakteryjnym zapaleniu ucha zewnętrznego zalecane jest stosowanie cefakloru doustnie.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "W leczeniu niepowikłanego zapalenia ucha zewnętrznego podstawą są preparaty miejscowe (krople) zawierające antybiotyk (np. fluorochinolon) i często steryd. Antybiotykoterapia doustna jest zarezerwowana dla cięższych przypadków."
   },
   {
     "question": "Dawka amoksycyliny profilaktycznie stosowanej w stomatologii to 2000mg.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "W profilaktyce infekcyjnego zapalenia wsierdzia u dorosłych przed zabiegami stomatologicznymi standardowa dawka to 2 g (2000 mg) amoksycyliny podane doustnie 30-60 minut przed procedurą."
   },
   {
     "question": "Denozumab w leczeniu osteoporozy jest stosowany s.c. w dawce 60mg co 6m.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "To jest prawidłowy schemat dawkowania denozumabu w leczeniu osteoporozy pomenopauzalnej."
   },
   {
     "question": "Sumatriptan w terapii migreny jest stosowany tylko s.c. (podskórnie).",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Sumatryptan jest dostępny w wielu formach: iniekcji podskórnych, tabletek doustnych oraz aerozolu do nosa."
   },
   {
     "question": "Flozyny, jak empagliflozyna i dapagliflozyna, nie są zalecane u chorych z niewydolnością serca bez cukrzycy typu 2.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Wręcz przeciwnie, inhibitory SGLT2 (flozyny) są obecnie kluczowym elementem terapii niewydolności serca z obniżoną frakcją wyrzutową (HFrEF), niezależnie od tego, czy pacjent choruje na cukrzycę."
   },
   {
     "question": "Chlortalidon to lek moczopędny stosowany w leczeniu nadciśnienia tętniczego z dłuższym czasem półtrwania od indapamidu.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Chlortalidon ma znacznie dłuższy okres półtrwania (około 40-60 godzin) w porównaniu do indapamidu (około 14-18 godzin), co zapewnia bardziej stabilną kontrolę ciśnienia w ciągu doby."
   },
   {
     "question": "Leki przeciwzakrzepowe z grupy NOAC, w odróżnieniu od anty-VitK, nie mogą być stosowane u chorych z eGFR <30ml/min.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Niektóre leki z grupy NOAC (nowe doustne antykoagulanty), jak apiksaban czy rywaroksaban, mogą być stosowane u pacjentów z eGFR w przedziale 15-29 ml/min, ale wymagają redukcji dawki i szczególnej ostrożności."
   },
   {
     "question": "Wysokie ryzyko powikłań zakrzepowo-zatorowych to wynik wg skali CHA2DS2-VASc ≥ 3.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "W skali CHA2DS2-VASc wynik 2 u mężczyzn lub 3 u kobiet jest wskazaniem do włączenia leczenia przeciwkrzepliwego. Wynik ≥3 u obu płci oznacza wysokie ryzyko udaru mózgu w przebiegu migotania przedsionków."
   },
   {
     "question": "U chorego z wysokim ryzykiem krwawienia i wysokim ryzykiem zakrzepowym, stosującym DAPT (aspiryna+klopidogrel) i potrzebującym pilnego zabiegu stomatologicznego, aspirynę należy kontynuować, a klopidogrel odstawić.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Jest to standardowa praktyka w terapii pomostowej. Odstawia się silniejszy lek przeciwpłytkowy (klopidogrel, zwykle na 5 dni przed zabiegiem), pozostawiając pacjenta na monoterapii kwasem acetylosalicylowym, co stanowi kompromis między ryzykiem krwawienia a zakrzepicy."
   },
   {
     "question": "Przeciwciała monoklonalne nie różnią się budową od przeciwciał zwykłych.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Przeciwciała monoklonalne są jednorodną populacją identycznych immunoglobulin, skierowanych przeciwko jednemu epitopowi. Przeciwciała \"zwykłe\" (poliklonalne) to mieszanina różnych immunoglobulin, rozpoznających wiele epitopów jednego antygenu."
   },
   {
     "question": "Wiek nie jest czynnikiem wpływającym na immunogenność leków biologicznych.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Wiek jest istotnym czynnikiem. Układ odpornościowy u osób w podeszłym wieku (immunnosenescencja) oraz u bardzo małych dzieci (niedojrzałość) funkcjonuje inaczej, co może wpływać na ryzyko wytworzenia przeciwciał przeciwko lekom biologicznym."
   },
   {
     "question": "Analiza minimalizacji kosztów w farmakoekonomice może być stosowana w odniesieniu do leków generycznych.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Analiza minimalizacji kosztów (CMA) jest stosowana do porównywania technologii medycznych o udowodnionej, równoważnej skuteczności i bezpieczeństwie. Jest to idealne narzędzie do porównywania leku oryginalnego z jego generycznym odpowiednikiem."
   },
   {
     "question": "Koszty ponoszone przez krewnych pacjenta w trakcie choroby są zaliczane do kosztów pośrednich.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Koszty pośrednie obejmują straty produktywności spowodowane chorobą, zarówno pacjenta, jak i jego opiekunów (np. członków rodziny biorących urlop w celu opieki)."
   },
   {
     "question": "Toksyczność podostra w ramach badań przedklinicznych nowego leku jest badana zazwyczaj z jedną dawką i na jednym gatunku zwierząt.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Badanie toksyczności podostrej (subchronicznej) polega na podawaniu powtarzanych dawek przez określony czas (np. 28 lub 90 dni) i jest wymagane na co najmniej dwóch gatunkach zwierząt (zwykle gryzoniu i niegryzoniu)."
   },
   {
     "question": "Ryzyko względne w badaniach klinicznych leków to część ryzyka, jaka pozostaje po interwencji nowym lekiem w porównaniu z grupą kontrolną.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Chociaż jest to uproszczona definicja, można ją tak interpretować. Ryzyko względne (RR) to stosunek ryzyka w grupie badanej do ryzyka w grupie kontrolnej. RR < 1 oznacza redukcję ryzyka, a wartość RR (np. 0.8) można rozumieć jako 80% ryzyka, które \"pozostało\" w porównaniu do grupy kontrolnej."
   },
   {
     "question": "Palenie tytoniu może zmieniać farmakokinetykę leku.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Wielopierścieniowe węglowodory aromatyczne zawarte w dymie tytoniowym są silnymi induktorami enzymów wątrobowych, zwłaszcza CYP1A2. Może to przyspieszać metabolizm leków, które są substratami dla tego enzymu (np. teofilina, kofeina), osłabiając ich działanie."
   },
   {
     "question": "Wielkość cząsteczek nie ma wpływu na transport bierny leku.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Wielkość cząsteczki (masa cząsteczkowa) jest jednym z kluczowych czynników determinujących zdolność leku do przechodzenia przez błony biologiczne na drodze dyfuzji biernej. Mniejsze cząsteczki dyfundują łatwiej."
   },
   {
     "question": "Przerost dziąseł występujący po cyklosporynie jest wprost proporcjonalny do stężenia leku w osoczu.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Przerost dziąseł jest znanym, zależnym od stężenia leku działaniem niepożądanym cyklosporyny (a także fenytoiny i blokerów kanału wapniowego). Wyższe stężenia leku w osoczu korelują z większym ryzykiem i nasileniem tego objawu."
   },
   {
     "question": "Koncyliacja lekowa to zgłaszanie działań niepożądanych leków i suplementów diety najpóźniej dzień po ich wystąpieniu.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Koncyliacja (uzgadnianie) lekowa to proces tworzenia kompletnej i dokładnej listy wszystkich leków przyjmowanych przez pacjenta i porównywanie jej z zaleceniami lekarskimi w celu uniknięcia błędów. Zgłaszanie działań niepożądanych to farmakowigilancja."
   },
   {
     "question": "Jeżeli pacjent potrzebuje 100mcg (mikrogramów) leku występującego w postaci ampułki 1ml zawierającej 1mg leku, należy mu zaaplikować pojemność 0,01ml.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Obliczenie: 1 mg = 1000 mcg. Stężenie leku wynosi 1000 mcg/1 ml. Aby podać 100 mcg, należy zaaplikować objętość: (100 mcg / 1000 mcg) * 1 ml = 0,1 ml."
   },
   {
     "question": "Wzór Widmarka pozwala na obliczenie stężenia alkoholu we krwi na podstawie masy ciała i ilości wypitego alkoholu.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Wzór Widmarka jest podstawową formułą używaną w toksykologii do szacowania stężenia alkoholu we krwi (BAC) na podstawie spożytej ilości, masy ciała, płci i współczynnika dystrybucji."
   },
   {
     "question": "Etanol nie może być stosowany w leczeniu zatrucia metanolem.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Etanol jest historycznym i wciąż akceptowalnym antidotum w zatruciu metanolem. Działa jako konkurencyjny substrat dla dehydrogenazy alkoholowej, hamując przemianę metanolu do toksycznych metabolitów. Obecnie preferowany jest fomepizol, ale etanol pozostaje opcją terapeutyczną."
   },
   {
     "question": "Adrenalina do podawania i.m. występuje tylko w jednej dawce.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Adrenalina do podawania domięśniowego (np. w ampułkostrzykawkach) jest dostępna w różnych dawkach, dostosowanych do wieku i masy ciała pacjenta (np. 0,15 mg dla dzieci, 0,3 mg i 0,5 mg dla dorosłych)."
   },
   {
     "question": "Atak kolki żółciowej w trakcie zabiegu stomatologicznego jest wskazaniem do wstrzyknięcia morfiny i.v.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Morfina jest przeciwwskazana (względnie) w kolce żółciowej, ponieważ powoduje skurcz zwieracza Oddiego, co może nasilić ból. Należy zastosować leki rozkurczowe i inne leki przeciwbólowe (np. NLPZ, petydynę, metamizol)."
   },
   {
     "question": "Za działania niepożądane leków uważamy tylko te występujące po przekroczeniu dawek zalecanych.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Działania niepożądane mogą występować również przy stosowaniu leków w dawkach terapeutycznych (zalecanych). Działania występujące po przekroczeniu dawki to zatrucia (działania toksyczne)."
   },
   {
     "question": "Leki o szerokim współczynniku terapeutycznym dają więcej interakcji.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Leki o wąskim współczynniku (indeksie) terapeutycznym są znacznie bardziej narażone na klinicznie istotne interakcje, ponieważ nawet niewielkie zmiany ich stężenia we krwi mogą prowadzić do utraty skuteczności lub do toksyczności."
   },
   {
     "question": "U pacjenta leczonego itrakonazolem podanie standardowej dawki midazolamu może okazać się toksyczne.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Itrakonazol jest silnym inhibitorem CYP3A4, enzymu metabolizującego midazolam. Ich jednoczesne podanie drastycznie zwiększy stężenie midazolamu, prowadząc do głębokiej i przedłużonej sedacji oraz depresji oddechowej."
   },
   {
     "question": "U kobiet w ciąży występuje zmniejszenie zdolności oksydacyjnej wątroby i zwiększenie fazy II detoksykacji.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Zmiany w metabolizmie leków w ciąży są złożone i zależą od konkretnego enzymu. Aktywność niektórych enzymów CYP (faza I) wzrasta (np. CYP3A4, CYP2D6), a innych maleje (np. CYP1A2). Aktywność niektórych enzymów fazy II (np. UGT) również wzrasta. Stwierdzenie jest nieprecyzyjne i błędne."
   },
   {
     "question": "U niemowląt są preferowane leki aplikowane przez skórę.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "U niemowląt, ze względu na cieńszy naskórek i większy stosunek powierzchni ciała do masy, wchłanianie przezskórne jest znacznie zwiększone. Stwarza to wysokie ryzyko toksyczności ogólnoustrojowej, dlatego leki aplikowane na skórę stosuje się z dużą ostrożnością, a nie jako formę preferowaną."
   },
   {
     "question": "Zgodnie z zasadami chronofarmakologii, glikokortykosteroidy są bardziej toksyczne podane rano niż wieczorem.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Jest odwrotnie. Glikokortykosteroidy są mniej toksyczne i powodują mniejszą supresję osi podwzgórze-przysadka-nadnercza, gdy są podawane rano, zgodnie z fizjologicznym rytmem wydzielania kortyzolu."
   },
   {
     "question": "Okno czy przedział terapeutyczny to zakres stężeń leku, w ramach którego występuje największe prawdopodobieństwo skutecznego i nietoksycznego działania leku.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Jest to precyzyjna definicja okna (przedziału) terapeutycznego."
   },
   {
     "question": "Czas pobierania próbek krwi do oznaczenia stężenia leku to po osiągnięciu stanu stacjonarnego leku i po podaniu kolejnej dawki.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Moment pobrania próbki zależy od tego, jakie stężenie chcemy zmierzyć. Stężenie minimalne (Cmin, trough) pobiera się bezpośrednio PRZED podaniem kolejnej dawki, a stężenie maksymalne (Cmax, peak) w określonym czasie PO podaniu dawki."
   },
   {
     "question": "Dostępność biologiczna leku to stopień wchłaniania substancji aktywnej leku do krążenia ogólnego niezależnie od szybkości wchłaniania.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Dostępność biologiczna (bezwzględna) jest definiowana przez ilość (stopień) leku, która dostaje się do krążenia (mierzona jako pole pod krzywą AUC), ale jej charakterystykę uzupełnia szybkość wchłaniania (opisywana przez Cmax i tmax)."
   },
   {
     "question": "Obniżony poziom we krwi alfa-1 glikoproteiny może zwiększyć toksyczność leków znieczulających miejscowo.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Kwaśna alfa-1 glikoproteina (AAG) jest białkiem wiążącym leki o charakterze zasadowym, do których należy wiele leków znieczulających miejscowo (np. lidokaina, bupiwakaina). Jej obniżony poziom prowadzi do wzrostu wolnej, aktywnej frakcji leku, co zwiększa ryzyko toksyczności."
   },
   {
     "question": "Niepożądane działanie leku (ADR) to każde jego niezamierzone i toksyczne działanie, niezależnie od zastosowanej dawki.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Jest to szeroka, ale akceptowalna definicja. Działanie niepożądane (zgodnie z definicją WHO) to szkodliwa i niezamierzona reakcja, która występuje przy dawkach normalnie stosowanych u ludzi. Słowo \"toksyczne\" w pytaniu może być mylące, ale ogólny sens jest prawidłowy."
   },
   {
     "question": "Stosowanie leków „off-label\" zmniejsza ryzyko wystąpienia działań niepożądanych leków.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Stosowanie leków \"off-label\" (poza wskazaniami rejestracyjnymi) zwiększa ryzyko, ponieważ skuteczność i profil bezpieczeństwa leku w danym, niezarejestrowanym wskazaniu nie zostały w pełni zbadane i potwierdzone."
   },
   {
     "question": "Wspólne stosowanie leków o nieliniowej kinetyce eliminacji zmniejsza ryzyko ich interakcji.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Jest odwrotnie. Leki o kinetyce nieliniowej (wysycenia) są szczególnie podatne na interakcje, ponieważ niewielka zmiana dawki lub dodanie innego leku może prowadzić do nieproporcjonalnie dużych i nieprzewidywalnych zmian stężenia."
   },
   {
     "question": "Metoklopramid poprzez nasilenie motoryki jelit zwiększa wchłanianie digoksyny zastosowanej razem z tym lekiem.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Metoklopramid, przyspieszając perystaltykę, skraca czas pasażu jelitowego, co w przypadku wolno wchłaniającej się digoksyny prowadzi do zmniejszenia jej absorpcji i biodostępności."
   },
   {
     "question": "Dziurawiec wydłuża działanie leków znieczulających miejscowo.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Mimo że dziurawiec (St. John's Wort) jest induktorem enzymatycznym i skraca działanie wielu leków, istnieją doniesienia sugerujące, że może on wydłużać działanie leków znieczulających miejscowo. Mechanizm tego zjawiska nie jest w pełni wyjaśniony. Odpowiedź 'prawda' jest zgodna z kluczem odpowiedzi z dostarczonych materiałów."
   },
   {
     "question": "Cefaklor jest bezpiecznym antybiotykiem u kobiet w ciąży.",
-    "answer": false,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "B",
     "justification": "Cefaklor ma kategorię ciążową B według FDA. Oznacza to, że nie ma dowodów na szkodliwość, ale brakuje dobrze kontrolowanych badań u ludzi. Bezpieczniejszymi i lepiej przebadanymi opcjami w ciąży są penicyliny i cefalosporyny I generacji (np. cefaleksyna)."
   },
   {
     "question": "Zalecana dawka leku o dużym oknie terapeutycznym u 1-rocznego dziecka to 25% dawki dla dorosłego.",
-    "answer": true,
+    "type": "single_choice_abcd",
+    "options": {
+        "A": "Prawda",
+        "B": "Fałsz"
+    },
+    "answer": "A",
     "justification": "Chociaż dawkowanie u dzieci powinno opierać się na masie ciała lub powierzchni ciała, ta reguła jest dobrym przybliżeniem. Powierzchnia ciała rocznego dziecka wynosi ok. 0.45 m², a dorosłego ok. 1.73 m², co oznacza, że dawka dla dziecka powinna wynosić ok. 26% dawki dorosłego, więc 25% jest bliskie prawdy."
   }
 ]

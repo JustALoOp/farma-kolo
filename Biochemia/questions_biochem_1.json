@@ -1,0 +1,38 @@
+[
+    {
+        "question": "Który z poniższych cukrów jest monosacharydem?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Sacharoza",
+            "B": "Laktoza",
+            "C": "Glukoza",
+            "D": "Skrobia"
+        },
+        "answer": "C",
+        "justification": "Glukoza jest cukrem prostym (monosacharydem). Sacharoza i laktoza to dwucukry, a skrobia to wielocukier."
+    },
+    {
+        "question": "Aminokwasy łączą się ze sobą wiązaniami:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Glikozydowymi",
+            "B": "Peptydowymi",
+            "C": "Estrowymi",
+            "D": "Wodorowymi"
+        },
+        "answer": "B",
+        "justification": "Wiązania peptydowe tworzą się między grupą aminową jednego aminokwasu a grupą karboksylową drugiego."
+    },
+    {
+        "question": "Które z poniższych są kwasami nukleinowymi? (Wybierz wszystkie poprawne)",
+        "type": "multiple_choice_abcd",
+        "options": {
+            "A": "DNA",
+            "B": "RNA",
+            "C": "ATP",
+            "D": "Glukoza"
+        },
+        "answer": ["A", "B"],
+        "justification": "DNA (kwas deoksyrybonukleinowy) i RNA (kwas rybonukleinowy) są kwasami nukleinowymi. ATP to nukleotyd, a glukoza to cukier."
+    }
+]

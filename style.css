@@ -215,3 +215,66 @@ body {
         font-size: 1.1em;
     }
 }
+
+/* Styles for Subject Headings in Quiz Selection */
+#quiz-buttons-container h2 {
+    margin-top: 25px;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    color: #444; /* Slightly darker than body text for emphasis */
+    border-bottom: 2px solid #007bff; /* Theme color border */
+    padding-bottom: 8px;
+    text-align: left; /* Align with buttons if they are full width */
+}
+
+/* Styles for ABCD Answer Buttons */
+.btn-abcd {
+    display: block; /* Make buttons take full available width */
+    width: 90%;    /* Or a specific percentage like 90% */
+    margin: 10px auto; /* Center block buttons with some vertical space */
+    padding: 15px;
+    font-size: 1em;
+    text-align: left; /* Align text to the left within the button */
+    background-color: #6c757d; /* A neutral color, can be changed */
+}
+
+.btn-abcd:hover {
+    background-color: #5a6268; /* Darker shade for hover */
+}
+
+/* Styles for Multiple-Choice Question Checkboxes and Labels */
+#abcd-answers-container .mcq-option { /* Container for each checkbox+label pair */
+    display: flex; /* Align checkbox and label on the same line */
+    align-items: center; /* Vertically center items in the div */
+    margin: 12px 0; /* Vertical spacing */
+    padding: 10px; /* Padding around each option */
+    border: 1px solid #ddd; /* Optional: border for each option */
+    border-radius: 5px;
+    text-align: left;
+    margin-left: auto;  /* Centering the option div itself if its width is not 100% */
+    margin-right: auto;
+    width: 90%; /* Match button width for consistency */
+}
+
+.checkbox-abcd {
+    margin-right: 12px; /* Space between checkbox and label text */
+    transform: scale(1.3); /* Make checkbox slightly larger */
+    cursor: pointer;
+}
+
+#abcd-answers-container label {
+    font-size: 1em;
+    color: #333;
+    flex-grow: 1; /* Allow label to take available space */
+    cursor: pointer;
+}
+
+/* Style for the "Potwierdź odpowiedzi" (Confirm Answers) Button */
+#submit-mcq-btn {
+    margin-top: 20px; /* Add some space above the submit button */
+    background-color: #28a745; /* Green color for confirm, distinct from options */
+}
+
+#submit-mcq-btn:hover {
+    background-color: #218838; /* Darker green for hover */
+}

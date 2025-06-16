@@ -1,807 +1,1612 @@
 [
     {
         "question": "Dostępność biologiczna leku podanego dożylnie (i.v.) jest zazwyczaj niższa niż 100% z powodu intensywnego efektu pierwszego przejścia.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Dostępność biologiczna leku podanego dożylnie (i.v.) wynosi 100%, ponieważ lek jest podawany bezpośrednio do krążenia ogólnego, omijając proces wchłaniania i efekt pierwszego przejścia."
     },
     {
         "question": "Stan stacjonarny leku, przy regularnym dawkowaniu, osiągany jest zazwyczaj po około 5 okresach półtrwania (T1/2) tego leku.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Stan stacjonarny, w którym szybkość podawania leku równoważy szybkość jego eliminacji, jest osiągany po czasie równym 4-5 okresom półtrwania leku."
     },
     {
         "question": "Lek o dużej objętości dystrybucji (Vd) kumuluje się głównie w osoczu i słabo przenika do tkanek.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Lek o dużej objętości dystrybucji (Vd) chętnie opuszcza łożysko naczyniowe i kumuluje się w tkankach (np. tłuszczowej, mięśniowej), przez co jego stężenie w osoczu jest niskie."
     },
     {
         "question": "Sok grejpfrutowy jest znanym induktorem enzymu CYP3A4, co prowadzi do osłabienia działania wielu leków, np. statyn.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Sok grejpfrutowy jest silnym INHIBITOREM enzymu CYP3A4, co prowadzi do spowolnienia metabolizmu i NASILENIA działania (oraz toksyczności) wielu leków, np. statyn."
     },
     {
         "question": "II faza metabolizmu leków polega na reakcjach sprzęgania (koniugacji) i prowadzi do powstania nieaktywnych, łatwo wydalanych metabolitów.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "II faza metabolizmu (koniugacja) polega na dołączeniu do leku endogennej, polarnej cząsteczki (np. kwasu glukuronowego), co niemal zawsze prowadzi do jego inaktywacji i ułatwia wydalanie z moczem."
     },
     {
         "question": "Reakcje niepożądane typu B (bizarre) są zależne od dawki, przewidywalne i stanowią większość wszystkich działań niepożądanych.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "To definicja reakcji typu A (Augmented). Reakcje typu B są niezależne od dawki, nieprzewidywalne, często o podłożu immunologicznym i stanowią mniejszość (ok. 20%) ADR."
     },
     {
         "question": "Przerost dziąseł może być charakterystycznym działaniem niepożądanym po stosowaniu fenytoiny, cyklosporyny oraz nifedypiny.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Jest to klasyczny przykład działania niepożądanego dla tej trójki leków, wynikający z ich wpływu na metabolizm fibroblastów w dziąsłach."
     },
     {
         "question": "Terapia monitorowana lekami (TDM) jest wskazana głównie dla leków o szerokim indeksie terapeutycznym, takich jak penicyliny.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "TDM jest wskazana dla leków o WĄSKIM indeksie terapeutycznym (np. digoksyna, lit, fenytoina), gdzie istnieje niewielka różnica między dawką terapeutyczną a toksyczną."
     },
     {
         "question": "W terapii nadciśnienia u kobiet w ciąży lekiem z wyboru jest metyldopa.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Metyldopa jest lekiem z wyboru w leczeniu przewlekłego nadciśnienia tętniczego u kobiet w ciąży. IKA i sartany są przeciwwskazane z powodu teratogenności."
     },
     {
         "question": "Jednoczesne stosowanie NLPZ (np. ibuprofenu) i inhibitorów konwertazy angiotensyny (IKA) nasila działanie hipotensyjne IKA.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "NLPZ, hamując syntezę prostaglandyn rozszerzających naczynia nerkowe, OSŁABIAJĄ działanie hipotensyjne IKA i zwiększają ryzyko uszkodzenia nerek."
     },
     {
         "question": "Antidotum w zatruciu paracetamolem jest N-acetylocysteina (ACC), którą należy podać jak najszybciej, najlepiej w ciągu 8 godzin od spożycia.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "N-acetylocysteina jest swoistym antidotum, które dostarcza grup sulfhydrylowych do regeneracji glutationu, neutralizującego toksyczny metabolit paracetamolu (NAPQI)."
     },
     {
         "question": "U osób w podeszłym wieku, ze względu na zwiększoną zawartość tkanki tłuszczowej, okres półtrwania leków lipofilnych (np. diazepamu) ulega wydłużeniu.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "U osób starszych wzrasta względna ilość tkanki tłuszczowej, co staje się rezerwuarem dla leków lipofilnych, wydłużając ich okres półtrwania i zwiększając ryzyko kumulacji."
     },
     {
         "question": "Suchy, uporczywy kaszel jest klasycznym objawem niepożądanym po stosowaniu sartanów (blokerów receptora AT1).",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Suchy, uporczywy kaszel jest charakterystyczny dla INHIBITORÓW KONWERTAZY ANGIOTENSYNY (IKA, -pryli) i wynika ze zwiększenia stężenia bradykininy w drogach oddechowych."
     },
     {
         "question": "W leczeniu zatrucia metanolem podaje się etanol, który kompetycyjnie hamuje metabolizm metanolu do toksycznych metabolitów.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Etanol ma większe powinowactwo do dehydrogenazy alkoholowej niż metanol, dzięki czemu hamuje jego przemianę w toksyczny kwas mrówkowy i formaldehyd."
     },
     {
         "question": "Warfaryna należy do leków kategorii X i jest bezwzględnie przeciwwskazana w ciąży, a lekiem z wyboru w antykoagulacji u ciężarnych jest heparyna drobnocząsteczkowa.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Warfaryna przechodzi przez łożysko i może powodować ciężkie wady wrodzone (embriopatia warfarynowa). Heparyny nie przechodzą przez łożysko i są bezpieczne."
     },
     {
         "question": "Połączenie klarytromycyny (antybiotyk makrolidowy) z simwastatyną jest bezpieczne i zalecane.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Jest to bardzo niebezpieczne połączenie. Klarytromycyna jest silnym inhibitorem CYP3A4, co dramatycznie zwiększa stężenie simwastatyny, grożąc rabdomiolizą (rozpadem mięśni)."
     },
     {
         "question": "Pole pod krzywą (AUC) jest miarą szybkości, z jaką lek osiąga stężenie maksymalne we krwi.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "AUC jest miarą CAŁKOWITEJ ilości leku (ekspozycji organizmu na lek), jaka dotarła do krążenia. Miarą szybkości wchłaniania jest Tmax (czas do osiągnięcia stężenia maksymalnego)."
     },
     {
         "question": "Farmakokinetyka nieliniowa, charakteryzująca np. fenytoinę, oznacza, że zwiększenie dawki powoduje proporcjonalny wzrost stężenia leku we krwi.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "W farmakokinetyce nieliniowej (kinetyce wysycenia) systemy metaboliczne ulegają wysyceniu, co oznacza, że nawet niewielkie zwiększenie dawki może prowadzić do nieproporcjonalnie dużego, gwałtownego wzrostu stężenia leku."
     },
     {
         "question": "W przypadku wystąpienia zakażenia bakteryjnego wywołanego przez Mycoplasma pneumoniae, lekiem z wyboru jest amoksycylina.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Mycoplasma pneumoniae to bakteria atypowa, pozbawiona ściany komórkowej, dlatego antybiotyki beta-laktamowe (np. amoksycylina) są na nią nieskuteczne. Stosuje się makrolidy lub tetracykliny."
     },
     {
         "question": "Digoksyna jest lekiem o wąskim indeksie terapeutycznym, a jej toksyczność nasila się przy hipokaliemii (niskim stężeniu potasu).",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Potas konkuruje z digoksyną o miejsca wiązania w pompie Na+/K+-ATPazy w sercu. Przy niskim stężeniu potasu więcej cząsteczek digoksyny wiąże się z pompą, co nasila jej działanie i toksyczność."
     },
     {
         "question": "Koncyliacja lekowa to proces uzgadniania listy leków pacjenta, który powinien być przeprowadzony najpóźniej tydzień po przyjęciu do szpitala.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Koncyliacja lekowa powinna być przeprowadzona jak najszybciej, najlepiej w ciągu 24 godzin od przyjęcia pacjenta do szpitala, aby uniknąć błędów lekowych."
     },
     {
         "question": "U niemowląt, ze względu na niedojrzałość funkcji nerek i wątroby, eliminacja wielu leków jest wolniejsza, a ich T1/2 wydłużony w porównaniu do dorosłych.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Zarówno metabolizm wątrobowy, jak i wydalanie nerkowe są u niemowląt mniej wydajne, co wymaga ostrożnego dawkowania leków i często wydłużenia odstępów między dawkami."
     },
     {
         "question": "Spożywanie alkoholu podczas terapii metronidazolem może wywołać reakcję disulfiramopodobną.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Metronidazol hamuje dehydrogenazę aldehydową, co prowadzi do gromadzenia się toksycznego aldehydu octowego po spożyciu alkoholu i objawów zatrucia (tzw. efekt antabusowy)."
     },
     {
         "question": "Stosowanie leków 'off-label' zmniejsza ryzyko wystąpienia działań niepożądanych, ponieważ są to terapie sprawdzone w innych wskazaniach.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Stosowanie leków 'off-label' ZWIĘKSZA ryzyko, ponieważ brakuje pełnych danych z badań klinicznych dotyczących bezpieczeństwa i skuteczności w danym, nierejestrowanym wskazaniu."
     },
     {
         "question": "Dziurawiec, stosowany jednocześnie z doustnymi środkami antykoncepcyjnymi, może zwiększać ich skuteczność antykoncepcyjną.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Dziurawiec jest silnym induktorem enzymów wątrobowych (CYP3A4), co PRZYSPIESZA metabolizm hormonów zawartych w tabletkach antykoncepcyjnych i OSŁABIA ich skuteczność."
     },
     {
         "question": "W leczeniu anginy paciorkowcowej standardowy czas terapii penicyliną wynosi 5 dni, aby zapobiec powikłaniom.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Standardowy czas leczenia anginy paciorkowcowej penicyliną to 10 dni, aby zapewnić pełną eradykację paciorkowców i zapobiec gorączce reumatycznej."
     },
     {
         "question": "Antybiotyki aminoglikozydowe (np. gentamycyna) wykazują znaczną oto- i nefrotoksyczność, szczególnie w połączeniu z furosemidem.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Oba te leki mają synergistyczne działanie toksyczne na narząd słuchu i nerki, a ich łączenie znacząco zwiększa ryzyko trwałych uszkodzeń."
     },
     {
         "question": "Ryfampicyna jest silnym inhibitorem enzymów wątrobowych, co nasila działanie wielu leków metabolizowanych przez cytochrom P450.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Ryfampicyna jest jednym z najsilniejszych INDUKTORÓW enzymów wątrobowych. Przyspiesza metabolizm wielu leków, osłabiając ich działanie."
     },
     {
         "question": "W ostrym ataku dny moczanowej, lekiem pierwszego wyboru jest allopurynol.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "W ostrym ataku dny moczanowej stosuje się leki przeciwzapalne: NLPZ lub kolchicynę. Allopurynol jest stosowany w leczeniu przewlekłym w celu obniżenia poziomu kwasu moczowego."
     },
     {
         "question": "Tetracykliny są przeciwwskazane u dzieci poniżej 8. roku życia ze względu na ryzyko trwałego przebarwienia zębów i zaburzeń rozwoju kośćca.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Tetracykliny tworzą trwałe kompleksy z wapniem (chelatują jony), które odkładają się w nowo tworzonych kościach i zębach, powodując te nieodwracalne zmiany."
     },
     {
         "question": "W zatruciu opioidami (np. morfiną) charakterystycznym objawem są szerokie, niereagujące na światło źrenice, a antidotum jest flumazenil.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "W zatruciu opioidami charakterystyczne są SZPILKOWATE źrenice, a antidotum jest NALOKSON. Flumazenil jest antidotum na benzodiazepiny."
     },
     {
         "question": "U osób starszych absorpcja lewodopy (L-DOPA) jest zmniejszona z powodu spowolnionej motoryki jelit.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "U osób starszych zmniejsza się aktywność dekarboksylazy DOPA w ścianie jelita, co ZWIĘKSZA biodostępność doustnie podanej L-DOPA (mniej leku jest metabolizowane przed wchłonięciem)."
     },
     {
         "question": "Farmakodynamika opisuje procesy wchłaniania, dystrybucji, metabolizmu i wydalania leku przez organizm.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Podana definicja opisuje farmakokinetykę (co organizm robi z lekiem). Farmakodynamika opisuje, co lek robi z organizmem (mechanizm działania, efekt)."
     },
     {
         "question": "Klirens kreatyniny jest ważnym wskaźnikiem funkcji wątroby i służy do modyfikacji dawek leków metabolizowanych w tym narządzie.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Klirens kreatyniny jest wskaźnikiem funkcji NEREK (przesączania kłębuszkowego - GFR). Do oceny funkcji wątroby służą inne wskaźniki (np. aminotransferazy, bilirubina)."
     },
     {
         "question": "Połączenie inhibitora konwertazy angiotensyny (IKA) ze spironolaktonem (diuretykiem oszczędzającym potas) grozi wystąpieniem hipokaliemii.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Oba leki zatrzymują potas w organizmie (IKA przez zmniejszenie wydzielania aldosteronu, spironolakton przez blokadę jego receptora). Ich połączenie grozi wystąpieniem groźnej dla życia HIPERKALIEMII."
     },
     {
         "question": "Kodeina jest prolekiem, który musi zostać przekształcony przez enzym CYP2D6 do aktywnej morfiny, aby wykazać pełne działanie przeciwbólowe.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Osoby z obniżoną aktywnością CYP2D6 ('wolni metabolizerzy') nie odczują działania przeciwbólowego po podaniu kodeiny."
     },
     {
         "question": "Leki 'wypieracze' (np. salicylany) mogą zwiększać stężenie frakcji wolnej innego leku (np. warfaryny), nasilając jego działanie i toksyczność.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Leki o silnym powinowactwie do białek (wypieracze) mogą 'zepchnąć' z albumin inny lek, zwiększając jego stężenie w postaci wolnej, farmakologicznie aktywnej, co nasila efekt."
     },
     {
         "question": "Wartość NNT (Number Needed to Treat) równa 10 oznacza, że należy leczyć 10 pacjentów, aby u wszystkich wystąpił pożądany efekt terapeutyczny.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "NNT=10 oznacza, że należy leczyć 10 pacjentów, aby uzyskać pożądany efekt terapeutyczny u JEDNEGO dodatkowego pacjenta w porównaniu z grupą kontrolną/placebo."
     },
     {
         "question": "Płyny i obfite posiłki w równym stopniu przyspieszają wchłanianie większości leków z przewodu pokarmowego.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Płyny (zwłaszcza woda) zazwyczaj przyspieszają opróżnianie żołądka i wchłanianie leków. Tłuste, obfite posiłki spowalniają opróżnianie żołądka i opóźniają wchłanianie."
     },
     {
         "question": "Leki o charakterze kwaśnym (np. aspiryna) lepiej wchłaniają się w zasadowym środowisku jelita cienkiego.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Leki o charakterze kwaśnym (np. aspiryna) występują w formie niezjonizowanej (lepiej wchłanialnej) w kwaśnym środowisku żołądka. W zasadowym pH jelita ulegają jonizacji, co utrudnia ich wchłanianie."
     },
     {
         "question": "Chronofarmakologia zajmuje się wpływem rytmów biologicznych na działanie leków. Zgodnie z jej zasadami, glikokortykosteroidy należy podawać wieczorem.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Glikokortykosteroidy należy podawać rano (6-9 godz.), aby naśladować fizjologiczny rytm wydzielania kortyzolu i zminimalizować supresję osi podwzgórze-przysadka-nadnercza."
     },
     {
         "question": "Efekt pierwszego przejścia dotyczy głównie leków podawanych dożylnie i domięśniowo.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Efekt pierwszego przejścia dotyczy głównie leków podawanych doustnie (p.o.), które po wchłonięciu trafiają żyłą wrotną do wątroby, gdzie są metabolizowane przed dotarciem do krążenia ogólnego."
     },
     {
         "question": "Metabolizm w I fazie zawsze prowadzi do dezaktywacji leku.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Metabolizm w I fazie może prowadzić do powstania aktywnego metabolitu (np. kodeina -> morfina), metabolitu toksycznego, lub dezaktywacji leku."
     },
     {
         "question": "Stosowanie leków o nieliniowej kinetyce eliminacji zmniejsza ryzyko interakcji lekowych.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Stosowanie leków o nieliniowej kinetyce (np. fenytoina, teofilina) ZWIĘKSZA ryzyko interakcji, ponieważ nawet małe zmiany w ich metabolizmie mogą prowadzić do dużych, nieprzewidywalnych zmian stężenia."
     },
     {
         "question": "Metoklopramid, zwiększając motorykę przewodu pokarmowego, nasila wchłanianie digoksyny.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Metoklopramid, przyspieszając pasaż jelitowy, skraca czas kontaktu digoksyny z błoną śluzową, co ZMNIEJSZA jej wchłanianie i skuteczność."
     },
     {
         "question": "Aktywność P-glikoproteiny (GP-P) w komórkach jelita i nerek polega na aktywnym transporcie leków do wnętrza komórek, co zwiększa ich biodostępność.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "P-glikoproteina to pompa wyrzutowa, która aktywnie usuwa leki z komórek (np. z powrotem do światła jelita), ZMNIEJSZAJĄC ich wchłanianie i biodostępność."
     },
     {
         "question": "W zatruciu kwasem acetylosalicylowym alkalizacja moczu za pomocą wodorowęglanu sodu zwiększa reabsorpcję zwrotną leku w kanalikach nerkowych.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Alkalizacja moczu zwiększa jonizację kwasu acetylosalicylowego, co utrudnia jego reabsorpcję zwrotną i NASILA jego wydalanie z moczem."
     },
     {
         "question": "Częstoskurcz komorowy typu torsade de pointes jest ryzykiem związanym ze stosowaniem leków skracających odstęp QT w EKG.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Torsade de pointes jest ryzykiem związanym ze stosowaniem leków WYDŁUŻAJĄCYCH odstęp QT (np. niektóre antybiotyki makrolidowe, leki przeciwpsychotyczne, amiodaron)."
     },
     {
         "question": "Aminoglutetymid, stosowany w chorobie Cushinga, hamuje syntezę wyłącznie kortyzolu.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Aminoglutetymid jest inhibitorem desmolazy cholesterolowej i hamuje syntezę wszystkich hormonalnie czynnych steroidów (kortyzolu, aldosteronu, hormonów płciowych)."
     },
     {
         "question": "Zgodnie ze skalą Jadada, badanie kliniczne ocenione na 4 punkty jest badaniem o wysokiej jakości metodologicznej.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Skala Jadada ma zakres 0-5. Badanie, które uzyskuje wynik >3 punktów, jest uważane za badanie o dobrej lub wysokiej jakości."
     },
     {
         "question": "Leki beta-adrenolityczne (beta-blokery) są przeciwwskazane u pacjentów z astmą, ponieważ mogą powodować skurcz oskrzeli.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Nieselektywne beta-blokery (np. propranolol) blokują receptory beta-2 w oskrzelach, co uniemożliwia ich rozkurcz i może wywołać napad astmy. Kardioselektywne beta-blokery (np. metoprolol) są bezpieczniejsze, ale nadal wymagają ostrożności."
     },
     {
         "question": "W leczeniu zakażeń Clostridium difficile lekiem pierwszego rzutu jest metronidazol podawany dożylnie.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "W leczeniu zakażeń C. difficile lekiem pierwszego rzutu jest wankomycyna lub fidaksomycyna podawane doustnie (p.o.), aby działały miejscowo w jelicie. Metronidazol jest opcją w łagodniejszych przypadkach."
     },
     {
         "question": "Wartość INR (International Normalized Ratio) służy do monitorowania leczenia heparyną.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "INR służy do monitorowania leczenia doustnymi antykoagulantami z grupy antagonistów witaminy K (VKA), takimi jak warfaryna. Leczenie heparyną monitoruje się za pomocą czasu kaolinowo-kefalinowego (APTT)."
     },
     {
         "question": "Gwałtowne odstawienie leków beta-adrenolitycznych po długotrwałej terapii może prowadzić do 'efektu z odbicia', objawiającego się tachykardią i wzrostem ciśnienia.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Długotrwała blokada receptorów beta prowadzi do ich up-regulacji (zwiększenia liczby). Nagłe odstawienie leku powoduje nadmierną stymulację tych receptorów przez endogenne katecholaminy."
     },
     {
         "question": "Klopidogrel jest lekiem przeciwpłytkowym, który hamuje syntezę tromboksanu A2 poprzez inhibicję enzymu COX-1.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Klopidogrel jest antagonistą receptora P2Y12 dla ADP na płytkach krwi. Lekiem, który hamuje COX-1 i syntezę tromboksanu A2, jest kwas acetylosalicylowy (aspiryna)."
     },
     {
         "question": "Omeprazol, jako inhibitor pompy protonowej (IPP), poprzez podwyższenie pH w żołądku, może zmniejszać wchłanianie leków wymagających kwaśnego środowiska (np. ketokonazolu).",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Leki takie jak ketokonazol czy itrakonazol wymagają kwaśnego pH do rozpuszczenia i wchłonięcia. IPP, podnosząc pH, mogą znacząco obniżyć ich biodostępność."
     },
     {
         "question": "W leczeniu cukrzycy typu 2 metformina jest lekiem zwiększającym ryzyko hipoglikemii, zwłaszcza gdy jest stosowana w monoterapii.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Metformina (z grupy biguanidów) nie stymuluje wydzielania insuliny, a jej główny mechanizm to hamowanie glukoneogenezy w wątrobie. Dlatego w monoterapii praktycznie nie powoduje hipoglikemii. Ryzyko to dotyczy pochodnych sulfonylomocznika."
     },
     {
         "question": "Pochodne sulfonylomocznika działają poprzez zwiększenie wrażliwości tkanek obwodowych na insulinę.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Pochodne sulfonylomocznika stymulują komórki beta trzustki do wydzielania insuliny poprzez zamykanie ATP-zależnych kanałów potasowych. Zwiększenie wrażliwości tkanek to domena metforminy i glitazonów."
     },
     {
         "question": "Antybiotyki makrolidowe, takie jak erytromycyna, hamują syntezę białek bakteryjnych poprzez wiązanie się z podjednostką 30S rybosomu.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Makrolidy wiążą się z podjednostką 50S rybosomu bakteryjnego. Z podjednostką 30S wiążą się aminoglikozydy i tetracykliny."
     },
     {
         "question": "W zatruciu benzodiazepinami antidotum z wyboru jest nalokson.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Antidotum w zatruciu benzodiazepinami jest flumazenil, który jest kompetycyjnym antagonistą receptora benzodiazepinowego. Nalokson jest antidotum na opioidy."
     },
     {
         "question": "Wirusowe zapalenie oskrzeli u dorosłych jest wskazaniem do rutynowego włączenia antybiotykoterapii.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Ponad 90% przypadków ostrego zapalenia oskrzeli u dorosłych ma etiologię wirusową, a antybiotykoterapia jest nieskuteczna i niezalecana. Należy stosować leczenie objawowe."
     },
     {
         "question": "Kloksacylina jest penicyliną oporną na działanie penicylinaz gronkowcowych i jest skuteczna w leczeniu zakażeń wywołanych przez MRSA.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Kloksacylina jest oporna na penicylinazy, ale jest nieskuteczna wobec MRSA (gronkowiec złocisty oporny na metycylinę), który wykształcił oporność poprzez modyfikację białka PBP. W leczeniu MRSA stosuje się np. wankomycynę."
     },
     {
         "question": "Amiodaron, lek antyarytmiczny klasy III, może powodować działania niepożądane ze strony tarczycy (nadczynność lub niedoczynność) z powodu dużej zawartości jodu w cząsteczce.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Amiodaron ma budowę chemiczną zbliżoną do hormonów tarczycy i zawiera duże ilości jodu, co może zaburzać funkcjonowanie tego gruczołu i prowadzić do licznych działań niepożądanych."
     },
     {
         "question": "Stosowanie statyn jest bezwzględnie przeciwwskazane u pacjentów z aktywną chorobą wątroby.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Statyny są metabolizowane w wątrobie i mogą powodować wzrost aminotransferaz. Aktywna choroba wątroby lub niewyjaśniony, utrzymujący się wzrost aminotransferaz to bezwzględne przeciwwskazania."
     },
     {
         "question": "Cefalosporyny III generacji (np. ceftriakson) mają szersze spektrum działania wobec bakterii Gram-dodatnich niż cefalosporyny I generacji (np. cefazolina).",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Wraz z kolejnymi generacjami cefalosporyn rozszerza się ich spektrum działania wobec bakterii Gram-ujemnych, a maleje aktywność wobec Gram-dodatnich. I generacja ma najlepsze działanie na G(+), a III i IV na G(-)."
     },
     {
         "question": "Pojęcie 'synergizm hiperaddycyjny' oznacza, że łączny efekt dwóch leków jest równy sumie ich indywidualnych działań.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Synergizm hiperaddycyjny (potencjalizacja) oznacza, że łączny efekt dwóch leków jest WIĘKSZY niż suma ich indywidualnych działań (efekt 1+1 > 2). Suma działań to synergizm addycyjny."
     },
     {
         "question": "W profilaktyce infekcyjnego zapalenia wsierdzia (IZW) u pacjenta uczulonego na penicylinę, przed zabiegiem stomatologicznym, lekiem z wyboru jest klindamycyna.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "W przypadku alergii na penicyliny w profilaktyce IZW zaleca się podanie klindamycyny 600 mg doustnie na 30-60 minut przed zabiegiem."
     },
     {
         "question": "Leki o charakterze zasadowym (np. lidokaina) są w większym stopniu wydalane z moczem, gdy jego pH jest niskie (kwaśne).",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "W kwaśnym moczu leki zasadowe ulegają większej jonizacji, co utrudnia ich reabsorpcję zwrotną w kanalikach nerkowych i przyspiesza eliminację."
     },
     {
         "question": "W leczeniu nadciśnienia tętniczego u pacjentów rasy czarnej leki z grupy beta-blokerów i IKA są lekami pierwszego rzutu.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "U pacjentów rasy czarnej często występuje nadciśnienie niskoreninowe, w którym beta-blokery i IKA/sartany są mniej skuteczne. Lekami pierwszego rzutu są diuretyki tiazydowe lub blokery kanału wapniowego."
     },
     {
         "question": "Toksyczność podostra leku w badaniach przedklinicznych jest oceniana po podaniu pojedynczej, wysokiej dawki leku.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Toksyczność podostra jest oceniana po wielokrotnym podaniu leku przez okres od 14 do 28 dni. Ocena po podaniu pojedynczej dawki to badanie toksyczności ostrej."
     },
     {
         "question": "Kwas walproinowy jest inhibitorem wielu enzymów wątrobowych, co może prowadzić do nasilenia działania innych leków.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Kwas walproinowy jest znanym, szerokospektralnym inhibitorem enzymatycznym, w przeciwieństwie do innych leków przeciwpadaczkowych (fenytoina, karbamazepina), które są induktorami."
     },
     {
         "question": "Zgodnie ze skalą Centora, u pacjenta z 1 punktem (np. tylko gorączka >38°C) prawdopodobieństwo anginy paciorkowcowej jest wysokie i wymaga natychmiastowej antybiotykoterapii.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Przy 1 punkcie w skali Centora prawdopodobieństwo anginy paciorkowcowej wynosi około 10%, co nie jest wskazaniem do antybiotykoterapii. Wskazane jest leczenie objawowe."
     },
     {
         "question": "Salbutamol, lek stosowany w astmie, jest selektywnym agonistą receptorów beta-1 adrenergicznych.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Salbutamol jest selektywnym agonistą receptorów beta-2 adrenergicznych, co powoduje rozkurcz oskrzeli. Agoniści beta-1 (np. dobutamina) działają głównie na serce."
     },
     {
         "question": "W zatruciu grzybami z grupy cyklopeptydów (np. muchomor sromotnikowy) charakterystyczny jest brak okresu utajenia – objawy pojawiają się natychmiast po spożyciu.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "W zatruciu muchomorem sromotnikowym charakterystyczny jest długi okres utajenia (8-12 godzin), po którym pojawiają się gwałtowne objawy żołądkowo-jelitowe, a następnie objawy uszkodzenia wątroby."
     },
     {
         "question": "Doustne leki przeciwzakrzepowe nowej generacji (NOAC), takie jak rywaroksaban, działają poprzez inhibicję syntezy czynników krzepnięcia zależnych od witaminy K.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "To mechanizm działania warfaryny. NOAC (lub DOAC) są bezpośrednimi inhibitorami konkretnych czynników krzepnięcia, np. rywaroksaban i apiksaban hamują czynnik Xa, a dabigatran hamuje trombinę (czynnik IIa)."
     },
     {
         "question": "Podanie adrenaliny w przypadku wstrząsu anafilaktycznego jest najskuteczniejsze, gdy jest ona wstrzyknięta dożylnie.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "W warunkach pierwszej pomocy, w przypadku wstrząsu anafilaktycznego, adrenalina powinna być podana domięśniowo (i.m.) w przednio-boczną powierzchnię uda. Podanie dożylne jest zarezerwowane dla warunków szpitalnych i personelu medycznego."
     },
     {
         "question": "Leki biologiczne, takie jak przeciwciała monoklonalne, charakteryzują się niskim ryzykiem immunogenności, czyli wywoływania odpowiedzi immunologicznej organizmu.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Leki biologiczne, jako duże cząsteczki białkowe, niosą ze sobą istotne ryzyko immunogenności. Organizm może wytworzyć przeciwciała przeciwko lekowi (ADA), co może prowadzić do utraty skuteczności lub reakcji alergicznych."
     },
     {
         "question": "Hydralazyna, lek wazodylatacyjny, może wywołać polekowy toczeń rumieniowaty, zwłaszcza u pacjentów, którzy są 'wolnymi acetylatorami'.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Hydralazyna, prokainamid i izoniazyd to klasyczne leki mogące indukować toczeń polekowy. Ryzyko jest znacznie wyższe u osób z genetycznie uwarunkowanym wolnym metabolizmem przez acetylację (enzym N-acetylotransferaza)."
     },
     {
         "question": "Działanie leków z grupy NLPZ polega na odwracalnej inhibicji enzymu cyklooksygenazy (COX).",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Większość NLPZ (np. ibuprofen, naproksen) działa jako odwracalni inhibitorzy COX. Wyjątkiem jest kwas acetylosalicylowy (aspiryna), który hamuje COX nieodwracalnie poprzez acetylację."
     },
     {
         "question": "U pacjentów leczonych przewlekle kortykosteroidami należy rozważyć profilaktykę osteoporozy.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Długotrwała kortykosteroidoterapia jest jedną z głównych przyczyn osteoporozy wtórnej. U pacjentów tych zaleca się suplementację wapnia i witaminy D oraz ewentualnie stosowanie bisfosfonianów."
     },
     {
         "question": "Glikozydy nasercowe (np. digoksyna) zwiększają siłę skurczu mięśnia sercowego i jednocześnie zwalniają częstość rytmu serca.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Digoksyna wykazuje działanie inotropowe dodatnie (wzrost siły skurczu) poprzez hamowanie pompy Na+/K+-ATPazy oraz chronotropowe ujemne (zwolnienie rytmu) przez pobudzenie nerwu błędnego."
     },
     {
         "question": "W leczeniu zakażeń układu moczowego (ZUM) fluorochinolony są lekami pierwszego rzutu ze względu na niską narastającą oporność bakterii.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Ze względu na gwałtownie narastającą oporność E. coli, fluorochinolony nie są już zalecane jako leki pierwszego rzutu w niepowikłanym ZUM. Lekami z wyboru są m.in. furazydyna, fosfomycyna czy kotrimoksazol."
     },
     {
         "question": "W przypadku przedawkowania beta-blokerów, prowadzącego do ciężkiej bradykardii, lekiem z wyboru jest atropina.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Atropina, jako antagonista receptorów muskarynowych, znosi hamujący wpływ nerwu błędnego na serce i jest pierwszym lekiem stosowanym w leczeniu objawowej bradykardii. W przypadku braku skuteczności można podać glukagon."
     },
     {
         "question": "Faza IV badań klinicznych jest prowadzona po zarejestrowaniu leku i wprowadzeniu go do obrotu, w celu monitorowania długoterminowego bezpieczeństwa.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Faza IV (post-marketingowa) ma na celu zbieranie danych o rzadkich działaniach niepożądanych, interakcjach i skuteczności w szerokiej populacji pacjentów w warunkach rzeczywistej praktyki klinicznej."
     },
     {
         "question": "Leki neuroleptyczne, blokując receptory dopaminowe D2, mogą powodować objawy pozapiramidowe, takie jak parkinsonizm polekowy.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Blokada receptorów D2 w układzie nigrostriatalnym prowadzi do zaburzeń równowagi między układem dopaminergicznym a cholinergicznym, co manifestuje się objawami podobnymi do choroby Parkinsona (drżenie, sztywność, spowolnienie)."
     },
     {
         "question": "Wzór Widmarka służy do obliczenia klirensu kreatyniny na podstawie stężenia kreatyniny w surowicy, wieku i masy ciała pacjenta.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Wzór Widmarka służy do szacowania stężenia alkoholu we krwi. Do obliczania klirensu kreatyniny służy wzór Cockcrofta-Gaulta lub wzory MDRD i CKD-EPI."
     },
     {
         "question": "Leki cholinolityczne (antymuskarynowe), takie jak atropina, powodują zwężenie źrenic, bradykardię i nadmierne ślinienie.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Leki cholinolityczne blokują układ przywspółczulny, co prowadzi do objawów przeciwnych: rozszerzenia źrenic (mydriasis), tachykardii i suchości w ustach (kserostomia)."
     },
     {
         "question": "W leczeniu astmy, kortykosteroidy wziewne działają doraźnie, przerywając ostry napad duszności.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Kortykosteroidy wziewne są lekami kontrolującymi przebieg choroby, działają przeciwzapalnie i zapobiegają napadom. Do doraźnego przerwania napadu służą szybko działający agoniści receptorów beta-2 (SABA), np. salbutamol."
     },
     {
         "question": "Wszystkie leki z grupy NLPZ w równym stopniu hamują izoenzymy COX-1 i COX-2.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "NLPZ różnią się selektywnością wobec izoenzymów COX. Klasyczne NLPZ (np. ibuprofen) hamują oba, a koksyby (np. celekoksyb) są selektywnymi inhibitorami COX-2, co zmniejsza ryzyko powikłań żołądkowo-jelitowych, ale może zwiększać ryzyko sercowo-naczyniowe."
     },
     {
         "question": "Fenytoina wykazuje działanie teratogenne, mogąc powodować tzw. 'płodowy zespół hydantoinowy'.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Stosowanie fenytoiny w ciąży wiąże się z ryzykiem wad wrodzonych, w tym wad twarzoczaszki, niedorozwoju palców i paznokci, opóźnienia rozwoju umysłowego, które składają się na płodowy zespół hydantoinowy."
     },
     {
         "question": "Metotreksat, stosowany w małych dawkach w reumatologii, działa głównie poprzez inhibicję syntezy puryn.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "W małych, przeciwzapalnych dawkach, metotreksat hamuje enzymy biorące udział w metabolizmie puryn, co prowadzi do gromadzenia się adenozyny o silnym działaniu przeciwzapalnym. Jego działanie przeciwnowotworowe (w dużych dawkach) wynika z hamowania reduktazy dihydrofolianowej."
     },
     {
         "question": "Podanie dożylne wankomycyny musi odbywać się w powolnym wlewie, aby uniknąć 'zespołu czerwonego człowieka'.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "'Zespół czerwonego człowieka' (zaczerwienienie, wysypka, świąd) jest reakcją pseudoalergiczną, wynikającą z bezpośredniego uwolnienia histaminy z mastocytów pod wpływem szybkiego podania wankomycyny."
     },
     {
         "question": "Antybiotyki z grupy fluorochinolonów (np. cyprofloksacyna) są przeciwwskazane u dzieci ze względu na ryzyko uszkodzenia chrząstek wzrostowych.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Badania na młodych zwierzętach wykazały artropatię (uszkodzenie chrząstek stawowych), dlatego stosowanie fluorochinolonów u dzieci i młodzieży jest ograniczone do szczególnych, uzasadnionych przypadków."
     },
     {
         "question": "Doustne preparaty żelaza najlepiej wchłaniają się w środowisku zasadowym i powinny być przyjmowane z mlekiem.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Żelazo (zwłaszcza Fe2+) najlepiej wchłania się w kwaśnym środowisku. Zaleca się przyjmowanie go na czczo lub z witaminą C. Mleko i inne produkty bogate w wapń hamują jego wchłanianie."
     },
     {
         "question": "Pojęcie 'polipragmazja' (polifarmakoterapia) odnosi się do jednoczesnego stosowania dwóch lub więcej leków.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Polipragmazja jest definiowana jako jednoczesne przyjmowanie pięciu lub więcej leków. Zwiększa to wykładniczo ryzyko interakcji i działań niepożądanych."
     },
     {
         "question": "Wskaźnik terapeutyczny jest stosunkiem dawki toksycznej do dawki terapeutycznej. Im wyższy wskaźnik, tym lek jest bezpieczniejszy.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Wysoki wskaźnik terapeutyczny oznacza dużą różnicę między dawką wywołującą efekt leczniczy a dawką toksyczną, co przekłada się na duży margines bezpieczeństwa leku."
     },
     {
         "question": "Sumatryptan, stosowany w leczeniu migreny, jest agonistą receptorów serotoninowych 5-HT1B/1D i powoduje skurcz naczyń mózgowych.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Tryptany działają selektywnie na receptory 5-HT1B/1D, powodując skurcz rozszerzonych w czasie napadu migreny naczyń oponowych i mózgowych oraz hamując uwalnianie neuroprzekaźników bólowych."
     },
     {
         "question": "W profilaktyce zakażeń miejsca operowanego w chirurgii ortognatycznej zaleca się podanie ampicyliny z sulbaktamem 30-60 minut przed zabiegiem.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Jest to standardowe postępowanie w profilaktyce okołooperacyjnej w zabiegach, gdzie istnieje ryzyko zakażenia florą mieszaną z jamy ustnej. Sulbaktam jest inhibitorem beta-laktamaz."
     },
     {
         "question": "Leki z grupy sartanów, podobnie jak IKA, hamują rozkład bradykininy, co jest przyczyną suchego kaszlu.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Sartany (ARB) działają poprzez selektywną blokadę receptora AT1 dla angiotensyny II i nie wpływają na metabolizm bradykininy. Dlatego nie powodują kaszlu, co jest ich główną przewagą nad IKA."
     },
     {
         "question": "Cisplatyna, lek przeciwnowotworowy, charakteryzuje się wysoką nefrotoksycznością, ototoksycznością i silnym działaniem wymiotnym.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Są to trzy klasyczne, bardzo nasilone i ograniczające dawkowanie działania niepożądane cisplatyny."
     },
     {
         "question": "W leczeniu zatrucia etanolem stosuje się fomepizol jako antidotum.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Fomepizol jest inhibitorem dehydrogenazy alkoholowej i stosuje się go jako antidotum w zatruciach metanolem lub glikolem etylenowym, aby zapobiec tworzeniu toksycznych metabolitów. W zatruciu etanolem stosuje się leczenie podtrzymujące."
     },
     {
         "question": "Wzrost stężenia alfa-1 kwaśnej glikoproteiny (białka ostrej fazy) może zmniejszyć stężenie wolnej frakcji leków zasadowych, takich jak lidokaina.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Alfa-1 kwaśna glikoproteina wiąże głównie leki o charakterze zasadowym. Jej stężenie rośnie w stanach zapalnych (np. zawał serca), co prowadzi do silniejszego wiązania leku i spadku jego wolnej, aktywnej frakcji."
     },
     {
         "question": "Nimesulid jest selektywnym inhibitorem COX-1, co sprawia, że jest bezpieczniejszy dla przewodu pokarmowego.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Nimesulid jest preferencyjnym (względnie selektywnym) inhibitorem COX-2, a nie COX-1. Jego selektywność wobec COX-2 odpowiada za mniejsze ryzyko powikłań żołądkowo-jelitowych w porównaniu z klasycznymi NLPZ."
     },
     {
         "question": "Profilaktyka antybiotykowa 'one-shot' w stomatologii oznacza podanie jednej dawki antybiotyku przed zabiegiem i kontynuowanie terapii przez 24 godziny po zabiegu.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Profilaktyka 'one-shot' polega na podaniu JEDNEJ dawki antybiotyku na 30-60 minut przed zabiegiem. Nie podaje się kolejnych dawek po zabiegu."
     },
     {
         "question": "Dawki leków u dzieci powinny być przeliczane na kilogram masy ciała, a w przypadku leków o wąskim indeksie terapeutycznym (np. chemioterapeutyki) na powierzchnię ciała (BSA).",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Przeliczanie dawek na powierzchnię ciała (Body Surface Area) jest dokładniejszą metodą, szczególnie u dzieci i w onkologii, ponieważ lepiej koreluje z objętością krwi, przepływem narządowym i metabolizmem."
     },
     {
         "question": "W leczeniu osteoporozy denosumab działa poprzez hamowanie aktywności osteoblastów, komórek kościotwórczych.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Denosumab jest przeciwciałem monoklonalnym skierowanym przeciwko RANKL, co hamuje powstawanie, funkcjonowanie i przeżycie osteoklastów, czyli komórek kościogubnych (odpowiedzialnych za resorpcję kości)."
     },
     {
         "question": "W leczeniu hipercholesterolemii ezetymib hamuje wchłanianie cholesterolu z jelit poprzez blokowanie transportera NPC1L1.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Ezetymib selektywnie blokuje białko transportowe Niemann-Pick C1-Like 1 (NPC1L1) w rąbku szczoteczkowym enterocytów, co skutecznie hamuje wchłanianie cholesterolu pokarmowego i żółciowego."
     },
     {
         "question": "Wspólne stosowanie beta-blokerów i antagonistów wapnia z grupy werapamilu/diltiazemu jest bezpieczne i zalecane w leczeniu nadciśnienia.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Jest to połączenie o wysokim ryzyku. Oba leki działają depresyjnie na węzeł zatokowo-przedsionkowy i przedsionkowo-komorowy (ujemne działanie chrono- i dromotropowe), co może prowadzić do ciężkiej bradykardii i bloku serca."
     },
     {
         "question": "P-glikoproteina (MDR1) jest polimorficzna, co oznacza, że różnice genetyczne w jej budowie mogą wpływać na biodostępność i skuteczność leków będących jej substratami.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Polimorfizm genu kodującego P-glikoproteinę może prowadzić do różnic w jej aktywności, co tłumaczy indywidualne różnice w odpowiedzi na leki takie jak digoksyna czy cyklosporyna."
     },
     {
         "question": "W zatruciu trójpierścieniowymi lekami przeciwdepresyjnymi (TLPD) głównym zagrożeniem jest depresja oddechowa.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Głównym zagrożeniem w zatruciu TLPD są zaburzenia sercowo-naczyniowe (kardiotoksyczność), takie jak ciężkie zaburzenia rytmu i przewodzenia (szerokie QRS, arytmie komorowe), wynikające z blokady kanałów sodowych."
     },
     {
         "question": "Wszystkie leki z grupy benzodiazepin mają ten sam okres półtrwania, co ułatwia ich zamienne stosowanie.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Benzodiazepiny znacznie różnią się farmakokinetyką. Dzieli się je na krótko-, średnio- i długodziałające (np. midazolam - krótki T1/2, diazepam - bardzo długi T1/2 i aktywne metabolity), co ma kluczowe znaczenie kliniczne."
     },
     {
         "question": "Mechanizm działania leków z grupy SSRI (selektywne inhibitory wychwytu zwrotnego serotoniny) polega na blokowaniu presynaptycznego transportera serotoniny (SERT).",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Blokada transportera SERT prowadzi do zwiększenia stężenia serotoniny w szczelinie synaptycznej, co jest podstawą ich działania przeciwdepresyjnego."
     },
     {
         "question": "Działanie leków przeciwhistaminowych I generacji (np. klemastyna) jest ograniczone do blokowania receptorów H1, bez wpływu na inne układy.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Leki przeciwhistaminowe I generacji nie są selektywne. Przechodzą przez barierę krew-mózg, powodując sedację, a także blokują receptory muskarynowe, co daje objawy cholinolityczne (suchość w ustach, zaburzenia widzenia)."
     },
     {
         "question": "W leczeniu zakażeń grzybiczych wywołanych przez Aspergillus, lekiem z wyboru jest flukonazol.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Flukonazol nie ma aktywności wobec grzybów z rodzaju Aspergillus. W leczeniu aspergilozy stosuje się inne azole (worykonazol, itrakonazol) lub amfoterycynę B."
     },
     {
         "question": "W leczeniu nadczynności tarczycy propylotiouracyl (PTU) działa wyłącznie poprzez hamowanie syntezy hormonów tarczycy w gruczole.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Oprócz hamowania syntezy hormonów tarczycy (przez inhibicję peroksydazy tarczycowej), PTU dodatkowo hamuje obwodową konwersję T4 do bardziej aktywnej T3, co jest jego dodatkową zaletą."
     },
     {
         "question": "Choroba posurowicza jest reakcją nadwrażliwości typu I (anafilaktyczną), mediowaną przez przeciwciała IgE.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Choroba posurowicza jest klasycznym przykładem reakcji nadwrażliwości typu III, w której powstające kompleksy immunologiczne (antygen-przeciwciało) odkładają się w tkankach, aktywując dopełniacz i powodując stan zapalny."
     },
     {
         "question": "W leczeniu astmy, montelukast działa jako antagonista receptorów leukotrienowych, hamując skurcz oskrzeli i proces zapalny.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Montelukast selektywnie blokuje receptor CysLT1 dla leukotrienów cysteinylowych, które są silnymi mediatorami prozapalnymi i bronchokonstrykcyjnymi w astmie."
     },
     {
         "question": "Klirens leku jest parametrem zależnym od okresu półtrwania - im dłuższy T1/2, tym większy klirens.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Klirens (CL) i okres półtrwania (T1/2) są odwrotnie proporcjonalne. Im wydajniejsza eliminacja (większy klirens), tym krótszy okres półtrwania leku w organizmie."
     },
     {
         "question": "Paracetamol w dawkach terapeutycznych jest całkowicie bezpieczny dla wątroby, a jego toksyczność pojawia się dopiero po 10-krotnym przekroczeniu dawki.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Toksyczność paracetamolu może pojawić się już po 2-3 krotnym przekroczeniu maksymalnej dawki dobowej (ok. 10g u dorosłych), a u osób z czynnikami ryzyka (alkohol, niedożywienie) nawet przy niższych dawkach."
     },
     {
         "question": "Kwas acetylosalicylowy w małych dawkach (75-150 mg) działa przeciwpłytkowo, a w dużych dawkach (powyżej 500 mg) przeciwbólowo i przeciwzapalnie.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Efekt działania aspiryny jest zależny od dawki. Niskie dawki selektywnie hamują COX-1 w płytkach krwi. Wyższe dawki są potrzebne do systemowego hamowania COX w tkankach, co daje efekt przeciwzapalny i przeciwbólowy."
     },
     {
         "question": "Podczas terapii litem stężenie leku we krwi należy monitorować, a próbki pobierać bezpośrednio po zażyciu porannej dawki.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "W terapii litem stężenie we krwi należy monitorować 12 godzin po przyjęciu ostatniej dawki (najczęściej rano, przed przyjęciem kolejnej dawki). Zapewnia to uzyskanie standaryzowanego stężenia minimalnego (Cmin)."
     },
     {
         "question": "W zatruciu cyjankami antidotum z wyboru jest podanie hydroksykobalaminy (witaminy B12a).",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Hydroksykobalamina wiąże jony cyjankowe, tworząc nietoksyczną cyjanokobalaminę (witaminę B12), która jest bezpiecznie wydalana z moczem. Jest to leczenie pierwszego rzutu."
     },
     {
         "question": "Statyny, oprócz działania hipolipemizującego, wykazują również działanie plejotropowe, takie jak działanie przeciwzapalne i stabilizujące blaszkę miażdżycową.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Działania plejotropowe to dodatkowe, korzystne efekty statyn, niezależne od obniżania poziomu cholesterolu, które przyczyniają się do ich skuteczności w prewencji chorób sercowo-naczyniowych."
     },
     {
         "question": "Dawka nasycająca (ładująca) jest stosowana w celu natychmiastowego osiągnięcia docelowego stężenia terapeutycznego leku, omijając okres dochodzenia do stanu stacjonarnego.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Dawka nasycająca, wyższa od dawki podtrzymującej, jest podawana na początku terapii lekami o długim okresie półtrwania (np. digoksyna, amiodaron), aby szybko uzyskać efekt terapeutyczny."
     },
     {
         "question": "W leczeniu zakażeń dróg moczowych furazydyna (furagina) jest skuteczna w leczeniu odmiedniczkowego zapalenia nerek.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Furazydyna osiąga stężenia terapeutyczne tylko w dolnych drogach moczowych (w moczu) i nie jest skuteczna w leczeniu zakażeń tkankowych, takich jak odmiedniczkowe zapalenie nerek."
     },
     {
         "question": "Wszystkie leki przeciwdepresyjne zaczynają działać natychmiast po podaniu pierwszej dawki.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Efekt przeciwdepresyjny większości leków (np. SSRI, TLPD) pojawia się z opóźnieniem, zazwyczaj po 2-4 tygodniach regularnego stosowania, co jest związane z adaptacyjnymi zmianami w receptorach i neurotransmisji."
     },
     {
         "question": "Współczynnik ekstrakcji wątrobowej (ER) dla leku bliski 1 oznacza, że lek jest bardzo wolno metabolizowany przez wątrobę.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Współczynnik ekstrakcji bliski 1 (lub >0,7) oznacza, że lek jest bardzo wydajnie i szybko usuwany z krwi podczas jednego przepływu przez wątrobę (wysoki klirens wątrobowy, duży efekt pierwszego przejścia)."
     },
     {
         "question": "Termin 'idiosynkrazja' odnosi się do genetycznie uwarunkowanej, nietypowej reakcji na lek, która nie ma podłoża immunologicznego.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Idiosynkrazja to jakościowo odmienna reakcja na lek, wynikająca z indywidualnych, często wrodzonych cech metabolicznych pacjenta, np. niedoboru enzymatycznego (np. niedobór G6PD i hemoliza po niektórych lekach)."
     },
     {
         "question": "Leki o charakterze kwaśnej glikoproteiny alfa-1 wiążą się głównie z lekami o charakterze kwaśnym, takimi jak warfaryna.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Glikoproteina alfa-1 wiąże głównie leki o charakterze ZASADOWYM (np. lidokaina, propranolol). Leki kwaśne wiążą się przede wszystkim z albuminami."
     },
     {
         "question": "Zgodnie z drabiną analgetyczną WHO, na pierwszym stopniu leczenia bólu stosuje się słabe opioidy w połączeniu z analgetykami nieopioidowymi.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Na pierwszym stopniu drabiny analgetycznej stosuje się analgetyki nieopioidowe (paracetamol, NLPZ) z ewentualnym dodatkiem leków wspomagających (adiuwantów). Słabe opioidy wchodzą na drugi stopień."
     },
     {
         "question": "Działanie leków z grupy inhibitorów zwrotnego wychwytu serotoniny i noradrenaliny (SNRI), np. wenlafaksyny, jest silniejsze od działania SSRI.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Dzięki podwójnemu mechanizmowi działania (wpływ na dwa układy neuroprzekaźników), leki z grupy SNRI są często uważane za skuteczniejsze, zwłaszcza w leczeniu cięższych epizodów depresji i zespołów bólowych."
     },
     {
         "question": "W leczeniu grzybicy paznokci terbinafina jest skuteczniejsza od itrakonazolu, zwłaszcza w przypadku dermatofitów.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Terbinafina wykazuje silne działanie grzybobójcze wobec dermatofitów, które są najczęstszą przyczyną grzybicy paznokci, i charakteryzuje się wysoką skutecznością kliniczną oraz krótszym czasem terapii."
     },
     {
         "question": "Tachifilaksja to zjawisko gwałtownego osłabienia odpowiedzi na lek po jego kilkukrotnym podaniu w krótkim czasie.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Tachifilaksja to szybko rozwijająca się tolerancja, wynikająca np. z wyczerpania zapasów mediatora lub desensytyzacji receptorów (np. przy stosowaniu efedryny)."
     },
     {
         "question": "W leczeniu choroby wrzodowej wywołanej przez H. pylori, standardowa terapia eradykacyjna zawsze obejmuje dwa antybiotyki i inhibitor pompy protonowej (IPP).",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Jest to podstawa tzw. terapii potrójnej (np. IPP + klarytromycyna + amoksycylina/metronidazol), która jest standardem w leczeniu zakażeń H. pylori."
     },
     {
         "question": "Leki z grupy sartanów (ARB) są przeciwwskazane u pacjentów z obustronnym zwężeniem tętnic nerkowych.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "W tej sytuacji perfuzja nerek jest zależna od skurczowego działania angiotensyny II na tętniczkę odprowadzającą. Zablokowanie tego mechanizmu przez IKA lub sartany może prowadzić do gwałtownego pogorszenia funkcji nerek i ostrej niewydolności."
     },
     {
         "question": "W zatruciu ołowiem jako antidotum (lek chelatujący) stosuje się penicylaminę.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Penicylamina oraz inne związki chelatujące, takie jak EDTA czy sukcimer (DMSA), tworzą z ołowiem rozpuszczalne kompleksy, które mogą być wydalone z organizmu."
     },
     {
         "question": "Okres półtrwania leku w fazie eliminacji nie zależy od objętości dystrybucji.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Okres półtrwania zależy zarówno od klirensu (CL), jak i objętości dystrybucji (Vd) zgodnie ze wzorem T1/2 ≈ 0.693 * (Vd / CL). Większa objętość dystrybucji wydłuża okres półtrwania."
     },
     {
         "question": "Farmakogenomika zajmuje się wpływem czynników genetycznych na odpowiedź na leki.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Jest to dziedzina badająca, jak indywidualne różnice w genomie (np. polimorfizmy enzymów, receptorów) wpływają na farmakokinetykę i farmakodynamikę leków, co pozwala na personalizację terapii."
     },
     {
         "question": "Nifedypina, bloker kanału wapniowego, jest lekiem o ujemnym działaniu inotropowym i chronotropowym.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Nifedypina (i inne pochodne dihydropirydyny) działa głównie na naczynia krwionośne, powodując ich rozszerzenie. Może wywołać odruchową tachykardię i nie ma istotnego klinicznie ujemnego działania ino- i chronotropowego, w przeciwieństwie do werapamilu i diltiazemu."
     },
     {
         "question": "Antybiotyki beta-laktamowe wykazują działanie zależne od stężenia (im wyższe Cmax, tym lepszy efekt).",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Antybiotyki beta-laktamowe wykazują działanie zależne od CZASU (time-dependent). Ich skuteczność zależy od tego, jak długo stężenie leku utrzymuje się powyżej minimalnego stężenia hamującego (MIC). Działanie zależne od stężenia wykazują np. aminoglikozydy."
     },
     {
         "question": "Podczas leczenia izotretynoiną (lek na trądzik) nie jest wymagane stosowanie antykoncepcji, ponieważ lek jest bezpieczny w ciąży.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Izotretynoina jest jednym z najsilniejszych znanych teratogenów ludzkich (kategoria X). U kobiet w wieku rozrodczym wymagane jest stosowanie co najmniej dwóch skutecznych metod antykoncepcji w trakcie i po zakończeniu leczenia."
     },
     {
         "question": "Leki mukolityczne, takie jak acetylocysteina, działają poprzez stymulację odruchu kaszlowego.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Leki mukolityczne działają poprzez rozrywanie mostków dwusiarczkowych w cząsteczkach śluzu, co zmniejsza jego lepkość i ułatwia odkrztuszanie. Leki stymulujące odruch kaszlowy to leki wykrztuśne."
     },
     {
         "question": "W leczeniu choroby Parkinsona lewodopę podaje się zawsze w połączeniu z inhibitorem obwodowej dekarboksylazy (np. karbidopą), aby zwiększyć jej biodostępność w mózgu i zmniejszyć działania niepożądane.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Inhibitor dekarboksylazy hamuje przemianę lewodopy do dopaminy na obwodzie, dzięki czemu więcej leku dociera do mózgu. Zmniejsza to wymaganą dawkę lewodopy i ogranicza obwodowe działania niepożądane (np. nudności, arytmie)."
     },
     {
         "question": "Furosemid, diuretyk pętlowy, działa poprzez hamowanie kotransportera Na+/K+/2Cl- w ramieniu wstępującym pętli Henlego.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Jest to precyzyjny mechanizm działania diuretyków pętlowych, który prowadzi do zahamowania reabsorpcji sodu i wody, skutkując silnym efektem moczopędnym."
     },
     {
         "question": "Diuretyki tiazydowe, oprócz działania moczopędnego, mogą powodować hiperkalcemię (wzrost stężenia wapnia).",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Tiazydy zwiększają reabsorpcję zwrotną wapnia w kanalikach dystalnych, co prowadzi do zmniejszenia jego wydalania z moczem i może skutkować hiperkalcemią. Jest to efekt przeciwny do diuretyków pętlowych."
     },
     {
         "question": "U pacjenta z niewydolnością nerek dawki leków wydalanych głównie przez nerki (np. digoksyny, aminoglikozydów) nie wymagają modyfikacji.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "U pacjentów z niewydolnością nerek należy ZMNIEJSZYĆ dawki lub WYDŁUŻYĆ odstępy między dawkami leków eliminowanych przez nerki, aby uniknąć ich kumulacji i toksyczności."
     },
     {
         "question": "W leczeniu zakażeń powodowanych przez bakterie beztlenowe, skutecznym lekiem jest metronidazol.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Metronidazol jest prolekiem, który ulega aktywacji (redukcji) w warunkach beztlenowych. Jego aktywny metabolit uszkadza DNA bakterii beztlenowych i pierwotniaków, co czyni go lekiem z wyboru w takich zakażeniach."
     },
     {
         "question": "Alkaloidy sporyszu (ergotamina) stosowane w leczeniu migreny działają poprzez rozszerzenie naczyń krwionośnych mózgu.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Ergotamina, podobnie jak tryptany, jest agonistą receptorów serotoninowych i powoduje SKURCZ naczyń oponowych i mózgowych, co przerywa napad migreny. Może również powodować skurcz naczyń obwodowych, co jest źródłem jej działań niepożądanych."
     },
     {
         "question": "Wspólne stosowanie teofiliny i cyprofloksacyny jest bezpieczne, ponieważ leki te nie wchodzą w interakcje.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Cyprofloksacyna jest inhibitorem enzymu CYP1A2, który metabolizuje teofilinę. Ich wspólne stosowanie może prowadzić do znacznego wzrostu stężenia teofiliny i jej toksyczności (zaburzenia rytmu serca, drgawki)."
     },
     {
         "question": "Kwas foliowy jest niezbędny do prawidłowego działania metotreksatu w leczeniu chorób reumatycznych.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Kwas foliowy jest ANTAGONISTĄ metotreksatu. Suplementacja kwasem foliowym jest jednak zalecana u pacjentów leczonych metotreksatem, aby ZMNIEJSZYĆ jego działania niepożądane (np. na szpik kostny), bez osłabiania efektu terapeutycznego."
     },
     {
         "question": "Leki hamujące krzepnięcie, takie jak warfaryna, należy odstawić na 7 dni przed planowanym zabiegiem chirurgicznym o dużym ryzyku krwawienia.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Odstawienie warfaryny na 5-7 dni przed zabiegiem pozwala na normalizację wskaźnika INR. Często stosuje się tzw. terapię pomostową heparyną drobnocząsteczkową w okresie odstawienia warfaryny."
     },
     {
         "question": "Wziewne glikokortykosteroidy, w przeciwieństwie do doustnych, nie powodują ogólnoustrojowych działań niepożądanych.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Chociaż wziewne GKS mają znacznie mniejsze ryzyko działań ogólnoustrojowych, to przy stosowaniu dużych dawek przez długi czas mogą powodować supresję osi HPA, osteoporozę czy zaćmę. Najczęstsze są działania miejscowe (chrypka, kandydoza)."
     },
     {
         "question": "Pojęcie efektu pułapowego (ceiling effect) oznacza, że po osiągnięciu pewnej dawki dalsze jej zwiększanie nie prowadzi do nasilenia efektu terapeutycznego, a jedynie do wzrostu toksyczności.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Efekt pułapowy jest charakterystyczny dla wielu leków, np. analgetyków nieopioidowych (paracetamol, NLPZ) i diuretyków tiazydowych. W przeciwieństwie do opioidów, których działanie przeciwbólowe rośnie wraz z dawką."
     },
     {
         "question": "Sukralfat, lek stosowany w chorobie wrzodowej, działa poprzez neutralizację kwasu solnego w żołądku.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Sukralfat w kwaśnym środowisku tworzy lepki polimer, który przylega do dna owrzodzenia, tworząc barierę ochronną przed kwasem, pepsyną i solami żółci. Nie neutralizuje kwasu solnego."
     },
     {
         "question": "W leczeniu zakażeń gronkowcem złocistym wytwarzającym penicylinazę (MSSA) skuteczną opcją jest amoksycylina w monoterapii.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Amoksycylina jest rozkładana przez penicylinazy. W leczeniu MSSA stosuje się penicyliny oporne na penicylinazy (np. kloksacylina) lub amoksycylinę z inhibitorem beta-laktamaz (kwasem klawulanowym)."
     },
     {
         "question": "W zatruciu glikolem etylenowym, głównym zagrożeniem dla pacjenta jest ciężka kwasica metaboliczna i ostra niewydolność nerek spowodowana odkładaniem się kryształów szczawianu wapnia.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Glikol etylenowy jest metabolizowany do toksycznych kwasów, w tym kwasu szczawiowego, który wiąże się z wapniem, tworząc nierozpuszczalne kryształy uszkadzające kanaliki nerkowe."
     },
     {
         "question": "Termin 'lek biopodobny' (biosimilar) oznacza lek generyczny (kopię chemiczną) leku biologicznego.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Leki biologiczne są zbyt złożone, aby stworzyć ich identyczną kopię. Lek biopodobny jest 'wysoce podobny' do referencyjnego leku biologicznego pod względem jakości, bezpieczeństwa i skuteczności, ale nie jest jego generykiem."
     },
     {
         "question": "Zgodnie z zasadą 5R (5 Rights of Medication Administration), jedną z zasad jest 'właściwy koszt' (right cost).",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Zasada 5R to: właściwy pacjent (right patient), właściwy lek (right drug), właściwa dawka (right dose), właściwa droga podania (right route), właściwy czas (right time)."
     },
     {
         "question": "Karbamazepina, lek przeciwpadaczkowy, jest autoinduktorem swojego metabolizmu, co oznacza, że po kilku tygodniach terapii jej stężenie może spaść, wymagając zwiększenia dawki.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Karbamazepina indukuje enzymy (głównie CYP3A4) odpowiedzialne za jej własny metabolizm. Prowadzi to do przyspieszenia jej eliminacji i konieczności dostosowania dawki po około 2-4 tygodniach od rozpoczęcia leczenia."
     },
     {
         "question": "W leczeniu niedokrwistości z niedoboru witaminy B12, preferowaną drogą podania jest droga doustna.",
-        "answer": false,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "B",
         "justification": "Najczęstszą przyczyną niedoboru witaminy B12 u dorosłych jest zaburzenie wchłaniania (np. w chorobie Addisona-Biermera, brak czynnika wewnętrznego). Dlatego leczenie polega na podawaniu witaminy B12 domięśniowo (i.m.)."
     },
     {
         "question": "Leki z grupy inhibitorów DPP-4 (gliptyny) działają poprzez zwiększenie wydzielania insuliny w sposób zależny od glukozy.",
-        "answer": true,
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda",
+            "B": "Fałsz"
+        },
+        "answer": "A",
         "justification": "Gliptyny hamują enzym DPP-4, który rozkłada inkretyny (GLP-1, GIP). Zwiększone stężenie inkretyn stymuluje wydzielanie insuliny i hamuje wydzielanie glukagonu tylko wtedy, gdy poziom glukozy we krwi jest podwyższony, co minimalizuje ryzyko hipoglikemii."
     }
 ]
