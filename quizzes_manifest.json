@@ -40,5 +40,11 @@
         "title": "Wykłady - 1",
         "subject": "Pediatria",
         "file": "Pediatria/questions_pediatria_wyklady_1.json"
+    },
+    {
+        "id": "pediatria_gielda_1",
+        "title": "Giełda - 1",
+        "subject": "Pediatria",
+        "file": "Pediatria/questions_pediatria_gielda_1.json"
     }
 ]
