@@ -323,3 +323,38 @@ body {
 #abcd-answers-container .mcq-option.user-selected-incorrect label {
     color: #721c24; /* Dark red text for the label */
 }
+
+/* For highlighting the actual correct answer when the user was wrong */
+.actual-correct-answer {
+    /* Using a light blue/cyan shade for distinction */
+    background-color: #e0f7fa; /* Light cyan */
+    border-color: #b2ebf2;     /* Slightly darker cyan border */
+    color: #00796b;            /* Dark cyan/teal text */
+}
+
+/* Ensure specificity for buttons if needed */
+.btn.actual-correct-answer {
+    background-color: #00bcd4; /* Cyan */
+    color: white;
+    border: 2px solid #0097a7; /* Darker cyan border */
+}
+
+/* Ensure specificity for MCQ options if needed */
+#abcd-answers-container .mcq-option.actual-correct-answer {
+    background-color: #e0f7fa; /* Light cyan background for the div */
+    border: 1px solid #b2ebf2;
+}
+#abcd-answers-container .mcq-option.actual-correct-answer label {
+    color: #00796b; /* Dark cyan/teal text for the label */
+}
+
+/*
+   Adjustments to ensure overrides if user selected a correct option
+   but the MCQ was globally wrong. This scenario is tricky.
+   For now, actual-correct-answer might override user-selected-incorrect
+   if applied to the same element. The JS logic aims to apply them to different elements.
+   If a correct option was part of an incorrect MCQ submission,
+   it will be user-selected-incorrect.
+   actual-correct-answer is for correct options *not* selected by the user.
+   So, direct conflict on the same element for these two classes is unlikely with current JS.
+*/

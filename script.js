@@ -251,6 +251,17 @@ function handleAnswer(userAnswer) { // userAnswer is now "A", "B", "C", or "D"
         incorrectScore++;
         feedbackTextElement.textContent = 'Niepoprawna odpowiedź.';
         feedbackTextElement.style.color = 'red';
+
+        // Highlight the actual correct answer if the user was incorrect
+        if (abcdAnswersContainer) {
+            const correctAnswerKey = currentQuestion.answer;
+            const buttons = abcdAnswersContainer.querySelectorAll('.btn-abcd');
+            buttons.forEach(button => {
+                if (button.textContent.startsWith(correctAnswerKey + ":")) {
+                    button.classList.add('actual-correct-answer');
+                }
+            });
+        }
     }
     justificationTextElement.textContent = currentQuestion.justification;
 
@@ -300,6 +311,20 @@ function handleMultipleChoiceAnswer() {
         incorrectScore++;
         feedbackTextElement.textContent = 'Niepoprawna odpowiedź.';
         feedbackTextElement.style.color = 'red';
+
+        // Highlight the actual correct answers that were not selected by the user
+        if (abcdAnswersContainer) {
+            const correctAnswers = currentQuestion.answer; // This is an array for MCQ
+            correctAnswers.forEach(correctKey => {
+                // Only highlight if this correct option was NOT selected by the user
+                if (!selectedOptions.includes(correctKey)) {
+                    const checkbox = abcdAnswersContainer.querySelector(`.checkbox-abcd[value="${correctKey}"]`);
+                    if (checkbox && checkbox.parentElement && checkbox.parentElement.classList.contains('mcq-option')) {
+                        checkbox.parentElement.classList.add('actual-correct-answer');
+                    }
+                }
+            });
+        }
     }
     justificationTextElement.textContent = currentQuestion.justification;
 
