@@ -984,5 +984,399 @@
         },
         "answer": "D",
         "justification": "Wyniki laboratoryjne pokazują niedokrwistość (niska hemoglobina) mikrocytarną (niskie MCV). Jest to obraz typowy dla niedokrwistości z niedoboru żelaza. Dodatkowo, w niedoborze żelaza często występuje reaktywna nadpłytkowość (podwyższona liczba płytek), co również widać w wynikach."
+    },
+    {
+        "question": "W jakich przypadkach może dojść do zmiany barwy zębów u dzieci?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "leczenie preparatami żelaza",
+            "b": "w przebiegu próchnicy",
+            "c": "leczenie preparatami żelaza, leczenie tetracyklinami, w przebiegu próchnicy",
+            "d": "żadna odpowiedź nie jest prawidłowa",
+            "e": "leczenie tetracyklinami"
+        },
+        "answer": "c",
+        "justification": "Wszystkie wymienione czynniki mogą powodować zmianę barwy zębów. Preparaty żelaza mogą powodować czarne, powierzchowne przebarwienia. Tetracykliny (stosowane w okresie rozwoju zębów) powodują trwałe, szaro-brązowe przebarwienia. Próchnica powoduje zmiany barwy zęba od białej plamy po ciemne ubytki."
+    },
+    {
+        "question": "U chłopca 2 letniego, po krwawieniu do stawu, z wydłużonym czasem APTT w koagulogramie do 100 s najbardziej prawdopodobnym rozpoznaniem jest",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Ciężka hemofilia",
+            "b": "Choroba kociego pazura",
+            "c": "Choroba Perthesa",
+            "d": "Małopłytkowość immunologiczna",
+            "e": "Zakrzepica"
+        },
+        "answer": "a",
+        "justification": "Samoistne krwawienia do stawów (wylewy dostawowe) u małego chłopca w połączeniu z izolowanym, znacznym wydłużeniem czasu kaolinowo-kefalinowego (APTT) to klasyczny obraz ciężkiej hemofilii (A lub B), która jest wrodzoną skazą krwotoczną."
+    },
+    {
+        "question": "Objaw/objawy charakterystyczne odmiedniczkowego zapalenia nerek u starszych dzieci",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "obniżenie temperatury ciała, wzmożone łaknienie, ból brzucha i/lub okolicy lędźwiowej",
+            "b": "ból brzucha i/lub okolicy lędźwiowej",
+            "c": "obniżenie temperatury ciała",
+            "d": "wzmożone łaknienie",
+            "e": "żadne"
+        },
+        "answer": "b",
+        "justification": "U starszych dzieci ostre odmiedniczkowe zapalenie nerek (OZN) objawia się podobnie jak u dorosłych: wysoką gorączką, dreszczami, złym samopoczuciem, nudnościami oraz bólem w okolicy lędźwiowej (dodatni objaw Goldflama) i/lub bólem brzucha."
+    },
+    {
+        "question": "Bóle brzucha u dzieci mogą wystąpić w przebiegu",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "limfadenopatie",
+            "b": "infekcje dróg oddechowych",
+            "c": "limfadenopatie, infekcje dróg oddechowych, zakażenia układu moczowego, pasożyty jelitowe",
+            "d": "zakażenia układu moczowego",
+            "e": "pasożyty jelitowe"
+        },
+        "answer": "c",
+        "justification": "Ból brzucha u dzieci jest objawem niespecyficznym. Może towarzyszyć wielu stanom, w tym zapaleniu węzłów chłonnych krezki (często przy infekcjach wirusowych), infekcjom dróg oddechowych, zakażeniom układu moczowego i chorobom pasożytniczym. Odpowiedź C jest najpełniejsza i zawiera wszystkie prawidłowe opcje."
+    },
+    {
+        "question": "Do gabinetu stomatologicznego zgłasza się 15-letnia dziewczyna celem ekstrakcji zęba. Po podaniu znieczulenia dochodzi do wstrząsu anafilaktycznego. Do typowych objawów nie zaliczysz",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "obrzęku błon śluzowych",
+            "b": "pokrzywki",
+            "c": "duszności",
+            "d": "nadciśnienia tętniczego",
+            "e": "zblednięcie powłok skórnych"
+        },
+        "answer": "d",
+        "justification": "Wstrząs anafilaktyczny charakteryzuje się gwałtownym spadkiem ciśnienia tętniczego (hipotensją), a nie jego wzrostem. Typowe objawy to pokrzywka, obrzęk naczynioruchowy, duszność (skurcz oskrzeli, obrzęk krtani), bladość skóry i objawy ze strony układu pokarmowego."
+    },
+    {
+        "question": "Profilaktyka infekcyjnego zapalenia wsierdzia zalecana jest przed zabiegami",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "stomatologicznymi, bronchoskopią, gastroskopią, kolonoskopią",
+            "b": "stomatologicznymi",
+            "c": "kolonoskopią"
+        },
+        "answer": "b",
+        "justification": "Zgodnie z obecnymi wytycznymi, profilaktyka antybiotykowa infekcyjnego zapalenia wsierdzia (IZW) jest zalecana u pacjentów z grupy najwyższego ryzyka tylko przed zabiegami stomatologicznymi związanymi z naruszeniem ciągłości błony śluzowej lub manipulacjami w okolicy okołowierzchołkowej zęba. Nie jest zalecana rutynowo przed zabiegami endoskopowymi przewodu pokarmowego czy oddechowego."
+    },
+    {
+        "question": "Leczeniem pierwszego rzutu w zakażeniu wirusem HSV jamy ustnej jest",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Paracetamol",
+            "b": "Klarytromycyna",
+            "c": "Acyklovir",
+            "d": "Amoksycylina",
+            "e": "Gancyklowir"
+        },
+        "answer": "c",
+        "justification": "Zakażenie wirusem opryczki pospolitej (HSV) jest leczone przyczynowo lekiem przeciwwirusowym, którym z wyboru jest acyklowir. Paracetamol działa objawowo (przeciwbólowo/przeciwgorączkowo), a antybiotyki (klarytromycyna, amoksycylina) nie działają na wirusy."
+    },
+    {
+        "question": "Nie leczona fenyloketonuria skutkuje",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wysypką",
+            "b": "znacznego stopnia upośledzeniem rozwoju psychomotorycznego",
+            "c": "odwodnieniem",
+            "d": "przewodnieniem",
+            "e": "otyłością"
+        },
+        "answer": "b",
+        "justification": "Fenyloketonuria jest wrodzoną chorobą metaboliczną. Brak leczenia dietetycznego prowadzi do gromadzenia się fenyloalaniny, która jest toksyczna dla rozwijającego się ośrodkowego układu nerwowego, powodując ciężkie i nieodwracalne uszkodzenie mózgu oraz głębokie upośledzenie rozwoju psychoruchowego."
+    },
+    {
+        "question": "W jakim wieku dziecko powinno umieć narysować okrąg?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "3 lata",
+            "b": "2 lata",
+            "c": "12 miesięcy"
+        },
+        "answer": "a",
+        "justification": "Zgodnie z kamieniami milowymi rozwoju psychoruchowego, umiejętność narysowania zamkniętego koła (okręgu) pojawia się u dziecka w wieku około 3 lat."
+    },
+    {
+        "question": "Objawy odwodnienia u niemowlęcia to",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wielomocz",
+            "b": "zapadnięte ciemię, suche błony śluzowe (brak śliny), zapadnięte gałki oczne, zmniejszona elastyczność skóry",
+            "c": "uwypuklone, tętniące ciemię, suche błony śluzowe (brak śliny), zapadnięte gałki oczne, zmniejszona elastyczność skóry",
+            "d": "uwypuklone, tętniące ciemię, suche błony śluzowe (brak śliny), wytrzeszcz gałek ocznych, zmniejszona elastyczność skóry"
+        },
+        "answer": "b",
+        "justification": "Klasyczne objawy odwodnienia u niemowlęcia to zmniejszenie diurezy (skąpomocz), zapadnięte ciemiączko, zapadnięte gałki oczne, suchość błon śluzowych, utrata elastyczności skóry (opóźniony powrót fałdu skórnego) oraz senność lub rozdrażnienie. Uwypuklone ciemię jest objawem wzrostu ciśnienia wewnątrzczaszkowego."
+    },
+    {
+        "question": "Pacjentka, lat 15, z wadą zgryzu, [...] zgłasza częste siniaczenie i bardzo długie krwawienie po ostatniej ekstrakcji zęba. Jakie powinno być postępowanie?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "skierowanie do hepatologa",
+            "b": "skierowanie do pediatry celem diagnostyki zaburzenia hemostazy",
+            "c": "skierowanie do pediatry celem diagnostyki skazy naczyniowej",
+            "d": "zlecenie morfologii i ekstrakcja zęba w przypadku normy płytek"
+        },
+        "answer": "b",
+        "justification": "Wywiad wskazujący na nadmierne krwawienie po urazie (ekstrakcja) oraz łatwe siniaczenie sugeruje istnienie skazy krwotocznej. Przed kolejnym zabiegiem inwazyjnym konieczna jest diagnostyka zaburzeń hemostazy (układu krzepnięcia i płytek krwi), którą powinien przeprowadzić lub zlecić pediatra lub hematolog dziecięcy."
+    },
+    {
+        "question": "Do izby przyjęć szpitala zgłasza się mama z 6-miesięcznym chłopcem. W wywiadzie [...] obfite wymioty oraz biegunka. [...] Czego nie stwierdzisz w badaniu fizykalnym oraz w badaniach laboratoryjnych",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zapadniętych gałek ocznych",
+            "b": "zapadniętego ciemienia",
+            "c": "suchości śluzówek jamy ustnej",
+            "d": "hipokaliemii",
+            "e": "nadciśnienia tętniczego"
+        },
+        "answer": "e",
+        "justification": "Obfite wymioty i biegunka prowadzą do odwodnienia i utraty płynów (hipowolemii). W badaniu stwierdza się objawy odwodnienia (zapadnięte gałki oczne, ciemię, suchość śluzówek). W badaniach laboratoryjnych typowa jest hipokaliemia (utrata potasu). Skutkiem hipowolemii jest spadek ciśnienia tętniczego (hipotensja), a nie nadciśnienie."
+    },
+    {
+        "question": "Leczeniem z wyboru wstrząsu hipowolemicznego jest",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "podanie leków o działaniu moczopędnym",
+            "b": "natychmiastowa podaż płynów",
+            "c": "przetoczenie osocza świeżo mrożonego",
+            "d": "antybiotykoterapia",
+            "e": "podanie probiotyków"
+        },
+        "answer": "b",
+        "justification": "Wstrząs hipowolemiczny wynika z krytycznego zmniejszenia objętości krwi krążącej. Podstawą leczenia jest jak najszybsze uzupełnienie utraconych płynów poprzez agresywną płynoterapię dożylną, zazwyczaj krystaloidami (np. 0,9% NaCl)."
+    },
+    {
+        "question": "Ciemiączko przednie zamyka się zwykle w wieku",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "bezpośrednio po urodzeniu",
+            "b": "6-10 miesiąc życia",
+            "c": "18 miesiąc życia",
+            "d": "2-3 miesiąc życia",
+            "e": "3-4 rok życia"
+        },
+        "answer": "c",
+        "justification": "Ciemiączko przednie u zdrowego, donoszonego niemowlęcia zarasta najczęściej między 9. a 18. miesiącem życia. Odpowiedź '18 miesiąc życia' mieści się w tym zakresie i jest często podawana jako górna granica normy."
+    },
+    {
+        "question": "„Sapka\", czyli utrudnienie oddychania u noworodków i niemowląt, jest spowodowana",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "współistniejącym rozszczepem podniebienia",
+            "b": "zaleganiem śluzowej wydzieliny w przewodach nosowych",
+            "c": "częściową atrezją nozdrzy przednich",
+            "d": "obrzękiem błony śluzowej przewodów nosowych",
+            "e": "częściową atrezją nozdrzy tylnych"
+        },
+        "answer": "d",
+        "justification": "Sapka to potoczne określenie niedrożności nosa u niemowląt. Najczęstszą przyczyną jest obrzęk błony śluzowej nosa w przebiegu łagodnej infekcji wirusowej (kataru) lub reakcji alergicznej. Zaleganie wydzieliny (b) jest skutkiem, a nie pierwotną przyczyną."
+    },
+    {
+        "question": "Sferocytoza wrodzona, wskaż poprawne stwierdzenie",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "objawy kliniczne obejmują m.in: żółtaczkę, niedokrwistość, splenomegalię",
+            "b": "sferocytoza wrodzona to najczęstsza wrodzona niedokrwistość hemolityczna Polsce",
+            "c": "powikłaniem sferocytozy może być kamica żółciowa",
+            "d": "powikłaniem sferocytozy może być przełom hemolityczny i przełom anaplastyczny",
+            "e": "wszystkie odpowiedzi są poprawne"
+        },
+        "answer": "e",
+        "justification": "Wszystkie podane stwierdzenia dotyczące sferocytozy wrodzonej są prawdziwe. Klasyczna triada objawów to niedokrwistość, żółtaczka i splenomegalia (a). Jest to najczęstsza wrodzona anemia hemolityczna w Europie (b). Przewlekła hemoliza prowadzi do kamicy żółciowej (c). Możliwe są też ostre kryzy: hemolityczna i aplastyczna (d)."
+    },
+    {
+        "question": "Przyczyną częstych niedokrwistości u dzieci są wszystkie z wyjątkiem",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "hemoliza",
+            "b": "przewlekła białaczka limfatyczna",
+            "c": "niedokrwistość z niedoboru Fe",
+            "d": "hemoglobinopatie",
+            "e": "zahamowanie czynności szpiku"
+        },
+        "answer": "b",
+        "justification": "Wszystkie wymienione opcje są mechanizmami lub przyczynami niedokrwistości u dzieci, z wyjątkiem przewlekłej białaczki limfatycznej (CLL). CLL jest chorobą typową dla osób w podeszłym wieku i praktycznie nie występuje u dzieci."
+    },
+    {
+        "question": "Naciekanie dziąseł jest charakterystycznym objawem",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "rdzeniaka płodowego",
+            "b": "ostrej białaczki nielimfoblastycznej",
+            "c": "nerczaka płodowego",
+            "d": "anemii aplastycznej",
+            "e": "zespołu mielodysplastycznego"
+        },
+        "answer": "b",
+        "justification": "Przerostowe naciekanie dziąseł przez komórki blastyczne jest charakterystycznym objawem ostrej białaczki nielimfoblastycznej, czyli ostrej białaczki szpikowej (AML), zwłaszcza jej podtypów monocytarnych."
+    },
+    {
+        "question": "Obecność żywej krwi w stolcu stwierdza się w przebiegu",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ostrego nieżytu żołądkowo-jelitowego o etiologii rotawirusowej, wgłobienia jelit, alergii na białko mleka krowiego, polipowatości jelit",
+            "b": "ostrego nieżytu żołądkowo-jelitowego o etiologii rotawirusowej",
+            "c": "alergii na białko mleka krowiego",
+            "d": "wgłobienia jelit",
+            "e": "polipowatości jelit"
+        },
+        "answer": "a",
+        "justification": "Obecność świeżej (żywej) krwi w stolcu może wystąpić we wszystkich wymienionych schorzeniach: w infekcyjnym zapaleniu jelit, w wgłobieniu (stolec malinowy), w alergicznym zapaleniu jelit oraz przy polipach. Odpowiedź A jest najpełniejsza, ponieważ wymienia wszystkie te przyczyny."
+    },
+    {
+        "question": "Zgodnie z obowiązującym kalendarzem szczepień (PSO 2020) do szczepień obowiązkowych nie zaliczamy szczepienia przeciwko",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Ospie wietrznej",
+            "b": "S. pneumoniae",
+            "c": "HBV",
+            "d": "Różyczce",
+            "e": "Polio"
+        },
+        "answer": "a",
+        "justification": "Szczepienia przeciwko pneumokokom (S. pneumoniae), wirusowemu zapaleniu wątroby typu B (HBV), różyczce (w ramach MMR) oraz polio są w Polsce obowiązkowe. Szczepienie przeciwko ospie wietrznej jest obowiązkowe tylko dla wybranych grup ryzyka, a dla pozostałych dzieci jest szczepieniem zalecanym."
+    },
+    {
+        "question": "Karmienie zdrowych niemowląt - wskaż prawdziwe",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "mleko matki może być jedynym spożywanym pokarmem przez dziecko do 6 miesiąca życia",
+            "b": "nie zaleca się suplementacji witaminy D w okresie niemowlęcym",
+            "c": "nie zaleca się wprowadzania pokarmów mięsnych w pierwszym roku życia",
+            "d": "mleko modyfikowane jest optymalną dietą niemowlęcia, i jest lepsze od mleka matki",
+            "e": "gluten można wprowadzić do diety niemowlęcia od pierwszego dnia życia"
+        },
+        "answer": "a",
+        "justification": "Zgodnie z zaleceniami WHO i towarzystw pediatrycznych, wyłączne karmienie piersią jest zalecane przez pierwsze 6 miesięcy życia dziecka. Suplementacja witaminy D jest konieczna. Pokarmy mięsne wprowadza się po 6. miesiącu. Mleko matki jest pokarmem optymalnym. Gluten wprowadza się po 4. miesiącu."
+    },
+    {
+        "question": "Zmiany osteolityczne zlokalizowane w szczęce i żuchwie dające obraz tzw. \"fruwających zębów\", często prowadzące do utraty zębów, występują w",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "siatkówczaku",
+            "b": "histiocytozie z komórek Langerhansa",
+            "c": "guzach ośrodkowego układu nerwowego",
+            "d": "chłoniaku B-komórkowym",
+            "e": "nerwiaku zarodkowym współczulnym"
+        },
+        "answer": "b",
+        "justification": "Obraz 'pływających' lub 'fruwających zębów' (floating teeth) jest charakterystycznym objawem radiologicznym dla histiocytozy z komórek Langerhansa (LCH), w której dochodzi do powstawania osteolitycznych ognisk w kościach szczęki i żuchwy."
+    },
+    {
+        "question": "Najczęstszą przyczyna przednerkowej niewydolności nerek u dzieci jest",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "kłębuszkowe zapalenia nerek",
+            "b": "zespół hemolityczno-mocznicowy",
+            "c": "zastawka cewki tylnej",
+            "d": "odwodnienie"
+        },
+        "answer": "d",
+        "justification": "Przednerkowa ostra niewydolność nerek (AKI) wynika z upośledzenia perfuzji nerek. Najczęstszą przyczyną tego stanu u dzieci jest hipowolemia spowodowana odwodnieniem, najczęściej w przebiegu ostrej biegunki i wymiotów."
+    },
+    {
+        "question": "Najczęstszym nowotworem litym u niemowląt jest",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wątrobiak płodowy",
+            "b": "kostaniakomięsak",
+            "c": "nerczak niedojrzały",
+            "d": "nerwiak zarodkowy współczulny",
+            "e": "siatkówczak"
+        },
+        "answer": "d",
+        "justification": "Nerwiak zarodkowy współczulny (neuroblastoma) jest najczęstszym nowotworem litym pozaczaszkowym u dzieci i najczęstszym nowotworem diagnozowanym w okresie niemowlęcym."
+    },
+    {
+        "question": "W jakim okresie życia dochodzi do przejściowego fizjologicznego obniżenia poziomu hemoglobiny?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "pod koniec 1. miesiąca życia",
+            "b": "w 3. miesiącu życia",
+            "c": "w okresie dojrzewania",
+            "d": "7. doba życia",
+            "e": "w 2. miesiącu życia"
+        },
+        "answer": "e",
+        "justification": "Fizjologiczny spadek stężenia hemoglobiny, zwany niedokrwistością fizjologiczną niemowląt, występuje u wszystkich noworodków. Najniższe wartości hemoglobiny (nadir) obserwuje się między 8. a 12. tygodniem życia, czyli w 2.-3. miesiącu. Odpowiedź 'w 2. miesiącu życia' jest najbardziej precyzyjna."
+    },
+    {
+        "question": "Kwasica metaboliczna u dzieci może wystąpić w przebiegu",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "podgłośniowego zapalenia krtani",
+            "b": "zapalenia płuc, uporczywego kaszlu, atopowego zapalenia skóry",
+            "c": "ostrego nieżytu żołądkowo-jelitowego, cukrzycy typu 1, przewlekłej choroby nerek, wstrząsu",
+            "d": "wymiotów, zaparć, przewodnienia"
+        },
+        "answer": "c",
+        "justification": "Kwasica metaboliczna jest częstym zaburzeniem w wielu stanach. Występuje w ostrej biegunce (utrata zasad przez jelita), w cukrzycowej kwasicy ketonowej, w przewlekłej chorobie nerek (upośledzenie wydalania H+) oraz we wstrząsie (produkcja mleczanów w warunkach beztlenowych). Odpowiedź C wymienia wszystkie te stany."
+    },
+    {
+        "question": "Przewlekła Choroba Nerek to zaburzenia budowy lub czynności nerek trwające dłużej niż",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "1 miesiąc",
+            "b": "3 tygodnie",
+            "c": "3 miesiące",
+            "d": "3 dni",
+            "e": "1 rok"
+        },
+        "answer": "c",
+        "justification": "Zgodnie z międzynarodową definicją KDIGO, przewlekłą chorobę nerek (PChN) rozpoznaje się, gdy nieprawidłowości budowy lub czynności nerek (np. obniżony GFR < 60 ml/min/1.73m2 lub albuminuria) utrzymują się przez okres co najmniej 3 miesięcy."
+    },
+    {
+        "question": "Krwiomocz jest objawem mogącym wystąpić u dzieci w",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "jest objawem typowym dla moczenia nocnego",
+            "b": "zapaleniu pęcherza moczowego, kłębuszkowych zapaleniach nerek, guzach nerek",
+            "c": "jest objawem typowym dla cukrzycy typu 1",
+            "d": "nie występuje u dzieci"
+        },
+        "answer": "b",
+        "justification": "Krwiomocz (hematuria) jest objawem wielu chorób układu moczowego. Może występować w zapaleniu pęcherza (zwłaszcza krwotocznym), w różnych typach kłębuszkowych zapaleń nerek (np. nefropatia IgA, poinfekcyjne KZN) oraz w guzach nerek (np. guz Wilmsa)."
+    },
+    {
+        "question": "Najczęstszą przyczyną biegunek i odwodnienia u małych dzieci, często wymagających hospitalizacji i nawadniania dożylnego są - wskaż prawdziwe",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "u dzieci biegunki występują rzadko i nie wymagają interwencji",
+            "b": "błędy dietetyczne",
+            "c": "zakażenia wirusami rota",
+            "d": "zakażenia bakteryjne przewodu pokarmowego",
+            "e": "zbyt duża ilość mleka krowiego w diecie"
+        },
+        "answer": "c",
+        "justification": "Rotawirusy są główną przyczyną ciężkich, odwadniających biegunek u niemowląt i małych dzieci na całym świecie, często prowadzących do konieczności hospitalizacji w celu nawadniania dożylnego."
+    },
+    {
+        "question": "Najczęstszym powikłaniem anginy w populacji wieku rozwojowego jest",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ropowica dna jamy ustnej",
+            "b": "naciek i ropień okołomigdałkowy",
+            "c": "zakrzepowe zapalenie zatoki jamistej",
+            "d": "ropowica podżuchwowa",
+            "e": "ropień dziąsłowy"
+        },
+        "answer": "b",
+        "justification": "Najczęstszym ropnym powikłaniem miejscowym anginy paciorkowcowej jest szerzenie się zakażenia na otaczające tkanki, co prowadzi do powstania nacieku, a następnie ropnia okołomigdałkowego."
+    },
+    {
+        "question": "Nadciśnienie tętnicze może być objawem",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "mięsaka Ewinga",
+            "b": "białaczki",
+            "c": "biegunki ostrej",
+            "d": "nerczaka płodowego i nerwiaka zarodkowego współczulnego",
+            "e": "chłoniaka nieziarniczego"
+        },
+        "answer": "d",
+        "justification": "Nadciśnienie tętnicze jest częstym objawem nowotworów wieku dziecięcego, które wywodzą się z nerek lub nadnerczy. Jest to charakterystyczny objaw guza Wilmsa (nerczaka płodowego), wynikający z ucisku na tętnicę nerkową i aktywacji układu RAA, oraz nerwiaka zarodkowego (neuroblastoma), który może produkować katecholaminy."
     }
 ]
