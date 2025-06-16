@@ -718,5 +718,245 @@
         },
         "answer": "D",
         "justification": "Slajd 316 wymienia liczne grupy leków, które mogą powodować gorączkę polekową, w tym antybiotyki (penicyliny, cefalosporyny), leki przeciwpadaczkowe (barbiturany, fenytoina) oraz leki stosowane w chorobach sercowo-naczyniowych i metabolicznych (allopurinol, kaptopryl)."
+    },
+    {
+        "question": "Które z poniższych schorzeń, oprócz chorób przewodu pokarmowego, jest częstą przyczyną bólu brzucha u dzieci?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zapalenie układu oddechowego",
+            "B": "Zakażenie układu moczowego",
+            "C": "Zakażenia pasożytnicze",
+            "D": "Wszystkie powyższe"
+        },
+        "answer": "D",
+        "justification": "Ból brzucha u dzieci jest objawem niespecyficznym. Oprócz przyczyn gastrologicznych, często jest on objawem zakażenia układu moczowego, infekcji dróg oddechowych (szczególnie przy powiększeniu węzłów chłonnych krezkowych) oraz infekcji pasożytniczych (PEDIATRIA 2022, pkt 5)."
+    },
+    {
+        "question": "Sferocytoza wrodzona jest przyczyną niedokrwistości o mechanizmie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Niedoborowym (z braku żelaza)",
+            "B": "Aplantycznym (z niewydolności szpiku)",
+            "C": "Hemolitycznym (z nadmiernego rozpadu erytrocytów)",
+            "D": "Megaloblastycznym (z niedoboru wit. B12/kwasu foliowego)"
+        },
+        "answer": "C",
+        "justification": "Sferocytoza to wrodzona wada budowy błony komórkowej erytrocytu, która czyni go mniej elastycznym i podatnym na niszczenie w śledzionie. Jest to klasyczna przyczyna wrodzonej niedokrwistości hemolitycznej (PEDIATRIA 2022, pkt 8)."
+    },
+    {
+        "question": "Która cecha kliniczna lub laboratoryjna jest typowa dla mięsaka Ewinga, a często odróżnia go od kostniakomięsaka?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Lokalizacja w przynasadach kości długich",
+            "B": "Gorączka i podwyższone OB, imitujące stan zapalny",
+            "C": "Wysoki poziom fosfatazy alkalicznej",
+            "D": "Brak odpowiedzi na chemioterapię"
+        },
+        "answer": "B",
+        "justification": "Mięsak Ewinga, w przeciwieństwie do osteosarcoma, często manifestuje się objawami ogólnymi takimi jak gorączka, utrata masy ciała i podwyższone wskaźniki stanu zapalnego (OB, CRP), co może mylnie sugerować infekcję (Slajd 102)."
+    },
+    {
+        "question": "W leczeniu cukrzycowej kwasicy ketonowej (DKA), oprócz insulinoterapii, kluczowym elementem jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Szybkie podanie wodorowęglanów w celu wyrównania kwasicy",
+            "B": "Podanie leków przeciwbólowych",
+            "C": "Stopniowe, ostrożne nawadnianie dożylne w celu wyrównania odwodnienia i zaburzeń elektrolitowych",
+            "D": "Podanie leków przeciwwymiotnych"
+        },
+        "answer": "C",
+        "justification": "Podstawą leczenia DKA jest jednoczesne prowadzenie insulinoterapii, płynoterapii i wyrównywania zaburzeń elektrolitowych. Prawidłowe nawadnianie jest kluczowe dla przywrócenia perfuzji tkankowej i uniknięcia powikłań, np. obrzęku mózgu (Slajd 177)."
+    },
+    {
+        "question": "W diagnostyce różnicowej przyczyn przedłużonego czasu APTT przy prawidłowym czasie PT i liczbie płytek należy wziąć pod uwagę przede wszystkim:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Niedobór witaminy K",
+            "B": "Leczenie doustnymi antykoagulantami",
+            "C": "Choroby wątroby",
+            "D": "Hemofilię A, B lub chorobę von Willebranda"
+        },
+        "answer": "D",
+        "justification": "Izolowane przedłużenie APTT wskazuje na zaburzenie wewnątrzpochodnej drogi krzepnięcia (czynniki VIII, IX, XI, XII). Hemofilia A (niedobór cz. VIII) i B (niedobór cz. IX) oraz niektóre typy choroby von Willebranda (z wtórnym niedoborem cz. VIII) dają taki obraz (Skazy krwotoczne, slajd 29)."
+    },
+    {
+        "question": "Jak nazywa się objaw radiologiczny w postaci trójkątnego cienia powstającego przez uniesienie okostnej przez guz kości, charakterystyczny dla nowotworów złośliwych kości?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Trójkąt Codmana",
+            "B": "Objaw \"łuski cebuli\"",
+            "C": "Objaw \"słońca\" (spikule)",
+            "D": "Objaw Kehra"
+        },
+        "answer": "A",
+        "justification": "Trójkąt Codmana to charakterystyczny, chociaż nieswoisty, objaw radiologiczny kostniakomięsaka, opisujący trójkątny obszar nowej kości podokostnowej na granicy guza (Slajd 98)."
+    },
+    {
+        "question": "Pacjent z cukrzycą typu 1 ma 10-krotnie wyższe ryzyko rozwoju innej choroby autoimmunologicznej. O jaką chorobę chodzi?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Reumatoidalnego zapalenia stawów",
+            "B": "Choroby Leśniowskiego-Crohna",
+            "C": "Celiakii (choroby trzewnej)",
+            "D": "Twardziny układowej"
+        },
+        "answer": "C",
+        "justification": "Istnieje silne powiązanie genetyczne (wspólne haplotypy HLA) między cukrzycą typu 1 a celiakią. Częstość występowania celiakii u osób z T1DM jest ok. 10 razy wyższa niż w populacji ogólnej (Slajd 186)."
+    },
+    {
+        "question": "Najczęstszą przyczyną ostrej niewydolności nerek (ONN) w grupie niemowląt jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zespół hemolityczno-mocznicowy (HUS)",
+            "B": "Wady wrodzone układu moczowego",
+            "C": "Ostre kłębuszkowe zapalenie nerek",
+            "D": "Zakrzepica naczyń nerkowych"
+        },
+        "answer": "A",
+        "justification": "Jak przedstawiono na slajdzie 'Najczęstsze przyczyny ONN w zależności od wieku' (Slajd 266), u niemowląt główną przyczyną ONN jest postać przednerkowa, a z przyczyn nerkowych dominuje zespół hemolityczno-mocznicowy."
+    },
+    {
+        "question": "W diagnostyce różnicowej przyczyn limfadenopatii szyjnej u dzieci, które badanie obrazowe jest zalecane jako pierwsze?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Tomografia komputerowa (TK)",
+            "B": "Rezonans magnetyczny (MRI)",
+            "C": "Ultrasonografia (USG)",
+            "D": "Pozytonowa tomografia emisyjna (PET)"
+        },
+        "answer": "C",
+        "justification": "USG jest badaniem z wyboru w początkowej diagnostyce guzów i powiększonych węzłów chłonnych szyi u dzieci. Jest nieinwazyjne, łatwo dostępne, tanie i nie wykorzystuje promieniowania jonizującego, a dostarcza kluczowych informacji morfologicznych (USG w pediatrii, slajd 202)."
+    },
+    {
+        "question": "Która cecha jest charakterystyczna dla guzów litych wieku dziecięcego, odróżniająca je od nowotworów dorosłych?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Pochodzenie nabłonkowe",
+            "B": "Powolny wzrost i późne przerzuty",
+            "C": "Niska wrażliwość na chemioterapię",
+            "D": "Pochodzenie z tkanek embrionalnych i duża dynamika wzrostu"
+        },
+        "answer": "D",
+        "justification": "Nowotwory lite u dzieci (np. neuroblastoma, guz Wilmsa, mięsaki) wywodzą się z pierwotnych tkanek zarodkowych. Cechuje je ogromna dynamika wzrostu, wczesne dawanie przerzutów, ale jednocześnie duża wrażliwość na chemioterapię (Slajd 30)."
+    },
+    {
+        "question": "Co jest podstawowym elementem leczenia podtrzymującego w ostrej białaczce, mającym na celu zapobieganie wznowie w Ośrodkowym Układzie Nerwowym (OUN)?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Doustna chemioterapia",
+            "B": "Chemioterapia dokanałowa",
+            "C": "Radioterapia całego ciała",
+            "D": "Podawanie immunoglobulin"
+        },
+        "answer": "B",
+        "justification": "Bariera krew-mózg ogranicza przenikanie wielu cytostatyków podawanych systemowo. Dlatego profilaktyka i leczenie zajęcia OUN wymagają podawania leków (np. metotreksatu, cytarabiny) bezpośrednio do płynu mózgowo-rdzeniowego (dokanałowo) (Slajd 14)."
+    },
+    {
+        "question": "Jaki jest cel stosowania fizykoterapii (drenażu ułożeniowego z oklepywaniem) u chorych na mukowiscydozę?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Poprawa siły mięśni oddechowych",
+            "B": "Zmniejszenie stanu zapalnego w oskrzelach",
+            "C": "Mechaniczne usunięcie gęstej, zalegającej wydzieliny z dróg oddechowych",
+            "D": "Poprawa tolerancji wysiłku"
+        },
+        "answer": "C",
+        "justification": "Kluczowym problemem w mukowiscydozie jest zaleganie gęstego śluzu, co prowadzi do nawracających infekcji i uszkodzenia płuc. Fizykoterapia oddechowa jest podstawową metodą wspomagającą ewakuację tej wydzieliny i utrzymanie drożności dróg oddechowych (Slajd 137)."
+    },
+    {
+        "question": "Który z poniższych objawów klinicznych u otyłego dziecka jest najsilniejszym wskaźnikiem insulinooporności?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Nadciśnienie tętnicze",
+            "B": "Dyslipidemia",
+            "C": "Rogowacenie ciemne (acanthosis nigricans)",
+            "D": "Podwyższone stężenie kwasu moczowego"
+        },
+        "answer": "C",
+        "justification": "Rogowacenie ciemne to ciemne, brodawkowate zmiany skórne w fałdach (kark, pachy, pachwiny), które są klinicznym markerem hiperinsulinemii i ciężkiej insulinooporności, często związanej z ryzykiem cukrzycy typu 2 (Slajd 152)."
+    },
+    {
+        "question": "Który z wymienionych objawów jest charakterystyczny dla zespołu Hoigne?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Obrzęk naczynioruchowy i pokrzywka",
+            "B": "Gwałtowne, przemijające objawy neurologiczne i psychiczne (lęk, omamy) po wstrzyknięciu penicyliny prokainowej",
+            "C": "Biegunka i ból brzucha",
+            "D": "Gorączka i bóle stawów"
+        },
+        "answer": "B",
+        "justification": "Zespół Hoigne jest reakcją niealergiczną (pseudoanafilaktyczną), spowodowaną dostaniem się do krążenia mikrokryształów penicyliny prokainowej i ich działaniem na OUN. Objawy są gwałtowne, ale krótkotrwałe (Slajd 319)."
+    },
+    {
+        "question": "W leczeniu ciężkiej hipoglikemii u nieprzytomnego pacjenta z cukrzycą, gdy brak jest dostępu dożylnego, postępowaniem z wyboru jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Podanie słodkiego napoju doustnie",
+            "B": "Wstrzyknięcie domięśniowe lub podskórne glukagonu",
+            "C": "Podanie hydrokortyzonu domięśniowo",
+            "D": "Wezwanie pomocy i czekanie na przyjazd karetki"
+        },
+        "answer": "B",
+        "justification": "U nieprzytomnego pacjenta podawanie czegokolwiek doustnie jest przeciwwskazane z powodu ryzyka zachłyśnięcia. Glukagon podany domięśniowo/podskórnie powoduje uwolnienie glukozy z wątroby i jest lekiem ratującym życie w takiej sytuacji (Slajd 183)."
+    },
+    {
+        "question": "Najczęstszym nowotworem złośliwym u nastolatków (15-19 lat) są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Białaczki",
+            "B": "Chłoniaki",
+            "C": "Guzy zarodkowe",
+            "D": "Guzy kości"
+        },
+        "answer": "B",
+        "justification": "W przeciwieństwie do młodszych dzieci, u nastolatków dominują chłoniaki (zwłaszcza chłoniak Hodgkina), stanowiąc prawie 25% wszystkich nowotworów. Na drugim miejscu plasują się nowotwory OUN i raki (Slajd 6)."
+    },
+    {
+        "question": "Podstawową cechą odróżniającą przednerkową od nerkowej ostrej niewydolności nerek jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Odpowiedź na nawodnienie i diuretyki",
+            "B": "Poziom kreatyniny w surowicy",
+            "C": "Obecność białkomoczu",
+            "D": "Obecność nadciśnienia tętniczego"
+        },
+        "answer": "A",
+        "justification": "Przednerkowa ONN wynika z hipoperfuzji nerek, ale same nerki są jeszcze zdrowe. Dlatego po przywróceniu prawidłowego krążenia (nawodnienie) i/lub podaniu diuretyku, funkcja nerek wraca. W nerkowej ONN uszkodzony jest miąższ, więc taka interwencja jest nieskuteczna (Slajd 265)."
+    },
+    {
+        "question": "Który z poniższych czynników jest uznawany za ochronny w kontekście rozwoju cukrzycy typu 1?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wczesne karmienie mlekiem krowim",
+            "B": "Infekcje wirusowe (różyczka, świnka)",
+            "C": "Karmienie piersią",
+            "D": "Wiek matki > 40 lat"
+        },
+        "answer": "C",
+        "justification": "Na podstawie tabeli czynników środowiskowych (Slajd 156), karmienie piersią jest wymienione jako czynnik ochronny, potencjalnie zmniejszający ryzyko rozwoju cukrzycy typu 1. Pozostałe opcje są wymienione jako czynniki ryzyka."
+    },
+    {
+        "question": "Choroba posurowicza, objawiająca się gorączką, zapaleniem stawów i pokrzywką około 7-14 dni po podaniu leku, jest przykładem reakcji nadwrażliwości typu:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "I (anafilaktycznego)",
+            "B": "II (cytotoksycznego)",
+            "C": "III (kompleksów immunologicznych)",
+            "D": "IV (komórkowego)"
+        },
+        "answer": "C",
+        "justification": "Choroba posurowicza to klasyczny przykład reakcji typu III, w której krążące kompleksy immunologiczne (antygen-przeciwciało) odkładają się w ścianach drobnych naczyń, aktywując dopełniacz i powodując uogólniony stan zapalny (Slajd 309)."
+    },
+    {
+        "question": "Które badanie jest kluczowe do postawienia ostatecznego rozpoznania histopatologicznego guza litego, np. mięsaka tkanek miękkich?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Biopsja aspiracyjna cienkoigłowa (BAC)",
+            "B": "Badanie USG z Dopplerem",
+            "C": "Biopsja otwarta lub gruboigłowa w celu pobrania materiału tkankowego",
+            "D": "Badanie markerów nowotworowych we krwi"
+        },
+        "answer": "C",
+        "justification": "Biopsja cienkoigłowa jest badaniem cytologicznym i często jest niewystarczająca. Do pełnej diagnostyki histopatologicznej i immunohistochemicznej guzów litych, w tym mięsaków, konieczne jest pobranie fragmentu tkanki (biopsja gruboigłowa lub otwarta), co pozwala ocenić architekturę guza (Slajd 84)."
     }
 ]
