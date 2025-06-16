@@ -1378,5 +1378,341 @@
         },
         "answer": "d",
         "justification": "Nadciśnienie tętnicze jest częstym objawem nowotworów wieku dziecięcego, które wywodzą się z nerek lub nadnerczy. Jest to charakterystyczny objaw guza Wilmsa (nerczaka płodowego), wynikający z ucisku na tętnicę nerkową i aktywacji układu RAA, oraz nerwiaka zarodkowego (neuroblastoma), który może produkować katecholaminy."
+    },
+    {
+        "question": "Pacjent ze znacznym powiększeniem migdałków podniebiennych z nalotami to typowy obraz",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "choroby stóp, dłoni i gardła",
+            "b": "anginy i mononukleozy zakaźnej",
+            "c": "gorączki trzydniowej",
+            "d": "opryszczki",
+            "e": "krztuśca"
+        },
+        "answer": "b",
+        "justification": "Znacznie powiększone migdałki podniebienne pokryte nalotami włóknikowymi są charakterystycznym objawem zarówno dla anginy paciorkowcowej (ropnej), jak i dla mononukleozy zakaźnej (wywołanej przez wirusa EBV)."
+    },
+    {
+        "question": "Do charakterystycznych objawów guza mózgu u dzieci należą",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "tachykardia",
+            "b": "bóle głowy i wymioty poranne",
+            "c": "biegunka",
+            "d": "gorączka",
+            "e": "tachypnoe"
+        },
+        "answer": "b",
+        "justification": "Poranne bóle głowy i wymioty, które nie są poprzedzone nudnościami i przynoszą ulgę, są klasycznymi objawami wzmożonego ciśnienia wewnątrzczaszkowego, co jest typowe dla guzów mózgu u dzieci."
+    },
+    {
+        "question": "O ciężkim odwodnieniu w przypadku biegunki u dziecka wymagającym pilnej hospitalizacji świadczy",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "nagły krzyk",
+            "b": "brak diurezy",
+            "c": "niepokój dziecka",
+            "d": "łapczywe picie płynów",
+            "e": "podsychająca błona śluzowa"
+        },
+        "answer": "b",
+        "justification": "Brak diurezy (anuria) lub znaczny skąpomocz (oliguria) jest objawem ciężkiego odwodnienia i hipowolemii, wskazującym na upośledzenie funkcji nerek i konieczność pilnej interwencji medycznej, w tym hospitalizacji i nawadniania dożylnego."
+    },
+    {
+        "question": "Wskaż odpowiedź prawidłową. Ostra małopłytkowość samoistna",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "w jej przebiegu na drodze reakcji immunologicznej dochodzi do obwodowego niszczenia płytek krwi",
+            "b": "jest spowodowana zaburzeniem powstawania płytek krwi w szpiku kostnym",
+            "c": "jest schorzeniem dziedziczonym w sposób autosomalny dominujący",
+            "d": "jest schorzeniem dziedziczonym w sposób autosomalny recesywny"
+        },
+        "answer": "a",
+        "justification": "Pierwotna małopłytkowość immunologiczna (ITP, dawniej samoistna) jest chorobą autoimmunologiczną, w której organizm wytwarza przeciwciała przeciwko własnym płytkom krwi. Opłaszczone przeciwciałami płytki są niszczone w układzie siateczkowo-śródbłonkowym (głównie w śledzionie), co jest mechanizmem obwodowego niszczenia."
+    },
+    {
+        "question": "Kiedy u dziecka pojawiają się pierwsze zęby?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "w 6 miesiącu życia",
+            "b": "prenatalnie",
+            "c": "w okresie wypowiadania pierwszych słów",
+            "d": "po skończeniu 1 rż",
+            "e": "w 3 miesiącu życia"
+        },
+        "answer": "a",
+        "justification": "Pierwsze zęby mleczne (najczęściej dolne siekacze przyśrodkowe) wyrzynają się u dziecka przeciętnie około 6. miesiąca życia. Istnieje duża zmienność osobnicza, ale 6. miesiąc jest przyjmowany za średnią."
+    },
+    {
+        "question": "Zespół Turnera charakteryzuje się",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "gigantyzmem",
+            "b": "trisomią chromosomu 21",
+            "c": "całkowitym lub częściowym brakiem chromosomu X",
+            "d": "przedwczesnym dojrzewaniem płciowym",
+            "e": "występowaniem tylko u chłopców"
+        },
+        "answer": "c",
+        "justification": "Zespół Turnera jest aberracją chromosomową u kobiet (E - fałsz), spowodowaną całkowitym lub częściowym brakiem jednego z chromosomów X (monosomia X). Prowadzi do niskiego wzrostu (A - fałsz) i zaburzeń dojrzewania (dysmorfia gonad) (D - fałsz)."
+    },
+    {
+        "question": "Szczekający kaszel, chrypka/bezgłos, stridor wdechowy i duszność wdechowa są charakterystyczne dla",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niewydolności serca",
+            "b": "zapalenia oskrzelików",
+            "c": "podgłośniowego zapalenia krtani",
+            "d": "zapalenia płuc o etiologii wirusowej",
+            "e": "obturacyjnego zapalenia oskrzeli"
+        },
+        "answer": "c",
+        "justification": "Zestawienie objawów: szczekający, 'foczy' kaszel, chrypka, stridor wdechowy (świst krtaniowy) i duszność wdechowa, to klasyczny obraz ostrego podgłośniowego zapalenia krtani (krupu)."
+    },
+    {
+        "question": "Dziecko 6-letnie [...] wysoko gorączkuje, skarży się na ból gardła [...]. Gardło silnie przekrwione, migdałki podniebienne duże, pokryte włóknikowym nalotem. Lekarz wykonał szybki test z wymazu z gardła potwierdzając obecność paciorkowców. Wybierz właściwe leczenie",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "penicylina doustna 50 000 - 100 000 j.m./kg m.c. na dobę w 3 dawkach",
+            "b": "doksycyklina 100 mg 1 x na dobę",
+            "c": "tylko leczenie miejscowe - płukanie gardła środkami odkażającymi",
+            "d": "ciprofloksacyna 10 mg/kg m.c./dobę co 8 godzin",
+            "e": "trimetoprim- sulfametoksazol 24-36 mg/kg m.c./dobę doustnie"
+        },
+        "answer": "a",
+        "justification": "Potwierdzona angina paciorkowcowa wymaga leczenia antybiotykiem. Lekiem pierwszego rzutu jest fenoksymetylopenicylina (penicylina V) doustnie. Właściwe dawkowanie to 50 000 - 100 000 j.m./kg m.c. na dobę, podawane w 2-3 dawkach podzielonych przez 10 dni. Opcja A przedstawia prawidłowe dawkowanie i sposób podania."
+    },
+    {
+        "question": "Do typowych wysypkowych chorób zakaźnych wieku dziecięcego nie należy",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Rumień nagły",
+            "b": "Różyczka",
+            "c": "Odra",
+            "d": "Ospa wietrzna",
+            "e": "Krztusiec"
+        },
+        "answer": "e",
+        "justification": "Rumień nagły, różyczka, odra i ospa wietrzna to klasyczne choroby zakaźne wieku dziecięcego, których głównym objawem jest wysypka. Krztusiec jest chorobą bakteryjną układu oddechowego, której głównym objawem jest charakterystyczny, napadowy kaszel; wysypka nie jest typowym objawem."
+    },
+    {
+        "question": "Ostra białaczka limfoblastyczna, wskaż fałszywe",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "pacjenci często zgłaszają bóle kostne",
+            "b": "typowymi objawami klinicznymi ostrej białaczki są osłabienie, bladość, siniaczenie, krwawienia, nawracające infekcje, gorączki, utrata masy ciała",
+            "c": "w morfologii krwi zazwyczaj nie stwierdza się odchyleń",
+            "d": "w przypadku zajęcia ośrodkowego układu nerwowego występują takie jak bóle głowy, wymioty, porażenie nerwów obwodowych",
+            "e": "najczęstsza wśród dzieci i młodych dorosłych"
+        },
+        "answer": "c",
+        "justification": "Zdanie C jest fałszywe. Rozpoznanie ostrej białaczki opiera się na badaniu morfologii krwi i szpiku. W morfologii krwi obwodowej stwierdza się zazwyczaj ciężkie zaburzenia we wszystkich trzech liniach komórkowych (niedokrwistość, małopłytkowość, neutropenia) oraz obecność komórek blastycznych. Pozostałe stwierdzenia są prawdziwe."
+    },
+    {
+        "question": "Objawy sugerujące cukrzycę u dzieci",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zmniejszone pragnienie, skąpomocz, chudnięcie",
+            "b": "zmożone pragnienie, skąpomocz, wzrost masy ciała",
+            "c": "wzmożone pragnienie, wielomocz, wzrost masy ciała",
+            "d": "zmniejszone pragnienie, wielomocz, wzrost masy ciała",
+            "e": "wzmożone pragnienie, wielomocz, chudnięcie, osłabienie"
+        },
+        "answer": "e",
+        "justification": "Klasyczne objawy cukrzycy typu 1 u dzieci to poliuria (wielomocz), polidypsja (wzmożone pragnienie) oraz utrata masy ciała (chudnięcie) pomimo często zwiększonego apetytu. Towarzyszy im osłabienie i zmęczenie. Odpowiedź E najpełniej i najdokładniej opisuje ten zespół objawów."
+    },
+    {
+        "question": "Kocie oko lub leukokoria (biała źrenica) bez czerwonego odblasku z dna oka są charakterystyczne dla",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "mięsaka tkanek miękkich",
+            "b": "nerczaka zarodkowego",
+            "c": "siatkówczaka",
+            "d": "zwojaka zarodkowego współczulnego",
+            "e": "rdzeniaka płodowego"
+        },
+        "answer": "c",
+        "justification": "Leukokoria, czyli biały odblask z źrenicy (objaw 'kociego oka'), jest najczęstszym i najbardziej charakterystycznym objawem siatkówczaka (retinoblastoma), najczęstszego wewnątrzgałkowego nowotworu złośliwego u dzieci."
+    },
+    {
+        "question": "Złotym standardem w diagnostyce alergii pokarmowej jest",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "próba eliminacji i prowokacji pokarmowej",
+            "b": "ocena punktowych testów skórnych",
+            "c": "ocena stężenia swoistych IgE",
+            "d": "badanie stolca z oceną utraty białka",
+            "e": "gastroskopia z oceną histopatologiczną wycinków"
+        },
+        "answer": "a",
+        "justification": "Złotym standardem w diagnostyce alergii pokarmowej, zwłaszcza IgE-niezależnej, jest podwójnie ślepa, kontrolowana placebo próba prowokacji pokarmowej. W praktyce klinicznej często stosuje się otwartą próbę eliminacji (dieta eliminacyjna) i ponownej prowokacji."
+    },
+    {
+        "question": "Do objawów dysmorficznych zespołu Downa nie należy",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "nisko osadzone uszy",
+            "b": "wysoki wzrost",
+            "c": "duży język",
+            "d": "zmarszczka nakątna",
+            "e": "spłaszczona potylica"
+        },
+        "answer": "b",
+        "justification": "Dla zespołu Downa charakterystyczny jest niski wzrost, a nie wysoki. Wszystkie pozostałe cechy: nisko osadzone, małe małżowiny uszne, makroglosja (duży język), zmarszczka nakątna (fałd mongolski) i spłaszczona potylica, są typowymi cechami dysmorficznymi w tym zespole."
+    },
+    {
+        "question": "Najczęstszą anemią stwierdzaną u dzieci jest",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "anemia aplastyczna",
+            "c": "anemia z niedoboru kwasu foliowego",
+            "d": "anemia z niedoboru żelaza",
+            "e": "anemia hemolityczna"
+        },
+        "answer": "d",
+        "justification": "Niedokrwistość z niedoboru żelaza jest zdecydowanie najczęstszą postacią niedokrwistości w populacji pediatrycznej na całym świecie."
+    },
+    {
+        "question": "Dziecko leczone przeciwkrzepliwie z powodu zakrzepicy żył głębokich, na stałe otrzymuje warfin. Jakie badanie kontrolne wykonasz przed wyrwaniem zęba stałego trzonowego",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "oznaczenia morfologii i płytek krwi",
+            "b": "nie wykonam badań krwi, gdyż nie są potrzebne",
+            "c": "oznaczenie INR",
+            "d": "oznaczenie fibrynogenu",
+            "e": "oznaczenie APTT"
+        },
+        "answer": "c",
+        "justification": "Warfaryna jest antagonistą witaminy K i wpływa na zewnątrzpochodny tor krzepnięcia. Skuteczność jej działania i poziom antykoagulacji monitoruje się za pomocą wskaźnika INR (International Normalized Ratio). Przed każdym zabiegiem inwazyjnym u pacjenta leczonego warfaryną należy oznaczyć INR, aby ocenić ryzyko krwawienia."
+    },
+    {
+        "question": "Do objawów niedokrwistości należy",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "bóle głowy i senność",
+            "b": "bladość błon śluzowych i skóry, tachykardia, bóle głowy, senność",
+            "c": "bladość skóry",
+            "d": "bladość błon śluzowych",
+            "e": "tachykardia"
+        },
+        "answer": "b",
+        "justification": "Niedokrwistość objawia się zespołem symptomów wynikających z upośledzonego transportu tlenu. Odpowiedź B jest najpełniejsza, ponieważ wymienia kluczowe objawy: bladość powłok (skóry i błon śluzowych), kompensacyjną tachykardię oraz objawy ze strony OUN (bóle głowy, senność, zawroty głowy)."
+    },
+    {
+        "question": "Do gabinetu stomatologicznego [...] wbiega ojciec [...] z 6-letnią córką. [...] coś ją ugryzło w szyję. [...] czerwona osutka [...], trudności w oddychaniu, [...] straciła świadomość. Zaproponuj rozpoznanie i postępowanie.",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ostra biegunka - nawodnienie",
+            "b": "udar cieplny - należy zrobić zimny okład",
+            "c": "wstrząs anafilaktyczny - należy podać adrenalinę domięśniowo",
+            "d": "odwodnienie - należy uzyskać dostęp dożylny i podać 0,9% NaCl",
+            "e": "omdlenie wywołane reakcją bólową - położyć na plecach z nogami uniesionymi"
+        },
+        "answer": "c",
+        "justification": "Opisany obraz kliniczny: nagłe wystąpienie objawów po ukąszeniu (prawdopodobnie przez owada), uogólniona osutka (pokrzywka), trudności w oddychaniu (obrzęk dróg oddechowych) i utrata świadomości (hipotensja) to klasyczny obraz wstrząsu anafilaktycznego. Postępowaniem z wyboru, ratującym życie, jest natychmiastowe podanie adrenaliny domięśniowo."
+    },
+    {
+        "question": "W którym przypadku nie jest konieczna suplementacja żelaza?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "noworodki matek z niedokrwistością w okresie ciąży",
+            "b": "wcześniactwo",
+            "c": "noworodki z ciąż mnogich",
+            "d": "dzieci urodzone z niską masą urodzeniową",
+            "e": "dzieci obserwowane w kierunku sferocytozy"
+        },
+        "answer": "e",
+        "justification": "Wszystkie grupy wymienione w opcjach A-D (wcześniaki, dzieci z ciąż mnogich, z niską masą urodzeniową, dzieci matek z anemią) mają niskie zapasy żelaza i wymagają profilaktycznej suplementacji. Sferocytoza jest anemią hemolityczną, a nie z niedoboru. Podawanie żelaza w anemiach hemolitycznych może prowadzić do przeładowania organizmu żelazem i jest przeciwwskazane, chyba że współistnieje potwierdzony niedobór."
+    },
+    {
+        "question": "Obecnie zalecana dawka witaminy D dla donoszonych, zdrowych noworodków to",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "400 j./dobę",
+            "b": "800 j./dobę",
+            "c": "200 j./dobę",
+            "d": "600 j./dobę",
+            "e": "1000 j./dobę"
+        },
+        "answer": "a",
+        "justification": "Zgodnie z aktualnymi polskimi i międzynarodowymi zaleceniami, profilaktyczną suplementację witaminy D należy rozpocząć od pierwszych dni życia u wszystkich niemowląt. Dla noworodków donoszonych i niemowląt w pierwszym półroczu życia zalecana dawka to 400 IU (jednostek międzynarodowych) na dobę."
+    },
+    {
+        "question": "Dla mononukleozy zakaźnej charakterystyczne jest",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "okres wylęgania 10-21 dni",
+            "b": "w leczeniu przyczynowym stosowany jest acyklowir w wysokich dawkach",
+            "c": "leukocytoza i limfocytoza, okres wylęgania 10-21 dni, w leczeniu przyczynowym stosowany jest acyklowir [...], często towarzyszy jej światłowstręt",
+            "d": "leukocytoza i limfocytoza",
+            "e": "często towarzyszy jej światłowstręt"
+        },
+        "answer": "d",
+        "justification": "W mononukleozie zakaźnej w morfologii krwi obwodowej stwierdza się leukocytozę z charakterystyczną, wysoką limfocytozą, a w rozmazie obecność atypowych limfocytów (limfomonocytów, komórek Downeya). Okres wylęgania jest dłuższy (30-50 dni). Leczenie jest objawowe, nie stosuje się acyklowiru."
+    },
+    {
+        "question": "Wskaż zdanie prawdziwe dotyczące mleka krowiego w diecie dziecka",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zawiera więcej węglowodanów niż mleko kobiece",
+            "b": "może doprowadzić do rozwoju tzw. szkody mlecznej",
+            "c": "zawiera podobną ilość wapnia i fosforu co mleko kobiece",
+            "d": "jest doskonałym źródłem żelaza w diecie dziecka",
+            "e": "może być stosowane od pierwszej doby życia"
+        },
+        "answer": "b",
+        "justification": "Mleko krowie nie jest zalecane jako główny napój dla niemowląt. Zawiera ono zbyt dużo białka i soli mineralnych, a zbyt mało żelaza i niektórych witamin. Może powodować alergie, a także mikroskopijne krwawienia z przewodu pokarmowego prowadzące do niedokrwistości, co dawniej określano jako 'szkodę mleczną'."
+    },
+    {
+        "question": "Najbardziej typowymi objawami nerczaka zarodkowego są",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "utrata masy ciała i niedokrwistość",
+            "b": "biegunka",
+            "c": "wymioty",
+            "d": "gorączka",
+            "e": "masa patologiczna, bóle brzucha, nadciśnienie tętnicze, krwiomocz i/lub krwinkomocz"
+        },
+        "answer": "e",
+        "justification": "Nerczak zarodkowy (guz Wilmsa) najczęściej manifestuje się jako niebolesna, wyczuwalna przez powłoki masa w jamie brzusznej. Mogą jej towarzyszyć bóle brzucha, nadciśnienie tętnicze (z ucisku na naczynia nerkowe), krwiomocz lub krwinkomocz. Odpowiedź E jest najpełniejsza."
+    },
+    {
+        "question": "Do cech charakterystycznych zespołu metabolicznego należą wszystkie z wyjątkiem",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wzrost stężenia glukozy",
+            "b": "wzrost wartości ciśnienia tętniczego",
+            "c": "wzrost stężenia triglicerydów i spadek stężenia HDL",
+            "d": "nietolerancja laktozy",
+            "e": "wzrost obwodu talii lub wzrost BMI"
+        },
+        "answer": "d",
+        "justification": "Kryteria rozpoznania zespołu metabolicznego obejmują: otyłość brzuszną (zwiększony obwód talii), podwyższone ciśnienie tętnicze, podwyższone stężenie triglicerydów, obniżone stężenie cholesterolu HDL oraz podwyższoną glikemię na czczo (lub nietolerancję glukozy). Nietolerancja laktozy nie jest kryterium diagnostycznym zespołu metabolicznego."
+    },
+    {
+        "question": "Związek między infekcją a rozwojem choroby nowotworowej udowodniono w przypadku zakażeń",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Salmonellą, Shigellą, rota- i adenowirusami",
+            "b": "paciorkowcem grupy A, Wirusem EBV, wirusem HCV",
+            "c": "E. coli, Wirusem EBV, wirusem HCV",
+            "d": "wirusem EBV, wirusem HCV, wirusem HPV",
+            "e": "prątkiem gruźlicy, pałeczką ropy błękitnej, wirusem WZW typu B"
+        },
+        "answer": "d",
+        "justification": "Udowodniono związek przyczynowo-skutkowy pomiędzy zakażeniem niektórymi wirusami a rozwojem nowotworów. Należą do nich: wirus Epsteina-Barra (EBV) - chłoniak Burkitta, rak nosogardła; wirus zapalenia wątroby typu C (HCV) - rak wątrobowokomórkowy; wirus brodawczaka ludzkiego (HPV) - rak szyjki macicy."
+    },
+    {
+        "question": "Skala Apgar to skala oceny stanu",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "osoby dorosłej",
+            "b": "5-latka",
+            "c": "noworodka",
+            "d": "3-latka",
+            "e": "niemowlęcia"
+        },
+        "answer": "c",
+        "justification": "Skala Apgar jest standardowym narzędziem służącym do oceny stanu klinicznego noworodka w 1., 3., 5. i 10. minucie po urodzeniu w celu oceny jego adaptacji do życia pozamacicznego."
     }
 ]
