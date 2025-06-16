@@ -2065,5 +2065,689 @@
         },
         "answer": "b",
         "justification": "Otyłość u dzieci definiuje się, gdy wskaźnik masy ciała (BMI) znajduje się na siatce centylowej powyżej 95. centyla dla wieku i płci. Waga powyżej 97. centyla również jednoznacznie wskazuje na otyłość."
+    },
+    {
+        "question": "Pierwszy bilans zdrowia dziecka, podczas którego używa się skali Apgar, ma miejsce:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zaraz po urodzeniu",
+            "b": "w 2. tygodniu życia",
+            "c": "w 6. miesiącu życia",
+            "d": "po ukończeniu 1. roku życia"
+        },
+        "answer": "a",
+        "justification": "Pierwsza ocena stanu zdrowia dziecka, czyli badanie noworodka, odbywa się bezpośrednio po urodzeniu. Kluczowym elementem tej oceny jest punktacja w skali Apgar w 1., 3., 5. i 10. minucie życia."
+    },
+    {
+        "question": "Stolec dziecka w pierwszych dniach życia, nazywany smółką, charakteryzuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "luźną, ciemnozieloną konsystencją, oddawany do około 4. doby",
+            "b": "twardą, uformowaną konsystencją",
+            "c": "białym, odbarwionym kolorem",
+            "d": "obecnością niestrawionych resztek pokarmu"
+        },
+        "answer": "a",
+        "justification": "Smółka to pierwszy stolec noworodka, składający się z wód płodowych, mazi płodowej, komórek nabłonka i żółci. Ma charakterystyczną ciemnozieloną, prawie czarną barwę i lepką, smolistą konsystencję. Jest oddawana przez pierwsze 2-4 dni życia."
+    },
+    {
+        "question": "W okresie niemowlęcym stolec dziecka karmionego piersią:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "może być kwaśny, zielony, zawierać śluz i być oddawany nawet kilkanaście razy dziennie",
+            "b": "powinien być zawsze uformowany i brązowy",
+            "c": "nie powinien zawierać śluzu",
+            "d": "jest oddawany nie częściej niż raz na dobę"
+        },
+        "answer": "a",
+        "justification": "Stolce niemowląt karmionych piersią mają bardzo zmienny wygląd. Mogą być papkowate, półpłynne, żółte, zielonkawe, o kwaśnym zapachu, z grudkami i śluzem. Częstość wypróżnień jest bardzo różna - od kilkunastu na dobę do jednego co kilka dni. Wszystkie te warianty mieszczą się w normie."
+    },
+    {
+        "question": "Pierwsze zęby mleczne u niemowlęcia wyrzynają się średnio w wieku:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "3 miesięcy",
+            "b": "6 miesięcy",
+            "c": "9 miesięcy",
+            "d": "12 miesięcy"
+        },
+        "answer": "b",
+        "justification": "Proces ząbkowania rozpoczyna się u niemowląt średnio w 6. miesiącu życia, najczęściej od dolnych siekaczy przyśrodkowych."
+    },
+    {
+        "question": "Zgodnie z zaleceniami, wyłączne karmienie piersią jest rekomendowane jako główny posiłek do:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "3. miesiąca życia",
+            "b": "6. miesiąca życia",
+            "c": "9. miesiąca życia",
+            "d": "12. miesiąca życia"
+        },
+        "answer": "b",
+        "justification": "Światowa Organizacja Zdrowia (WHO) oraz krajowe i międzynarodowe towarzystwa pediatryczne zalecają wyłączne karmienie piersią przez pierwsze 6 miesięcy życia dziecka, a następnie kontynuację karmienia piersią przy jednoczesnym wprowadzaniu pokarmów uzupełniających."
+    },
+    {
+        "question": "Ciemiączko przednie u niemowlęcia zarasta całkowicie w okresie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "do 6. miesiąca życia",
+            "b": "między 9. a 18. miesiącem życia",
+            "c": "między 2. a 3. rokiem życia",
+            "d": "bezpośrednio po urodzeniu"
+        },
+        "answer": "b",
+        "justification": "Proces zarastania ciemiączka przedniego jest indywidualny, ale najczęściej kończy się między 9. a 18. miesiącem życia dziecka."
+    },
+    {
+        "question": "U osób z cukrzycą typu 1 często współwystępują inne choroby autoimmunologiczne, takie jak:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "choroby tarczycy (np. Hashimoto) i celiakia",
+            "b": "astma i atopowe zapalenie skóry",
+            "c": "choroba Leśniowskiego-Crohna i wrzodziejące zapalenie jelita grubego",
+            "d": "reumatoidalne zapalenie stawów i toczeń rumieniowaty układowy"
+        },
+        "answer": "a",
+        "justification": "Cukrzyca typu 1 należy do chorób autoimmunologicznych i często występuje razem z innymi schorzeniami o tym samym podłożu, z których najczęstsze to autoimmunologiczne zapalenie tarczycy (choroba Hashimoto) oraz celiakia."
+    },
+    {
+        "question": "W przypadku wystąpienia drgawek gorączkowych u dziecka, lekiem pierwszego rzutu do podania w warunkach domowych jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "paracetamol w czopku",
+            "b": "ibuprofen w syropie",
+            "c": "diazepam we wlewce doodbytniczej",
+            "d": "hydrokortyzon domięśniowo"
+        },
+        "answer": "c",
+        "justification": "Postępowaniem z wyboru w celu przerwania napadu drgawkowego (w tym drgawek gorączkowych) trwającego powyżej 3-5 minut, zwłaszcza w warunkach pozaszpitalnych, jest podanie benzodiazepiny. Najczęściej stosuje się diazepam we wlewce doodbytniczej."
+    },
+    {
+        "question": "Typowe objawy odwodnienia u niemowlęcia to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "uwypuklone ciemiączko i wzmożone napięcie skóry",
+            "b": "zaostrzone rysy twarzy, suchość błon śluzowych, zapadnięte ciemiączko",
+            "c": "obrzęki kończyn i wilgotne błony śluzowe",
+            "d": "wielomocz i bladość skóry"
+        },
+        "answer": "b",
+        "justification": "Odwodnienie prowadzi do utraty wody z organizmu, co manifestuje się suchością błon śluzowych, zmniejszoną elastycznością skóry, zapadnięciem ciemiączka i gałek ocznych oraz zaostrzeniem rysów twarzy."
+    },
+    {
+        "question": "Tężyczka, czyli stan nadpobudliwości nerwowo-mięśniowej, jest najczęściej spowodowana:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "hipokalcemią",
+            "b": "hiperkalcemią",
+            "c": "hipokaliemią",
+            "d": "hiperkaliemią"
+        },
+        "answer": "a",
+        "justification": "Główną przyczyną metaboliczną tężyczki jest hipokalcemia, czyli obniżone stężenie wapnia zjonizowanego we krwi. Może być również spowodowana zasadowicą lub hipomagnezemią."
+    },
+    {
+        "question": "Najczęstszą przyczyną przednerkowej ostrej niewydolności nerek u dzieci jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wada wrodzona nerek",
+            "b": "odwodnienie",
+            "c": "kłębuszkowe zapalenie nerek",
+            "d": "kamica nerkowa"
+        },
+        "answer": "b",
+        "justification": "Przednerkowa ostra niewydolność nerek jest wynikiem niedostatecznego przepływu krwi przez nerki (hipoperfuzji). U dzieci najczęstszą przyczyną hipoperfuzji jest hipowolemia spowodowana odwodnieniem (np. w przebiegu biegunki)."
+    },
+    {
+        "question": "Niedrożność jelita u noworodka spowodowana gęstą, lepką treścią pokarmową (smółką) jest charakterystyczna dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "mukowiscydozy (niedrożność smółkowa)",
+            "b": "choroby Hirschsprunga",
+            "c": "przerostowego zwężenia odźwiernika",
+            "d": "celiakii"
+        },
+        "answer": "a",
+        "justification": "Niedrożność smółkowa (meconium ileus) jest patognomonicznym objawem mukowiscydozy u noworodków. Gęsta i lepka smółka czopuje końcowy odcinek jelita krętego."
+    },
+    {
+        "question": "Najczęstszą przyczyną zapalenia dziąseł u dzieci z objawami ogólnymi (gorączka, osłabienie) i zmianami w morfologii jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ostra białaczka nielimfoblastyczna (szpikowa)",
+            "b": "opryszczkowe zapalenie jamy ustnej",
+            "c": "niedobór witaminy C",
+            "d": "próchnica zębów"
+        },
+        "answer": "a",
+        "justification": "Przerost i naciekanie dziąseł przez komórki nowotworowe jest charakterystycznym objawem dla ostrych białaczek, zwłaszcza ostrej białaczki szpikowej (AML) o typie monocytarnym."
+    },
+    {
+        "question": "Obraz tzw. 'fruwających zębów' w badaniach radiologicznych szczęki i żuchwy jest charakterystyczny dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "chłoniaka Burkitta",
+            "b": "histiocytozy z komórek Langerhansa",
+            "c": "szpiczaka mnogiego",
+            "d": "neuroblastomy z przerzutami"
+        },
+        "answer": "b",
+        "justification": "Obraz 'pływających zębów' powstaje w wyniku osteolitycznego niszczenia kości wyrostków zębodołowych, co jest typowe dla histiocytozy z komórek Langerhansa (LCH)."
+    },
+    {
+        "question": "Objaw 'kociego oka', czyli biały odblask z źrenicy (leukokoria), jest typowym objawem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "siatkówczaka",
+            "b": "jaskry wrodzonej",
+            "c": "zapalenia nerwu wzrokowego",
+            "d": "wysokiej krótkowzroczności"
+        },
+        "answer": "a",
+        "justification": "Leukokoria jest najczęstszym objawem siatkówczaka (retinoblastoma), najczęstszego wewnątrzgałkowego nowotworu złośliwego u dzieci."
+    },
+    {
+        "question": "U dziecka z gorączką, 'malinowym językiem' i drobnoplamistą wysypką najbardziej prawdopodobnym rozpoznaniem jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "odra",
+            "b": "różyczka",
+            "c": "szkarlatyna",
+            "d": "choroba Kawasaki"
+        },
+        "answer": "c",
+        "justification": "Zestawienie objawów: gorączka, zapalenie gardła, drobnoplamista, szorstka wysypka oraz 'malinowy' lub 'truskawkowy' język jest klasycznym obrazem szkarlatyny (płonicy). Malinowy język występuje też w chorobie Kawasakiego, ale charakter wysypki jest inny."
+    },
+    {
+        "question": "Okres wylęgania odry wynosi około:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "3 dni",
+            "b": "10 dni",
+            "c": "21 dni",
+            "d": "30 dni"
+        },
+        "answer": "b",
+        "justification": "Okres inkubacji wirusa odry wynosi od 8 do 12 dni, średnio 10 dni od momentu zakażenia do pojawienia się pierwszych objawów (gorączki, kaszlu)."
+    },
+    {
+        "question": "Najbardziej zakaźną chorobą wieku dziecięcego, o wskaźniku R0 12-18, jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ospa wietrzna",
+            "b": "świnka",
+            "c": "różyczka",
+            "d": "odra"
+        },
+        "answer": "d",
+        "justification": "Odra, obok ospy wietrznej, należy do najbardziej zakaźnych chorób. Jej podstawowa liczba odtwarzania (R0) jest jedną z najwyższych i wynosi 12-18, co oznacza, że jedna chora osoba może zarazić średnio 12-18 podatnych osób."
+    },
+    {
+        "question": "Szkarlatyna jest ostrą chorobą zakaźną o etiologii:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wirusowej",
+            "b": "bakteryjnej",
+            "c": "grzybiczej",
+            "d": "pasożytniczej"
+        },
+        "answer": "b",
+        "justification": "Szkarlatyna jest wywoływana przez bakterie - toksynotwórcze szczepy Streptococcus pyogenes (paciorkowca beta-hemolizującego grupy A)."
+    },
+    {
+        "question": "Pneumocystis jirovecii (dawniej carinii) jest najczęstszą przyczyną:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zapalenia płuc u osób z niedoborami odporności",
+            "b": "zapalenia opon mózgowo-rdzeniowych",
+            "c": "ostrej biegunki infekcyjnej",
+            "d": "zapalenia mięśnia sercowego"
+        },
+        "answer": "a",
+        "justification": "Pneumocystis jirovecii jest grzybem oportunistycznym, który powoduje ciężkie, śródmiąższowe zapalenie płuc (PCP) u pacjentów z głębokimi niedoborami odporności komórkowej (np. zakażonych HIV, po chemioterapii)."
+    },
+    {
+        "question": "W przypadku nieprawidłowego (niskiego) ciśnienia tętniczego, często nie jest konieczne leczenie, jeśli dziecko:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "jest bezobjawowe i prawidłowo się rozwija",
+            "b": "ma nadwagę",
+            "c": "ma również niskie tętno",
+            "d": "jest w wieku niemowlęcym"
+        },
+        "answer": "a",
+        "justification": "Wartości ciśnienia tętniczego u dzieci ocenia się na siatkach centylowych. Stwierdzenie wartości poniżej normy, jeśli dziecko jest całkowicie bezobjawowe, nie ma innych chorób i rozwija się prawidłowo, najczęściej nie wymaga interwencji i jest uznawane za wariant normy."
+    },
+    {
+        "question": "W przypadku wstrząsu anafilaktycznego po ugryzieniu owada, należy natychmiast podać:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "glikokortykosteroid dożylnie",
+            "b": "lek przeciwhistaminowy doustnie",
+            "c": "adrenalinę domięśniowo",
+            "d": "tlen przez maskę"
+        },
+        "answer": "c",
+        "justification": "Leczeniem pierwszego rzutu, ratującym życie we wstrząsie anafilaktycznym, jest natychmiastowe podanie adrenaliny domięśniowo."
+    },
+    {
+        "question": "U dziecka do 10. roku życia przyczyną nadciśnienia tętniczego rzadko jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "choroba nerek",
+            "b": "koarktacja aorty",
+            "c": "nadciśnienie samoistne (pierwotne)",
+            "d": "guz Wilmsa"
+        },
+        "answer": "c",
+        "justification": "U małych dzieci nadciśnienie tętnicze jest niemal zawsze wtórne do innej patologii, najczęściej chorób nerek (nefropatii), wad serca (koarktacja aorty) lub guzów (guz Wilmsa, neuroblastoma). Nadciśnienie samoistne jest typowe dla dorosłych i starszej młodzieży."
+    },
+    {
+        "question": "Brak tętna na tętnicy udowej jest objawem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "tetralogii Fallota",
+            "b": "koarktacji aorty",
+            "c": "przetrwałego przewodu tętniczego",
+            "d": "ubytku w przegrodzie międzykomorowej"
+        },
+        "answer": "b",
+        "justification": "Koarktacja aorty (zwężenie cieśni aorty) powoduje obniżenie przepływu krwi i ciśnienia w dolnej połowie ciała, co objawia się słabym lub niewyczuwalnym tętnem na tętnicach udowych."
+    },
+    {
+        "question": "Nadciśnienie tętnicze u dzieci rozpoznajemy, gdy wartości ciśnienia przekraczają:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "75. percentyl dla wieku, płci i wzrostu",
+            "b": "90. percentyl dla wieku, płci i wzrostu",
+            "c": "95. percentyl dla wieku, płci i wzrostu",
+            "d": "stałą wartość 140/90 mmHg"
+        },
+        "answer": "c",
+        "justification": "U dzieci i młodzieży nadciśnienie tętnicze rozpoznaje się, gdy średnie wartości ciśnienia skurczowego i/lub rozkurczowego, zmierzone podczas co najmniej trzech różnych wizyt, są równe lub wyższe od 95. percentyla dla danej płci, wieku i wzrostu."
+    },
+    {
+        "question": "Podczas podgłośniowego zapalenia krtani (krupu) charakterystyczna jest duszność:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wdechowa",
+            "b": "wydechowa",
+            "c": "mieszana wdechowo-wydechowa",
+            "d": "występująca tylko w pozycji leżącej"
+        },
+        "answer": "a",
+        "justification": "Krup jest obturacją górnych dróg oddechowych. Taki typ niedrożności powoduje trudności z nabraniem powietrza, co manifestuje się jako duszność wdechowa, często ze słyszalnym stridorem (świstem krtaniowym)."
+    },
+    {
+        "question": "W leczeniu podgłośniowego zapalenia krtani (krupu) stosuje się pozajelitowo:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "antybiotyki",
+            "b": "leki przeciwhistaminowe",
+            "c": "glikokortykosteroidy",
+            "d": "leki rozszerzające oskrzela"
+        },
+        "answer": "c",
+        "justification": "Podstawą leczenia krupu jest podanie glikokortykosteroidów w celu zmniejszenia obrzęku zapalnego krtani. Mogą być one podawane doustnie, w nebulizacji lub pozajelitowo (domięśniowo lub dożylnie), w zależności od stanu pacjenta."
+    },
+    {
+        "question": "Zapalenie wyrostka robaczkowego u dzieci należy różnicować z:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zapaleniem układu moczowego, wgłobieniem, zapaleniem otrzewnej",
+            "b": "tylko z zapaleniem pęcherzyka żółciowego",
+            "c": "tylko z kamicą nerkową",
+            "d": "tylko z zapaleniem węzłów chłonnych krezki"
+        },
+        "answer": "a",
+        "justification": "Diagnostyka różnicowa bólu w prawym dolnym kwadrancie brzucha u dziecka jest bardzo szeroka. Wszystkie wymienione stany: zapalenie układu moczowego, wgłobienie jelita, zapalenie otrzewnej o innej etiologii, zapalenie węzłów chłonnych krezki, a u dziewcząt patologie ginekologiczne, mogą imitować objawy zapalenia wyrostka. Odpowiedź A jest najpełniejsza."
+    },
+    {
+        "question": "U dziecka, które po ekstrakcji zęba miało przedłużone krwawienie i łatwo siniaczy, należy w pierwszej kolejności:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "podać profilaktycznie antybiotyk",
+            "b": "skierować na konsultację do pediatry w celu diagnostyki zaburzeń hemostazy",
+            "c": "zlecić badanie RTG stawów",
+            "d": "założyć opatrunek uciskowy i odesłać do domu"
+        },
+        "answer": "b",
+        "justification": "Wywiad wskazujący na nadmierne krwawienia i łatwe siniaczenie budzi podejrzenie skazy krwotocznej (zaburzeń krzepnięcia lub funkcji płytek). Przed kolejnymi zabiegami inwazyjnymi konieczna jest diagnostyka w tym kierunku, którą koordynuje pediatra lub hematolog dziecięcy."
+    },
+    {
+        "question": "Nadciśnienie u dzieci jest najczęściej spowodowane:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "guzem Wilmsa lub innymi nowotworami",
+            "b": "wadami serca",
+            "c": "chorobami nerek",
+            "d": "przyczynami idiopatycznymi"
+        },
+        "answer": "c",
+        "justification": "Pytanie jest bardzo ogólne. Najczęstszą przyczyną wtórnego nadciśnienia tętniczego u dzieci są choroby miąższu nerek (nefropatie) oraz nadciśnienie naczyniowo-nerkowe. Guz Wilmsa jest jedną z przyczyn, ale choroby nerek jako cała grupa są najczęstsze."
+    },
+    {
+        "question": "Małopłytkowość samoistna (ITP) to zaburzenie polegające na:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "upośledzeniu produkcji płytek w szpiku kostnym",
+            "b": "nadmiernym niszczeniu płytek na obwodzie",
+            "c": "nieprawidłowej funkcji płytek przy ich prawidłowej liczbie",
+            "d": "nadmiernej produkcji nieprawidłowych płytek"
+        },
+        "answer": "b",
+        "justification": "W ITP (pierwotna małopłytkowość immunologiczna) produkcja płytek w szpiku jest prawidłowa lub nawet zwiększona, ale są one niszczone w krążeniu obwodowym (głównie w śledzionie) przez autoprzeciwciała."
+    },
+    {
+        "question": "Cukrzycę można rozpoznać przy dwukrotnym pomiarze glikemii na czczo >=",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "100 mg/dl",
+            "b": "126 mg/dl",
+            "c": "140 mg/dl",
+            "d": "200 mg/dl"
+        },
+        "answer": "b",
+        "justification": "Zgodnie z kryteriami diagnostycznymi, cukrzycę rozpoznaje się m.in. na podstawie dwukrotnego stwierdzenia glikemii na czczo wynoszącej 126 mg/dl (7,0 mmol/l) lub więcej."
+    },
+    {
+        "question": "Ostrym powikłaniem cukrzycy typu 1 jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "kwasica ketonowa",
+            "b": "retinopatia",
+            "c": "nefropatia",
+            "d": "neuropatia"
+        },
+        "answer": "a",
+        "justification": "Kwasica ketonowa jest ostrym, zagrażającym życiu powikłaniem metabolicznym cukrzycy, wynikającym z głębokiego niedoboru insuliny. Retinopatia, nefropatia i neuropatia to powikłania przewlekłe (późne)."
+    },
+    {
+        "question": "Mankiet do mierzenia ciśnienia u dziecka powinien obejmować:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "1/3 długości ramienia",
+            "b": "2/3 długości ramienia",
+            "c": "całą długość ramienia",
+            "d": "1/2 długości ramienia"
+        },
+        "answer": "b",
+        "justification": "Chociaż dokładne wytyczne mówią o doborze mankietu na podstawie obwodu ramienia, uproszczona zasada mówi, że szerokość (wysokość) balonu mankietu powinna pokrywać około 2/3 długości ramienia dziecka."
+    },
+    {
+        "question": "Odsetek wyleczeń w ostrych białaczkach limfoblastycznych u dzieci wynosi około:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "60%",
+            "b": "80%",
+            "c": "95%",
+            "d": "100%"
+        },
+        "answer": "b",
+        "justification": "Dzięki nowoczesnej, intensywnej chemioterapii, odsetek całkowitych wyleczeń w ostrej białaczce limfoblastycznej (ALL), najczęstszym nowotworze dziecięcym, sięga 80-90%."
+    },
+    {
+        "question": "Najczęstszymi nowotworami u dzieci w kolejności występowania są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "białaczki > nowotwory OUN > chłoniaki",
+            "b": "nowotwory OUN > białaczki > chłoniaki",
+            "c": "chłoniaki > białaczki > nowotwory OUN",
+            "d": "białaczki > chłoniaki > nowotwory OUN"
+        },
+        "answer": "a",
+        "justification": "Kolejność występowania najczęstszych grup nowotworów u dzieci to: białaczki (ok. 26%), guzy ośrodkowego układu nerwowego (ok. 20%), chłoniaki (ok. 10%)."
+    },
+    {
+        "question": "Ciemne zabarwienie skóry i śluzówek jest objawem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "choroby Addisona",
+            "b": "choroby Cushinga",
+            "c": "niedoczynności tarczycy",
+            "d": "nadczynności tarczycy"
+        },
+        "answer": "a",
+        "justification": "Hiperpigmentacja skóry (szczególnie w miejscach narażonych na słońce, w liniach zgięciowych) oraz błon śluzowych jest charakterystycznym objawem pierwotnej niedoczynności kory nadnerczy (choroby Addisona)."
+    },
+    {
+        "question": "Objawem niedoczynności tarczycy nie jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "suchość skóry",
+            "b": "zaparcia",
+            "c": "nadmierna potliwość",
+            "d": "uczucie zimna"
+        },
+        "answer": "c",
+        "justification": "Nadmierna potliwość i nietolerancja ciepła są objawami nadczynności tarczycy. Dla niedoczynności charakterystyczne jest uczucie zimna, sucha skóra i spowolnienie metabolizmu, w tym zaparcia."
+    },
+    {
+        "question": "Która szczepionka nie jest uwzględniona w obowiązkowym kalendarzu szczepień w Polsce?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "przeciwko rotawirusom",
+            "b": "przeciwko pneumokokom",
+            "c": "przeciwko WZW B",
+            "d": "przeciwko gruźlicy"
+        },
+        "answer": "a",
+        "justification": "Szczepienie przeciwko rotawirusom w Polsce jest szczepieniem zalecanym (płatnym), a nie obowiązkowym (bezpłatnym) dla całej populacji. Pozostałe wymienione szczepienia są obowiązkowe."
+    },
+    {
+        "question": "Najczęstszą przyczyną biegunki infekcyjnej u dzieci są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "bakterie (Salmonella, E.coli)",
+            "b": "wirusy (rotawirusy, norowirusy)",
+            "c": "pasożyty (Giardia lamblia)",
+            "d": "grzyby (Candida albicans)"
+        },
+        "answer": "b",
+        "justification": "Wirusy, a zwłaszcza rotawirusy, są zdecydowanie najczęstszą przyczyną ostrych biegunek infekcyjnych w wieku dziecięcym."
+    },
+    {
+        "question": "Zespół Downa jest spowodowany:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "trisomią chromosomu 21",
+            "b": "trisomią chromosomu 18",
+            "c": "monosomią chromosomu X",
+            "d": "delecją na chromosomie 5"
+        },
+        "answer": "a",
+        "justification": "Podłożem genetycznym zespołu Downa jest obecność dodatkowego, trzeciego chromosomu 21 (trisomia 21)."
+    },
+    {
+        "question": "Do cech zespołu Downa nie należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "skośne ustawienie szpar powiekowych",
+            "b": "wysoki wzrost",
+            "c": "pojedyncza bruzda dłoniowa",
+            "d": "hipotonia mięśniowa"
+        },
+        "answer": "b",
+        "justification": "Charakterystyczną cechą fenotypową w zespole Downa jest niski wzrost. Wysoki wzrost jest cechą wykluczającą."
+    },
+    {
+        "question": "Drgawki u dzieci mogą być spowodowane:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "tylko gorączką",
+            "b": "tylko padaczką",
+            "c": "zakażeniami OUN, zaburzeniami metabolicznymi, gorączką, padaczką",
+            "d": "tylko urazem głowy"
+        },
+        "answer": "c",
+        "justification": "Drgawki u dzieci mają bardzo szeroką etiologię. Mogą to być drgawki gorączkowe, napady padaczkowe, ale także objaw poważnych chorób, takich jak infekcje OUN (zapalenie opon, mózgu), zaburzenia metaboliczne (hipoglikemia, hipokalcemia), urazy czy guzy mózgu."
+    },
+    {
+        "question": "Chłoniaka Hodgkina diagnozuje się na podstawie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "badania morfologii krwi",
+            "b": "badania USG węzłów chłonnych",
+            "c": "pobrania całego węzła chłonnego do badania histopatologicznego",
+            "d": "biopsji aspiracyjnej cienkoigłowej węzła"
+        },
+        "answer": "c",
+        "justification": "Złotym standardem w diagnostyce chłoniaków, w tym chłoniaka Hodgkina, jest badanie histopatologiczne całego, pobranego chirurgicznie węzła chłonnego. Pozwala to na ocenę jego architektury i znalezienie charakterystycznych komórek Reed-Sternberga."
+    },
+    {
+        "question": "W ostrej biegunce infekcyjnej u dziecka karmionego piersią postępowanie polega na:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "odstawieniu karmienia piersią na 24h",
+            "b": "kontynuacji karmienia piersią i dodatkowym nawadnianiu doustnym",
+            "c": "podaniu leków zapierających",
+            "d": "zmianie na mleko modyfikowane bezlaktozowe"
+        },
+        "answer": "b",
+        "justification": "Podczas biegunki należy bezwzględnie kontynuować karmienie piersią, a dodatkowo, między karmieniami, podawać doustny płyn nawadniający (DPN) w celu uzupełnienia strat wody i elektrolitów."
+    },
+    {
+        "question": "Zespół Turnera jest spowodowany:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "trisomią chromosomu X",
+            "b": "całkowitym lub częściowym brakiem chromosomu X",
+            "c": "obecnością chromosomu Y u dziewczynki",
+            "d": "trisomią chromosomu 21"
+        },
+        "answer": "b",
+        "justification": "Zespół Turnera to choroba genetyczna występująca u kobiet, spowodowana monosomią chromosomu X (kariotyp 45,X) lub strukturalnymi aberracjami tego chromosomu."
+    },
+    {
+        "question": "Auksologia to nauka o:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "rozwoju osobniczym człowieka",
+            "b": "chorobach zakaźnych",
+            "c": "chorobach nowotworowych",
+            "d": "wadach wrodzonych"
+        },
+        "answer": "a",
+        "justification": "Auksologia jest dziedziną medycyny i antropologii zajmującą się badaniem procesów wzrastania i rozwoju fizycznego człowieka od poczęcia do dorosłości."
+    },
+    {
+        "question": "Objawy dyzuryczne (ból, pieczenie przy oddawaniu moczu) dotyczą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "układu pokarmowego",
+            "b": "układu moczowego",
+            "c": "układu oddechowego",
+            "d": "układu nerwowego"
+        },
+        "answer": "b",
+        "justification": "Dyzuria, czyli bolesne lub utrudnione oddawanie moczu, jest typowym objawem zakażenia dolnych dróg moczowych (zapalenia pęcherza i cewki moczowej)."
+    },
+    {
+        "question": "Omdlenia wazowagalne:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zawsze zagrażają życiu i wymagają hospitalizacji",
+            "b": "nie zagrażają życiu, a w profilaktyce zaleca się m.in. zwiększenie podaży płynów",
+            "c": "są objawem ciężkiej choroby serca",
+            "d": "wymagają wszczepienia stymulatora serca"
+        },
+        "answer": "b",
+        "justification": "Omdlenia wazowagalne (odruchowe) są najczęstszą przyczyną omdleń u dzieci i młodzieży. Mają łagodny charakter, nie zagrażają życiu i nie są związane z chorobą serca. W profilaktyce kluczowe jest unikanie czynników wyzwalających i zwiększenie spożycia płynów i sodu."
+    },
+    {
+        "question": "Przy niedoborze wzrostu (wzrost poniżej 3. centyla) dziecko należy skierować do:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "poradni rehabilitacyjnej",
+            "b": "poradni kardiologicznej",
+            "c": "poradni endokrynologicznej",
+            "d": "poradni genetycznej"
+        },
+        "answer": "c",
+        "justification": "Diagnostyką i leczeniem zaburzeń wzrastania, w tym niedoboru wzrostu, zajmuje się endokrynolog dziecięcy. On decyduje o ewentualnych dalszych konsultacjach (np. genetycznej)."
+    },
+    {
+        "question": "Objawem podgłośniowego zapalenia krtani jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "szczekający kaszel",
+            "b": "kaszel wilgotny, produktywny",
+            "c": "świsty wydechowe",
+            "d": "ból w klatce piersiowej"
+        },
+        "answer": "a",
+        "justification": "Najbardziej charakterystycznym objawem krupu (podgłośniowego zapalenia krtani) jest nagły, suchy, napadowy kaszel o specyficznym brzmieniu, porównywany do szczekania foki."
+    },
+    {
+        "question": "Płaska zmiana na skórze o średnicy 3 mm to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "plamka",
+            "b": "grudka",
+            "c": "pęcherzyk",
+            "d": "krosta"
+        },
+        "answer": "a",
+        "justification": "Zgodnie z definicją wykwitów skórnych, płaska zmiana (niewyczuwalna palpacyjnie), różniąca się od otaczającej skóry jedynie zabarwieniem, to plama. Jeśli jej średnica jest mała (do 1 cm), nazywana jest plamką."
+    },
+    {
+        "question": "Który z objawów ząbkowania jest uznawany za nieprawidłowy i wymaga diagnostyki?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "nadmierne ślinienie się",
+            "b": "rozdrażnienie",
+            "c": "temperatura do 39 stopni",
+            "d": "stan podgorączkowy (do 38 st. C)"
+        },
+        "answer": "c",
+        "justification": "Ząbkowaniu mogą towarzyszyć łagodne objawy, takie jak ślinienie, rozdrażnienie, wkładanie rąk do buzi czy stan podgorączkowy. Gorączka powyżej 38°C (a zwłaszcza 39°C) nie jest typowym objawem ząbkowania i wskazuje na współistniejącą infekcję, która wymaga diagnostyki."
+    },
+    {
+        "question": "Które stwierdzenie o wybroczynach jest prawdziwe?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "bledną pod wpływem ucisku",
+            "b": "nie bledną pod wpływem ucisku",
+            "c": "są zawsze objawem choroby nowotworowej",
+            "d": "są wykwitem uniesionym ponad powierzchnię skóry"
+        },
+        "answer": "b",
+        "justification": "Wybroczyny to małe, krwotoczne plamki powstałe w wyniku wynaczynienia krwi do skóry. Kluczową cechą odróżniającą je od zmian rumieniowych (np. osutki) jest to, że nie bledną pod wpływem ucisku (np. szklanką)."
+    },
+    {
+        "question": "W diagnostyce zapalenia opon mózgowo-rdzeniowych kluczowe znaczenie ma:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "badanie USG przezciemiączkowe",
+            "b": "tomografia komputerowa głowy",
+            "c": "punkcja lędźwiowa z badaniem płynu mózgowo-rdzeniowego",
+            "d": "badanie EEG"
+        },
+        "answer": "c",
+        "justification": "Złotym standardem w rozpoznawaniu zapalenia opon mózgowo-rdzeniowych jest badanie ogólne i mikrobiologiczne płynu mózgowo-rdzeniowego, uzyskanego drogą punkcji lędźwiowej."
+    },
+    {
+        "question": "Lekiem przeciwgorączkowym pierwszego wyboru u dzieci jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "paracetamol lub ibuprofen",
+            "b": "kwas acetylosalicylowy",
+            "c": "metamizol",
+            "d": "ketoprofen"
+        },
+        "answer": "a",
+        "justification": "Zgodnie z rekomendacjami, lekami z wyboru do leczenia gorączki u dzieci są paracetamol i ibuprofen. Kwas acetylosalicylowy jest przeciwwskazany do 12. r.ż. ze względu na ryzyko zespołu Reye'a."
+    },
+    {
+        "question": "Krew utajona w stolcu u niemowlęcia może być objawem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "alergii na białko mleka krowiego",
+            "b": "fizjologii",
+            "c": "niedoboru witaminy K",
+            "d": "zakażenia układu moczowego"
+        },
+        "answer": "a",
+        "justification": "Alergiczne zapalenie jelita grubego, najczęściej wywołane alergią na białka mleka krowiego, jest częstą przyczyną obecności krwi (jawnej lub utajonej) w stolcu u niemowląt."
     }
 ]
