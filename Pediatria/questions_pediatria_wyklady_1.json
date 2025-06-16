@@ -478,5 +478,245 @@
         },
         "answer": "C",
         "justification": "Zgodnie z przedstawioną tabelą (Slajd 335), podstawowe zapotrzebowanie na płyny dla noworodków i niemowląt jest najwyższe w przeliczeniu na kilogram masy ciała i wynosi 100-140 ml/kg/dobę."
+    },
+    {
+        "question": "Świst (stridor) wdechowy u dziecka z gorączką i szczekającym kaszlem jest typowy dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ostrego podgłośniowego zapalenia krtani (krupu)",
+            "B": "Astmy oskrzelowej",
+            "C": "Zapalenia płuc",
+            "D": "Mukowiscydozy"
+        },
+        "answer": "A",
+        "justification": "Świst wdechowy (stridor) jest charakterystyczny dla zwężenia górnych dróg oddechowych na poziomie krtani. W połączeniu ze szczekającym kaszlem i nagłym początkiem, tworzy klasyczny obraz krupu wirusowego (Slajd 114)."
+    },
+    {
+        "question": "Jakie jest dzienne zapotrzebowanie na wodę dla dziecka o masie ciała 16 kg, obliczone metodą Hollidaya i Segara?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1000 ml",
+            "B": "1300 ml",
+            "C": "1600 ml",
+            "D": "1250 ml"
+        },
+        "answer": "B",
+        "justification": "Metoda Hollidaya-Segara zakłada: 100 ml/kg na pierwsze 10 kg masy ciała + 50 ml/kg na kolejne 10 kg. Dla dziecka 16 kg: (10 kg * 100 ml/kg) + (6 kg * 50 ml/kg) = 1000 ml + 300 ml = 1300 ml."
+    },
+    {
+        "question": "Niedrożność smółkowa jelit, występująca u około 20% noworodków, jest patognomonicznym objawem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Cukrzycy typu 1",
+            "B": "Celiakii",
+            "C": "Mukowiscydozy (zwłóknienia torbielowatego)",
+            "D": "Nietolerancji laktozy"
+        },
+        "answer": "C",
+        "justification": "Niedrożność smółkowa to jeden z najwcześniejszych i najbardziej charakterystycznych objawów mukowiscydozy. Jest spowodowana przez nadmiernie gęstą i lepką smółkę, która blokuje światło jelita (Slajd 135)."
+    },
+    {
+        "question": "W leczeniu zapalenia błony śluzowej jamy ustnej wywołanego wirusem opryszczki pospolitej (HSV) lekiem pierwszego rzutu jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Amoksycylina",
+            "B": "Nystatyna",
+            "C": "Acyklowir",
+            "D": "Ibuprofen"
+        },
+        "answer": "C",
+        "justification": "Acyklowir jest lekiem przeciwwirusowym skutecznym wobec wirusów z grupy Herpes, w tym HSV. Jest to leczenie przyczynowe opryszczkowego zapalenia jamy ustnej (na podstawie quizu, str. 18, pyt. 7)."
+    },
+    {
+        "question": "U pacjenta z hemofilią A, który parametr układu krzepnięcia będzie charakterystycznie przedłużony?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Czas protrombinowy (PT)",
+            "B": "Czas trombinowy (TT)",
+            "C": "Czas częściowej tromboplastyny po aktywacji (APTT)",
+            "D": "Liczba płytek krwi"
+        },
+        "answer": "C",
+        "justification": "Hemofilia A to niedobór czynnika VIII krzepnięcia, który jest elementem wewnątrzpochodnej drogi krzepnięcia. Czas APTT mierzy sprawność tej drogi, dlatego będzie izolowanie przedłużony (Skazy krwotoczne, slajd 29)."
+    },
+    {
+        "question": "Obecność ponad 20-30% komórek blastycznych w badaniu cytologicznym szpiku kostnego jest kryterium diagnostycznym dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Chłoniaka Hodgkina",
+            "B": "Ostrej białaczki",
+            "C": "Przewlekłej białaczki szpikowej",
+            "D": "Anemii aplastycznej"
+        },
+        "answer": "B",
+        "justification": "Zgodnie z kryteriami diagnostycznymi, rozpoznanie ostrej białaczki opiera się na stwierdzeniu znaczącego odsetka blastów (zwykle >20% wg WHO, w starszych materiałach >30% wg FAB) w szpiku kostnym (Slajd 10)."
+    },
+    {
+        "question": "Który objaw, mogący imitować nowotwór układu krwiotwórczego, jest charakterystyczny dla mononukleozy zakaźnej?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wysypka plamisto-grudkowa",
+            "B": "Uogólnione powiększenie węzłów chłonnych i śledziony",
+            "C": "Wyłącznie wysoka gorączka",
+            "D": "Bóle kostno-stawowe"
+        },
+        "answer": "B",
+        "justification": "Mononukleoza zakaźna często objawia się uogólnioną limfadenopatią i hepatosplenomegalią, co wymaga różnicowania z białaczkami i chłoniakami (Slajd 343)."
+    },
+    {
+        "question": "Szczyt zachorowań na pierwotne nowotwory złośliwe kości, takie jak kostniakomięsak i mięsak Ewinga, przypada na okres:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Niemowlęcy (0-1 r.ż.)",
+            "B": "Wczesnego dzieciństwa (2-6 lat)",
+            "C": "Dojrzewania (15-19 lat)",
+            "D": "Późnej dorosłości (> 60 lat)"
+        },
+        "answer": "C",
+        "justification": "Występowanie guzów kości jest silnie związane z okresem najszybszego wzrostu kośćca, czyli z pokwitaniowym skokiem wzrostowym w okresie dojrzewania (Slajd 88)."
+    },
+    {
+        "question": "Późnym, groźnym powikłaniem nieleczonej lub źle leczonej anginy paciorkowcowej jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ropień okołomigdałkowy",
+            "B": "Gorączka reumatyczna",
+            "C": "Ropne zapalenie węzłów chłonnych szyjnych",
+            "D": "Zapalenie ucha środkowego"
+        },
+        "answer": "B",
+        "justification": "Gorączka reumatyczna i ostre kłębuszkowe zapalenie nerek to powikłania immunologiczne, pojawiające się kilka tygodni po infekcji paciorkowcowej. Pozostałe wymienione są wczesnymi powikłaniami ropnymi (Slajd 342)."
+    },
+    {
+        "question": "Aniridia (wrodzony brak tęczówki) jest wadą rozwojową, która silnie predysponuje do rozwoju:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Siatkówczaka",
+            "B": "Neuroblastoma",
+            "C": "Guza Wilmsa",
+            "D": "Białaczki"
+        },
+        "answer": "C",
+        "justification": "Aniridia jest składową zespołu WAGR (Wilms tumor, Aniridia, Genitourinary anomalies, Retardation), który jest spowodowany delecją genu WT1 i wiąże się z bardzo wysokim ryzykiem rozwoju guza Wilmsa (nerczaka płodowego) (Slajd 67)."
+    },
+    {
+        "question": "Zespół \"czerwonego człowieka\" (Red Man Syndrome), objawiający się zaczerwienieniem górnej połowy ciała, świądem i spadkiem ciśnienia, jest charakterystycznym działaniem niepożądanym po zbyt szybkim podaniu:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Penicyliny",
+            "B": "Gentamycyny",
+            "C": "Wankomycyny",
+            "D": "Cefazoliny"
+        },
+        "answer": "C",
+        "justification": "Jest to reakcja pseudoalergiczna (anafilaktoidalna), wynikająca z bezpośredniego uwolnienia histaminy z komórek tucznych, typowa dla szybkiego wlewu wankomycyny (Slajd 317-318)."
+    },
+    {
+        "question": "Triada objawów: ostra niewydolność nerek, niedokrwistość hemolityczna mikroangiopatyczna i małopłytkowość u dziecka po biegunce jest charakterystyczna dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zespołu nerczycowego",
+            "B": "Zespołu hemolityczno-mocznicowego (HUS)",
+            "C": "Plamicy Schönleina-Henocha",
+            "D": "Ostrego kłębuszkowego zapalenia nerek"
+        },
+        "answer": "B",
+        "justification": "Wymieniona triada objawów jest klasycznym obrazem zespołu hemolityczno-mocznicowego, który najczęściej jest powikłaniem zakażenia enterokrwotocznymi szczepami E. coli (produującymi toksynę Shiga)."
+    },
+    {
+        "question": "Proces strukturalnych zmian w drogach oddechowych, takich jak pogrubienie błony podstawnej i przerost mięśniówki gładkiej w przewlekłej astmie, nazywany jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Remodelowaniem (remodeling)",
+            "B": "Metaplazją",
+            "C": "Dysplazją",
+            "D": "Apoptozą"
+        },
+        "answer": "A",
+        "justification": "Remodeling, czyli przebudowa struktury oskrzeli, to proces niekorzystnych, utrwalonych zmian w budowie ściany dróg oddechowych, będący skutkiem przewlekłego procesu zapalnego w astmie (Slajd 122)."
+    },
+    {
+        "question": "Który z poniższych niespecyficznych markerów laboratoryjnych jest często podwyższony w ostrych białaczkach i odzwierciedla wysoki obrót komórkowy (rozpad komórek)?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Białko C-reaktywne (CRP)",
+            "B": "Dehydrogenaza mleczanowa (LDH)",
+            "C": "Aminotransferaza alaninowa (ALT)",
+            "D": "Kreatynina"
+        },
+        "answer": "B",
+        "justification": "LDH jest enzymem wewnątrzkomórkowym. Jego wysoki poziom w surowicy, podobnie jak kwasu moczowego, świadczy o masywnym rozpadzie komórek, co jest typowe dla nowotworów o dużej dynamice, takich jak ostre białaczki (Slajd 13)."
+    },
+    {
+        "question": "Samoistne, bolesne wylewy krwi do dużych stawów (kolanowych, skokowych, łokciowych) są najbardziej charakterystycznym objawem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Małopłytkowości immunologicznej (ITP)",
+            "B": "Plamicy Schönleina-Henocha",
+            "C": "Choroby von Willebranda",
+            "D": "Ciężkiej postaci hemofilii"
+        },
+        "answer": "D",
+        "justification": "Podczas gdy skazy płytkowe i naczyniowe objawiają się głównie krwawieniami skórno-śluzówkowymi, to dla skaz osoczowych, a zwłaszcza ciężkich postaci hemofilii A i B, patognomoniczne są krwawienia dostawowe (hemartrozy) (Skazy krwotoczne, slajd 16, 54)."
+    },
+    {
+        "question": "Jedyną przewlekłą białaczką, która występuje u dzieci, jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Przewlekła białaczka limfocytowa (CLL)",
+            "B": "Białaczka włochatokomórkowa",
+            "C": "Przewlekła białaczka szpikowa (CML)",
+            "D": "Wszystkie wymienione"
+        },
+        "answer": "C",
+        "justification": "Zgodnie ze slajdem 7, jedyną postacią białaczki przewlekłej spotykaną w populacji pediatrycznej jest przewlekła białaczka szpikowa. CLL jest chorobą typową dla osób starszych."
+    },
+    {
+        "question": "Który objaw kliniczny jest charakterystyczny dla zajęcia śródpiersia w przebiegu chłoniaka u dziecka?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Bóle brzucha i niedrożność",
+            "B": "Bóle kości i złamania patologiczne",
+            "C": "Kaszel, duszność, zespół żyły głównej górnej",
+            "D": "Powiększenie węzłów chłonnych pachwinowych"
+        },
+        "answer": "C",
+        "justification": "Guz w śródpiersiu uciska drogi oddechowe (powodując kaszel i duszność) oraz duże naczynia żylne, co może prowadzić do rozwoju zagrażającego życiu zespołu żyły głównej górnej (obrzęk twarzy, szyi i kończyn górnych, poszerzenie żył) (Slajd 22)."
+    },
+    {
+        "question": "Triada objawów: zaburzenia widzenia, moczówka prosta i opóźnienie wzrastania u dziecka sugeruje obecność guza OUN w lokalizacji:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Móżdżku",
+            "B": "Płatów czołowych",
+            "C": "Okolicy siodła tureckiego i skrzyżowania nerwów wzrokowych",
+            "D": "Pnia mózgu"
+        },
+        "answer": "C",
+        "justification": "Lokalizacja guza (np. czaszkogardlak) w okolicy podwzgórza, przysadki i skrzyżowania wzrokowego prowadzi do ucisku tych struktur, powodując odpowiednio: zaburzenia hormonalne (moczówka, niedobór hormonu wzrostu) i ubytki w polu widzenia."
+    },
+    {
+        "question": "Który typ histologiczny mięsaka prążkowanokomórkowego (RMS) ma bardziej agresywny przebieg i gorsze rokowanie?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Postać zarodkowa (ERMS)",
+            "B": "Postać groniasta",
+            "C": "Postać pęcherzykowa (ARMS)",
+            "D": "Postać wrzecionowatokomórkowa"
+        },
+        "answer": "C",
+        "justification": "Slajd 80 wyraźnie wskazuje, że postać pęcherzykowa (alveolar rhabdomyosarcoma, ARMS) ma szczególnie agresywny przebieg kliniczny w porównaniu do lepiej rokującej postaci zarodkowej (embryonal rhabdomyosarcoma, ERMS)."
+    },
+    {
+        "question": "U pacjenta leczonego z powodu gruźlicy wystąpiła gorączka polekowa. Który z leków jest najczęstszą przyczyną tego zjawiska?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Penicyliny, cefalosporyny",
+            "B": "Barbiturany, fenytoina",
+            "C": "Allopurinol, kaptopryl",
+            "D": "Wszystkie powyższe"
+        },
+        "answer": "D",
+        "justification": "Slajd 316 wymienia liczne grupy leków, które mogą powodować gorączkę polekową, w tym antybiotyki (penicyliny, cefalosporyny), leki przeciwpadaczkowe (barbiturany, fenytoina) oraz leki stosowane w chorobach sercowo-naczyniowych i metabolicznych (allopurinol, kaptopryl)."
     }
 ]
