@@ -958,5 +958,245 @@
         },
         "answer": "C",
         "justification": "Biopsja cienkoigłowa jest badaniem cytologicznym i często jest niewystarczająca. Do pełnej diagnostyki histopatologicznej i immunohistochemicznej guzów litych, w tym mięsaków, konieczne jest pobranie fragmentu tkanki (biopsja gruboigłowa lub otwarta), co pozwala ocenić architekturę guza (Slajd 84)."
+    },
+    {
+        "question": "Która cecha jest charakterystyczna dla wybroczyn, odróżniająca je od zmian rumieniowych?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Są zawsze wypukłe ponad powierzchnię skóry",
+            "B": "Mają zawsze duże rozmiary (>1 cm)",
+            "C": "Nie bledną pod wpływem ucisku",
+            "D": "Zawsze towarzyszy im ból i świąd"
+        },
+        "answer": "C",
+        "justification": "Wybroczyny to drobne wynaczynienia krwi do skóry. Ponieważ krew znajduje się poza naczyniem krwionośnym, ucisk (np. szklanką) nie powoduje ich zblednięcia. Zmiany rumieniowe, wynikające z poszerzenia naczyń, bledną pod uciskiem."
+    },
+    {
+        "question": "Który z poniższych nowotworów wieku dziecięcego ma pochodzenie embrionalne z tkanki nefrogennej?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Neuroblastoma",
+            "B": "Guz Wilmsa (nerczak płodowy)",
+            "C": "Siatkówczak",
+            "D": "Mięsak prążkowanokomórkowy"
+        },
+        "answer": "B",
+        "justification": "Guz Wilmsa, inaczej nerczak płodowy (nephroblastoma), rozwija się z przetrwałych, niezróżnicowanych komórek zarodkowej tkanki nerkotwórczej (blastemy nerkowej) (Slajd 64)."
+    },
+    {
+        "question": "W leczeniu podgłośniowego zapalenia krtani (krupu) o łagodnym przebiegu, podstawowe znaczenie mają:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Antybiotyki i leki wykrztuśne",
+            "B": "Leki przeciwhistaminowe i leki przeciwkaszlowe",
+            "C": "Glikokortykosteroidy (wziewne lub systemowe) i nawilżanie powietrza",
+            "D": "Szybkodziałające beta-2-mimetyki wziewne"
+        },
+        "answer": "C",
+        "justification": "Podstawą leczenia krupu jest działanie przeciwzapalne i przeciwobrzękowe, które zapewniają glikokortykosteroidy. Dodatkowo zaleca się nawilżanie i chłodne powietrze. Antybiotyki są nieskuteczne (etiologia wirusowa), a leki przeciwkaszlowe niewskazane (Slajd 114, 347)."
+    },
+    {
+        "question": "W jaki sposób należy różnicować fizjologiczną żółtaczkę noworodków od patologicznej?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Żółtaczka fizjologiczna pojawia się już w 1. dobie życia",
+            "B": "W żółtaczce fizjologicznej dominuje bilirubina sprzężona (bezpośrednia)",
+            "C": "Żółtaczka fizjologiczna charakteryzuje się bardzo szybkim narastaniem poziomu bilirubiny",
+            "D": "Żółtaczka fizjologiczna ustępuje samoistnie, a poziom bilirubiny nie przekracza określonych norm dla wieku i sposobu karmienia"
+        },
+        "answer": "D",
+        "justification": "Kluczowe cechy żółtaczki patologicznej to: pojawienie się w 1. dobie, zbyt wysoki poziom bilirubiny całkowitej, przewaga bilirubiny sprzężonej, zbyt szybkie narastanie lub przedłużanie się powyżej 14 dni. Żółtaczka fizjologiczna ma łagodny, samoograniczający się przebieg."
+    },
+    {
+        "question": "Który z objawów jest charakterystyczny dla skazy osoczowej (np. hemofilii), a nie dla skazy płytkowej?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Liczne, drobne wybroczyny na skórze i błonach śluzowych",
+            "B": "Krwawienia z nosa i dziąseł",
+            "C": "Późne, głębokie wylewy domięśniowe i dostawowe",
+            "D": "Przedłużony czas krwawienia po skaleczeniu"
+        },
+        "answer": "C",
+        "justification": "Dla zaburzeń hemostazy wtórnej (skaz osoczowych) typowe są opóźnione, głębokie krwawienia do mięśni i stawów. Natomiast dla zaburzeń hemostazy pierwotnej (skaz płytkowych i naczyniowych) charakterystyczne są natychmiastowe krwawienia skórno-śluzowe (Skazy krwotoczne, slajd 16)."
+    },
+    {
+        "question": "Jaka jest główna cecha różnicująca chłoniaka Hodgkina (ziarnicę złośliwą) od chłoniaków nieziarniczych (NHL)?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "W chłoniaku Hodgkina zawsze występują objawy ogólne (gorączka, poty, utrata wagi)",
+            "B": "W chłoniaku Hodgkina w badaniu histopatologicznym stwierdza się obecność komórek Reed-Sternberga",
+            "C": "Chłoniak Hodgkina występuje wyłącznie u osób dorosłych",
+            "D": "Chłoniak Hodgkina ma zawsze gorsze rokowanie niż NHL"
+        },
+        "answer": "B",
+        "justification": "Obecność charakterystycznych, dużych, wielojądrowych komórek Reed-Sternberga (i ich wariantów) w utkaniu guza jest cechą patognomoniczną dla chłoniaka Hodgkina i odróżnia go od wszystkich innych typów chłoniaków."
+    },
+    {
+        "question": "Objawy metaboliczne w przebiegu neuroblastoma, takie jak nadciśnienie tętnicze i tachykardia, są wynikiem nadmiernej produkcji:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Katecholamin",
+            "B": "Wazoaktywnego peptydu jelitowego (VIP)",
+            "C": "Insuliny",
+            "D": "Kortyzolu"
+        },
+        "answer": "A",
+        "justification": "Neuroblastoma wywodzi się z komórek układu współczulnego, które produkują katecholaminy (adrenalinę, noradrenalinę). Ich nadmiar prowadzi do objawów takich jak nadciśnienie, tachykardia i zaczerwienienie skóry (Slajd 51)."
+    },
+    {
+        "question": "Jaka jest typowa strategia leczenia guza Wilmsa w większości protokołów europejskich?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Natychmiastowa nefrektomia, a następnie chemioterapia",
+            "B": "Chemioterapia przedoperacyjna, następnie nefrektomia i chemioterapia pooperacyjna",
+            "C": "Wyłącznie radioterapia",
+            "D": "Wyłącznie chemioterapia"
+        },
+        "answer": "B",
+        "justification": "Strategia leczenia według protokołów europejskich (SIOP) zakłada najpierw chemioterapię przedoperacyjną w celu zmniejszenia masy guza i ryzyka jego pęknięcia, a następnie radykalną nefrektomię, po której następuje dalsza chemioterapia (Slajd 75)."
+    },
+    {
+        "question": "Wczesny, gwałtowny przyrost obwodu głowy u niemowlęcia, rozstąpienie szwów czaszkowych i objaw \"zachodzącego słońca\" są typowe dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wodogłowia",
+            "B": "Małogłowia",
+            "C": "Zapalenia opon mózgowo-rdzeniowych",
+            "D": "Kraniosynostozy (przedwczesnego zarośnięcia szwów)"
+        },
+        "answer": "A",
+        "justification": "Wodogłowie to stan, w którym dochodzi do nadmiernego gromadzenia się płynu mózgowo-rdzeniowego. U niemowląt, u których szwy czaszkowe są jeszcze otwarte, prowadzi to do patologicznego powiększania się obwodu głowy i wzrostu ciśnienia śródczaszkowego."
+    },
+    {
+        "question": "W leczeniu ciężkiej hiperkaliemii, który lek działa kardioprotekcyjnie poprzez stabilizację błony komórkowej kardiomiocytów, nie wpływając na stężenie potasu?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Glukoza z insuliną",
+            "B": "Salbutamol",
+            "C": "Żywice jonowymienne",
+            "D": "Sole wapnia (glukonian lub chlorek wapnia)"
+        },
+        "answer": "D",
+        "justification": "Wapń działa jako antagonista potasu na poziomie błony komórkowej, stabilizując potencjał spoczynkowy i chroniąc serce przed groźnymi zaburzeniami rytmu. Jest to leczenie pierwszego rzutu w zagrażającej życiu hiperkaliemii. Pozostałe leki obniżają stężenie potasu (Slajd 272)."
+    },
+    {
+        "question": "Nagłe pojawienie się asymetrycznych, szybko narastających, niebolesnych pakietów węzłów chłonnych u dziecka powinno nasunąć podejrzenie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Infekcji wirusowej",
+            "B": "Ostrego zapalenia bakteryjnego",
+            "C": "Nowotworu układu chłonnego (chłoniaka)",
+            "D": "Choroby kociego pazura"
+        },
+        "answer": "C",
+        "justification": "Chociaż większość limfadenopatii u dzieci ma charakter odczynowy, to twarde, nieprzesuwalne, niebolesne, szybko rosnące pakiety węzłów są objawem alarmowym, wymagającym pilnej diagnostyki w kierunku chłoniaka (Slajd 22, 27)."
+    },
+    {
+        "question": "W diagnostyce obrazowej przerzutów do kości w przebiegu mięsaka Ewinga lub osteosarcoma, badaniem o najwyższej czułości, oceniającym cały szkielet, jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Przeglądowe zdjęcie RTG",
+            "B": "Tomografia komputerowa (TK)",
+            "C": "Scyntygrafia kości",
+            "D": "Ultrasonografia (USG)"
+        },
+        "answer": "C",
+        "justification": "Scyntygrafia kości jest badaniem z zakresu medycyny nuklearnej, które pozwala na ocenę metabolizmu kostnego w całym szkielecie za jednym razem. Jest to badanie z wyboru do poszukiwania przerzutów w kościach (Slajd 96, 103)."
+    },
+    {
+        "question": "Która cecha jest typowa dla podgłośniowego zapalenia krtani (krupu), a która dla zapalenia nagłośni?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Krup: etiologia bakteryjna, Zapalenie nagłośni: etiologia wirusowa",
+            "B": "Krup: szczekający kaszel, Zapalenie nagłośni: nasilona dysfagia i ślinotok",
+            "C": "Krup: wysoka gorączka i wygląd toksyczny, Zapalenie nagłośni: stan podgorączkowy",
+            "D": "Krup: wymaga antybiotykoterapii, Zapalenie nagłośni: leczenie objawowe"
+        },
+        "answer": "B",
+        "justification": "Krup to choroba wirusowa o dominującym objawie szczekającego kaszlu. Zapalenie nagłośni to ciężka infekcja bakteryjna, gdzie dominuje ból gardła, trudności w połykaniu (dysfagia) i ślinotok, a kaszel jest mniej nasilony (Slajd 114, 115)."
+    },
+    {
+        "question": "Które z wymienionych zaburzeń gospodarki wodno-elektrolitowej jest najczęstszym i najgroźniejszym powikłaniem nieprawidłowej, zbyt szybkiej korekty ciężkiej, przewlekłej hiponatremii?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Obrzęk płuc",
+            "B": "Osmotyczny zespół demielinizacyjny (mielinoliza mostu)",
+            "C": "Ostra niewydolność nerek",
+            "D": "Zatrzymanie krążenia"
+        },
+        "answer": "B",
+        "justification": "Zbyt szybkie podnoszenie stężenia sodu w surowicy u pacjenta z przewlekłą hiponatremią prowadzi do gwałtownego odwodnienia komórek mózgu i może spowodować nieodwracalne uszkodzenie neurologiczne, znane jako osmotyczny zespół demielinizacyjny (Slajd 365)."
+    },
+    {
+        "question": "Co jest przyczyną poliurii (wielomoczu) w niewyrównanej cukrzycy?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Niedobór wazopresyny (ADH)",
+            "B": "Diureza osmotyczna spowodowana przekroczeniem progu nerkowego dla glukozy",
+            "C": "Nadmierne spożycie płynów (polidypsja)",
+            "D": "Uszkodzenie cewek nerkowych przez ciała ketonowe"
+        },
+        "answer": "B",
+        "justification": "Gdy stężenie glukozy we krwi przekracza próg nerkowy (ok. 180 mg/dl), glukoza zaczyna być wydalana z moczem. Jako substancja osmotycznie czynna, 'pociąga' ona za sobą wodę, powodując zwiększoną utratę płynów, czyli diurezę osmotyczną."
+    },
+    {
+        "question": "W przypadku podejrzenia choroby von Willebranda (vWD), które badanie, oprócz oceny APTT i czasu krwawienia, jest kluczowe dla postawienia diagnozy?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Stężenie fibrynogenu",
+            "B": "Liczba płytek krwi",
+            "C": "Aktywność czynnika von Willebranda (vWF) i antygen vWF",
+            "D": "Czas protrombinowy (PT)"
+        },
+        "answer": "C",
+        "justification": "Rozpoznanie choroby von Willebranda opiera się na bezpośrednim pomiarze stężenia (antygenu) i funkcji (aktywności) czynnika von Willebranda we krwi. W zależności od typu choroby, wyniki te są obniżone w różnym stopniu (Skazy krwotoczne, slajd 48)."
+    },
+    {
+        "question": "W diagnostyce laboratoryjnej ostrej niewydolności nerek (ONN), najbardziej swoistym wskaźnikiem jest wzrost stężenia:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Mocznika",
+            "B": "Kwasu moczowego",
+            "C": "Potasu",
+            "D": "Kreatyniny"
+        },
+        "answer": "D",
+        "justification": "Kreatynina jest produktem metabolizmu mięśni, wydalanym niemal wyłącznie przez nerki. Jej stężenie w surowicy jest najlepszym endogennym wskaźnikiem filtracji kłębuszkowej. Stężenie mocznika zależy także od wielu czynników pozanerkowych (dieta, katabolizm) (Slajd 269)."
+    },
+    {
+        "question": "W przypadku pacjenta z łagodną astmą, jaki lek powinien zastosować doraźnie w celu przerwania napadu duszności?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wziewny glikokortykosteroid",
+            "B": "Szybkodziałający beta-2-mimetyk (np. salbutamol)",
+            "C": "Długodziałający beta-2-mimetyk (np. salmeterol)",
+            "D": "Lek antyleukotrienowy"
+        },
+        "answer": "B",
+        "justification": "Leki objawowe (ratunkowe) w astmie to leki szybko rozszerzające oskrzela. Należą do nich przede wszystkim szybkodziałające beta-2-mimetyki (SABA), które znoszą skurcz oskrzeli w ciągu kilku minut (Slajd 130)."
+    },
+    {
+        "question": "Który nowotwór jest najczęstszą przyczyną guza jamy brzusznej u noworodków?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Neuroblastoma (zwojak zarodkowy)",
+            "B": "Guz Wilmsa (nerczak zarodkowy)",
+            "C": "Hepatoblastoma (wątrobiak płodowy)",
+            "D": "Potworniak"
+        },
+        "answer": "A",
+        "justification": "Zgodnie z tabelą rozkładu nowotworów (Slajd 4), neuroblastoma jest zdecydowanie najczęstszym nowotworem u noworodków, stanowiąc aż 54% wszystkich guzów złośliwych w tej grupie wiekowej."
+    },
+    {
+        "question": "Jaka jest podstawowa metoda leczenia z wyboru w przypadku zdiagnozowania ropnia, np. w obrębie ślinianki?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wyłącznie antybiotykoterapia doustna",
+            "B": "Obserwacja i leczenie przeciwbólowe",
+            "C": "Drenaż chirurgiczny (nacięcie i opróżnienie)",
+            "D": "Podanie glikokortykosteroidów"
+        },
+        "answer": "C",
+        "justification": "Uformowany ropień jest otorbionym zbiornikiem ropy, do którego antybiotyki penetrują słabo. Podstawą leczenia jest drenaż chirurgiczny, który umożliwia ewakuację treści ropnej i odbarczenie tkanek. Antybiotykoterapia jest leczeniem uzupełniającym."
     }
 ]
