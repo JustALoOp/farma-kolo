@@ -238,5 +238,245 @@
         },
         "answer": "B",
         "justification": "Triada objawów: hiperglikemia, kwasica metaboliczna (niskie pH i wodorowęglany) oraz ketonemia/ketonuria jest definicją cukrzycowej kwasicy ketonowej, która jest ostrym, zagrażającym życiu powikłaniem cukrzycy (Slajd 174)."
+    },
+    {
+        "question": "Przewlekła białaczka szpikowa (CML), choć rzadka u dzieci, jest związana z charakterystyczną aberracją chromosomową. Jaka to aberracja?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Trisomia chromosomu 21",
+            "B": "Delecja chromosomu 5",
+            "C": "Chromosom Philadelphia (t(9;22), gen bcr/abl)",
+            "D": "Monosomia chromosomu X"
+        },
+        "answer": "C",
+        "justification": "Zgodnie ze slajdem 19, przewlekła białaczka szpikowa jest zespołem mieloproliferacyjnym charakteryzującym się obecnością genu bcr/abl, który powstaje w wyniku translokacji między chromosomami 9 i 22, tworząc tzw. chromosom Philadelphia."
+    },
+    {
+        "question": "W ostrej białaczce limfoblastycznej (ALL) tzw. wznowa bardzo wczesna, wiążąca się ze złym rokowaniem, to nawrót choroby, który nastąpił:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "W ciągu 18 miesięcy od uzyskania remisji",
+            "B": "W ciągu 5 lat od zakończenia leczenia",
+            "C": "Tylko w ośrodkowym układzie nerwowym",
+            "D": "Po 10 latach od uzyskania remisji"
+        },
+        "answer": "A",
+        "justification": "Slajd 16 ('Wznowy ostrych białaczek') definiuje wznowę bardzo wczesną jako nawrót choroby w okresie do 18 miesięcy od uzyskania pierwszej remisji. Jest to najgorzej rokujący typ wznowy."
+    },
+    {
+        "question": "Które z objawów neurologicznych, znane jako zespół opsoklonii-mioklonii ('tańczących oczu i stóp'), są charakterystyczne dla zespołu paraneoplastycznego w przebiegu jednego z nowotworów dziecięcych?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Guza Wilmsa",
+            "B": "Neuroblastoma (zwojaka zarodkowego)",
+            "C": "Mięsaka Ewinga",
+            "D": "Osteosarcoma"
+        },
+        "answer": "B",
+        "justification": "Zespół opsoklonii-mioklonii (Encefalopatia Kinsbourne'a) to rzadki, ale bardzo charakterystyczny zespół paraneoplastyczny, który w około 50% przypadków u dzieci jest związany z obecnością neuroblastoma (Slajd 52)."
+    },
+    {
+        "question": "Gdzie typowo lokalizuje się mięsak Ewinga, w odróżnieniu od kostniakomięsaka (osteosarcoma)?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "W przynasadach kości długich",
+            "B": "W trzonach kości długich i kościach płaskich",
+            "C": "Wyłącznie w kręgosłupie",
+            "D": "W nasadach kości w okolicy stawów"
+        },
+        "answer": "B",
+        "justification": "Mięsak Ewinga najczęściej lokalizuje się w trzonach (diafizach) kości długich (np. udowej) oraz w kościach płaskich (miednica, żebra). Kostniakomięsak (osteosarcoma) typowo zajmuje przynasady (metafizy) kości długich (Slajdy 91, 101)."
+    },
+    {
+        "question": "U dziecka z podejrzeniem ostrego zapalenia nagłośni (epiglottitis) priorytetem jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Jak najszybsze podanie antybiotyku",
+            "B": "Pobranie wymazu z gardła w celu potwierdzenia etiologii",
+            "C": "Zabezpieczenie drożności dróg oddechowych, najczęściej przez intubację",
+            "D": "Wykonanie bocznego zdjęcia RTG szyi"
+        },
+        "answer": "C",
+        "justification": "Ostre zapalenie nagłośni jest stanem zagrożenia życia z powodu ryzyka nagłej, całkowitej niedrożności dróg oddechowych. Wszelkie inne działania, w tym diagnostyczne, są drugorzędne wobec absolutnego priorytetu, jakim jest zabezpieczenie dróg oddechowych (Slajd 115)."
+    },
+    {
+        "question": "Astma oskrzelowa jest definiowana jako przewlekła choroba zapalna dróg oddechowych, której podstawowymi cechami są wszystkie poniższe Z WYJĄTKIEM:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Odwracalna obturacja oskrzeli",
+            "B": "Nadreaktywność oskrzeli",
+            "C": "Zapalenie błony śluzowej oskrzeli",
+            "D": "Trwałe i nieodwracalne zwłóknienie płuc"
+        },
+        "answer": "D",
+        "justification": "Trzy podstawowe cechy astmy to: odwracalna obturacja, nadreaktywność i zapalenie oskrzeli (Slajd 120). Trwałe zwłóknienie jest cechą innych chorób, np. zaawansowanej mukowiscydozy lub idiopatycznego włóknienia płuc."
+    },
+    {
+        "question": "W leczeniu mukowiscydozy stosuje się leki upłynniające gęsty śluz. Który z wymienionych leków działa poprzez enzymatyczny rozkład zewnątrzkomórkowego DNA w plwocinie?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Acetylocysteina",
+            "B": "Hipertoniczny roztwór NaCl",
+            "C": "Rekombinowana ludzka deoksyrybonukleaza (dornaza alfa, Pulmozyme)",
+            "D": "Ambroksol"
+        },
+        "answer": "C",
+        "justification": "Dornaza alfa (r-DNAza) jest lekiem mukolitycznym specyficznie stosowanym w mukowiscydozie. Jej mechanizm polega na cięciu długich łańcuchów DNA pochodzącego z rozpadłych neutrofili, co znacząco zmniejsza lepkość i ropny charakter plwociny (Slajd 137)."
+    },
+    {
+        "question": "Jak nazywa się okres wkrótce po rozpoznaniu cukrzycy typu 1 i włączeniu insulinoterapii, w którym zapotrzebowanie na insulinę gwałtownie spada, a pacjent może nawet czasowo nie wymagać jej podawania?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Efekt brzasku",
+            "B": "Faza częściowej remisji ('miesiąc miodowy')",
+            "C": "Kwasica ketonowa",
+            "D": "Efekt Somogyi"
+        },
+        "answer": "B",
+        "justification": "Okres 'miesiąca miodowego' to faza częściowej, przejściowej remisji wynikająca z poprawy funkcji pozostałych komórek beta trzustki po odciążeniu ich insulinoterapią i zniesieniu glukotoksyczności (Slajd 165)."
+    },
+    {
+        "question": "Jakie jest postępowanie w przypadku wystąpienia wstrząsu anafilaktycznego?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Natychmiastowe podanie leku przeciwhistaminowego",
+            "B": "Natychmiastowe podanie hydrokortyzonu dożylnie",
+            "C": "Natychmiastowe podanie adrenaliny domięśniowo",
+            "D": "Natychmiastowe podanie tlenu przez maskę"
+        },
+        "answer": "C",
+        "justification": "Lekiem pierwszego rzutu i ratującym życie w anafilaksji jest adrenalina podana domięśniowo. Działa szybko, znosząc najważniejsze objawy wstrząsu. Leki przeciwhistaminowe i glikokortykosteroidy działają wolniej i są leczeniem uzupełniającym (Slajd 306)."
+    },
+    {
+        "question": "Reakcja alergiczna typu IV wg Gella i Coombsa (np. alergiczne kontaktowe zapalenie skóry) jest reakcją:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Natychmiastową, zależną od przeciwciał IgE",
+            "B": "Cytotoksyczną, zależną od przeciwciał IgG i IgM",
+            "C": "Zależną od kompleksów immunologicznych",
+            "D": "Późną (opóźnioną), komórkową, zależną od limfocytów T"
+        },
+        "answer": "D",
+        "justification": "Reakcja typu IV jest jedyną reakcją opóźnioną (objawy po 24-48h), w której pośredniczą uczulone limfocyty T, a nie przeciwciała. Klasycznym przykładem jest wyprysk kontaktowy po kontakcie z niklem lub lateksem (Slajd 311)."
+    },
+    {
+        "question": "Niedobór wzrostu, w którym wiek kostny jest zgodny z wiekiem metrykalnym, a wzrost ostateczny jest niski, ale zgodny z potencjałem genetycznym, to najprawdopodobniej:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Niskorosłość rodzinna",
+            "B": "Konstytucjonalne opóźnienie wzrastania i dojrzewania",
+            "C": "Niedoczynność tarczycy",
+            "D": "Somatotropinowa niedoczynność przysadki"
+        },
+        "answer": "A",
+        "justification": "W niskorosłości rodzinnej dziecko od początku realizuje swój niski, uwarunkowany genetycznie potencjał wzrostu. Zarówno tempo wzrastania, jak i wiek kostny oraz przebieg dojrzewania są prawidłowe. W konstytucjonalnym opóźnieniu wiek kostny jest opóźniony (Slajd 248, 249)."
+    },
+    {
+        "question": "Jaki jest najczęstszy objaw pozaszpitalnego zapalenia płuc u dzieci?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ból w klatce piersiowej",
+            "B": "Krwioplucie",
+            "C": "Gorączka i kaszel",
+            "D": "Sinica centralna"
+        },
+        "answer": "C",
+        "justification": "Najbardziej typowymi i powszechnymi objawami zapalenia płuc u dzieci są objawy ogólne infekcji (gorączka) oraz objawy ze strony układu oddechowego, z których dominuje kaszel i często przyspieszony oddech (tachypnoe) (Slajd 348)."
+    },
+    {
+        "question": "Która etiologia zapalenia płuc dominuje u niemowląt i dzieci do 4-5 roku życia?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wirusowa (głównie RSV, wirusy paragrypy)",
+            "B": "Bakteryjna atypowa (Mycoplasma, Chlamydia)",
+            "C": "Grzybicza (Aspergillus)",
+            "D": "Pasożytnicza (Toxoplasma)"
+        },
+        "answer": "A",
+        "justification": "W grupie wiekowej niemowląt i małych dzieci najczęstszą przyczyną pozaszpitalnych zapaleń płuc są wirusy, z wirusem RSV na czele. Z bakterii najistotniejszy jest pneumokok. Bakterie atypowe dominują u dzieci starszych i młodzieży (Slajd 348)."
+    },
+    {
+        "question": "Co jest celem leczenia kontrolującego w astmie?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Szybkie przerwanie napadu duszności",
+            "B": "Działanie przeciwzapalne i zapobieganie zaostrzeniom",
+            "C": "Leczenie kaszlu",
+            "D": "Wyleczenie choroby w ciągu kilku miesięcy"
+        },
+        "answer": "B",
+        "justification": "Leki kontrolujące chorobę (np. wziewne glikokortykosteroidy) są stosowane regularnie, długofalowo. Ich celem jest opanowanie leżącego u podstaw astmy procesu zapalnego, a przez to zmniejszenie nadreaktywności oskrzeli i zapobieganie występowaniu zaostrzeń (Slajd 129)."
+    },
+    {
+        "question": "Podczas różnicowania guza Wilmsa z neuroblastomą, kluczowe jest badanie biochemiczne moczu. Jaki wynik przemawia za guzem Wilmsa?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Podwyższone stężenie katecholamin (VMA, HVA)",
+            "B": "Prawidłowe stężenie katecholamin",
+            "C": "Obecność krwinek czerwonych",
+            "D": "Podwyższone stężenie alfa-fetoproteiny"
+        },
+        "answer": "B",
+        "justification": "Neuroblastoma jest guzem hormonalnie czynnym, wydzielającym katecholaminy, co jest podstawą diagnostyki. Guz Wilmsa nie produkuje katecholamin, dlatego ich prawidłowy poziom w moczu pomaga w diagnostyce różnicowej (Slajd 71)."
+    },
+    {
+        "question": "Które stwierdzenie dotyczące różnic między chłoniakami u dzieci i dorosłych jest prawdziwe?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "U dzieci dominują postacie o niskim stopniu złośliwości.",
+            "B": "U dzieci chłoniaki mają powolny przebieg kliniczny.",
+            "C": "U dzieci dominuje pozawęzłowe umiejscowienie pierwotne i rozlany typ wzrostu.",
+            "D": "U dzieci chłoniaki prawie zawsze wywodzą się z obwodowych węzłów chłonnych."
+        },
+        "answer": "C",
+        "justification": "Chłoniaki dziecięce charakteryzują się wysokim stopniem złośliwości, gwałtownym przebiegiem, ale i dużą chemiowrażliwością. Typowo mają rozlany typ wzrostu i często wywodzą się z lokalizacji pozawęzłowych (np. jama brzuszna, śródpiersie) (Slajd 24)."
+    },
+    {
+        "question": "Zapalenie nagłośni jest stanem zagrażającym życiu, którego najczęstszym czynnikiem etiologicznym jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wirus paragrypy",
+            "B": "Streptococcus pneumoniae",
+            "C": "Haemophilus influenzae typu b",
+            "D": "Wirus RSV"
+        },
+        "answer": "C",
+        "justification": "Klasycznie, najczęstszym czynnikiem etiologicznym bakteryjnego zapalenia nagłośni jest Haemophilus influenzae typu b. Wprowadzenie powszechnych szczepień przeciwko Hib znacznie zmniejszyło częstość tej choroby (Slajd 115)."
+    },
+    {
+        "question": "Który z poniższych objawów NIE jest typowy dla cukrzycowej kwasicy ketonowej (DKA)?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Oddech Kussmaula (głęboki, przyspieszony)",
+            "B": "Zapach acetonu z ust",
+            "C": "Ból brzucha i wymioty",
+            "D": "Gorączka i dreszcze"
+        },
+        "answer": "D",
+        "justification": "Objawy DKA to polidypsja, poliuria, odwodnienie, oddech kwasiczy, zapach acetonu, bóle brzucha i zaburzenia świadomości (Slajd 175). Gorączka nie jest typowym objawem samej kwasicy, ale może wskazywać na współistniejącą infekcję, która była jej przyczyną."
+    },
+    {
+        "question": "Trójkąt Codmana, widoczny na zdjęciu RTG kości, to objaw radiologiczny polegający na uniesieniu okostnej przez guz. Jest on charakterystyczny dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zapalenia kości i szpiku",
+            "B": "Złamania przeciążeniowego",
+            "C": "Kostniakomięsaka (osteosarcoma)",
+            "D": "Gruźlicy kości"
+        },
+        "answer": "C",
+        "justification": "Trójkąt Codmana, razem z destrukcją kości i promienistymi zwapnieniami, jest jednym z klasycznych, choć nieswoistych, objawów radiologicznych sugerujących złośliwy nowotwór kości, jakim jest osteosarcoma (Slajd 98)."
+    },
+    {
+        "question": "Jakie jest dzienne podstawowe zapotrzebowanie na płyny dla niemowlęcia (do 1. roku życia)?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "50-70 ml/kg masy ciała",
+            "B": "80-100 ml/kg masy ciała",
+            "C": "100-140 ml/kg masy ciała",
+            "D": "150-180 ml/kg masy ciała"
+        },
+        "answer": "C",
+        "justification": "Zgodnie z przedstawioną tabelą (Slajd 335), podstawowe zapotrzebowanie na płyny dla noworodków i niemowląt jest najwyższe w przeliczeniu na kilogram masy ciała i wynosi 100-140 ml/kg/dobę."
     }
 ]
