@@ -298,5 +298,311 @@
         },
         "answer": "A",
         "justification": "Stwierdzenie A jest fałszywe. Guz Wilmsa (nerczak zarodkowy) to nowotwór charakterystyczny dla wczesnego dzieciństwa, ze szczytem zachorowań między 2. a 3. rokiem życia. Jego występowanie u młodzieży jest niezwykle rzadkie. Pozostałe stwierdzenia są prawdziwe."
+    },
+    {
+        "question": "Wskaż prawidłową odpowiedź - niemowlę to dziecko w wieku:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "od urodzenia do 28. dnia życia",
+            "B": "od 29. dnia życia do ukończenia 1 r.ż.",
+            "C": "od 2 r.ż. do ukończenia 3 r.ż.",
+            "D": "od 4 r.ż. do ukończenia 6 r.ż."
+        },
+        "answer": "B",
+        "justification": "Zgodnie z definicją okresów rozwojowych, okres niemowlęcy trwa od końca okresu noworodkowego (czyli od 29. dnia życia) do ukończenia pierwszego roku życia. Okres noworodkowy to pierwsze 28 dni życia."
+    },
+    {
+        "question": "Skala do oceny zdolności adaptacyjnych do życia pozamacicznego wg której badane jest dziecko po urodzeniu to skala:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Apgar",
+            "B": "Glasgow",
+            "C": "Karnofsky'ego",
+            "D": "Lansky'ego",
+            "E": "Tannera"
+        },
+        "answer": "A",
+        "justification": "Skala Apgar służy do oceny stanu klinicznego noworodka w pierwszych minutach po urodzeniu. Ocenianych jest 5 parametrów: akcja serca, oddychanie, napięcie mięśniowe, odruchy i zabarwienie skóry. Jest to standardowa metoda oceny adaptacji do życia pozamacicznego."
+    },
+    {
+        "question": "Przyporządkuj wymienionym odruchom ich cechy charakterystyczne: 1. odruch szukania, 2. odruch Moro, 3. odruch stąpania, 4. odruch Babińskiego.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1-C, 2-A, 3-D, 4-B",
+            "B": "1-D, 2-C, 3-B, 4-A",
+            "C": "1-A, 2-B, 3-C, 4-D",
+            "D": "1-D, 2-B, 3-C, 4-A",
+            "E": "1-C, 2-B, 3-D, 4-A"
+        },
+        "answer": "E",
+        "justification": "Prawidłowe przyporządkowanie: Odruch szukania (1) to zwrócenie główki w stronę drażnionego policzka (C). Odruch Moro (2) to wyprostowanie i odwiedzenie kończyn górnych, a następnie ich przywiedzenie w reakcji na bodziec (B). Odruch stąpania (3) to wykonywanie ruchów chodu, gdy dziecko jest trzymane pionowo ze stopami dotykającymi podłoża (D). Odruch Babińskiego (4) to grzbietowe zgięcie palucha przy drażnieniu podeszwy (A). Pasuje do tego kombinacja E."
+    },
+    {
+        "question": "Wskaż zdanie fałszywe:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "dziecko urodzone o czasie to dziecko urodzone między 36 a 40 tygodniem ciąży",
+            "B": "dziecko o niskiej masie urodzeniowej to dziecko, którego masa ciała po urodzeniu jest niższa niż 2500 g",
+            "C": "szczepienia obowiązkowe, które zgodnie z Programem Szczepień Ochronnych należy podać dziecku w czasie 24 h po urodzeniu to szczepienie p/gruźlicy i pierwsza dawka szczepienia p/WZW B",
+            "D": "w ciągu pierwszych 24h po urodzeniu dziecko oddaje pierwszy stolec nazywany smółką"
+        },
+        "answer": "A",
+        "justification": "Zdanie A jest fałszywe. Dziecko urodzone o czasie (donoszone) to dziecko urodzone między 37. a 42. tygodniem ciąży. Dziecko urodzone przed 37. tygodniem to wcześniak. Pozostałe zdania (B, C, D) są prawdziwe."
+    },
+    {
+        "question": "W określeniu stanu ogólnego chorego niezbędna jest ocena funkcji układów:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "wewnątrzwydzielniczego, krążenia, nerwowego",
+            "B": "pokarmowego, oddechowego, naczyniowego, w tym naczyń limfatycznych",
+            "C": "oddechowego, krążenia z pomiarem ciśnienia wrotnego, nerwowego",
+            "D": "krążenia, oddechowego, nerwowego",
+            "E": "nerwowego, krążenia, pokarmowego"
+        },
+        "answer": "D",
+        "justification": "W ocenie stanu ogólnego chorego, zwłaszcza w stanach nagłych, priorytetowa jest ocena podstawowych funkcji życiowych, które są zależne od układu krążenia (tętno, ciśnienie, powrót kapilarny), oddechowego (częstość oddechów, wysiłek oddechowy, saturacja) i nerwowego (stan świadomości - np. skala Glasgow). Jest to podstawa schematu ABCDE (Airway, Breathing, Circulation, Disability, Exposure)."
+    },
+    {
+        "question": "Ostre podgłośniowe zapalenie krtani charakteryzuje się: 1) malejącym natężeniem objawów, 2) etiologią bakteryjną, 3) etiologią wirusową, 4) występowaniem wśród noworodków, 5) narastającym natężeniem objawów, 6) występowaniem wśród dzieci przedszkolnych, 7) występowaniem wśród młodzieży. Wybierz właściwy zestaw cech:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 2, 4",
+            "B": "1, 3, 6",
+            "C": "1, 2, 7",
+            "D": "2, 4, 5",
+            "E": "3, 5, 6"
+        },
+        "answer": "E",
+        "justification": "Ostre podgłośniowe zapalenie krtani (krup) ma etiologię wirusową (3), charakteryzuje się gwałtownie narastającymi objawami (5), takimi jak 'szczekający kaszel' i stridor, i najczęściej występuje u dzieci w wieku przedszkolnym (6), typowo od 6 miesiąca do 3 roku życia."
+    },
+    {
+        "question": "Astma oskrzelowa jest przewlekłą, heterogenną chorobą zapalną układu oddechowego, którą charakteryzuje odwracalny rozkurcz dróg oddechowych - oskrzeli w wyniku ich nadreaktywności.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawda - prawda (związek przyczynowo-skutkowy)",
+            "B": "Prawda - prawda",
+            "C": "Prawda - fałsz",
+            "D": "Fałsz - prawda",
+            "E": "Fałsz - fałsz"
+        },
+        "answer": "B",
+        "justification": "Obie części zdania są prawdziwe, ale nie ma między nimi bezpośredniego związku przyczynowo-skutkowego w formie przedstawionej w opcji A. Pierwsza część poprawnie definiuje astmę. Druga część poprawnie opisuje jej cechę (odwracalność obturacji). W typologii pytań tego rodzaju, 'Prawda - prawda' (B) jest właściwą odpowiedzią, gdy obie części zdania są prawdziwe, ale nie stanowią bezpośredniej przyczyny i skutku."
+    },
+    {
+        "question": "Angina bakteryjna wymaga leczenia (I rzutu):",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Amoksacylina z kwasem klawulanowym - 10 dni",
+            "B": "Amoksycylina z kwasem klawulanowym - 7 dni",
+            "C": "Klarytromycyna - 10 dni",
+            "D": "Fenoksypenicylina - 10 dni",
+            "E": "Cefalosporyna II generacji - 10 dni"
+        },
+        "answer": "D",
+        "justification": "Lekiem pierwszego rzutu w leczeniu anginy paciorkowcowej (wywołanej przez Streptococcus pyogenes) jest fenoksymetylopenicylina (penicylina V) podawana doustnie przez 10 dni. Amoksycylina jest lekiem alternatywnym, a amoksycylina z kwasem klawulanowym nie jest zalecana jako I rzut z powodu węższego spektrum penicyliny V, które jest wystarczające."
+    },
+    {
+        "question": "Choroby przebiegające z obturacją dróg oddechowych (wskaż błędną odpowiedź):",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zastawkowa wada serca",
+            "B": "Ciało obce w dolnych drogach oddechowych",
+            "C": "Wstrząs anafilaktyczny",
+            "D": "Refluks żołądkowo-przełykowy",
+            "E": "Mukowiscydoza"
+        },
+        "answer": "A",
+        "justification": "Zastawkowa wada serca jest chorobą układu krążenia i nie powoduje pierwotnej obturacji (zwężenia) dróg oddechowych. Wszystkie pozostałe opcje mogą prowadzić do obturacji: ciało obce (B) mechanicznie, wstrząs anafilaktyczny (C) przez obrzęk krtani, refluks (D) przez podrażnienie i skurcz oskrzeli, a mukowiscydoza (E) przez gęsty śluz w drogach oddechowych."
+    },
+    {
+        "question": "Wybierz zestaw, który prawidłowo ilustruje rozwój dziecka w 1. roku życia:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "po urodzeniu - pozycja 'wyprostna'",
+            "B": "3 miesiące - nie unosi głowy, nie fiksuje wzroku",
+            "C": "6 miesięcy - przewraca się z brzucha na plecy, nie uśmiecha się",
+            "D": "10 miesięcy - stoi, nie raczkuje, podaje zabawki, naśladuje ruchy dorosłego",
+            "E": "12 miesięcy - chodzi samodzielnie, buduje wieżę z kloców, nie wydaje dźwięków"
+        },
+        "answer": "D",
+        "justification": "Analiza opcji: A - fałsz (pozycja zgięciowa). B - fałsz (w 3. msc unosi głowę i fiksuje wzrok). C - fałsz (w 6. msc uśmiecha się, poznaje bliskich). E - fałsz (dziecko w tym wieku gaworzy/mówi pierwsze słowa). Opcja D opisuje typowe umiejętności dla 10-miesięcznego dziecka: większość stoi (często z podparciem), wiele już raczkuje, bawi się i naśladuje. Choć 'nie raczkuje' może być mylące, reszta opisu jest najbardziej zbliżona do normy dla tego wieku spośród podanych."
+    },
+    {
+        "question": "Skala APGAR obejmuje ocenę:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Skóry",
+            "B": "Odruchu na drażnienie nosa",
+            "C": "Napięcia mięśniowego",
+            "E": "A, B, C prawidłowe"
+        },
+        "answer": "E",
+        "justification": "Skala Apgar ocenia 5 parametrów: A (Appearance - wygląd skóry), P (Pulse - tętno), G (Grimace - reakcja na bodźce, np. cewnik w nosie), A (Activity - napięcie mięśniowe), R (Respiration - oddychanie). Zatem ocenia się zabarwienie skóry (A), odruch na drażnienie (B) i napięcie mięśniowe (C). Wszystkie te odpowiedzi są prawidłowe."
+    },
+    {
+        "question": "Żółtaczka fizjologiczna:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Pojawia się > 3 tygodnia życia",
+            "B": "Zawsze związana jest z zakażeniem",
+            "C": "Jest wyrazem procesów adaptacyjnych związanych z przejściem z życia łonowego do zewnątrzłonowego",
+            "D": "Nie istnieje takie zjawisko",
+            "E": "U każdego dziecka po urodzeniu występuje żółtaczka fizjologiczna"
+        },
+        "answer": "C",
+        "justification": "Żółtaczka fizjologiczna jest wynikiem adaptacji noworodka do życia pozamacicznego, m.in. rozpadu hemoglobiny płodowej i niedojrzałości enzymatycznej wątroby. Pojawia się w 2-3 dobie życia, a nie po 3 tygodniach. Nie jest związana z zakażeniem i nie występuje u każdego dziecka."
+    },
+    {
+        "question": "Powikłaniem odry może być:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zapalenie płuc",
+            "B": "Zapalenie mózgu",
+            "C": "Owrzodzenie rogówki",
+            "D": "Żadne z powyższych",
+            "E": "Wszystkie wymienione"
+        },
+        "answer": "E",
+        "justification": "Odra może prowadzić do wielu poważnych powikłań. Najczęstszym jest zapalenie płuc (A). Inne ciężkie powikłania to ostre zapalenie mózgu (B) oraz podostre stwardniające zapalenie mózgu (SSPE). Zajęcie oczu może prowadzić do zapalenia spojówek i owrzodzenia rogówki (C). Wszystkie wymienione są możliwymi powikłaniami odry."
+    },
+    {
+        "question": "Zmiany wysypkowe w przebiegu ospy wietrznej:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Są pleomorficzne",
+            "B": "Nigdy nie występują na owłosionej skórze głowy",
+            "C": "Mogą występować na śluzówkach jamy ustnej",
+            "E": "Tylko odpowiedź A i C są prawidłowe"
+        },
+        "answer": "E",
+        "justification": "Wysypka w ospie wietrznej jest pleomorficzna (polimorficzna), co oznacza, że w tym samym czasie na skórze obecne są wykwity w różnym stadium ewolucji (plamki, grudki, pęcherzyki, krosty) - zatem A jest prawdziwe. Wysypka często zajmuje owłosioną skórę głowy (B jest fałszywe). Wykwity mogą również pojawiać się na błonach śluzowych jamy ustnej i narządów płciowych (C jest prawdziwe). Zatem odpowiedzi A i C są prawidłowe."
+    },
+    {
+        "question": "Zapalenie nagłośni:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ma zawsze łagodny przebieg",
+            "B": "Ma etiologię bakteryjną Haemophilus influenzae B",
+            "C": "Zwykle występuje u nastolatków",
+            "D": "Ma etiologię wirusową",
+            "E": "Prawidłowe odpowiedzi to A i C"
+        },
+        "answer": "B",
+        "justification": "Ostre zapalenie nagłośni (epiglottitis) to ciężka, gwałtownie postępująca choroba. Klasycznie wywoływana jest przez bakterię Haemophilus influenzae typu b (Hib), choć po wprowadzeniu szczepień mogą ją powodować inne bakterie. Choroba ma ciężki przebieg (A - fałsz). Najczęściej dotyczy dzieci w wieku 2-7 lat (C - fałsz). Ma etiologię bakteryjną, a nie wirusową (D - fałsz)."
+    },
+    {
+        "question": "Niedobór wzrostu u dziecka należy rozpoznać, gdy wzrost dziecka mieści się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Poniżej wartości 3 centyla dla danej populacji",
+            "B": "Poniżej 10 centyla dla danej populacji",
+            "C": "Ponad jedno odchylenie standardowe poniżej wartości średniej",
+            "D": "Poniżej 25 centyla dla danej populacji",
+            "E": "Poniżej wartości 50 centyla dla danej populacji"
+        },
+        "answer": "A",
+        "justification": "Niski wzrost (niedobór wzrostu) u dziecka definiuje się, gdy jego wysokość ciała znajduje się poniżej 3. centyla na siatkach centylowych dla danej płci i wieku w danej populacji."
+    },
+    {
+        "question": "Do objawów świeżo rozpoznanej cukrzycy typu 1 nie należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Polidypsja",
+            "B": "Poliuria",
+            "C": "Hiperglikemnia",
+            "D": "Bóle brzucha i wymioty",
+            "E": "Przyrost masy ciała"
+        },
+        "answer": "E",
+        "justification": "Klasyczna triada objawów cukrzycy typu 1 to polidypsja (wzmożone pragnienie), poliuria (wielomocz) i polifagia (wzmożony apetyt). Pomimo zwiększonego apetytu, charakterystyczna jest utrata masy ciała, a nie jej przyrost. Hiperglikemia jest podstawą biochemiczną, a bóle brzucha mogą występować, zwłaszcza w rozwijającej się kwasicy ketonowej."
+    },
+    {
+        "question": "Ferrytyna jest jednym ze wskaźników:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Niedokrwistości z niedoboru żelaza",
+            "B": "Krzywicy",
+            "C": "Agranulocytozy",
+            "D": "Guza Wilmsa",
+            "E": "Moczówki prostej"
+        },
+        "answer": "A",
+        "justification": "Ferrytyna jest białkiem magazynującym żelazo w organizmie. Jej stężenie w surowicy odzwierciedla zapasy żelaza. Niskie stężenie ferrytyny jest najczulszym wskaźnikiem niedoboru żelaza, często pojawiającym się jeszcze przed wystąpieniem pełnoobjawowej niedokrwistości."
+    },
+    {
+        "question": "Obecność świeżej krwi w stolcu stwierdza się w przebiegu: 1. Wgłobienia jelit, 2. Alergii pokarmowej, 3. Ostrego nieżytu żołądkowo-jelitowego, 4. Niedokrwistości z niedoboru żelaza, 5. W zespole limfoproliferacyjnym. Prawidłowe odpowiedzi to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 2, 5",
+            "B": "1, 2, 3",
+            "C": "1, 2, 4",
+            "D": "2, 3, 5",
+            "E": "2, 4, 5"
+        },
+        "answer": "B",
+        "justification": "Świeża krew w stolcu (hematochezja) wskazuje na krwawienie z dolnego odcinka przewodu pokarmowego. Wgłobienie jelit (1) daje charakterystyczny stolec w postaci 'galaretki malinowej'. Alergia pokarmowa (2), np. na białka mleka krowiego, może powodować zapalenie jelita i krwawienie. Ostre infekcyjne zapalenie jelit (3) również może prowadzić do krwawienia. Niedokrwistość (4) i zespół limfoproliferacyjny (5) nie są typowymi przyczynami świeżej krwi w stolcu, choć mogą być związane z innymi formami krwawień."
+    },
+    {
+        "question": "Najczęstszym czynnikiem etiologicznym biegunek u dzieci są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Bakterie",
+            "B": "Riketsje",
+            "C": "Wirusy",
+            "D": "Grzyby",
+            "E": "Gronkowiec złocisty"
+        },
+        "answer": "C",
+        "justification": "Najczęstszą przyczyną ostrych biegunek infekcyjnych w wieku dziecięcym na świecie są wirusy. Wśród nich dominującą rolę odgrywają rotawirusy (mimo szczepień), norowirusy i adenowirusy."
+    },
+    {
+        "question": "Najbardziej zarażliwą chorobą wieku dziecięcego jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Odra",
+            "B": "Świnka",
+            "C": "Różyczka",
+            "D": "Polio",
+            "E": "Ospa wietrzna"
+        },
+        "answer": "A",
+        "justification": "Wszystkie wymienione choroby są zaraźliwe, ale odra i ospa wietrzna charakteryzują się skrajnie wysoką zakaźnością. Wskaźnik R0 (podstawowa liczba odtwarzania) dla odry wynosi 12-18, co oznacza, że jedna chora osoba zaraża średnio 12-18 osób w populacji podatnej. Jest to jeden z najwyższych wskaźników wśród chorób zakaźnych."
+    },
+    {
+        "question": "Najczęstsza niedokrwistość u dzieci to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Anemia z niedoboru żelaza",
+            "B": "Anemia z niedoboru kwasu foliowego",
+            "C": "Anemia aplastyczna",
+            "D": "Anemia hemolityczna",
+            "E": "Anemia megaloblastyczna"
+        },
+        "answer": "A",
+        "justification": "Niedokrwistość z niedoboru żelaza jest zdecydowanie najczęstszą postacią anemii w wieku rozwojowym na całym świecie. Wynika to m.in. z szybkiego wzrostu, błędów dietetycznych i zwiększonego zapotrzebowania na żelazo."
+    },
+    {
+        "question": "Zapalenie opon mózgowo-rdzeniowych - wskaż prawidłowe: 1. Objawy kliniczne to ból głowy, gorączka, sztywność karku. 2. U dzieci w wieku przedszkolnym i szkolnym dominuje etiologia wirusowa. 3. Potwierdza się na podstawie wyniku badania płynu mózgowo-rdzeniowego. 4. Najczęściej wywoływane jest przez grzyby.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 2",
+            "B": "1, 3",
+            "C": "2, 3",
+            "D": "1, 2, 3"
+        },
+        "answer": "D",
+        "justification": "Analiza stwierdzeń: 1 - Prawda (klasyczna triada objawów oponowych). 2 - Prawda (wirusy są najczęstszą przyczyną ZOMR, zwłaszcza u starszych dzieci). 3 - Prawda (badanie płynu mózgowo-rdzeniowego jest złotym standardem w diagnostyce). 4 - Fałsz (zakażenia grzybicze są rzadkie, występują głównie u pacjentów z obniżoną odpornością). Zatem prawidłowe są stwierdzenia 1, 2 i 3."
+    },
+    {
+        "question": "Krwinki czerwone o zwiększonej objętości obserwuje się w stanach:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Talasemia",
+            "B": "Niedobór witaminy B12",
+            "C": "Niedobór żelaza",
+            "D": "Sferocytoza wrodzona"
+        },
+        "answer": "B",
+        "justification": "Zwiększona objętość krwinki czerwonej (MCV - Mean Corpuscular Volume) to makrocytoza. Jest ona charakterystyczna dla niedokrwistości megaloblastycznych, których najczęstszą przyczyną jest niedobór witaminy B12 lub kwasu foliowego. Niedobór żelaza i talasemia powodują mikrocytozę (małą objętość), a sferocytoza normocytozę lub mikrocytozę."
     }
 ]
