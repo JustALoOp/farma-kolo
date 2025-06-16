@@ -30,9 +30,9 @@
         "file": "Farmakologia/gielda_pharma_1.json"
     },
     {
-        "id": "biochem_basics_1",
-        "title": "Podstawy Biochemii 1",
-        "subject": "Biochemia",
-        "file": "Biochemia/questions_biochem_1.json"
+        "id": "pediatria_1",
+        "title": "Pediatria 1",
+        "subject": "Pediatria",
+        "file": "Pediatria/questions_pediatria_1.json"
     }
 ]
