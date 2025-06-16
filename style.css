@@ -278,3 +278,48 @@ body {
 #submit-mcq-btn:hover {
     background-color: #218838; /* Darker green for hover */
 }
+
+/* For user's selected answer that is correct */
+.user-selected-correct {
+    background-color: #d4edda; /* Light green */
+    border-color: #c3e6cb;
+    color: #155724; /* Dark green text */
+}
+
+/* Ensure specificity for buttons if needed */
+.btn.user-selected-correct {
+    background-color: #28a745; /* Similar to existing true-btn but could be distinct */
+    color: white;
+    border: 2px solid #1e7e34; /* Darker green border */
+}
+
+/* Ensure specificity for MCQ options if needed */
+#abcd-answers-container .mcq-option.user-selected-correct {
+    background-color: #d4edda; /* Light green background for the div */
+    border: 1px solid #c3e6cb;
+}
+#abcd-answers-container .mcq-option.user-selected-correct label {
+    color: #155724; /* Dark green text for the label */
+}
+
+/* For user's selected answer that is incorrect */
+.user-selected-incorrect {
+    background-color: #f8d7da; /* Light red */
+    border-color: #f5c6cb;
+    color: #721c24; /* Dark red text */
+}
+
+/* Ensure specificity for buttons if needed */
+.btn.user-selected-incorrect {
+    background-color: #dc3545; /* Similar to existing false-btn */
+    color: white;
+    border: 2px solid #b21f2d; /* Darker red border */
+}
+
+#abcd-answers-container .mcq-option.user-selected-incorrect {
+    background-color: #f8d7da; /* Light red background for the div */
+    border: 1px solid #f5c6cb;
+}
+#abcd-answers-container .mcq-option.user-selected-incorrect label {
+    color: #721c24; /* Dark red text for the label */
+}

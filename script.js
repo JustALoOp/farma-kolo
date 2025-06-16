@@ -227,6 +227,22 @@ function handleAnswer(userAnswer) { // userAnswer is now "A", "B", "C", or "D"
 
     const isCorrect = userAnswer === currentQuestion.answer; // Answer is "A", "B", etc.
 
+    // Highlight the selected answer button
+    if (abcdAnswersContainer) {
+        const buttons = abcdAnswersContainer.querySelectorAll('.btn-abcd');
+        buttons.forEach(button => {
+            // Example button text: "A: Option Text"
+            // We want to match userAnswer (e.g., "A") with the start of the button's text content
+            if (button.textContent.startsWith(userAnswer + ":")) {
+                if (isCorrect) {
+                    button.classList.add('user-selected-correct');
+                } else {
+                    button.classList.add('user-selected-incorrect');
+                }
+            }
+        });
+    }
+
     if (isCorrect) {
         correctScore++;
         feedbackTextElement.textContent = 'Poprawna odpowiedź!';
@@ -261,6 +277,20 @@ function handleMultipleChoiceAnswer() {
 
     let isCorrect = sortedSelectedOptions.length === sortedCorrectAnswers.length &&
                     sortedSelectedOptions.every((value, index) => value === sortedCorrectAnswers[index]);
+
+    // Highlight selected checkboxes' parent divs
+    if (abcdAnswersContainer) {
+        selectedOptions.forEach(optionValue => {
+            const checkbox = abcdAnswersContainer.querySelector(`.checkbox-abcd[value="${optionValue}"]`);
+            if (checkbox && checkbox.parentElement && checkbox.parentElement.classList.contains('mcq-option')) {
+                if (isCorrect) {
+                    checkbox.parentElement.classList.add('user-selected-correct');
+                } else {
+                    checkbox.parentElement.classList.add('user-selected-incorrect');
+                }
+            }
+        });
+    }
 
     if (isCorrect) {
         correctScore++;
