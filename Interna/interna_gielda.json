@@ -397,5 +397,135 @@
         },
         "answer": "E",
         "justification": "Klasyczny obraz kliniczny ostrego zapalenia trzustki (OZT) obejmuje nagły, silny, opasujący ból w nadbrzuszu, promieniujący do pleców. Towarzyszą mu nudności, uporczywe wymioty, gorączka oraz objawy takie jak wzdęcie i zatrzymanie perystaltyki. Wszystkie wymienione w opcjach A, B, C objawy są typowe dla OZT."
+    },
+    {
+        "question": "W leczeniu zakażeń układu moczowego najczęściej stosowanymi lekami są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "nitrofurantoina i furazydyna",
+            "b": "kotrimoksazol",
+            "c": "fluorochinolony",
+            "d": "penicyliny i cefalosporyny",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "W leczeniu zakażeń układu moczowego (ZUM) stosuje się wiele grup antybiotyków, w zależności od ciężkości zakażenia, czynnika etiologicznego i lokalnej lekowrażliwości. W niepowikłanym zapaleniu pęcherza często stosuje się furazydynę/nitrofurantoinę, kotrimoksazol, fosfomycynę. W cięższych zakażeniach (np. odmiedniczkowe zapalenie nerek) używa się fluorochinolonów, cefalosporyn czy penicylin z inhibitorami. Wszystkie wymienione grupy leków mają zastosowanie w leczeniu ZUM."
+    },
+    {
+        "question": "W niedokrwistości z niedoboru żelaza w morfologii krwi obserwujemy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "obniżenie stężenia hemoglobiny",
+            "b": "zmniejszenie średniej objętości krwinki czerwonej (MCV) - niedokrwistość mikrocytarna",
+            "c": "zmniejszenie średniej masy hemoglobiny w krwince (MCH)",
+            "d": "prawidłowe a i b",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Niedokrwistość z niedoboru żelaza jest klasycznym przykładem niedokrwistości mikrocytarnej i hipochromicznej. Charakteryzuje się obniżeniem stężenia hemoglobiny (Hb), spadkiem średniej objętości erytrocytu (MCV < 80 fl) oraz obniżeniem średniej zawartości (MCH) i stężenia (MCHC) hemoglobiny w krwince. Wszystkie wymienione cechy są typowe."
+    },
+    {
+        "question": "Objawami niedokrwistości, niezależnie od przyczyny, są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "osłabienie, łatwa męczliwość",
+            "b": "upośledzenie koncentracji i uwagi",
+            "c": "bóle i zawroty głowy",
+            "d": "bladość skóry i błon śluzowych",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Niezależnie od przyczyny, niedokrwistość (anemia) prowadzi do zespołu objawów wynikających z niedotlenienia tkanek. Należą do nich objawy ogólne, takie jak osłabienie, męczliwość, upośledzenie koncentracji, bóle i zawroty głowy, a także objawy przedmiotowe, jak bladość skóry i widocznych błon śluzowych oraz tachykardia. Wszystkie wymienione objawy są charakterystyczne."
+    },
+    {
+        "question": "Do najczęstszych przyczyn niedokrwistości z niedoboru żelaza należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "przewlekła utrata krwi (np. z przewodu pokarmowego, obfite miesiączki)",
+            "b": "zwiększone zapotrzebowanie (ciąża, okres dojrzewania)",
+            "c": "upośledzone wchłanianie (np. po operacjach żołądka, w celiakii)",
+            "d": "niedobór w diecie",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Etiologia niedokrwistości z niedoboru żelaza jest zróżnicowana. Najczęstszą przyczyną u dorosłych jest przewlekła utrata krwi. Inne ważne przyczyny to zwiększone zapotrzebowanie na żelazo w okresach fizjologicznych (ciąża, laktacja, wzrost), upośledzone wchłanianie z przewodu pokarmowego oraz niedostateczna podaż w diecie (rzadziej w krajach rozwiniętych). Wszystkie wymienione czynniki mogą prowadzić do niedoboru żelaza."
+    },
+    {
+        "question": "Do przyczyn hiperkaliemii (wzrostu stężenia potasu w surowicy) należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ostra i przewlekła niewydolność nerek",
+            "b": "stosowanie leków: inhibitorów konwertazy angiotensyny (ACEI), antagonistów receptora angiotensyny (ARB), spironolaktonu",
+            "c": "niedobór aldosteronu (choroba Addisona)",
+            "d": "kwasica metaboliczna",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Hiperkaliemia może być spowodowana przez upośledzone wydalanie potasu przez nerki (niewydolność nerek, leki blokujące układ RAA, niedobór aldosteronu) lub przez przemieszczenie potasu z komórek do przestrzeni pozakomórkowej (np. w kwasicy metabolicznej, w wyniku rozpadu komórek). Wszystkie wymienione przyczyny prowadzą do wzrostu stężenia potasu w surowicy."
+    },
+    {
+        "question": "W diagnostyce niedoczynności tarczycy stwierdzamy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "podwyższone stężenie TSH, obniżone stężenie FT4",
+            "b": "obniżone stężenie TSH, podwyższone stężenie FT4",
+            "c": "podwyższone stężenie TSH, prawidłowe stężenie FT4",
+            "d": "prawidłowe a i c",
+            "e": "prawidłowe b i c"
+        },
+        "answer": "d",
+        "justification": "Pierwotna niedoczynność tarczycy (najczęstsza postać) charakteryzuje się podwyższonym stężeniem TSH (z powodu braku hamowania zwrotnego przez hormony tarczycy) i obniżonym stężeniem FT4 (jawna niedoczynność). Podwyższone TSH przy prawidłowym FT4 definiuje subkliniczną (utajoną) niedoczynność tarczycy. Zatem obie odpowiedzi A i C opisują stany związane z niedoczynnością tarczycy."
+    },
+    {
+        "question": "W diagnostyce nadczynności tarczycy stwierdzamy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "obniżone stężenie TSH, podwyższone stężenie FT4 i FT3",
+            "b": "obniżone stężenie TSH, prawidłowe stężenie FT4 i FT3",
+            "c": "obniżone stężenie TSH, podwyższone stężenie FT4",
+            "d": "prawidłowe a i c",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "W pierwotnej nadczynności tarczycy (np. choroba Gravesa-Basedowa, wole guzkowe toksyczne) dochodzi do nadmiernej produkcji hormonów tarczycy, co hamuje wydzielanie TSH przez przysadkę. Diagnostycznie stwierdza się niskie lub nieoznaczalne stężenie TSH oraz podwyższone stężenie wolnych hormonów tarczycy (FT4 i/lub FT3). Stan, w którym TSH jest obniżone, a stężenia FT4 i FT3 są jeszcze w normie, określa się jako subkliniczną nadczynność tarczycy. Wszystkie wymienione warianty (a, b, c) wpisują się w spektrum nadczynności tarczycy."
+    },
+    {
+        "question": "Do objawów niedoczynności tarczycy należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "przyrost masy ciała, zaparcia, uczucie zimna",
+            "b": "bradykardia (wolna akcja serca)",
+            "c": "sucha, zimna, blada skóra, obrzęki",
+            "d": "senność, spowolnienie psychoruchowe",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Niedoczynność tarczycy to zespół objawów wynikający ze spowolnienia procesów metabolicznych. Prowadzi to do przyrostu masy ciała, zaparć, nietolerancji zimna, spowolnienia akcji serca, zmian skórnych (suchość, obrzęki), a także objawów neuropsychiatrycznych, jak senność i spowolnienie. Wszystkie wymienione objawy są typowe."
+    },
+    {
+        "question": "Najczęstszą przyczyną nadczynności tarczycy jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "choroba Gravesa-Basedowa",
+            "b": "wole guzkowe toksyczne",
+            "c": "zapalenie tarczycy",
+            "d": "prawidłowe a i b",
+            "e": "prawidłowe a, b, c"
+        },
+        "answer": "d",
+        "justification": "Najczęstszymi przyczynami endogennej nadczynności tarczycy są choroba Gravesa-Basedowa (autoimmunologiczna) oraz wole guzkowe toksyczne (autonomiczne guzki produkujące hormony). Zapalenia tarczycy (np. podostre, poporodowe) mogą powodować przejściową nadczynność w fazie destrukcji (tyreotoksykozy), ale są rzadszą przyczyną utrwalonej nadczynności. Dlatego A i B to dwie główne przyczyny."
+    },
+    {
+        "question": "Najczęstszą przyczyną niedoczynności tarczycy w Polsce jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niedobór jodu",
+            "b": "choroba Hashimoto (przewlekłe autoimmunologiczne zapalenie tarczycy)",
+            "c": "stan po operacji tarczycy",
+            "d": "stan po leczeniu jodem promieniotwórczym",
+            "e": "prawidłowe c i d"
+        },
+        "answer": "b",
+        "justification": "W krajach o wystarczającej podaży jodu, takich jak Polska (dzięki obowiązkowemu jodowaniu soli), najczęstszą przyczyną pierwotnej niedoczynności tarczycy jest choroba Hashimoto. Jest to przewlekły autoimmunologiczny proces zapalny, który prowadzi do stopniowego niszczenia miąższu tarczycy i spadku produkcji hormonów. Stany po leczeniu (operacyjnym, jodem radioaktywnym) są drugą co do częstości przyczyną."
     }
 ]
