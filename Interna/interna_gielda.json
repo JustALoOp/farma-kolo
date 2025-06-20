@@ -527,5 +527,200 @@
         },
         "answer": "b",
         "justification": "W krajach o wystarczającej podaży jodu, takich jak Polska (dzięki obowiązkowemu jodowaniu soli), najczęstszą przyczyną pierwotnej niedoczynności tarczycy jest choroba Hashimoto. Jest to przewlekły autoimmunologiczny proces zapalny, który prowadzi do stopniowego niszczenia miąższu tarczycy i spadku produkcji hormonów. Stany po leczeniu (operacyjnym, jodem radioaktywnym) są drugą co do częstości przyczyną."
+    },
+    {
+        "question": "W leczeniu napadu dny moczanowej zastosujemy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "kolchicynę",
+            "b": "niesteroidowe leki przeciwzapalne (NLPZ)",
+            "c": "glikokortykosteroidy (dostawowo lub systemowo)",
+            "d": "allopurynol",
+            "e": "prawidłowe a, b, c"
+        },
+        "answer": "e",
+        "justification": "W leczeniu ostrego napadu dny moczanowej celem jest szybkie opanowanie stanu zapalnego. Stosuje się kolchicynę, niesteroidowe leki przeciwzapalne (NLPZ) lub glikokortykosteroidy. Allopurynol jest lekiem obniżającym stężenie kwasu moczowego i stosuje się go w leczeniu przewlekłym, w okresach międzynapadowych. Jego włączenie w trakcie ostrego napadu jest błędem, ponieważ może nasilić i przedłużyć objawy."
+    },
+    {
+        "question": "Obrzęk zlokalizowany w okolicy kostek, nasilający się w ciągu dnia, a zmniejszający po nocy, jest charakterystyczny dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niewydolności nerek",
+            "b": "niewydolności wątroby",
+            "c": "przewlekłej niewydolności żylnej",
+            "d": "niewydolności serca",
+            "e": "niedoczynności tarczycy"
+        },
+        "answer": "c",
+        "justification": "Obrzęki nasilające się w pozycji stojącej w ciągu dnia i ustępujące po odpoczynku nocnym są typowe dla przewlekłej niewydolności żylnej. Wynikają one z zastoju krwi w żyłach kończyn dolnych. Obrzęki w niewydolności serca, nerek czy wątroby mają charakter bardziej uogólniony i nie wykazują tak dużej zmienności dobowej związanej z pozycją ciała."
+    },
+    {
+        "question": "Nagłe zatrzymanie krążenia w mechanizmie migotania komór lub częstoskurczu komorowego bez tętna jest wskazaniem do:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "natychmiastowej defibrylacji elektrycznej",
+            "b": "podania adrenaliny",
+            "c": "podania amiodaronu",
+            "d": "kardiowersji elektrycznej",
+            "e": "rozpoczęcia uciskania klatki piersiowej"
+        },
+        "answer": "a",
+        "justification": "Migotanie komór (VF) i częstoskurcz komorowy bez tętna (pVT) to tzw. rytmy do defibrylacji. Jedynym skutecznym leczeniem, które może przywrócić prawidłowy rytm serca, jest natychmiastowe wykonanie defibrylacji elektrycznej. Uciskanie klatki piersiowej jest kluczowe, ale należy je prowadzić do czasu przygotowania defibrylatora i jak najszybciej wykonać wyładowanie."
+    },
+    {
+        "question": "Obrzęk płuc jest stanem zagrożenia życia, który najczęściej jest objawem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ostrej lewokomorowej niewydolności serca",
+            "b": "przewlekłej niewydolności nerek w stadium schyłkowym",
+            "c": "zespołu nerczycowego",
+            "d": "ostrego zapalenia trzustki",
+            "e": "przełomu nadciśnieniowego"
+        },
+        "answer": "a",
+        "justification": "Kardiogenny obrzęk płuc, objawiający się skrajną dusznością i pienistą, różowo podbarwioną plwociną, jest najczęściej wynikiem ostrej niewydolności lewej komory serca (np. w przebiegu zawału). Prowadzi to do gwałtownego wzrostu ciśnienia w krążeniu płucnym i przesiąkania płynu do pęcherzyków płucnych. Inne wymienione stany rzadziej prowadzą do tak gwałtownego obrzęku płuc."
+    },
+    {
+        "question": "Podstawą rozpoznania przewlekłej obturacyjnej choroby płuc (POChP) jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wywiad (narażenie na dym tytoniowy i objawy)",
+            "b": "badanie fizykalne",
+            "c": "RTG klatki piersiowej",
+            "d": "badanie spirometryczne (stwierdzenie nieodwracalnej obturacji)",
+            "e": "gazometria krwi tętniczej"
+        },
+        "answer": "d",
+        "justification": "Chociaż wywiad i narażenie na czynniki ryzyka (głównie palenie tytoniu) są kluczowe w podejrzeniu POChP, to ostateczne rozpoznanie wymaga potwierdzenia utrwalonej (w dużej mierze nieodwracalnej po podaniu leku rozkurczającego oskrzela) obturacji w badaniu spirometrycznym. Wskaźnik Tiffeneau (FEV1/FVC) po próbie rozkurczowej < 0,7 jest kryterium diagnostycznym."
+    },
+    {
+        "question": "Do objawów niewydolności prawej komory serca należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "obrzęki kończyn dolnych",
+            "b": "płyn w jamach ciała (opłucnej, otrzewnej - wodobrzusze)",
+            "c": "powiększenie wątroby (hepatomegalia) i poszerzenie żył szyjnych",
+            "d": "nykturia",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Niewydolność prawokomorowa serca prowadzi do zastoju krwi w krążeniu systemowym. Objawia się to obrzękami obwodowymi (głównie kończyn dolnych), gromadzeniem płynu w jamach ciała (wodobrzusze, płyn w opłucnej), powiększeniem wątroby z powodu jej przekrwienia biernego oraz poszerzeniem żył szyjnych. Nykturia (oddawanie moczu w nocy) również jest częstym objawem, związanym z redystrybucją płynów w pozycji leżącej. Wszystkie wymienione objawy są typowe."
+    },
+    {
+        "question": "Do objawów lewokomorowej niewydolności serca należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "duszność wysiłkowa",
+            "b": "orthopnoe (duszność w pozycji leżącej)",
+            "c": "kaszel (szczególnie w nocy, tzw. astma sercowa)",
+            "d": "trzeszczenia i rzężenia nad polami płucnymi",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Niewydolność lewokomorowa serca prowadzi do zastoju krwi w krążeniu płucnym. Objawia się to głównie dusznością (początkowo wysiłkową, potem spoczynkową, w tym w pozycji leżącej - orthopnoe), kaszlem (wynikającym z obrzęku błony śluzowej oskrzeli) oraz objawami osłuchowymi w postaci trzeszczeń i rzężeń nad płucami (z powodu przesiąkania płynu do pęcherzyków). Wszystkie wymienione objawy są charakterystyczne."
+    },
+    {
+        "question": "Podstawą leczenia cukrzycy jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "leczenie farmakologiczne (leki doustne i insulina)",
+            "b": "modyfikacja stylu życia (dieta i wysiłek fizyczny)",
+            "c": "edukacja pacjenta i samokontrola",
+            "d": "prawidłowe a i b",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Nowoczesne leczenie cukrzycy to kompleksowe postępowanie obejmujące kilka kluczowych elementów. Należą do nich: modyfikacja stylu życia (która jest podstawą terapii), leczenie farmakologiczne dostosowane do pacjenta, a także edukacja terapeutyczna dotycząca choroby, diety, wysiłku, obsługi sprzętu i samokontroli glikemii. Wszystkie te elementy są niezbędne do osiągnięcia celów leczenia."
+    },
+    {
+        "question": "Nagły, silny ból w klatce piersiowej o charakterze rozdzierającym, promieniujący do pleców, jest najbardziej charakterystyczny dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zawału serca",
+            "b": "zatorowości płucnej",
+            "c": "pęknięcia tętniaka rozwarstwiającego aortę",
+            "d": "odmy opłucnowej",
+            "e": "zapalenia osierdzia"
+        },
+        "answer": "c",
+        "justification": "Nagły, niezwykle silny, rozdzierający ból w klatce piersiowej, często promieniujący do okolicy międzyłopatkowej lub wzdłuż kręgosłupa, jest klasycznym i najbardziej alarmującym objawem ostrego rozwarstwienia aorty. Jest to stan bezpośredniego zagrożenia życia, wymagający natychmiastowej diagnostyki i leczenia."
+    },
+    {
+        "question": "Typowym objawem dla choroby Leśniowskiego-Crohna jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "bóle brzucha, biegunka, utrata masy ciała",
+            "b": "zmiany okołoodbytnicze (przetoki, ropnie)",
+            "c": "gorączka, niedokrwistość",
+            "d": "prawidłowe a i c",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Choroba Leśniowskiego-Crohna to przewlekłe, nieswoiste zapalenie jelit, które może dotyczyć każdego odcinka przewodu pokarmowego. Typowe objawy to bóle brzucha, biegunka i utrata masy ciała. Charakterystyczne są również zmiany okołoodbytnicze. Jako choroba zapalna o charakterze systemowym, często przebiega z gorączką, osłabieniem i niedokrwistością. Wszystkie wymienione objawy są typowe."
+    },
+    {
+        "question": "W leczeniu zaostrzenia wrzodziejącego zapalenia jelita grubego stosuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "preparaty kwasu 5-aminosalicylowego (mesalazyna)",
+            "b": "glikokortykosteroidy (doustnie lub dożylnie)",
+            "c": "leki biologiczne (np. inhibitory TNF-alfa)",
+            "d": "antybiotyki",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Leczenie zaostrzenia wrzodziejącego zapalenia jelita grubego zależy od jego ciężkości. W łagodnych i umiarkowanych rzutach stosuje się preparaty 5-ASA (doustnie i doodbytniczo). W cięższych zaostrzeniach konieczne są glikokortykosteroidy systemowe. W przypadku braku odpowiedzi lub w najcięższych postaciach stosuje się leki biologiczne (infliksymab) lub cyklosporynę. Antybiotyki mogą być stosowane w przypadku nadkażenia bakteryjnego lub jako terapia wspomagająca. Wszystkie leki mają swoje miejsce w terapii."
+    },
+    {
+        "question": "Dla ostrego odmiedniczkowego zapalenia nerek charakterystyczne jest występowanie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wysokiej gorączki z dreszczami",
+            "b": "bólu w okolicy lędźwiowej",
+            "c": "dodatniego objawu Goldflama",
+            "d": "nudności i wymiotów",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Ostre odmiedniczkowe zapalenie nerek jest ciężkim zakażeniem górnego odcinka układu moczowego. Charakteryzuje się objawami ogólnoustrojowymi (wysoka gorączka, dreszcze, nudności, wymioty) oraz objawami miejscowymi, takimi jak ból w okolicy lędźwiowej po stronie chorej nerki i dodatni objaw Goldflama (ból przy wstrząsaniu tej okolicy). Wszystkie wymienione objawy są typowe."
+    },
+    {
+        "question": "Do przyczyn ostrego uszkodzenia nerek (AKI) zaliczamy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "przyczyny przednerkowe (np. wstrząs, odwodnienie)",
+            "b": "przyczyny nerkowe (np. uszkodzenie kłębuszków, cewek)",
+            "c": "przyczyny zanerkowe (np. kamica moczowa, przerost prostaty)",
+            "d": "prawidłowe a i b",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Ostre uszkodzenie nerek (AKI) dzieli się etiologicznie na trzy grupy. Przyczyny przednerkowe wynikają z upośledzenia przepływu krwi przez nerki. Przyczyny nerkowe (miąższowe) to bezpośrednie uszkodzenie struktur nerki. Przyczyny zanerkowe (po nerkowe) są spowodowane utrudnieniem odpływu moczu z nerek. Wszystkie te mechanizmy mogą prowadzić do AKI."
+    },
+    {
+        "question": "Najczęstszym objawem kamicy nerkowej jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "kolka nerkowa (nagły, silny ból w okolicy lędźwiowej promieniujący do pachwiny)",
+            "b": "krwiomocz lub krwinkomocz",
+            "c": "nudności i wymioty",
+            "d": "brak objawów (kamica bezobjawowa)",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Kamica nerkowa może przebiegać na różne sposoby. Najbardziej charakterystycznym objawem jest kolka nerkowa, spowodowana przemieszczaniem się złogu w moczowodzie. Często towarzyszy jej krwiomocz (widoczny lub mikroskopowy) oraz nudności i wymioty. Jednak bardzo często, zwłaszcza gdy złogi są zlokalizowane w kielichach nerkowych i nie powodują utrudnienia odpływu moczu, kamica jest bezobjawowa i wykrywana przypadkowo."
+    },
+    {
+        "question": "Do objawów zakażenia dolnego odcinka dróg moczowych (zapalenia pęcherza) należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "dyzuria (ból i pieczenie przy oddawaniu moczu)",
+            "b": "częstomocz i parcia naglące",
+            "c": "ból w okolicy nadłonowej",
+            "d": "zmiana zapachu i zabarwienia moczu",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Zapalenie pęcherza moczowego charakteryzuje się typowym zestawem objawów dyzurycznych: bólem i pieczeniem podczas mikcji, częstym oddawaniem małych porcji moczu oraz uczuciem nagłego parcia na pęcherz. Często występuje również ból w okolicy nadłonowej oraz zmiana wyglądu i zapachu moczu. Wszystkie wymienione objawy są charakterystyczne."
     }
 ]
