@@ -140,5 +140,134 @@
         },
         "answer": "C",
         "justification": "Zgodnie z wytycznymi, u kobiet planujących ciążę oraz w I trymestrze ciąży, docelowe stężenie TSH powinno być niższe niż 2,5 mIU/l. Oznaczenie wykonuje się zazwyczaj wcześnie, między 4. a 8. tygodniem ciąży, aby w razie potrzeby szybko wdrożyć leczenie niedoczynności tarczycy, która może negatywnie wpływać na rozwój płodu."
+    },
+    {
+        "question": "W leczeniu przewlekłym z powodu migotania przedsionków stosujemy poniższe leki, POZA:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "acenokumarol",
+            "b": "warfaryna",
+            "c": "naproksyn",
+            "d": "rywaroksaban",
+            "e": "dabigatran"
+        },
+        "answer": "c",
+        "justification": "W profilaktyce powikłań zakrzepowo-zatorowych w migotaniu przedsionków stosuje się leki przeciwkrzepliwe, takie jak antagoniści witaminy K (acenokumarol, warfaryna) oraz nowe doustne antykoagulanty (rywaroksaban, dabigatran). Naproksyn jest niesteroidowym lekiem przeciwzapalnym (NLPZ) i nie jest stosowany w tym wskazaniu, a jego przyjmowanie z lekami przeciwkrzepliwymi zwiększa ryzyko krwawienia."
+    },
+    {
+        "question": "Długotrwałe nadużywanie alkoholu najczęściej doprowadza do uszkodzenia wątroby, ale może być także przyczyną:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ostrego i przewlekłego zapalenia trzustki",
+            "b": "kardiomiopatii rozstrzeniowej",
+            "c": "polineuropatii",
+            "d": "prawidłowe b i c",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Alkohol etylowy jest toksyną wielonarządową. Jego przewlekłe nadużywanie prowadzi nie tylko do uszkodzenia wątroby, ale również do zapalenia trzustki (ostrego i przewlekłego), uszkodzenia mięśnia sercowego (kardiomiopatia rozstrzeniowa) oraz uszkodzenia obwodowego układu nerwowego (polineuropatia). Wszystkie wymienione stany są znanymi powikłaniami alkoholizmu."
+    },
+    {
+        "question": "W leczeniu zaostrzenia astmy zastosujemy: 1. GKS dożylnie, 2. tlenoterapię, 3. krótko działające beta-2-mimetyki wziewne, 4. leki przeciwcholinergiczne wziewne",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "prawidłowe 1, 3",
+            "b": "prawidłowe 2, 4",
+            "c": "prawidłowe 1, 2, 3",
+            "d": "prawidłowe 1, 2, 3, 4"
+        },
+        "answer": "d",
+        "justification": "Postępowanie w ciężkim zaostrzeniu astmy oskrzelowej opiera się na jednoczesnym zastosowaniu kilku interwencji: tlenoterapii w celu zwalczenia hipoksemii, intensywnej bronchodylatacji za pomocą krótko działających beta-2-mimetyków (SABA) i leków przeciwcholinergicznych (SAMA) podawanych w nebulizacji oraz systemowych glikokortykosteroidów (dożylnie lub doustnie) w celu opanowania procesu zapalnego."
+    },
+    {
+        "question": "W leczeniu świeżo rozpoznanej cukrzycy typu 2, w pierwszej kolejności zastosujemy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "insulinę",
+            "b": "pochodne sulfonylomocznika",
+            "c": "metforminę",
+            "d": "flozyny",
+            "e": "prawidłowe b i d"
+        },
+        "answer": "c",
+        "justification": "Zgodnie z aktualnymi wytycznymi towarzystw diabetologicznych (w tym Polskiego Towarzystwa Diabetologicznego), lekiem pierwszego rzutu w terapii cukrzycy typu 2 jest metformina, o ile nie ma przeciwwskazań do jej stosowania. Leczenie farmakologiczne wdraża się jednocześnie z modyfikacją stylu życia (dieta i wysiłek fizyczny)."
+    },
+    {
+        "question": "Spirometria jest kluczowym badaniem w diagnostyce:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zapalenia płuc o etiologii COVID-19",
+            "b": "gruźlicy płuc",
+            "c": "przewlekłej obturacyjnej choroby płuc",
+            "d": "prawidłowe a i b",
+            "e": "prawidłowe a i c"
+        },
+        "answer": "c",
+        "justification": "Spirometria to podstawowe badanie czynnościowe układu oddechowego, które jest niezbędne do rozpoznania i monitorowania chorób przebiegających z obturacją (zwężeniem) dróg oddechowych, takich jak przewlekła obturacyjna choroba płuc (POChP) i astma. W zapaleniu płuc czy gruźlicy jej rola jest pomocnicza, a nie kluczowa dla samego rozpoznania."
+    },
+    {
+        "question": "Najczęstszym objawem cukrzycowej choroby nerek jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "krwiomocz",
+            "b": "białkomocz - zwiększony wydatek albumin",
+            "c": "spadek ciśnienia tętniczego",
+            "d": "prawda - fałsz",
+            "e": "fałsz - fałsz"
+        },
+        "answer": "b",
+        "justification": "Najwcześniejszym, charakterystycznym objawem laboratoryjnym uszkodzenia nerek w przebiegu cukrzycy (nefropatii cukrzycowej) jest zwiększone wydalanie albumin z moczem, początkowo w niewielkich ilościach (mikroalbuminuria), które z czasem narasta do jawnego białkomoczu. Jest to podstawowy parametr w badaniach przesiewowych w kierunku tej choroby."
+    },
+    {
+        "question": "Do najgroźniejszych dla zdrowia i życia powikłań zakrzepicy żył głębokich kończyn dolnych należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niewydolność żylna",
+            "b": "zespół pozakrzepowy",
+            "c": "zatorowość płucna",
+            "d": "owrzodzenia podudzi",
+            "e": "obrzęk kończyny"
+        },
+        "answer": "c",
+        "justification": "Najpoważniejszym ostrym i bezpośrednio zagrażającym życiu powikłaniem zakrzepicy żył głębokich jest zatorowość płucna. Powstaje ona na skutek oderwania się skrzepliny, która z prądem krwi przemieszcza się do tętnic płucnych, powodując ich zablokowanie. Pozostałe wymienione stany to powikłania przewlekłe, znacznie mniej groźne."
+    },
+    {
+        "question": "Objawem gruźlicy jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "kaszel",
+            "b": "stany podgorączkowe i gorączka",
+            "c": "nocne poty",
+            "d": "chudnięcie",
+            "e": "wszystkie wymienione"
+        },
+        "answer": "e",
+        "justification": "Wszystkie wymienione objawy są typowe dla gruźlicy płuc. Przewlekły kaszel (trwający > 2-3 tygodnie), stany podgorączkowe/gorączka, nocne poty oraz niezamierzona utrata masy ciała to klasyczne objawy ogólne tej choroby, które powinny skłonić do diagnostyki w tym kierunku."
+    },
+    {
+        "question": "Czynnikiem ryzyka rozwoju gruźlicy są wszystkie wymienione, ZA WYJĄTKIEM:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niedożywienie",
+            "b": "pacjenci z HIV, leczeni immunosupresyjnie",
+            "c": "bliski kontakt z osobami z rozpoznaniem TBC",
+            "d": "wszystko prawidłowe",
+            "e": "picie pasteryzowanego mleka"
+        },
+        "answer": "e",
+        "justification": "Do czynników ryzyka zachorowania na gruźlicę należą stany obniżonej odporności (niedożywienie, zakażenie HIV, immunosupresja) oraz ekspozycja na prątki (bliski kontakt z chorym). Picie pasteryzowanego mleka jest bezpieczne. Ryzyko zakażenia prątkiem bydlęcym (M. bovis) wiązało się historycznie z piciem mleka surowego (niepasteryzowanego), jednak obecnie jest to niezwykle rzadkie."
+    },
+    {
+        "question": "Do objawów zakażenia wirusem HIV mogą należeć:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "gorączka, bóle mięśni i stawów",
+            "b": "zapalenie gardła, powiększenie węzłów chłonnych",
+            "c": "wysypka plamisto-grudkowa",
+            "d": "prawidłowe a i b",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Wszystkie wymienione objawy są charakterystyczne dla ostrej choroby retrowirusowej, która występuje u większości osób w ciągu 2-4 tygodni od zakażenia HIV. Objawy te przypominają mononukleozę zakaźną i są niespecyficzne, ale ich współwystępowanie powinno nasuwać podejrzenie świeżego zakażenia HIV."
     }
 ]
