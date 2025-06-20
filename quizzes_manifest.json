@@ -52,5 +52,11 @@
         "title": "Giełda",
         "subject": "Interna",
         "file": "Interna/interna_gielda.json"
+    },
+    {
+        "id": "interna_notatki",
+        "title": "Pytania z notatek",
+        "subject": "Interna",
+        "file": "Interna/interna_notatki.json"
     }
 ]
