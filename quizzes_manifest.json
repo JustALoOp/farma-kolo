@@ -46,5 +46,11 @@
         "title": "Giełda - 1",
         "subject": "Pediatria",
         "file": "Pediatria/questions_pediatria_gielda_1.json"
+    },
+    {
+        "id": "interna_gielda",
+        "title": "Giełda",
+        "subject": "Interna",
+        "file": "Interna/interna_gielda.json"
     }
 ]
