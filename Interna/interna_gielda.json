@@ -269,5 +269,133 @@
         },
         "answer": "e",
         "justification": "Wszystkie wymienione objawy są charakterystyczne dla ostrej choroby retrowirusowej, która występuje u większości osób w ciągu 2-4 tygodni od zakażenia HIV. Objawy te przypominają mononukleozę zakaźną i są niespecyficzne, ale ich współwystępowanie powinno nasuwać podejrzenie świeżego zakażenia HIV."
+    },
+    {
+        "question": "W ostrych zespołach wieńcowych ból w klatce piersiowej jest najczęstszym objawem. Jaki charakter ma ból dławicowy?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "gniotący, piekący, ściskający",
+            "b": "zlokalizowany zamostkowo",
+            "c": "promieniuje do żuchwy, szyi, lewego ramienia",
+            "d": "prawidłowe a i b",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Ból w ostrych zespołach wieńcowych (dławicowy) ma bardzo charakterystyczny zestaw cech. Jest opisywany jako gniotący, piekący lub ściskający, zlokalizowany za mostkiem i często promieniuje do szyi, żuchwy, lewego barku i ramienia. Wszystkie wymienione cechy są typowe dla tego rodzaju bólu."
+    },
+    {
+        "question": "Ostra niedokrwistość pokrwotoczna charakteryzuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "prawidłowym MCV",
+            "b": "zwiększoną liczbą retikulocytów",
+            "c": "osłabieniem, bladością skóry i błon śluzowych, tachykardią, hipotensją",
+            "d": "prawidłowe b i c",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "W ostrej niedokrwistości pokrwotocznej początkowo MCV jest prawidłowe (normocytarna), ponieważ krwinki czerwone nie zdążyły jeszcze zmienić swojej wielkości. Organizm reaguje na utratę krwi zwiększoną produkcją młodych krwinek (retikulocytów), co staje się widoczne po kilku dniach. Klinicznie dominują objawy wstrząsu hipowolemicznego: osłabienie, bladość, przyspieszenie akcji serca (tachykardia) i spadek ciśnienia (hipotensja). Wszystkie te cechy są charakterystyczne."
+    },
+    {
+        "question": "W przebiegu przewleklej choroby nerek związanej z postępującą niewydolnością obserwujemy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niedokrwistość",
+            "b": "zaburzenia gospodarki wapniowo-fosforanowej",
+            "c": "nadciśnienie tętnicze",
+            "d": "kwasicę metaboliczną",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Przewlekła choroba nerek (PChN) prowadzi do upośledzenia wszystkich funkcji nerek. Skutkuje to niedokrwistością (z powodu niedoboru erytropoetyny), zaburzeniami gospodarki mineralnej (hiperfosfatemia, hipokalcemia, wtórna nadczynność przytarczyc), nadciśnieniem tętniczym (z powodu retencji sodu i wody oraz nadaktywności układu RAA) oraz kwasicą metaboliczną (z powodu upośledzenia wydalania jonów wodorowych)."
+    },
+    {
+        "question": "W diagnostyce ostrych zespołów wieńcowych oznaczamy stężenie troponin sercowych. Kiedy odnotowujemy wzrost ich stężenia?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "w zawale serca z uniesieniem odcinka ST (STEMI)",
+            "b": "w zawale serca bez uniesienia odcinka ST (NSTEMI)",
+            "c": "w niestabilnej dławicy piersiowej",
+            "d": "prawidłowe a i b",
+            "e": "prawidłowe a, b, c"
+        },
+        "answer": "d",
+        "justification": "Troponiny sercowe są markerami martwicy kardiomiocytów. Ich podwyższone stężenie jest kryterium rozpoznania zawału serca, zarówno z uniesieniem odcinka ST (STEMI), jak i bez uniesienia ST (NSTEMI). W niestabilnej dławicy piersiowej, z definicji, nie dochodzi do martwicy mięśnia sercowego, a stężenie troponin pozostaje w normie."
+    },
+    {
+        "question": "W leczeniu ostrych zespołów wieńcowych stosujemy leczenie przeciwpłytkowe. Które z wymienionych leków do niego należą?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "kwas acetylosalicylowy",
+            "b": "klopidogrel",
+            "c": "tikagrelor",
+            "d": "prasugrel",
+            "e": "wszystkie wymienione"
+        },
+        "answer": "e",
+        "justification": "Podstawą leczenia ostrych zespołów wieńcowych jest podwójna terapia przeciwpłytkowa (DAPT). Składa się ona z kwasu acetylosalicylowego (ASA) oraz jednego z inhibitorów receptora P2Y12, do których należą klopidogrel, tikagrelor i prasugrel. Wszystkie wymienione leki są stosowane w tym wskazaniu."
+    },
+    {
+        "question": "Święty dla charakterystyczny dla COVID-19",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zapalenia płuc o etiologii COVID-19",
+            "b": "prawidłowe a i b",
+            "c": "prawidłowe a i c"
+        },
+        "answer": "a",
+        "justification": "To pytanie wydaje się niekompletne ('Święty dla charakterystyczny'). Jednakże, w kontekście pozostałych opcji, można przypuszczać, że chodzi o objawy lub cechy charakterystyczne dla COVID-19. Zapalenie płuc jest jednym z najpoważniejszych i charakterystycznych powikłań COVID-19, często o typowym obrazie w badaniach obrazowych (np. zmiany typu 'mlecznej szyby' w TK). Biorąc pod uwagę opcje, odpowiedź 'zapalenia płuc o etiologii COVID-19' jest najbardziej logiczna."
+    },
+    {
+        "question": "Spirometria jest badaniem kluczowym w diagnostyce:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "przewlekłej obturacyjnej choroby płuc (POChP)",
+            "b": "astmy",
+            "c": "mukowiscydozy",
+            "d": "prawidłowe a i b",
+            "e": "prawidłowe a, b, c"
+        },
+        "answer": "d",
+        "justification": "Spirometria jest podstawowym badaniem do diagnozowania i monitorowania chorób przebiegających z obturacją dróg oddechowych. Jest niezbędna do rozpoznania POChP (gdzie obturacja jest utrwalona) oraz astmy (gdzie obturacja jest zmienna i zwykle odwracalna). W mukowiscydozie również występują zmiany obturacyjne, ale spirometria jest jednym z wielu badań, a nie jedynym kluczowym. Najsilniej jest związana z POChP i astmą."
+    },
+    {
+        "question": "W leczeniu przewlekłym chorób płuc o podłożu obturacyjnym (POChP, astma) stosujemy wziewne leki rozszerzające oskrzela. Należą do nich:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "beta-2-mimetyki",
+            "b": "leki przeciwcholinergiczne",
+            "c": "glikokortykosteroidy",
+            "d": "prawidłowe a i b",
+            "e": "prawidłowe a, b, c"
+        },
+        "answer": "d",
+        "justification": "Głównymi grupami leków rozszerzających oskrzela (bronchodylatatorów) stosowanymi w POChP i astmie są beta-2-mimetyki (długo i krótko działające) oraz leki przeciwcholinergiczne (długo i krótko działające). Glikokortykosteroidy wziewne działają głównie przeciwzapalnie, a nie bezpośrednio rozszerzająco na oskrzela, choć ich rola w leczeniu astmy i niektórych przypadków POChP jest kluczowa."
+    },
+    {
+        "question": "Do którego z pacjentów rozpoznasz cukrzycę?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "prawidłowe a i b",
+            "B": "oznaczona glikemia na czczo dwukrotnie w odstępie kilku dni wynosiła: 135 mg/dl oraz 115 mg/dl",
+            "C": "oznaczona glikemia w 2h testu OGTT wynosiła 211 mg/dl",
+            "D": "prawidłowe a i c",
+            "E": "oznaczone stężenie hemoglobiny glikowanej wynosiło HbA1c > 7%"
+        },
+        "answer": "C",
+        "justification": "Kryteria rozpoznania cukrzycy to m.in.: 1) dwukrotne oznaczenie glikemii na czczo ≥ 126 mg/dl, 2) glikemia w 2. godzinie OGTT ≥ 200 mg/dl, 3) HbA1c ≥ 6,5% (≥48 mmol/mol), 4) przygodna glikemia ≥ 200 mg/dl z objawami hiperglikemii. W opcji B pierwszy wynik (135) spełnia kryterium, ale drugi (115) już nie, więc nie można rozpoznać cukrzycy. W opcji C wynik OGTT (211) spełnia kryterium (≥200). W opcji E HbA1c > 7% również spełnia kryterium (≥6,5%). Pytanie jest sformułowane w taki sposób, że pojedyncze opcje C i E są prawidłowe, ale warianty odpowiedzi A, B, D ich nie łączą poprawnie. Przyjmując, że trzeba wybrać jedną odpowiedź, C jest jednoznacznym kryterium. Jeśli można było wybrać więcej, E też byłoby poprawne."
+    },
+    {
+        "question": "Do typowych dolegliwości w ostrym zapaleniu trzustki należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "ostry, opasujący ból w nadbrzuszu",
+            "B": "gorączka",
+            "C": "nudności, wymioty",
+            "D": "prawidłowe a i c",
+            "E": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "E",
+        "justification": "Klasyczny obraz kliniczny ostrego zapalenia trzustki (OZT) obejmuje nagły, silny, opasujący ból w nadbrzuszu, promieniujący do pleców. Towarzyszą mu nudności, uporczywe wymioty, gorączka oraz objawy takie jak wzdęcie i zatrzymanie perystaltyki. Wszystkie wymienione w opcjach A, B, C objawy są typowe dla OZT."
     }
 ]
