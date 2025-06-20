@@ -917,5 +917,200 @@
         },
         "answer": "e",
         "justification": "Podejrzenie ostrej białaczki nasuwa nieprawidłowa morfologia krwi (cytopenie, obecność blastów). Jednak ostateczne rozpoznanie wymaga badania szpiku kostnego, w którym, zgodnie z definicją WHO, stwierdza się obecność co najmniej 20% komórek blastycznych. Badania cytogenetyczne i molekularne są kluczowe dla określenia rokowania i wyboru terapii, ale nie dla samego rozpoznania."
+    },
+    {
+        "question": "W leczeniu wstrząsu anafilaktycznego lekiem pierwszego rzutu jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "adrenalina podana domięśniowo",
+            "b": "glikokortykosteroid podany dożylnie",
+            "c": "lek przeciwhistaminowy podany dożylnie",
+            "d": "płynoterapia dożylna",
+            "e": "tlenoterapia"
+        },
+        "answer": "a",
+        "justification": "Lekiem ratującym życie we wstrząsie anafilaktycznym jest adrenalina, podana jak najszybciej domięśniowo w przednio-boczną powierzchnię uda. Odwraca ona kluczowe patomechanizmy wstrząsu: skurcz oskrzeli i spadek ciśnienia. Inne leki (GKS, przeciwhistaminowe) i interwencje (płynoterapia, tlenoterapia) są stosowane jako leczenie uzupełniające, ale nie mogą zastąpić ani opóźnić podania adrenaliny."
+    },
+    {
+        "question": "Do objawów \"B\" w chłoniakach zaliczamy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "gorączkę >38 st. C bez uchwytnej przyczyny infekcyjnej",
+            "b": "zlewne poty nocne",
+            "c": "niezamierzoną utratę >10% masy ciała w ciągu 6 miesięcy",
+            "d": "świąd skóry",
+            "e": "prawidłowe a, b, c"
+        },
+        "answer": "e",
+        "justification": "Objawy 'B' to zestaw trzech określonych objawów ogólnoustrojowych, których występowanie ma znaczenie rokownicze w chłoniakach (szczególnie w chłoniaku Hodgkina). Należą do nich: gorączka >38°C, zlewne poty nocne oraz utrata masy ciała >10% w ciągu ostatnich 6 miesięcy. Świąd skóry jest częstym objawem, ale nie jest zaliczany do objawów B."
+    },
+    {
+        "question": "W diagnostyce chłoniaków kluczowe znaczenie ma:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "badanie morfologii krwi",
+            "b": "badania obrazowe (TK, PET-CT)",
+            "c": "pobranie całego powiększonego węzła chłonnego do badania histopatologicznego",
+            "d": "biopsja aspiracyjna cienkoigłowa (BACC) węzła chłonnego",
+            "e": "badanie szpiku kostnego"
+        },
+        "answer": "c",
+        "justification": "Ostateczne i pewne rozpoznanie chłoniaka wymaga badania histopatologicznego i immunohistochemicznego całego pobranego węzła chłonnego. Pozwala to na ocenę architektury węzła i dokładne określenie typu chłoniaka. Biopsja aspiracyjna cienkoigłowa (BACC) jest niewystarczająca. Pozostałe badania są kluczowe w ocenie stopnia zaawansowania choroby, ale nie w samym rozpoznaniu."
+    },
+    {
+        "question": "Dla gorączki reumatycznej charakterystyczne jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "występuje jako powikłanie po nieleczonym paciorkowcowym zapaleniu gardła",
+            "b": "zapalenie dużych stawów (wędrujące)",
+            "c": "zapalenie serca (pancarditis)",
+            "d": "pląsawica Sydenhama, guzki podskórne, rumień brzeżny",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Gorączka reumatyczna to autoimmunologiczna choroba zapalna, która rozwija się jako powikłanie po infekcji gardła paciorkowcem beta-hemolizującym grupy A. Jej rozpoznanie opiera się na kryteriach Jonesa, które obejmują objawy duże (zapalenie serca, wędrujące zapalenie stawów, pląsawica, guzki podskórne, rumień brzeżny) i małe. Wszystkie wymienione w opcjach cechy są charakterystyczne dla tej choroby."
+    },
+    {
+        "question": "Najpoważniejszym powikłaniem gorączki reumatycznej jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "przewlekłe zapalenie stawów",
+            "b": "nabyta wada serca (najczęściej stenoza mitralna)",
+            "c": "uszkodzenie nerek",
+            "d": "trwałe zaburzenia neurologiczne",
+            "e": "zmiany skórne"
+        },
+        "answer": "b",
+        "justification": "Najgroźniejszym i najczęstszym odległym powikłaniem gorączki reumatycznej jest uszkodzenie zastawek serca, prowadzące do rozwoju nabytych wad serca. Najczęściej dotyczy to zastawki mitralnej (zwężenie, rzadziej niedomykalność) i aortalnej. Pozostałe objawy choroby zwykle ustępują bez trwałych następstw."
+    },
+    {
+        "question": "Dla infekcyjnego zapalenia wsierdzia (IZW) charakterystyczne jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "gorączka, szmer nad sercem",
+            "b": "dodatnie posiewy krwi",
+            "c": "objawy zatorowości obwodowej (np. udar mózgu, zatory w kończynach)",
+            "d": "objawy immunologiczne (guzki Oslera, plamki Rotha)",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Infekcyjne zapalenie wsierdzia to zakażenie wsierdzia, najczęściej zastawkowego. Jego obraz kliniczny jest zróżnicowany i obejmuje objawy ogólne (gorączka), kardiologiczne (nowy szmer, objawy niewydolności serca), powikłania zatorowe (wynikające z fragmentacji wegetacji bakteryjnych) oraz objawy wynikające z reakcji immunologicznej. Potwierdzeniem są dodatnie posiewy krwi i obecność wegetacji w echokardiografii. Wszystkie wymienione cechy są typowe."
+    },
+    {
+        "question": "Najważniejszym czynnikiem ryzyka infekcyjnego zapalenia wsierdzia (IZW) jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "obecność sztucznej zastawki serca",
+            "b": "przebyte IZW",
+            "c": "wrodzone wady serca (szczególnie sinicze)",
+            "d": "narkomania dożylna",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Wszystkie wymienione stany należą do grupy najwyższego ryzyka wystąpienia infekcyjnego zapalenia wsierdzia. U tych pacjentów konieczna jest profilaktyka antybiotykowa przed procedurami związanymi z ryzykiem bakteriemii. Najwyższe ryzyko dotyczy pacjentów ze sztuczną zastawką, po przebytym IZW oraz z niektórymi złożonymi wadami wrodzonymi serca."
+    },
+    {
+        "question": "Do przewlekłych powikłań cukrzycy należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "powikłania mikronaczyniowe: retinopatia, nefropatia, neuropatia",
+            "b": "powikłania makronaczyniowe: choroba niedokrwienna serca, choroba naczyń mózgowych (udar), choroba tętnic obwodowych",
+            "c": "zespół stopy cukrzycowej",
+            "d": "prawidłowe a i b",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Przewlekła hiperglikemia w cukrzycy prowadzi do uszkodzenia naczyń krwionośnych i nerwów. Wyróżnia się powikłania mikronaczyniowe (dotyczące małych naczyń) oraz makronaczyniowe (przyspieszony rozwój miażdżycy w dużych tętnicach). Zespół stopy cukrzycowej jest złożonym powikłaniem, wynikającym zarówno z neuropatii, jak i niedokrwienia. Wszystkie wymienione stany to klasyczne przewlekłe powikłania cukrzycy."
+    },
+    {
+        "question": "Kryterium rozpoznania cukrzycy jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "dwukrotne stwierdzenie glikemii na czczo ≥ 126 mg/dl",
+            "b": "glikemia w 120. minucie doustnego testu obciążenia glukozą (OGTT) ≥ 200 mg/dl",
+            "c": "glikemia przygodna ≥ 200 mg/dl z towarzyszącymi objawami hiperglikemii",
+            "d": "stężenie hemoglobiny glikowanej (HbA1c) ≥ 6,5%",
+            "e": "każde z powyższych"
+        },
+        "answer": "e",
+        "justification": "Zgodnie z aktualnymi wytycznymi, każde z wymienionych kryteriów jest wystarczające do rozpoznania cukrzycy. Glikemia na czczo musi być potwierdzona w drugim oznaczeniu (chyba że od razu są obecne objawy i bardzo wysoka glikemia). Pozostałe kryteria (OGTT, glikemia przygodna z objawami, HbA1c) nie wymagają powtórzenia do postawienia diagnozy. Wszystkie opcje to prawidłowe kryteria diagnostyczne."
+    },
+    {
+        "question": "W leczeniu cukrzycowej kwasicy ketonowej kluczowe jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "intensywna płynoterapia dożylna",
+            "b": "insulinoterapia dożylna w ciągłym wlewie",
+            "c": "wyrównywanie zaburzeń elektrolitowych (szczególnie niedoboru potasu)",
+            "d": "leczenie przyczyny wywołującej (np. zakażenia)",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Leczenie cukrzycowej kwasicy ketonowej (DKA) to złożony proces wymagający jednoczesnego działania na kilku frontach. Kluczowe jest nawodnienie pacjenta (płynoterapia), obniżenie glikemii i zahamowanie ketogenezy (insulinoterapia), a także ścisłe monitorowanie i wyrównywanie stężenia elektrolitów, zwłaszcza potasu, którego całkowity ustrójowy niedobór jest regułą. Jednocześnie należy szukać i leczyć czynnik wywołujący DKA."
+    },
+    {
+        "question": "Za ciężką hipoglikemię uznaje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "stężenie glukozy < 54 mg/dl",
+            "b": "każdy epizod, w którym pacjent wymaga pomocy osoby trzeciej do jej opanowania",
+            "c": "epizod z utratą przytomności lub drgawkami",
+            "d": "prawidłowe b i c",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "d",
+        "justification": "Hipoglikemię klasyfikuje się na podstawie stężenia glukozy oraz objawów klinicznych. Poziom 1 to glikemia 54-69 mg/dl. Poziom 2 (klinicznie istotna hipoglikemia) to glikemia < 54 mg/dl. Ciężka hipoglikemia (poziom 3) jest definiowana klinicznie jako każdy epizod, w którym z powodu zaburzeń funkcji poznawczych pacjent wymaga pomocy osób trzecich, niezależnie od zmierzonego stężenia glukozy. Obejmuje to stany z utratą przytomności czy drgawkami. Zatem definicje kliniczne (b i c) są kluczowe dla pojęcia ciężkiej hipoglikemii."
+    },
+    {
+        "question": "W leczeniu ciężkiej hipoglikemii u pacjenta nieprzytomnego należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "podać dożylnie 20% roztwór glukozy",
+            "b": "podać domięśniowo lub podskórnie glukagon",
+            "c": "próbować podać słodki napój do wypicia",
+            "d": "prawidłowe a i b",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "d",
+        "justification": "U pacjenta nieprzytomnego z ciężką hipoglikemią podawanie czegokolwiek doustnie jest przeciwwskazane z powodu ryzyka zachłyśnięcia. Postępowaniem z wyboru jest podanie dożylne stężonego roztworu glukozy. Jeśli dostęp dożylny jest niemożliwy lub opóźniony (np. w warunkach pozaszpitalnych), alternatywą jest podanie glukagonu domięśniowo lub podskórnie, co może być wykonane przez osoby przeszkolone (np. rodzinę pacjenta)."
+    },
+    {
+        "question": "Hiperaldosteronizm pierwotny (zespół Conna) charakteryzuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "nadciśnieniem tętniczym (często opornym na leczenie)",
+            "b": "hipokaliemią (niskim stężeniem potasu)",
+            "c": "niską aktywnością reninową osocza (ARO)",
+            "d": "zasadowicą metaboliczną",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Zespół Conna to stan autonomicznego, nadmiernego wydzielania aldosteronu przez nadnercza. Aldosteron powoduje retencję sodu i wody (co prowadzi do nadciśnienia) oraz utratę potasu i jonów wodorowych z moczem (co prowadzi do hipokaliemii i zasadowicy metabolicznej). Nadmierne wydzielanie aldosteronu hamuje wydzielanie reniny, stąd niska aktywność reninowa osocza. Wszystkie te cechy są typowe dla tego zespołu."
+    },
+    {
+        "question": "Do przyczyn guza chromochłonnego nadnerczy należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "napadowe nadciśnienie tętnicze",
+            "b": "napadowe bóle głowy, kołatania serca, potliwość, bladość",
+            "c": "hiperglikemia",
+            "d": "drżenie mięśni, niepokój",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Guz chromochłonny to nowotwór wydzielający katecholaminy (adrenalinę, noradrenalinę). Objawy mają charakter napadowy i wynikają z działania tych hormonów. Klasyczna triada objawów to napadowy ból głowy, potliwość i kołatanie serca, czemu towarzyszy gwałtowny wzrost ciśnienia. Katecholaminy powodują również drżenie, niepokój i podnoszą stężenie glukozy. Wszystkie wymienione objawy są typowe."
+    },
+    {
+        "question": "Dla choroby Cushinga (ACTH-zależnej) charakterystyczne jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "otyłość centralna ('bawoli kark', 'twarz księżycowata')",
+            "b": "czerwone, szerokie rozstępy na skórze brzucha, ud, pośladków",
+            "c": "ścieńczenie skóry, łatwe siniaczenie, trądzik, hirsutyzm",
+            "d": "nadciśnienie tętnicze, cukrzyca, osłabienie mięśni, osteoporoza",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Zespół Cushinga to zespół objawów wynikający z nadmiaru glikokortykosteroidów. Niezależnie od przyczyny, prowadzi to do bardzo charakterystycznego obrazu klinicznego, obejmującego redystrybucję tkanki tłuszczowej (otyłość centralna), zmiany zanikowe skóry (rozstępy, siniaki), nadmiar androgenów (trądzik, hirsutyzm) oraz powikłania metaboliczne, takie jak nadciśnienie, cukrzyca i osteoporoza. Wszystkie wymienione cechy są typowe."
     }
 ]
