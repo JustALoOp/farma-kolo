@@ -1,0 +1,144 @@
+[
+    {
+        "question": "O aktywnym zakażeniu wirusem zapalenia wątroby typu B świadczy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Dodatnie p/c anty HBs",
+            "B": "Dodatnie HBeAg",
+            "C": "Dodatnie HBV-Ag",
+            "D": "Prawidłowe B i C",
+            "E": "Prawidłowe B i A"
+        },
+        "answer": "D",
+        "justification": "Aktywne zakażenie (replikacja) wirusa HBV charakteryzuje się obecnością antygenu HBeAg oraz materiału genetycznego wirusa (HBV DNA). Antygen HBsAg świadczy o samym zakażeniu (ostrym lub przewlekłym), ale niekoniecznie o aktywnej replikacji. Przeciwciała anty-HBs świadczą o odporności po szczepieniu lub przechorowaniu. Zatem obecność HBeAg i HBV DNA (w pytaniu jako HBV-Ag, co jest uproszczeniem) wskazuje na aktywne zakażenie. Odpowiedź D (B i C) jest najbardziej poprawna, chociaż C jest sformułowane nieprecyzyjnie (powinno być HBV DNA)."
+    },
+    {
+        "question": "Kryterium rozpoznania wirusowego zapalenia wątroby typu C świadczy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Stwierdzenie obecności przeciwciał anty-HCV",
+            "B": "Stwierdzenie obecności HCV-RNA metodą PCR",
+            "C": "Prawidłowe A i B",
+            "D": "Prawidłowe A",
+            "E": "Prawidłowe B"
+        },
+        "answer": "B",
+        "justification": "Samo stwierdzenie obecności przeciwciał anty-HCV świadczy jedynie o kontakcie z wirusem w przeszłości. Wiele osób (ok. 20-40%) eliminuje wirusa samoistnie, ale przeciwciała pozostają. Ostatecznym potwierdzeniem czynnego, przewlekłego zakażenia WZW typu C, wymagającego leczenia, jest wykrycie materiału genetycznego wirusa (HCV-RNA) metodą PCR."
+    },
+    {
+        "question": "Przyczyną przewlekłego wirusowego zapalenia wątroby jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "WZW typu A",
+            "B": "Wirusowe zapalenie wątroby typu B",
+            "C": "Wirusowe zapalenie wątroby typu C",
+            "D": "Prawidłowe B i C",
+            "E": "Wszystkie wymienione"
+        },
+        "answer": "D",
+        "justification": "Wirusy zapalenia wątroby typu B (HBV) i C (HCV) mogą powodować zakażenia przewlekłe, które prowadzą do marskości i raka wątrobowokomórkowego. Wirus zapalenia wątroby typu A (HAV) powoduje tylko ostre, samoograniczające się zakażenie i nigdy nie przechodzi w formę przewlekłą."
+    },
+    {
+        "question": "Do ryzyka wątrobowokomórkowego predysponuje:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Marskość wątroby",
+            "B": "Zakażenie HBV",
+            "C": "Zakażenie HCV",
+            "D": "Prawidłowe B i C",
+            "E": "Wszystkie wymienione"
+        },
+        "answer": "E",
+        "justification": "Wszystkie wymienione czynniki są głównymi czynnikami ryzyka rozwoju raka wątrobowokomórkowego (HCC). Przewlekłe zakażenie HBV i HCV prowadzi do przewlekłego zapalenia i marskości wątroby, a sama marskość wątroby (niezależnie od etiologii) jest najsilniejszym czynnikiem predysponującym do rozwoju HCC."
+    },
+    {
+        "question": "W leczeniu przewlekłym z powodu migotania przedsionków stosujemy poniższe leki, POZA:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "acenokumarol",
+            "B": "warfaryna",
+            "C": "naproksyn",
+            "D": "rywaroksaban",
+            "E": "dabigatran"
+        },
+        "answer": "C",
+        "justification": "W profilaktyce przeciwzakrzepowej w migotaniu przedsionków stosuje się leki przeciwkrzepliwe: antagonistów witaminy K (VKA) jak acenokumarol i warfaryna, oraz nowe doustne antykoagulanty (NOAC/DOAC) jak rywaroksaban i dabigatran. Naproksyn jest niesteroidowym lekiem przeciwzapalnym (NLPZ) i nie jest stosowany w tym celu; wręcz przeciwnie, może zwiększać ryzyko krwawienia."
+    },
+    {
+        "question": "W leczeniu przeciążającym z powodu migotania przedsionków stosujemy poniższe leki, poza:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "acenokumarol",
+            "B": "warfaryna",
+            "C": "naproksyn",
+            "D": "rywaroksaban",
+            "E": "dabigatran"
+        },
+        "answer": "C",
+        "justification": "W profilaktyce przeciwzakrzepowej w migotaniu przedsionków stosuje się leki przeciwkrzepliwe. Do tej grupy należą antagoniści witaminy K (acenokumarol, warfaryna) oraz nowe doustne antykoagulanty (rywaroksaban, dabigatran). Naproksyn to niesteroidowy lek przeciwzapalny (NLPZ), który nie ma zastosowania w tej profilaktyce i może zwiększać ryzyko krwawień."
+    },
+    {
+        "question": "W leczeniu przeciwkrzepliwym z powodu migotania przedsionków stosujemy poniższe leki, poza:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "acenokumarol",
+            "b": "warfaryna",
+            "c": "naproksyn",
+            "d": "rywaroksaban",
+            "e": "dabigatran"
+        },
+        "answer": "c",
+        "justification": "Do leczenia przeciwkrzepliwego w migotaniu przedsionków używa się antagonistów witaminy K (acenokumarol, warfaryna) oraz nowych doustnych antykoagulantów (rywaroksaban, dabigatran). Naproksyn jest niesteroidowym lekiem przeciwzapalnym i nie jest stosowany w tym wskazaniu."
+    },
+    {
+        "question": "Najczęstszym objawem cukrzycy jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wzmożone pragnienie",
+            "b": "wielomocz",
+            "c": "utrata masy ciała",
+            "d": "zmęczenie",
+            "e": "brak objawów"
+        },
+        "answer": "e",
+        "justification": "Chociaż klasyczne objawy cukrzycy to poliuria (wielomocz), polidypsja (wzmożone pragnienie) i utrata masy ciała, to najczęściej, zwłaszcza w cukrzycy typu 2, choroba przez długi czas rozwija się bezobjawowo lub objawy są bardzo niespecyficzne. Dlatego często jest wykrywana przypadkowo podczas rutynowych badań."
+    },
+    {
+        "question": "Objawy kliniczne nadczynności tarczycy to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "utrata masy ciała, biegunka, drżenie rąk",
+            "b": "chudnięcie pomimo wzmożonego apetytu, uczucie gorąca, tachykardia",
+            "c": "bezsenność, niepokój, wzmożona potliwość",
+            "d": "prawidłowe a i c",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Wszystkie wymienione zestawy objawów są charakterystyczne dla nadczynności tarczycy, która jest stanem metabolicznym charakteryzującym się przyspieszeniem metabolizmu. Prowadzi to do utraty masy ciała, biegunek, uczucia gorąca, drżenia rąk, przyspieszonej akcji serca (tachykardii) oraz objawów ze strony układu nerwowego, jak niepokój i bezsenność."
+    },
+    {
+        "question": "Do typowych dolegliwości w ostrym zapaleniu trzustki należy: a. Ostry, opasujący ból w nadbrzuszu, b. Gorączka, c. Nudności, wymioty, bębnica",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawidłowe a, c",
+            "B": "Prawidłowe a i b",
+            "C": "Prawidłowe a",
+            "D": "Prawidłowe a, b, i c"
+        },
+        "answer": "D",
+        "justification": "Ostre zapalenie trzustki (OZT) klasycznie objawia się nagłym, silnym, opasującym bólem w nadbrzuszu, promieniującym do pleców. Towarzyszą mu nudności, wymioty, gorączka oraz objawy niedrożności porażennej jelit, takie jak wzdęcie (bębnica) i zatrzymanie gazów i stolca. Wszystkie wymienione objawy są typowe."
+    },
+    {
+        "question": "W którym tygodniu ciąży oznacza się u kobiet zwykle poziom TSH i jakie maksymalne stężenie w surowicy uważa się za prawidłowe w okresie prekoncepcyjnym i w I trymestrze?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "w 4-8 tygodniu; 3.0 mIU/l",
+            "B": "w 3-5 tygodniu; 0.1 mIU/l",
+            "C": "w 4-8 tygodniu; 2.5 mIU/l",
+            "D": "w 3-5 tygodniu; 2.5 mIU/l",
+            "E": "w 4-8 tygodniu; 4.0 mIU/l"
+        },
+        "answer": "C",
+        "justification": "Zgodnie z wytycznymi, u kobiet planujących ciążę oraz w I trymestrze ciąży, docelowe stężenie TSH powinno być niższe niż 2,5 mIU/l. Oznaczenie wykonuje się zazwyczaj wcześnie, między 4. a 8. tygodniem ciąży, aby w razie potrzeby szybko wdrożyć leczenie niedoczynności tarczycy, która może negatywnie wpływać na rozwój płodu."
+    }
+]
