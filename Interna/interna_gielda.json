@@ -722,5 +722,200 @@
         },
         "answer": "e",
         "justification": "Zapalenie pęcherza moczowego charakteryzuje się typowym zestawem objawów dyzurycznych: bólem i pieczeniem podczas mikcji, częstym oddawaniem małych porcji moczu oraz uczuciem nagłego parcia na pęcherz. Często występuje również ból w okolicy nadłonowej oraz zmiana wyglądu i zapachu moczu. Wszystkie wymienione objawy są charakterystyczne."
+    },
+    {
+        "question": "W leczeniu nadciśnienia tętniczego lekami pierwszego wyboru są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "inhibitory konwertazy angiotensyny (ACEI) lub sartany (ARB)",
+            "b": "antagoniści wapnia (blokery kanału wapniowego)",
+            "c": "diuretyki tiazydowe/tiazydopodobne",
+            "d": "beta-blokery (w określonych sytuacjach klinicznych)",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Zgodnie z aktualnymi wytycznymi, w leczeniu nadciśnienia tętniczego stosuje się pięć głównych grup leków: ACEI, ARB, antagonistów wapnia, diuretyki tiazydowe/tiazydopodobne oraz beta-blokery. Terapia zazwyczaj rozpoczyna się od połączenia dwóch leków z różnych grup (najczęściej ACEI/ARB + antagonista wapnia lub diuretyk). Wszystkie wymienione grupy są uważane za leki pierwszego rzutu."
+    },
+    {
+        "question": "Dla zespołu nerczycowego charakterystyczne jest występowanie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "masywny białkomocz (>3,5 g/dobę)",
+            "b": "hipoalbuminemia",
+            "c": "obrzęki",
+            "d": "hiperlipidemia",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Zespół nerczycowy to konstelacja objawów wynikająca z dużej utraty białka z moczem. Definiuje go masywny białkomocz, który prowadzi do spadku stężenia albumin we krwi (hipoalbuminemia). To z kolei powoduje spadek ciśnienia onkotycznego i powstawanie uogólnionych obrzęków. Hipoalbuminemia stymuluje wątrobę do wzmożonej produkcji lipoprotein, co skutkuje hiperlipidemią. Wszystkie te elementy tworzą klasyczny obraz zespołu nerczycowego."
+    },
+    {
+        "question": "W ostrym zapaleniu pęcherzyka żółciowego typowo występuje:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ból w prawym podżebrzu, narastający, promieniujący do prawej łopatki",
+            "b": "gorączka i dreszcze",
+            "c": "nudności i wymioty",
+            "d": "dodatni objaw Chełmońskiego i objaw Murphy'ego",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Ostre zapalenie pęcherzyka żółciowego, najczęściej na tle kamicy, objawia się silnym, stałym bólem w prawym podżebrzu, często promieniującym do pleców lub prawej łopatki. Towarzyszą mu objawy ogólne (gorączka, dreszcze) oraz nudności i wymioty. W badaniu fizykalnym stwierdza się charakterystyczne objawy otrzewnowe w tej okolicy, jak dodatni objaw Murphy'ego (ból nasilający się podczas głębokiego wdechu przy ucisku na okolicę pęcherzyka) i objaw Chełmońskiego (ból przy wstrząsaniu). Wszystkie wymienione cechy są typowe."
+    },
+    {
+        "question": "Najczęstszym objawem choroby wrzodowej żołądka i dwunastnicy jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ból w nadbrzuszu",
+            "b": "zgaga, nudności",
+            "c": "związek objawów z posiłkami (ból na czczo lub poposiłkowy)",
+            "d": "brak objawów",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Choroba wrzodowa może przebiegać na różne sposoby. Najczęstszym objawem jest ból w nadbrzuszu, często o charakterze piekącym lub głodu. Charakterystyczny jest związek dolegliwości z posiłkami (np. ból na czczo lub w nocy w chorobie wrzodowej dwunastnicy, ból poposiłkowy w chorobie wrzodowej żołądka). Często współistnieje zgaga i nudności. Należy jednak pamiętać, że choroba wrzodowa, zwłaszcza u osób starszych lub przyjmujących NLPZ, może być bezobjawowa aż do wystąpienia powikłań (krwawienie, perforacja)."
+    },
+    {
+        "question": "Najgroźniejszym powikłaniem choroby wrzodowej jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "krwawienie z górnego odcinka przewodu pokarmowego",
+            "b": "perforacja (pęknięcie) wrzodu",
+            "c": "penetracja wrzodu do sąsiednich narządów (np. trzustki)",
+            "d": "zwężenie odźwiernika",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Wszystkie wymienione stany są poważnymi i potencjalnie zagrażającymi życiu powikłaniami choroby wrzodowej. Krwawienie jest najczęstsze. Perforacja prowadzi do zapalenia otrzewnej i jest stanem bezpośredniego zagrożenia życia. Penetracja i zwężenie odźwiernika to powikłania przewlekłe, ale również bardzo poważne i wymagające interwencji. Trudno wskazać jedno 'najgroźniejsze', ponieważ wszystkie są bardzo niebezpieczne."
+    },
+    {
+        "question": "Do czynników ryzyka żylnej choroby zakrzepowo-zatorowej należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "unieruchomienie, niedawny duży zabieg operacyjny lub uraz",
+            "b": "choroba nowotworowa",
+            "c": "ciąża i połóg, stosowanie doustnej antykoncepcji hormonalnej",
+            "d": "otyłość, wiek podeszły",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Ryzyko żylnej choroby zakrzepowo-zatorowej (ŻChZZ) jest związane z tzw. triadą Virchowa: zastojem krwi, uszkodzeniem ściany naczyniowej i stanami nadkrzepliwości. Wszystkie wymienione czynniki wpisują się w te mechanizmy. Unieruchomienie i zabiegi powodują zastój i uszkodzenie śródbłonka. Nowotwory i niektóre leki (antykoncepcja) indukują nadkrzepliwość. Ciąża, otyłość i wiek podeszły są złożonymi czynnikami ryzyka. Wszystkie odpowiedzi są prawidłowe."
+    },
+    {
+        "question": "W leczeniu żylnej choroby zakrzepowo-zatorowej stosuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "heparyny (drobnocząsteczkowe lub niefrakcjonowana)",
+            "b": "antagonistów witaminy K (acenokumarol, warfaryna)",
+            "c": "nowe doustne antykoagulanty (rywaroksaban, apiksaban)",
+            "d": "leczenie trombolityczne (w wybranych przypadkach zatorowości płucnej)",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Podstawą leczenia ŻChZZ jest farmakoterapia przeciwkrzepliwa, która ma na celu zapobieganie narastaniu skrzepliny i jej fragmentacji. Leczenie zazwyczaj rozpoczyna się od heparyn, a następnie kontynuuje się antagonistami witaminy K lub nowymi doustnymi antykoagulantami przez co najmniej 3 miesiące. W masywnej, zagrażającej życiu zatorowości płucnej stosuje się leczenie trombolityczne, które ma na celu rozpuszczenie skrzepliny."
+    },
+    {
+        "question": "Do objawów zapalenia płuc należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "kaszel (początkowo suchy, potem z odkrztuszaniem wydzieliny)",
+            "b": "gorączka, dreszcze",
+            "c": "ból w klatce piersiowej o charakterze opłucnowym",
+            "d": "duszność, osłabienie",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Klasyczne objawy zapalenia płuc obejmują zarówno objawy ze strony układu oddechowego (kaszel, ból opłucnowy, duszność), jak i objawy ogólne (gorączka, dreszcze, osłabienie). Obraz kliniczny może być różny w zależności od wieku pacjenta, chorób współistniejących i czynnika etiologicznego, ale wszystkie wymienione objawy są typowe."
+    },
+    {
+        "question": "Podstawą rozpoznania zapalenia płuc jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "stwierdzenie objawów klinicznych (kaszel, gorączka, duszność)",
+            "b": "stwierdzenie zmian osłuchowych nad płucami (trzeszczenia, rzężenia)",
+            "c": "stwierdzenie nowego zacienienia na zdjęciu RTG klatki piersiowej",
+            "d": "podwyższone wskaźniki stanu zapalnego (CRP, leukocytoza)",
+            "e": "prawidłowe a, c, d"
+        },
+        "answer": "c",
+        "justification": "Chociaż objawy kliniczne i podwyższone markery zapalne nasuwają podejrzenie zapalenia płuc, złotym standardem i kryterium koniecznym do potwierdzenia rozpoznania jest stwierdzenie nowego nacieku zapalnego na zdjęciu rentgenowskim klatki piersiowej. Bez tego objawu radiologicznego nie można postawić pewnej diagnozy zapalenia płuc."
+    },
+    {
+        "question": "Najczęstszą przyczyną pozaszpitalnego zapalenia płuc jest zakażenie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Streptococcus pneumoniae (dwoinka zapalenia płuc)",
+            "b": "Haemophilus influenzae",
+            "c": "Mycoplasma pneumoniae, Chlamydophila pneumoniae (bakterie atypowe)",
+            "d": "wirusy (grypy, RSV, koronawirusy)",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "a",
+        "justification": "Streptococcus pneumoniae (pneumokok) pozostaje najczęstszym czynnikiem etiologicznym pozaszpitalnego zapalenia płuc u dorosłych. Inne wymienione patogeny, zarówno typowe (H. influenzae), atypowe, jak i wirusowe, również są częstymi przyczynami, jednak to pneumokok jest odpowiedzialny za największy odsetek przypadków, zwłaszcza tych o cięższym przebiegu."
+    },
+    {
+        "question": "Anemia megaloblastyczna jest najczęściej spowodowana niedoborem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "żelaza",
+            "b": "witaminy B12",
+            "c": "kwasu foliowego",
+            "d": "prawidłowe b i c",
+            "e": "wszystkich wymienionych"
+        },
+        "answer": "d",
+        "justification": "Anemia megaloblastyczna to niedokrwistość charakteryzująca się obecnością dużych (makrocytarnych) krwinek czerwonych, wynikająca z zaburzeń syntezy DNA. Najczęstszą przyczyną tych zaburzeń jest niedobór witaminy B12 (kobalaminy) lub kwasu foliowego, które są niezbędne w tym procesie. Niedobór żelaza prowadzi do anemii mikrocytarnej, a nie megaloblastycznej."
+    },
+    {
+        "question": "W chorobie Addisona-Biermera niedobór witaminy B12 jest spowodowany:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niedostateczną podażą w diecie (dieta wegańska)",
+            "b": "przewlekłym zanikowym zapaleniem błony śluzowej żołądka o podłożu autoimmunologicznym",
+            "c": "brakiem czynnika wewnętrznego (czynnika Castle'a)",
+            "d": "prawidłowe b i c",
+            "e": "wszystkimi wymienionymi"
+        },
+        "answer": "d",
+        "justification": "Choroba Addisona-Biermera to specyficzny typ anemii megaloblastycznej. Jej przyczyną jest autoimmunologiczne, zanikowe zapalenie błony śluzowej żołądka, które prowadzi do zniszczenia komórek okładzinowych produkujących czynnik wewnętrzny (czynnik Castle'a). Brak tego czynnika uniemożliwia wchłanianie witaminy B12 w jelicie krętym, co prowadzi do jej niedoboru. Jest to więc przyczyna zaburzeń wchłaniania, a nie niedoboru w diecie."
+    },
+    {
+        "question": "Do objawów niedoboru witaminy B12 należą, oprócz objawów anemii:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "objawy neurologiczne (parestezje, zaburzenia chodu, zaburzenia poznawcze)",
+            "b": "objawy psychiatryczne (depresja, psychozy)",
+            "c": "objawy ze strony przewodu pokarmowego (zapalenie języka - język Huntera)",
+            "d": "przedwczesne siwienie",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Niedobór witaminy B12, oprócz powodowania anemii megaloblastycznej, prowadzi do szerokiego spektrum objawów z innych układów. Najpoważniejsze są objawy neurologiczne (wynikające z demielinizacji), ale występują także objawy psychiatryczne, zmiany w przewodzie pokarmowym (charakterystyczny, wygładzony, piekący język) oraz zmiany skórne. Wszystkie wymienione objawy mogą wystąpić w przebiegu niedoboru B12."
+    },
+    {
+        "question": "Ostra białaczka jest nowotworem złośliwym układu krwiotwórczego. Jej objawy wynikają z:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wyparcia prawidłowej hematopoezy przez komórki blastyczne",
+            "b": "niedokrwistości (osłabienie, bladość)",
+            "c": "małopłytkowości (skaza krwotoczna)",
+            "d": "neutropenii (ciężkie, nawracające zakażenia)",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "W ostrych białaczkach dochodzi do niekontrolowanej proliferacji niedojrzałych komórek (blastów) w szpiku kostnym. Komórki te wypierają prawidłowe linie krwiotwórcze, co prowadzi do cytopenii: niedokrwistości (mało erytrocytów), małopłytkowości (mało płytek krwi) i neutropenii (mało neutrofili). Objawy kliniczne są bezpośrednim następstwem tych zaburzeń i obejmują osłabienie, skazę krwotoczną oraz ciężkie infekcje. Wszystkie wymienione elementy są ze sobą powiązane przyczynowo-skutkowo."
+    },
+    {
+        "question": "Podstawą rozpoznania ostrej białaczki jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "badanie morfologii krwi obwodowej z rozmazem",
+            "b": "badanie szpiku kostnego (biopsja aspiracyjna i trepanobiopsja)",
+            "c": "stwierdzenie >20% blastów w szpiku lub krwi obwodowej",
+            "d": "badania cytogenetyczne i molekularne",
+            "e": "prawidłowe b i c"
+        },
+        "answer": "e",
+        "justification": "Podejrzenie ostrej białaczki nasuwa nieprawidłowa morfologia krwi (cytopenie, obecność blastów). Jednak ostateczne rozpoznanie wymaga badania szpiku kostnego, w którym, zgodnie z definicją WHO, stwierdza się obecność co najmniej 20% komórek blastycznych. Badania cytogenetyczne i molekularne są kluczowe dla określenia rokowania i wyboru terapii, ale nie dla samego rozpoznania."
     }
 ]
