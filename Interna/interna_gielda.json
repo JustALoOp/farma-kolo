@@ -1112,5 +1112,161 @@
         },
         "answer": "e",
         "justification": "Zespół Cushinga to zespół objawów wynikający z nadmiaru glikokortykosteroidów. Niezależnie od przyczyny, prowadzi to do bardzo charakterystycznego obrazu klinicznego, obejmującego redystrybucję tkanki tłuszczowej (otyłość centralna), zmiany zanikowe skóry (rozstępy, siniaki), nadmiar androgenów (trądzik, hirsutyzm) oraz powikłania metaboliczne, takie jak nadciśnienie, cukrzyca i osteoporoza. Wszystkie wymienione cechy są typowe."
+    },
+    {
+        "question": "W chorobie Addisona (pierwotnej niedoczynności kory nadnerczy) stwierdza się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "osłabienie, utratę masy ciała, niskie ciśnienie tętnicze",
+            "b": "ciemne zabarwienie skóry i błon śluzowych (hiperpigmentacja)",
+            "c": "hiponatremię, hiperkaliemię, hipoglikemię",
+            "d": "bóle brzucha, nudności, wymioty",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "W chorobie Addisona dochodzi do niedoboru kortyzolu i aldosteronu. Niedobór kortyzolu powoduje osłabienie, utratę wagi, hipotensję i hipoglikemię. Niedobór aldosteronu prowadzi do hiponatremii i hiperkaliemii. Charakterystyczna dla postaci pierwotnej jest hiperpigmentacja skóry, wynikająca z nadmiaru ACTH, który stymuluje melanocyty. Częste są też niespecyficzne objawy z przewodu pokarmowego. Wszystkie wymienione cechy są typowe."
+    },
+    {
+        "question": "Do przyczyn niedokrwistości chorób przewlekłych (ACD) zaliczamy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "przewlekłe zakażenia (np. gruźlica, zapalenie kości)",
+            "b": "choroby autoimmunologiczne (np. RZS, toczeń rumieniowaty)",
+            "c": "choroby nowotworowe",
+            "d": "przewlekłą chorobę nerek",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Niedokrwistość chorób przewlekłych (obecnie nazywana niedokrwistością w przebiegu przewlekłych stanów zapalnych) rozwija się w przebiegu chorób, którym towarzyszy długotrwała aktywacja układu odpornościowego. Mechanizm jest złożony i obejmuje m.in. działanie hepcydyny, która blokuje wykorzystanie żelaza. Wszystkie wymienione stany: przewlekłe infekcje, choroby autoimmunologiczne i nowotwory, są klasycznymi przyczynami tego typu niedokrwistości. PChN również powoduje ACD, choć tu dominuje mechanizm niedoboru erytropoetyny."
+    },
+    {
+        "question": "Najczęściej występującą niedokrwistością na świecie jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niedokrwistość z niedoboru żelaza",
+            "b": "niedokrwistość z niedoboru witaminy B12",
+            "c": "niedokrwistość chorób przewlekłych",
+            "d": "niedokrwistość aplastyczna",
+            "e": "niedokrwistość pokrwotoczna"
+        },
+        "answer": "a",
+        "justification": "Niedokrwistość z niedoboru żelaza jest najczęstszym typem niedokrwistości na świecie, dotykającym setki milionów ludzi, zwłaszcza kobiety w wieku rozrodczym i dzieci w krajach rozwijających się. Jest to również najczęstsza przyczyna niedokrwistości w ogóle."
+    },
+    {
+        "question": "Dodatni objaw Chełmońskiego (ból przy wstrząsaniu okolicy prawego łuku żebrowego) występuje w:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ostrym zapaleniu pęcherza moczowego",
+            "b": "wodobrzuszu",
+            "c": "zapaleniu pęcherzyka żółciowego",
+            "d": "splenomegalii",
+            "e": "odmiedniczkowym zapaleniu nerek"
+        },
+        "answer": "c",
+        "justification": "Objaw Chełmońskiego jest jednym z objawów otrzewnowych charakterystycznych dla ostrego zapalenia pęcherzyka żółciowego. Polega na wystąpieniu bólu podczas wstrząsania (delikatnego uderzania) okolicy prawego podżebrza. Innym typowym objawem jest objaw Murphy'ego."
+    },
+    {
+        "question": "Dodatni objaw Goldflama (ból przy wstrząsaniu okolicy kąta kręgosłupowo-żebrowego) występuje w:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zapaleniu pęcherzyka żółciowego",
+            "b": "ostrym zapaleniu trzustki",
+            "c": "wodobrzuszu",
+            "d": "splenomegalii",
+            "e": "odmiedniczkowym zapaleniu nerek"
+        },
+        "answer": "e",
+        "justification": "Objaw Goldflama jest charakterystyczny dla ostrego odmiedniczkowego zapalenia nerek lub innych stanów powodujących gwałtowne powiększenie nerki (np. wodonercze). Polega na wystąpieniu silnego bólu podczas wstrząsania okolicy lędźwiowej po stronie chorej nerki."
+    },
+    {
+        "question": "Tętno dziwaczne (pulsus paradoxus) jest charakterystyczne dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "migotania przedsionków",
+            "b": "koarktacji aorty",
+            "c": "tamponady serca",
+            "d": "przetrwałego przewodu Botalla",
+            "e": "zwężenia zastawki mitralnej"
+        },
+        "answer": "c",
+        "justification": "Tętno dziwaczne to znaczny spadek skurczowego ciśnienia tętniczego (>10 mmHg) podczas wdechu. Jest to objaw najbardziej charakterystyczny dla tamponady serca, ale może też występować w ciężkim zaostrzeniu astmy/POChP czy w zaciskającym zapaleniu osierdzia."
+    },
+    {
+        "question": "W łagodnej hemofilii A, który z poniższych parametrów układu krzepnięcia może być nieprawidłowy?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "czas trombinowy",
+            "b": "czas protrombinowy",
+            "c": "liczba płytek krwi",
+            "d": "czas krwawienia",
+            "e": "czas częściowej tromboplastyny po aktywacji (APTT)"
+        },
+        "answer": "e",
+        "justification": "Hemofilia A to wrodzony niedobór czynnika VIII krzepnięcia. Czynnik VIII jest elementem wewnątrzpochodnej drogi krzepnięcia, której laboratoryjnym odzwierciedleniem jest czas częściowej tromboplastyny po aktywacji (APTT). Dlatego w hemofilii A charakterystyczne jest izolowane wydłużenie APTT. Pozostałe parametry (czas protrombinowy, czas trombinowy, liczba płytek) są prawidłowe."
+    },
+    {
+        "question": "Wskaż zdanie FAŁSZYWE dla astmy oskrzelowej:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "w spirometrii stwierdza się utrwaloną obturację",
+            "b": "czynnikiem wyzwalającym napad mogą być alergeny, wysiłek, stres",
+            "c": "nasilenie objawów może się zmieniać z dnia na dzień",
+            "d": "w czasie napadu stwierdza się najczęściej świsty i wydłużony wydech",
+            "e": "zwykle pojawia się w dzieciństwie"
+        },
+        "answer": "a",
+        "justification": "Kluczową cechą astmy jest zmienność i odwracalność obturacji dróg oddechowych. Utrwalona obturacja (czyli taka, która nie ustępuje po podaniu leku rozkurczającego oskrzela) jest cechą charakterystyczną dla przewlekłej obturacyjnej choroby płuc (POChP), a nie dla astmy (choć w długotrwałej, źle kontrolowanej astmie może dojść do tzw. remodelingu dróg oddechowych i częściowo utrwalonej obturacji)."
+    },
+    {
+        "question": "Skąd uzyskuje się szpik kostny do badania cytologicznego?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "z żeber (dowolne żebro od 8 do 12)",
+            "b": "z kości gnykowej",
+            "c": "z talerza kości biodrowej lub kolca biodrowego tylnego górnego",
+            "d": "z kości piętowej",
+            "e": "z kości czaszki"
+        },
+        "answer": "c",
+        "justification": "Standardowym miejscem pobierania szpiku kostnego u dorosłych jest tylny kolec biodrowy górny lub talerz kości biodrowej. U dzieci można pobierać szpik z przedniej powierzchni kości piszczelowej. Inne wymienione lokalizacje nie są wykorzystywane do tego celu."
+    },
+    {
+        "question": "Napadowy ból głowy, pocenie się, kołatanie serca, bladość twarzy, nadciśnienie tętnicze to objawy charakterystyczne dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niedoczynności kory nadnerczy",
+            "b": "guza chromochłonnego",
+            "c": "nadczynności tarczycy",
+            "d": "akromegalii",
+            "e": "choroby Cushinga"
+        },
+        "answer": "b",
+        "justification": "Podany zestaw objawów (tzw. triada objawów: ból głowy, potliwość, kołatanie serca) występujących napadowo, w połączeniu z gwałtownym wzrostem ciśnienia, jest klasycznym obrazem klinicznym guza chromochłonnego (pheochromocytoma), nowotworu wydzielającego katecholaminy."
+    },
+    {
+        "question": "O czym może świadczyć podwyższone MCV (średnia objętość krwinki czerwonej) w morfologii krwi obwodowej?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niedoborze żelaza w organizmie",
+            "b": "nadmiarze żelaza w organizmie",
+            "c": "niedoborze witaminy B12 w organizmie",
+            "d": "nadmiarze witaminy B12 w organizmie",
+            "e": "niedoborze kwasu foliowego w organizmie"
+        },
+        "answer": "c",
+        "justification": "Podwyższone MCV (>100 fl) oznacza makrocytozę. Najczęstszą przyczyną niedokrwistości makrocytarnej (megaloblastycznej) jest niedobór witaminy B12 lub kwasu foliowego. Niedobór żelaza powoduje mikrocytozę (niskie MCV). W pytaniu błędnie rozdzielono niedobór witaminy B12 i kwasu foliowego, które obie powodują wysokie MCV. Z podanych opcji, C jest prawidłowa (tak samo jak byłaby E)."
+    },
+    {
+        "question": "Zmiany skórne występujące w przebiegu marskości wątroby to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "rumień dłoniowy",
+            "b": "naczyniaki gwiaździste (pajączki wątrobowe)",
+            "c": "utrata owłosienia na klatce piersiowej i pod pachami u mężczyzn",
+            "d": "prawidłowa jest odpowiedź A oraz B",
+            "e": "prawidłowa jest odpowiedź A, B oraz C"
+        },
+        "answer": "e",
+        "justification": "W marskości wątroby dochodzi do wielu zmian skórnych. Rumień dłoniowy i pajączki wątrobowe wynikają z zaburzeń metabolizmu estrogenów. Z tego samego powodu u mężczyzn dochodzi do utraty owłosienia typu męskiego (na klatce piersiowej, pod pachami) i ginekomastii. Wszystkie wymienione objawy są charakterystyczne."
     }
 ]
