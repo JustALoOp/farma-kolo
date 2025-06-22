@@ -1493,5 +1493,148 @@
         },
         "answer": "a",
         "justification": "Escherichia coli jest odpowiedzialna za zdecydowaną większość (ok. 80-90%) niepowikłanych, pozaszpitalnych zakażeń układu moczowego."
+    },
+    {
+        "question": "Objawy typowe dla lewokomorowej niewydolności serca to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "duszność wysiłkowa",
+            "b": "kaszel z ropną wydzieliną",
+            "c": "obrzęki obwodowe",
+            "d": "prawdziwe a i c",
+            "e": "prawdziwe a i b"
+        },
+        "answer": "a",
+        "justification": "Duszność wysiłkowa jest kluczowym objawem lewokomorowej niewydolności serca (LHF). Kaszel również jest typowy, ale kaszel z ropną wydzieliną sugeruje infekcję. Obrzęki obwodowe są charakterystyczne dla niewydolności prawokomorowej. Dlatego z podanych opcji, duszność wysiłkowa jest najbardziej jednoznacznym i poprawnym objawem LHF."
+    },
+    {
+        "question": "Czynnikiem ryzyka rozwoju gruźlicy są wszystkie wymienione, za wyjątkiem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "alkoholizm",
+            "b": "pacjenci z tzw. kontaktu z osobami z rozpoznanym zakażeniem TBC",
+            "c": "pacjenci przyjmujący leki immunosupresyjne",
+            "d": "narkomania",
+            "e": "wszystkie prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Pytanie jest sformułowane w sposób, który sugeruje, że jedna z opcji NIE jest czynnikiem ryzyka. Jednak alkoholizm, kontakt z chorym, immunosupresja i narkomania (często związana z osłabieniem odporności i warunkami socjalnymi) są uznanymi czynnikami ryzyka rozwoju gruźlicy. Opcja 'e' (wszystkie prawidłowe) oznacza, że wszystkie wymienione opcje (a, b, c, d) są czynnikami ryzyka, a zatem żadna z nich nie jest wyjątkiem. Pytanie jest mylące, ale w takim ujęciu odpowiedź 'e' jest logiczna - nie ma wyjątku wśród podanych opcji, wszystkie są prawidłowe jako czynniki ryzyka."
+    },
+    {
+        "question": "Na obraz kliniczny niedokrwistości Addisona-Biermera składają się poniższe objawy z wyjątkiem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "leukopenia i trombocytopenia",
+            "b": "zwyrodnienie sznurów tylnych rdzenia kręgowego",
+            "c": "zanikowe zapalenie błony śluzowej żołądka",
+            "d": "niedokrwistość mikrocytarna",
+            "e": "łagodna hiperbilirubinemia"
+        },
+        "answer": "d",
+        "justification": "Niedokrwistość Addisona-Biermera jest klasyczną niedokrwistością megaloblastyczną (makrocytarną), wynikającą z niedoboru witaminy B12. Charakteryzuje się dużymi erytrocytami (wysokie MCV). Niedokrwistość mikrocytarna (małe MCV) jest typowa dla niedoboru żelaza. Pozostałe objawy są charakterystyczne dla niedoboru witaminy B12."
+    },
+    {
+        "question": "Pacjent 85 letni został skierowany do Szpitala z powodu chudnięcia. Ponadto w wywiadzie stan po gastrektomii. W badaniach laboratoryjnych stwierdzono niedokrwistość megaloblastyczną. Ten zespół objawów najlepiej odpowiada:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "nowotworowi jelita grubego",
+            "b": "zespołowi Plummera-Vinsona",
+            "c": "miażdżycy uogólnionej",
+            "d": "niedoborowi witaminy D",
+            "e": "niedoborowi witaminy B12"
+        },
+        "answer": "e",
+        "justification": "Gastrektomia (usunięcie żołądka) prowadzi do braku produkcji czynnika wewnętrznego (czynnika Castle'a), który jest niezbędny do wchłaniania witaminy B12. Jego brak prowadzi do niedokrwistości megaloblastycznej. Chudnięcie jest objawem niespecyficznym, ale pasuje do obrazu."
+    },
+    {
+        "question": "Przeciętny czas przeżycia erytrocyta wynosi:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "7 dni",
+            "b": "30 dni",
+            "c": "120 dni",
+            "d": "5 miesięcy",
+            "e": "6 miesięcy"
+        },
+        "answer": "c",
+        "justification": "Fizjologiczny czas życia krwinki czerwonej (erytrocytu) w krążeniu wynosi około 120 dni. Po tym czasie stare erytrocyty są niszczone w układzie siateczkowo-śródbłonkowym, głównie w śledzionie."
+    },
+    {
+        "question": "Czego nie stwierdzimy w badaniach laboratoryjnych w niedokrwistości z niedoboru żelaza:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Spadku stężenia ferrytyny",
+            "b": "Spadku stężenia żelaza",
+            "c": "Wzrostu stężenia transferyny",
+            "d": "Spadku całkowitej zdolności wiązania żelaza",
+            "e": "Spadku średniej objętości krwinki czerwonej"
+        },
+        "answer": "d",
+        "justification": "W niedokrwistości z niedoboru żelaza organizm zwiększa produkcję transferyny, aby wychwycić jak najwięcej dostępnego żelaza. Dlatego całkowita zdolność wiązania żelaza (TIBC), która jest miarą stężenia transferyny, wzrasta, a nie spada. Pozostałe zmiany (spadek ferrytyny, żelaza, MCV) są typowe."
+    },
+    {
+        "question": "Do przyczyn niedokrwistości chorób przewlekłych zaliczamy wymienione poniżej z wyjątkiem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "reumatoidalne zapalenia stawów",
+            "b": "zakażenie pasożytnicze",
+            "c": "toczeń rumieniowaty układowy",
+            "d": "chorobę nowotworową",
+            "e": "przewlekłe krwawienie z przewodu pokarmowego"
+        },
+        "answer": "e",
+        "justification": "Niedokrwistość chorób przewlekłych (ACD) jest wynikiem stanu zapalnego. RZS, toczeń i nowotwory to klasyczne przyczyny. Przewlekłe krwawienie z przewodu pokarmowego prowadzi bezpośrednio do niedokrwistości z niedoboru żelaza, a nie do ACD, chociaż obie mogą współistnieć."
+    },
+    {
+        "question": "W rozmazie krwi obwodowej w odczynowym przesunięciu w lewo nie powinno być:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "mielocytów",
+            "b": "monocytów",
+            "c": "granulocytów",
+            "d": "metamielocytów",
+            "e": "mieloblastów"
+        },
+        "answer": "e",
+        "justification": "Odczynowe przesunięcie w lewo (np. w ciężkiej infekcji) oznacza pojawienie się we krwi obwodowej młodszych form rozwojowych granulocytów, takich jak pałeczki, metamielocyty, a nawet mielocyty. Obecność mieloblastów (komórek blastycznych) jest patologią i wskazuje na proces nowotworowy (ostrą białaczkę), a nie na odczynowe przesunięcie."
+    },
+    {
+        "question": "25-letnia kobieta [...] Rozmaz krwi obwodowej: blasty 25%. Jakie jest najbardziej prawdopodobne rozpoznanie i dalsze postępowanie.",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Choroba Addisona-Biermera- należy oznaczyć stężenie witaminy B12...",
+            "b": "mononukleoza zakaźna-konieczne oznaczenie przeciwciał p/EBV",
+            "c": "Ostra białaczka-konieczne badanie cytologiczne szpiku",
+            "d": "AIDS- konieczne oznaczenie przeciwciał anty/HIV",
+            "e": "niedokrwistość z niedoboru żelaza- konieczna diagnostyka endoskopowa..."
+        },
+        "answer": "c",
+        "justification": "Objawy ogólne (osłabienie), skaza krwotoczna (siniaczenie) oraz pancytopenia (obniżona hemoglobina, płytki, krwinki białe) w połączeniu z obecnością 25% blastów we krwi obwodowej to klasyczny obraz ostrej białaczki. Wymaga to pilnego potwierdzenia diagnozy poprzez badanie szpiku kostnego."
+    },
+    {
+        "question": "W leczeniu IZW stosuje się rutynowo:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "monoterapię antybiotykiem",
+            "b": "leczenie p/krzepliwe",
+            "c": "leczenie operacyjne w każdym przypadku po wstępnej antybiotykoterapii",
+            "d": "politerapię antybiotykową (schematy kilku antybiotyków)",
+            "e": "wszystkie błędne"
+        },
+        "answer": "d",
+        "justification": "Podstawą leczenia infekcyjnego zapalenia wsierdzia (IZW) jest długotrwała, celowana antybiotykoterapia dożylna, prawie zawsze w schematach skojarzonych (politerapia), aby zapewnić działanie bakteriobójcze i zapobiec rozwojowi oporności. Monoterapia jest rzadkością, a pozostałe opcje są nieprawidłowe."
+    },
+    {
+        "question": "Wybierz poprawne stwierdzenia dotyczące kamicy nerkowej. 1 typowo ból zlokalizowany jest w okolicy lędźwiowej i promieniuje w kierunku spojenia łonowego 2 objaw Goldflama jest zwykle ujemny 3 wskazaniem do pilnej konsultacji urologicznej przy napadzie kolki nerkowej jest bezmocz 4 może być jednym z objawów pierwotnej nadczynności przytarczyc 5 w leczeniu zachowawczym stosujemy NLPZ oraz leki rozkurczowe",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "3,4,5",
+            "b": "1,2,3,4",
+            "c": "1,3,5",
+            "d": "1,2",
+            "e": "1,3,4,5"
+        },
+        "answer": "e",
+        "justification": "Analiza: 1-Prawda (typowa lokalizacja i promieniowanie bólu w kolce nerkowej). 2-Fałsz (objaw Goldflama jest typowo dodatni). 3-Prawda (bezmocz jest objawem alarmowym wskazującym na obustronną niedrożność lub niedrożność jedynej nerki). 4-Prawda (nadczynność przytarczyc powoduje hiperkalcemię i hiperkalciurię, co predysponuje do kamicy). 5-Prawda (NLPZ i leki rozkurczowe to podstawa leczenia zachowawczego kolki). Prawidłowe są stwierdzenia 1, 3, 4, 5."
     }
 ]
