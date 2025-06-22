@@ -1,0 +1,1497 @@
+[
+    {
+        "question": "Typowym powikłaniem cukrzycy nie jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Palenie tytoniu",
+            "b": "Cukrzyca",
+            "c": "Kamica pęcherzyka żółciowego",
+            "d": "Alkohol",
+            "e": "Przewlekłe zapalenie trzustki"
+        },
+        "answer": "a",
+        "justification": "Pytanie jest nieprecyzyjnie sformułowane, prawdopodobnie miało brzmieć: 'Typową przyczyną ostrego zapalenia trzustki nie jest:'. Główne przyczyny OZT to kamica żółciowa i alkohol. Cukrzyca i przewlekłe zapalenie trzustki są również czynnikami ryzyka. Palenie tytoniu jest głównym czynnikiem ryzyka przewlekłego zapalenia trzustki i raka trzustki, ale nie jest uznawane za typową, bezpośrednią przyczynę ostrego zapalenia trzustki w takim stopniu jak pozostałe."
+    },
+    {
+        "question": "Objaw Courvoisiera (wyczuwalny palpacyjnie bolesny pęcherzyk żółciowy) wraz z żółtaczką przemawiają za rakiem głowy trzustki.",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Prawda-prawda",
+            "b": "Prawda-fałsz",
+            "c": "Fałsz-prawda",
+            "d": "Fałsz-fałsz"
+        },
+        "answer": "b",
+        "justification": "Pierwsza część zdania jest prawdziwa: objaw Courvoisiera (powiększony, wyczuwalny pęcherzyk) wraz z żółtaczką jest charakterystyczny dla guza w okolicy głowy trzustki. Druga część jest fałszywa: klasyczny objaw Courvoisiera opisuje pęcherzyk jako niebolesny. Bolesność sugeruje raczej ostre zapalenie."
+    },
+    {
+        "question": "Odynofagia to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "to samo co dyspepsja",
+            "b": "pieczenie za mostkiem",
+            "c": "dyskomfort w nadbrzuszu",
+            "d": "ból podczas połykania",
+            "e": "puste odbijania"
+        },
+        "answer": "d",
+        "justification": "Odynofagia to medyczny termin oznaczający ból podczas przełykania. Zgaga to pieczenie za mostkiem, a dyspepsja to ogólne pojęcie niestrawności."
+    },
+    {
+        "question": "Przełyk Barretta - wskaż fałszywe:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "transformuje najczęściej do raka płaskonabłonkowego",
+            "b": "to stan przedrakowy",
+            "c": "czynnikiem ryzyka jest płeć męska i wiek>50",
+            "d": "do jego rozwoju predysponuje otyłość",
+            "e": "czynnikiem ryzyka jest przepuklina rozworu przełykowego"
+        },
+        "answer": "a",
+        "justification": "Przełyk Barretta to stan przedrakowy, który predysponuje do rozwoju gruczolakoraka (raka gruczołowego) przełyku, a nie raka płaskonabłonkowego. Pozostałe stwierdzenia są prawdziwe."
+    },
+    {
+        "question": "Etiologia choroby wrzodowej - wskaż fałszywe:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Helicobacter pylori",
+            "b": "Leki z grupy NLPZ",
+            "c": "stres (np. wymagana hospitalizacja w warunkach Oddziału Intensywnej Terapii)",
+            "d": "Spożywanie kawy"
+        },
+        "answer": "d",
+        "justification": "Głównymi przyczynami choroby wrzodowej są zakażenie H. pylori oraz stosowanie niesteroidowych leków przeciwzapalnych (NLPZ). Ciężki stres fizjologiczny może prowadzić do wrzodów stresowych. Spożywanie kawy, choć może nasilać objawy, nie jest uznawane za pierwotną przyczynę powstawania wrzodów."
+    },
+    {
+        "question": "W eradykacji H. pylorii stosuje się wszystkie za wyjątkiem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "IPP (inhibitor pompy protonowej)",
+            "b": "Bizmut",
+            "c": "Metronidazol",
+            "d": "Amoksycylinę",
+            "e": "Karbapenemy"
+        },
+        "answer": "e",
+        "justification": "W leczeniu eradykacyjnym H. pylori stosuje się schematy oparte na inhibitorach pompy protonowej (IPP) oraz antybiotykach (jak amoksycylina, metronidazol, klarytromycyna), często z dodatkiem bizmutu. Karbapenemy to antybiotyki o bardzo szerokim spektrum, zarezerwowane dla ciężkich zakażeń szpitalnych, i nie są standardowo używane w tym wskazaniu."
+    },
+    {
+        "question": "Przyczyną żółtaczki przedwątrobowej jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Aktywne zakażenie HBV",
+            "b": "Zakażenie wirusami hepatotropowymi",
+            "c": "Hemoliza",
+            "d": "Kamica pęcherzyka żółciowego",
+            "e": "Cholestaza"
+        },
+        "answer": "c",
+        "justification": "Żółtaczka przedwątrobowa jest wynikiem nadprodukcji bilirubiny, która przekracza zdolności metaboliczne wątroby. Najczęstszą przyczyną jest masywny rozpad erytrocytów, czyli hemoliza."
+    },
+    {
+        "question": "Przyczyną krwawienia z górnego odcinka przewodu pokarmowego nie jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wrzody żołądka",
+            "b": "krwotoczne zapalenie błony śluzowej żołądka",
+            "c": "żylaki przełyku",
+            "d": "przepuklina rozworu przełykowego",
+            "e": "Rak żołądka"
+        },
+        "answer": "d",
+        "justification": "Do najczęstszych przyczyn krwawienia z górnego odcinka przewodu pokarmowego należą wrzody trawienne, żylaki przełyku, nadżerki i nowotwory. Przepuklina rozworu przełykowego sama w sobie rzadko jest bezpośrednią przyczyną krwawienia."
+    },
+    {
+        "question": "Zapalenie oskrzeli różnicujemy od zapalenia płuc na podstawie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wyniku posiewu plwociny",
+            "b": "wyniku posiewu z bronchoaspiratu",
+            "c": "wyniku badania RTG klatki piersiowej",
+            "d": "prawdziwe a i c",
+            "e": "prawdziwe a,b i c"
+        },
+        "answer": "c",
+        "justification": "Podstawowym kryterium różnicującym ostre zapalenie oskrzeli od zapalenia płuc jest badanie radiologiczne klatki piersiowej (RTG). W zapaleniu płuc stwierdza się obecność nowego nacieku (zacienienia), którego brak w przypadku niepowikłanego zapalenia oskrzeli."
+    },
+    {
+        "question": "W leczeniu przeciwkrzepliwym z powodu migotania przedsionków stosujemy poniższe leki, poza:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "heparyną",
+            "b": "aspiryną",
+            "c": "dabigatranem",
+            "d": "apiksabanem",
+            "e": "warfaryną"
+        },
+        "answer": "b",
+        "justification": "W leczeniu przeciwkrzepliwym (antykoagulacyjnym) w migotaniu przedsionków stosuje się doustne antykoagulanty (warfaryna, dabigatran, apiksaban, rywaroksaban). Heparyny stosuje się w sytuacjach ostrych lub jako terapię pomostową. Aspiryna jest lekiem przeciwpłytkowym i nie jest zalecana jako monoterapia w profilaktyce udaru w migotaniu przedsionków (poza nielicznymi wyjątkami)."
+    },
+    {
+        "question": "Pierwotne nadciśnienie tętnicze stanowi 10% pacjentów z nadciśnieniem tętniczym i jest ono związane z zaburzeniami w zakresie układu renina-angiotensyna-aldosteron (RAA).",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "prawda - prawda - związek logiczny",
+            "b": "prawda - prawda - bez związku logicznego",
+            "c": "prawda - fałsz",
+            "d": "fałsz - prawda",
+            "e": "fałsz - fałsz"
+        },
+        "answer": "d",
+        "justification": "Pierwsza część zdania jest fałszywa: nadciśnienie tętnicze pierwotne (samoistne) stanowi około 90-95% wszystkich przypadków, a nie 10%. Druga część jest prawdziwa: układ RAA odgrywa kluczową rolę w patogenezie nadciśnienia pierwotnego."
+    },
+    {
+        "question": "Choroby śródmiąższowe płuc - wskaż prawdziwe:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "sarkoidoza jest rzadko występującą chorobą",
+            "b": "występuje głównie u osób niepalących papierosy",
+            "c": "schyłkową postacią jest rozedma",
+            "d": "zespół Löfgrena występuje w sarkoidozie",
+            "e": "wiąże się z rozwojem nadciśnienia tętniczego"
+        },
+        "answer": "d",
+        "justification": "Zespół Löfgrena to ostra, dobrze rokująca postać sarkoidozy, charakteryzująca się rumieniem guzowatym, bólami stawów i obustronnym powiększeniem węzłów chłonnych wnęk. Stwierdzenie to jest prawdziwe. Pozostałe są fałszywe: sarkoidoza nie jest rzadka, schyłkową postacią jest włóknienie, a nie rozedma."
+    },
+    {
+        "question": "Zapalenie płuc o etiologii atypowej związane jest z bakterią:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Staphylococcus aureus",
+            "b": "Chlamydia pneumoniae",
+            "c": "Moraxella catarrhalis",
+            "d": "prawdziwe a i b",
+            "e": "prawdziwe jest b i c"
+        },
+        "answer": "b",
+        "justification": "Do tzw. patogenów atypowych, wywołujących atypowe zapalenia płuc, należą Mycoplasma pneumoniae, Chlamydophila pneumoniae oraz Legionella pneumophila. Staphylococcus aureus i Moraxella catarrhalis to klasyczne bakterie ropotwórcze (patogeny typowe)."
+    },
+    {
+        "question": "Świsty są charakterystyczne dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zapalenia oskrzeli",
+            "b": "zapalenia płuc o etiologii covid-19",
+            "c": "zatorowości płucnej",
+            "d": "prawdziwe a i b",
+            "e": "prawdziwe a i c"
+        },
+        "answer": "d",
+        "justification": "Świsty to objaw osłuchowy powstający przy zwężeniu dróg oddechowych. Są typowe dla zapalenia oskrzeli i astmy. W przebiegu COVID-19 również może dochodzić do zajęcia oskrzeli i pojawienia się świstów. Zatem zarówno A jak i B mogą być prawidłowe. W zatorowości płucnej świsty są objawem rzadkim."
+    },
+    {
+        "question": "Astma oskrzelowa jest związana z nieodwracalną obturacją, a jej rozpoznanie ustalamy w oparciu o spirometrię z próbą rozkurczową.",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "prawda - prawda - związek logiczny",
+            "b": "prawda - prawda - bez związku logicznego",
+            "c": "prawda - fałsz",
+            "d": "fałsz - prawda",
+            "e": "fałsz - fałsz"
+        },
+        "answer": "d",
+        "justification": "Pierwsza część zdania jest fałszywa: astma charakteryzuje się odwracalną, a nie nieodwracalną obturacją (ta jest typowa dla POChP). Druga część jest prawdziwa: rozpoznanie astmy opiera się na spirometrii z próbą rozkurczową, która ma na celu wykazanie odwracalności obturacji."
+    },
+    {
+        "question": "Rak płuca - wskaż fałszywe",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "najczęściej występuje drobnokomórkowy rak płuca",
+            "b": "5-cio letnie przeżycie jedynie w 10% rozpoznanego raka płuca",
+            "c": "przerzuty najczęściej dotyczą nadnerczy, kości, wątroby",
+            "d": "najistotniejszym dla rokowania w raku płuca jest leczenie operacyjne",
+            "e": "późnym objawem raka płuca jest zespół żyły głównej górnej"
+        },
+        "answer": "a",
+        "justification": "Najczęstszym typem raka płuca jest rak niedrobnokomórkowy (ok. 85%), a nie drobnokomórkowy (ok. 15%). Dlatego stwierdzenie 'a' jest fałszywe. Pozostałe stwierdzenia są prawdziwe."
+    },
+    {
+        "question": "Objawem gruźlicy jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "krwioplucie",
+            "b": "objaw Raynauda",
+            "c": "poty nocne",
+            "d": "prawdziwe a i c",
+            "e": "prawdziwe a,b i c"
+        },
+        "answer": "d",
+        "justification": "Krwioplucie i nocne poty są klasycznymi objawami gruźlicy płuc. Objaw Raynauda nie ma związku z gruźlicą, jest to napadowy skurcz tętnic w obrębie rąk. Zatem prawidłowe są odpowiedzi 'a' i 'c'."
+    },
+    {
+        "question": "W kryterium zespołu metabolicznego jest poza:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "otyłość brzuszna (trzewna) - obwód talii u K ≥ 80 cm, u M ≥ 94 cm",
+            "b": "zwiększony poziom triglicerydów (>150 mg/dl czyli >1,7 mmol/l)",
+            "c": "ciśnienie tętnicze skurczowe ≥ 130 mmHg lub rozkurczowe ≥ 85 mmHg, bądź leczenie rozpoznanego już nadciśnienia tętniczego",
+            "d": "stężenie glukozy w osoczu na czczo ≥ 100 mg/dl (≥ 5.6 mmol/l) lub leczenie rozpoznanej już cukrzycy typu II"
+        },
+        "answer": "c",
+        "justification": "Pytanie wydaje się niekompletne, ale prawdopodobnie chodzi o wskazanie nieprawidłowego kryterium. Kryteria zespołu metabolicznego wg IDF to: otyłość centralna (obwód talii ≥ 94 cm u mężczyzn i ≥ 80 cm u kobiet w populacji europejskiej) plus co najmniej dwa z czterech: 1) TG ≥ 150 mg/dl, 2) HDL < 40 mg/dl (M) lub < 50 mg/dl (K), 3) ciśnienie tętnicze ≥ 130/85 mmHg, 4) glikemia na czczo ≥ 100 mg/dl. Opcja C w pytaniu podaje nieprawidłową wartość ciśnienia HDL (`<40 mmHg lub rozkurczowe >=90 mmHg`), co jest błędem. Zakładając, że opcje A, B i D są prawidłowo przepisane, a C zawiera błąd, jest to najbardziej prawdopodobna odpowiedź."
+    },
+    {
+        "question": "CCS IV to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "objawy dławicy w spoczynku",
+            "b": "bez ograniczeń wysiłku",
+            "c": "mniejsza niż zwykle aktywność wywołuje objawy",
+            "d": "stenokardia przy niewielkiej wydolności fizycznej",
+            "e": "uczucie kołatania serca przy wejściu na 2 piętro"
+        },
+        "answer": "a",
+        "justification": "Skala CCS (Canadian Cardiovascular Society) służy do oceny nasilenia dławicy piersiowej. Klasa IV (najcięższa) oznacza występowanie dolegliwości dławicowych przy minimalnym wysiłku lub w spoczynku."
+    },
+    {
+        "question": "W ostrej niewydolności lewokomorowej obserwujemy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "oliguria",
+            "b": "furczenia osłuchowo",
+            "c": "ortopnoe",
+            "d": "prawdziwe a i b",
+            "e": "prawdziwe a i c"
+        },
+        "answer": "e",
+        "justification": "Ostra niewydolność lewokomorowa prowadzi do zastoju w krążeniu płucnym, powodując duszność w pozycji leżącej (orthopnoe). Może również prowadzić do wstrząsu kardiogennego i ostrego uszkodzenia nerek z oligurią (skąpomoczem). Furczenia są mniej typowe niż trzeszczenia i rzężenia. Zatem 'a' i 'c' są prawidłowe."
+    },
+    {
+        "question": "Stenokardię charakteryzuje:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ból promieniujący do lewego barku",
+            "b": "może ją wywołać zimne powietrze",
+            "c": "ustępuje po zaprzestaniu wysiłku",
+            "d": "prawdziwe a i c",
+            "e": "prawdziwe a,b i c"
+        },
+        "answer": "e",
+        "justification": "Ból dławicowy (stenokardia) ma typowe cechy: jest wywoływany przez wysiłek, emocje lub zimno, ustępuje po odpoczynku lub przyjęciu nitrogliceryny i często promieniuje do lewego barku, ramienia, szyi czy żuchwy. Wszystkie podane cechy są charakterystyczne."
+    },
+    {
+        "question": "Przesięk w jamie opłucnej występuje w poniższych za wyjątkiem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Niewydolności serca",
+            "b": "Zapaleniu płuc",
+            "c": "Hipoalbuminemia",
+            "d": "Zespół nerczycowy",
+            "e": "Niedoczynność tarczycy"
+        },
+        "answer": "b",
+        "justification": "Przesięk powstaje w wyniku zaburzeń ciśnień hydrostatycznego lub onkotycznego. Występuje w niewydolności serca, zespole nerczycowym, marskości wątroby (hipoalbuminemia) i niedoczynności tarczycy. W zapaleniu płuc powstaje płyn o charakterze wysięku, a nie przesięku, ze względu na proces zapalny."
+    },
+    {
+        "question": "Do chorób tytonio-zależnych nie należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "rak płuca",
+            "b": "choroba wieńcowa",
+            "c": "rak trzustki",
+            "d": "przewlekła obturacyjna choroba płuc",
+            "e": "ostre zapalenie zatok"
+        },
+        "answer": "e",
+        "justification": "Palenie tytoniu jest udowodnionym czynnikiem ryzyka raka płuca, POChP, choroby wieńcowej i raka trzustki. Ostre zapalenie zatok jest najczęściej spowodowane infekcją wirusową lub bakteryjną i nie jest bezpośrednio klasyfikowane jako choroba tytoniozależna."
+    },
+    {
+        "question": "Przyczyną ostrej niewydolności oddechowej nie jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zapalenie płuc",
+            "b": "napad astmatyczny",
+            "c": "zatorowość płucna",
+            "d": "odma prężna",
+            "e": "choroba śródmiąższowa płuc z włóknieniem"
+        },
+        "answer": "e",
+        "justification": "Wszystkie opcje od 'a' do 'd' mogą prowadzić do nagłego, gwałtownego pogorszenia wymiany gazowej i ostrej niewydolności oddechowej. Choroba śródmiąższowa płuc z włóknieniem prowadzi do przewlekłej, a nie typowo ostrej niewydolności oddechowej, chociaż może ulec zaostrzeniu."
+    },
+    {
+        "question": "W kryteriach zespołu metabolicznego zawarte jest - wskaż fałszywe:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Zwiększony obwód talii (w Europie: kobiety ≥ 80 cm, mężczyźni ≥ 94)",
+            "b": "Zwiększone stężenie trójglicerydów > 150 mg/dl lub leczenie hipertriglicerydemii",
+            "c": "Zmniejszone stężenie cholesterolu HDL < 40 mg/dl u mężczyzn, < 50 mg/dl u kobiet lub leczenie hipolipemizujące",
+            "d": "Ciśnienie tętnicze od wartości ≥ 140/90 lub leczenie nadciśnienia tętniczego",
+            "e": "Zwiększone stężenie glukozy w osoczu na czczo ≥ 100 mg/dl (5,6 mmol/l) lub leczenie DM"
+        },
+        "answer": "d",
+        "justification": "Kryterium ciśnienia tętniczego w zespole metabolicznym to wartość ≥ 130/85 mmHg (lub stosowanie leków hipotensyjnych), a nie ≥ 140/90 mmHg. Pozostałe kryteria są podane prawidłowo."
+    },
+    {
+        "question": "Zespół Löfgrena składa się z:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Powiększone węzły chłonne wnęk płuc",
+            "b": "Dolegliwości bólowe stawów",
+            "c": "Rumień guzowaty",
+            "d": "Prawidłowe a i b",
+            "e": "Prawidłowe a, b i c"
+        },
+        "answer": "e",
+        "justification": "Zespół Löfgrena jest ostrą postacią sarkoidozy, a jego klasyczna triada objawów to: 1) obustronne powiększenie węzłów chłonnych wnęk płuc w RTG, 2) zapalenie stawów (najczęściej skokowych), 3) rumień guzowaty. Często towarzyszy im gorączka."
+    },
+    {
+        "question": "Do przyczyn rozwoju marskości wątroby należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Niewydolność serca",
+            "b": "Przewlekłe WZW typu B lub C",
+            "c": "Nadużywanie alkoholu",
+            "d": "Prawdziwe b i c",
+            "e": "Prawdziwe a, b i c"
+        },
+        "answer": "e",
+        "justification": "Do głównych przyczyn marskości wątroby należą: przewlekłe nadużywanie alkoholu, przewlekłe wirusowe zapalenia wątroby (typu B i C) oraz niealkoholowa stłuszczeniowa choroba wątroby. Długotrwała, prawokomorowa niewydolność serca może prowadzić do tzw. marskości sercowej. Zatem wszystkie wymienione przyczyny są prawidłowe."
+    },
+    {
+        "question": "Żylaki w przebiegu marskości nie występują w/na:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "przełyku",
+            "b": "podudziach",
+            "c": "okolicy odbytu",
+            "d": "okolicy pępka"
+        },
+        "answer": "b",
+        "justification": "W marskości wątroby, w wyniku nadciśnienia wrotnego, powstają połączenia krążenia wrotnego z systemowym, co prowadzi do powstawania żylaków przełyku, odbytu (hemoroidów) oraz w okolicy pępka (głowa Meduzy). Żylaki na podudziach są objawem przewlekłej niewydolności żylnej krążenia systemowego, a nie nadciśnienia wrotnego."
+    },
+    {
+        "question": "W wodobrzuszu w przebiegu marskości wątroby stosujemy w leczeniu, za wyjątkiem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Ograniczenie sodu",
+            "b": "Spironolakton",
+            "c": "Paracentezę (upust płynu)",
+            "d": "Nawadnianie",
+            "e": "Furosemid"
+        },
+        "answer": "d",
+        "justification": "Leczenie wodobrzusza polega na ograniczeniu podaży sodu i płynów oraz stosowaniu diuretyków (głównie spironolaktonu i furosemidu). W przypadku masywnego, opornego na leczenie wodobrzusza wykonuje się paracentezę leczniczą. Intensywne nawadnianie jest przeciwwskazane, ponieważ nasiliłoby retencję płynów i wodobrzusze."
+    },
+    {
+        "question": "Trudności w zatamowaniu krwawienia po ekstrakcji zęba występują u chorych z:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Chorobą wrzodową",
+            "b": "Chorobą refluksową",
+            "c": "Przewlekłym zapaleniem trzustki",
+            "d": "Marskością wątroby",
+            "e": "Nosicielstwem HBV"
+        },
+        "answer": "d",
+        "justification": "Marskość wątroby prowadzi do upośledzenia syntezy czynników krzepnięcia oraz do małopłytkowości (w wyniku hipersplenizmu), co skutkuje ciężką skazą krwotoczną. Pozostałe wymienione stany nie wpływają bezpośrednio na hemostazę w takim stopniu."
+    },
+    {
+        "question": "W obrazie klinicznym aktywnego uzależnienia od alkoholu występują, za wyjątkiem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Dolegliwości gastryczne",
+            "b": "Odkładanie na później planów, pasji, codziennych zajęć",
+            "c": "Poniżone ciśnienie tętnicze",
+            "d": "Dyskomfort w rzucie prawego łuku żebrowego",
+            "e": "Zmiana zachowania"
+        },
+        "answer": "c",
+        "justification": "Aktywne uzależnienie od alkoholu wiąże się z objawami somatycznymi (dolegliwości gastryczne, ból wątroby) i psychicznymi (zmiana zachowania, zaniedbywanie obowiązków). Jednak alkoholizm jest częstą przyczyną nadciśnienia tętniczego, a nie jego obniżenia (hipotensja może wystąpić w stanie ostrego zatrucia, ale nie jest typowa dla obrazu klinicznego uzależnienia)."
+    },
+    {
+        "question": "Objawami budzącymi niepokój onkologiczny są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Utrata masy ciała",
+            "b": "Poty nocne",
+            "c": "Stany podgorączkowe",
+            "d": "Prawdziwe a i b",
+            "e": "Prawdziwe a, b i c"
+        },
+        "answer": "e",
+        "justification": "Niezamierzona utrata masy ciała, nocne poty oraz stany podgorączkowe/gorączka o niejasnej przyczynie to tzw. objawy B (w chłoniakach) i ogólnie objawy alarmowe, które mogą świadczyć o ukrytej chorobie nowotworowej. Wszystkie te objawy budzą niepokój onkologiczny."
+    },
+    {
+        "question": "Triada Charcota - wskaż fałszywe:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Bóle w prawym nadbrzuszu",
+            "b": "żółtaczka",
+            "c": "wymioty",
+            "d": "Wysoka gorączka",
+            "e": "Świadczy o zapaleniu dróg żółciowych"
+        },
+        "answer": "c",
+        "justification": "Klasyczna triada Charcota, charakterystyczna dla ostrego zapalenia dróg żółciowych, obejmuje: 1) gorączkę z dreszczami, 2) ból w prawym podżebrzu, 3) żółtaczkę mechaniczną. Wymioty często towarzyszą temu stanowi, ale nie wchodzą w skład klasycznej triady."
+    },
+    {
+        "question": "Punkt Erba występuje w:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Koniuszku serca",
+            "b": "II p.m.ż. w linii mostkowej prawej",
+            "c": "II p.m.ż. w linii mostkowej lewej",
+            "d": "III lewa p.m.ż. przy mostku",
+            "e": "przyczep V prawej chrząstki żebra do mostka"
+        },
+        "answer": "d",
+        "justification": "Punkt Erba (miejsce osłuchiwania zastawki aortalnej) w kardiologii znajduje się w trzeciej lewej przestrzeni międzyżebrowej przy brzegu mostka. Jest to miejsce, gdzie dobrze słyszalny jest szmer niedomykalności aortalnej."
+    },
+    {
+        "question": "Czynniki złego rokowania u pacjentów z IZW to: 1. wiek podeszły, 2. obecność sztucznej zastawki serca, 3. cukrzyca, 4. nabyty zespół niedoboru odporności",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "prawidłowe 1 i 3",
+            "b": "prawidłowe 2 i 4",
+            "c": "prawidłowe 1, 2, 4",
+            "d": "prawidłowe 1, 2, 3",
+            "e": "prawidłowe 1, 2, 3, 4"
+        },
+        "answer": "e",
+        "justification": "Wszystkie wymienione czynniki wiążą się z gorszym rokowaniem w infekcyjnym zapaleniu wsierdzia (IZW). Wiek podeszły, cukrzyca i immunosupresja osłabiają odpowiedź organizmu na leczenie, a obecność ciała obcego (sztucznej zastawki) utrudnia eradykację zakażenia i zwiększa ryzyko powikłań."
+    },
+    {
+        "question": "Hiperaldosteronizm pierwotny określany jest mianem zespołu:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Cushinga",
+            "b": "Addisona",
+            "c": "Conna",
+            "d": "SARS CoV2",
+            "e": "zespół Conana"
+        },
+        "answer": "c",
+        "justification": "Hiperaldosteronizm pierwotny, czyli autonomiczne nadmierne wydzielanie aldosteronu przez nadnercza, jest eponimicznie nazywany zespołem Conna. Zespół Cushinga to nadmiar kortyzolu, a choroba Addisona to niedoczynność kory nadnerczy."
+    },
+    {
+        "question": "Za wartość ciśnienia tętniczego, powyżej którego rośnie ryzyko sercowo naczyniowe wystąpienia niekorzystnych zdarzeń, uznasz:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "RR > 115/75",
+            "b": "RR > 140/90",
+            "c": "RR > 130/80",
+            "d": "RR > 90/60",
+            "e": "nie określono tej wartości"
+        },
+        "answer": "a",
+        "justification": "Badania epidemiologiczne wykazały, że ryzyko sercowo-naczyniowe rośnie w sposób ciągły już od wartości ciśnienia 115/75 mmHg. Wartości takie jak 140/90 mmHg są progiem do rozpoznania nadciśnienia tętniczego, ale ryzyko wzrasta już wcześniej."
+    },
+    {
+        "question": "Za ciężką hipoglikemię zgodnie z wytycznymi PTD uznasz:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "stężenie glukozy poniżej 55mg/dl",
+            "b": "każde stężenie glukozy, które uzna za niskie lekarz",
+            "c": "stężenie glukozy poniżej 70mg/dl",
+            "d": "każde niskie stężenie glukozy, kiedy chory wymaga pomocy osób trzecich",
+            "e": "każde stężenie glukozy, któremu towarzyszą objawy wegetatywne-współczulne"
+        },
+        "answer": "d",
+        "justification": "Ciężka hipoglikemia (stopień 3) jest definiowana klinicznie, niezależnie od wartości glikemii. Jest to każdy epizod niskiego stężenia glukozy, w którym pacjent z powodu ciężkich zaburzeń poznawczych (np. utraty przytomności, drgawek) wymaga pomocy osób trzecich w celu jego opanowania."
+    },
+    {
+        "question": "Za kryterium rozpoznania cukrzycy, zgodnie z wytycznymi PTD 2021 uznasz:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "HBA1c > 6%",
+            "b": "HBA1c ≥ 6.5%",
+            "c": "HBA1c > 7%",
+            "d": "HBA1c > 8%",
+            "e": "HBA1c nie jest kryterium rozpoznania cukrzycy"
+        },
+        "answer": "b",
+        "justification": "Zgodnie z wytycznymi Polskiego Towarzystwa Diabetologicznego (PTD), jednym z kryteriów rozpoznania cukrzycy jest stężenie hemoglobiny glikowanej (HbA1c) wynoszące 6,5% lub więcej (≥ 6,5% lub ≥ 48 mmol/mol)."
+    },
+    {
+        "question": "Oznaczenie przeciwciał przeciwko cynkowi ZnT8 (cynkowy transporter 8), ma znaczenie w diagnostyce:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "cukrzycy o znanej przyczynie",
+            "b": "cukrzycy typu 1",
+            "c": "cukrzycy typu 2",
+            "d": "cukrzycy ciążowej",
+            "e": "nie jest wykorzystywane w diagnostyce cukrzycy"
+        },
+        "answer": "b",
+        "justification": "Przeciwciała przeciwko transporterowi cynku 8 (anty-ZnT8) są, obok anty-GAD, anty-IA2 i ICA, jednymi z głównych markerów autoimmunologicznego procesu niszczenia komórek beta trzustki, charakterystycznego dla cukrzycy typu 1. Ich oznaczenie pomaga w różnicowaniu typów cukrzycy."
+    },
+    {
+        "question": "Lek diuretyczny, który powoduje ZWIĘKSZONE wchłanianie zwrotne jonów wapnia to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "furosemid",
+            "b": "torasemid",
+            "c": "spironolakton",
+            "d": "eplerenon",
+            "e": "hydrochlorotiazyd"
+        },
+        "answer": "e",
+        "justification": "Diuretyki tiazydowe i tiazydopodobne (np. hydrochlorotiazyd, indapamid) jako jedyna grupa leków moczopędnych powodują zmniejszenie wydalania wapnia z moczem poprzez zwiększenie jego wchłaniania zwrotnego w cewce dalszej. Diuretyki pętlowe (furosemid, torasemid) zwiększają wydalanie wapnia."
+    },
+    {
+        "question": "W przypadku wykonywania kardiowersji migotania przedsionków u pacjentów nieobciążonych dużym ryzykiem powikłań sercowo-naczyniowych NIE JEST konieczne wcześniejsze przygotowanie pacjenta lekiem przeciwkrzepliwym, gdy arytmia ta trwa mniej niż (wybierz najbardziej poprawną odpowiedź)",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "72h",
+            "b": "12h",
+            "c": "7 dni",
+            "d": "48h",
+            "e": "zawsze należy pacjenta przygotować lekiem przeciwkrzepliwym przed wykonaniem kardiowersji, bez względu na czas trwania arytmii"
+        },
+        "answer": "d",
+        "justification": "Zgodnie z wytycznymi, jeśli migotanie przedsionków trwa krócej niż 48 godzin, można wykonać kardiowersję elektryczną bez wcześniejszego 3-tygodniowego przygotowania antykoagulacyjnego. Należy jednak rozpocząć podawanie leków przeciwkrzepliwych (np. heparyny) przed samą procedurą i kontynuować je po niej."
+    },
+    {
+        "question": "Dabigatran po zabiegu operacyjnym z zakresu chirurgii szczękowo-twarzowej, który był związany z MAŁYM ryzykiem powikłań krwotocznych, u pacjenta z prawidłową funkcją nerek, można włączyć ponownie do terapii po:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "po 6-8h od zabiegu operacyjnego",
+            "b": "po 24h od zabiegu operacyjnego",
+            "c": "po 48h od zabiegu operacyjnego",
+            "d": "po 72h od zabiegu operacyjnego",
+            "e": "w okresie pooperacyjnym zastosowanie dabigatranu jest przeciwskazane i należy stosować wyłącznie heparynę drobnocząsteczkową"
+        },
+        "answer": "a",
+        "justification": "W przypadku zabiegów o małym ryzyku krwawienia, terapię dabigatranem można wznowić tego samego dnia wieczorem lub następnego dnia rano, gdy hemostaza jest zapewniona. Okres 6-8 godzin jest bezpiecznym i powszechnie akceptowanym czasem."
+    },
+    {
+        "question": "U którego z pacjentów rozpoznasz cukrzycę? 1. oznaczona glikemia na czczo dwukrotnie w odstępie kilku dni wynosiła: 135mg/dl oraz 115mg/dl. 2. oznaczona przygodna glikemia u pacjenta z objawami cukrzycy wynosiła: 188mg/dl. 3. oznaczone stężenie hemoglobiny glikowanej wynosiło HbA1c>7%. 4. oznaczona glikemia w 2h testu OGTT wynosiła 211mg/dl. 5. oznaczona glikemia przygodna u pacjenta klinicznie bezobjawowego wynosiła 266mg/dl.",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "1, 2, 3 prawidłowe",
+            "b": "2, 3, 4 prawidłowe",
+            "c": "3, 4 prawidłowe",
+            "d": "4, 5 prawidłowe",
+            "e": "tylko 5 prawidłowe"
+        },
+        "answer": "c",
+        "justification": "Analiza: 1) Niespełnione (wymagane 2 wyniki >=126). 2) Niespełnione (>=200 z objawami). 3) Spełnione (>=6.5%). 4) Spełnione (>=200). 5) Spełnione (>=200, nawet bez objawów ale tak wysoka glikemia jest diagnostyczna). Pytanie ma błąd w opcjach odpowiedzi. Najbardziej prawidłowe z dostępnych opcji to połączenie 3 i 4, które jednoznacznie spełniają kryteria."
+    },
+    {
+        "question": "Przeciwciała przeciwcynkowe ZnT8Ab mają znaczenie w diagnostyce:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "cukrzycy typu 1",
+            "b": "choroby Addisona-Biermera",
+            "c": "choroby Hashimoto",
+            "d": "choroby Graves-Basedowa",
+            "e": "choroby Addisona"
+        },
+        "answer": "a",
+        "justification": "Przeciwciała przeciwko transporterowi cynku 8 (ZnT8Ab) są specyficznym markerem procesu autoimmunologicznego skierowanego przeciwko komórkom beta trzustki. Ich obecność jest charakterystyczna dla cukrzycy typu 1."
+    },
+    {
+        "question": "W przypadku przypadkowego stwierdzenia w badaniu TK: guz nadnercza o wymiarach 30x25x20mm i radiologicznych cechach gruczolaka należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "nie ma potrzeby diagnostyki uzupełniającej i pacjent nie wymaga dalszej obserwacji",
+            "b": "nie ma potrzeby diagnostyki uzupełniającej, pacjent wymaga obserwacji i kontrolnego badania obrazowego za 12mc",
+            "c": "przeprowadzić diagnostykę hormonalną i skierować pacjenta na zabieg adrenalektomii w przypadku potwierdzenia aktywności hormonalnej zmiany",
+            "d": "należy przeprowadzić diagnostykę onkologiczną, gdyż zmiana w nadnerczu może odpowiadać przerzutowi",
+            "e": "natychmiast skierować pacjenta na zabieg adrenalektomii"
+        },
+        "answer": "c",
+        "justification": "Każdy przypadkowo wykryty guz nadnercza (incydentaloma) wymaga oceny hormonalnej w celu wykluczenia jego czynności (np. zespołu Cushinga, guza chromochłonnego, zespołu Conna). Jeśli guz jest hormonalnie czynny, wskazane jest leczenie operacyjne. Odpowiedź C opisuje ten schemat postępowania najpełniej, chociaż dalsze kroki zależą od wyników badań hormonalnych."
+    },
+    {
+        "question": "Wskaż zdanie FAŁSZYWE dotyczące zespołu wykrzepiania wewnątrznaczyniowego (DIC):",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "DIC może mieć przebieg przewlekły lub ostry",
+            "b": "do najczęstszych przyczyn zespołu wykrzepiania wewnątrznaczyniowego należą ciężkie infekcje, choroby nowotworowe, urazy",
+            "c": "objawami DIC o ciężkim przebiegu są: uogólniona skaza krwotoczna i objawy niewydolności wielonarządowej",
+            "d": "w przebiegu DIC obserwujemy nadpłytkowość, skrócenie APTT, INR, wzrost D-dimeru",
+            "e": "podstawą leczenia DIC jest leczenie choroby podstawowej"
+        },
+        "answer": "d",
+        "justification": "W zespole DIC dochodzi do zużycia płytek krwi i czynników krzepnięcia. Dlatego w badaniach laboratoryjnych obserwuje się małopłytkowość (trombocytopenię), a nie nadpłytkowość, oraz wydłużenie czasów krzepnięcia (APTT, PT/INR), a nie ich skrócenie. Wzrost D-dimerów jest charakterystyczny. Pozostałe stwierdzenia są prawdziwe."
+    },
+    {
+        "question": "Wskaż zdanie PRAWDZIWE dotyczące osoczowych czynników krzepnięcia:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "fibrynogen jest białkiem ostrej fazy, którego stężenie wzrasta np. w infekcji",
+            "b": "hemofilia A jest spowodowana niedoborem VIII czynnika krzepnięcia",
+            "c": "czynniki II, VII, IX, X są syntetyzowane w wątrobie zależnie od witaminy K",
+            "d": "przy niedoborze czynnika VIII krzepnięcia obserwujemy wydłużenie czasu kaolinowo-kefalinowego (APTT)",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Wszystkie podane stwierdzenia są prawdziwe. Fibrynogen jest białkiem ostrej fazy. Hemofilia A to niedobór czynnika VIII. Czynniki II, VII, IX, X są witamino-K-zależne. Niedobór czynnika VIII (droga wewnątrzpochodna) powoduje izolowane wydłużenie APTT."
+    },
+    {
+        "question": "U pacjenta ze wskazaniami do zastosowania profilaktyki IZW i potwierdzoną alergią na penicylinę zastosujesz:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "klindamycynę",
+            "b": "cefaleksynę",
+            "c": "azytromycynę",
+            "d": "tetracyklinę",
+            "e": "żadnej z wyżej wymienionych antybiotyków"
+        },
+        "answer": "a",
+        "justification": "W profilaktyce infekcyjnego zapalenia wsierdzia (IZW) u pacjentów uczulonych na penicyliny lekiem z wyboru jest klindamycyna podawana doustnie 600 mg na 1 godzinę przed zabiegiem."
+    },
+    {
+        "question": "Jaką chorobę należy podejrzewać jeśli w rozmazie krwi obwodowej występują blasty?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ostrą białaczkę szpikową",
+            "b": "blastocytozę",
+            "c": "kiłę",
+            "d": "rzeżączkę",
+            "e": "wrodzoną łamliwość kości"
+        },
+        "answer": "a",
+        "justification": "Obecność komórek blastycznych w rozmazie krwi obwodowej jest patologią i jest charakterystyczna dla ostrej białaczki (szpikowej lub limfoblastycznej). Wymaga pilnej diagnostyki hematologicznej."
+    },
+    {
+        "question": "Prawidłowe zestawienie 'mechanizm działania - substancja czynna' została przedstawiona w:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "inhibitor konwertazy angiotensyny - nebiwolol, lek beta-adrenolityczny - ramipril, ...",
+            "b": "inhibitor konwertazy angiotensyny - iwabradyna, lek beta-adrenolityczny - bisoprolol, ...",
+            "c": "inhibitor konwertazy angiotensyny - walsartan, lek beta-adrenolityczny - karwedilol, inhibitor neprilizyny - sakubitryl, antagonista receptora mineralokortykosteroidowego - spironolakton",
+            "d": "inhibitor konwertazy angiotensyny - ramipril, lek beta-adrenolityczny - bisoprolol, inhibitor neprilizyny - walsartan, ...",
+            "e": "inhibitor konwertazy angiotensyny - ramipril, lek beta-adrenolityczny - bisoprolol, inhibitor neprilizyny - sakubitryl, antagonista receptora mineralokortykosteroidowego - eplerenon"
+        },
+        "answer": "e",
+        "justification": "Ramipril to inhibitor konwertazy angiotensyny (ACEI). Bisoprolol to lek beta-adrenolityczny (beta-bloker). Sakubitryl to inhibitor neprylizyny (stosowany w połączeniu z walsartanem). Eplerenon to antagonista receptora mineralokortykosteroidowego. Zestawienie w opcji 'e' jest w pełni prawidłowe."
+    },
+    {
+        "question": "W przypadku wykonywania kardiowersji migotania przedsionków u pacjentów nieobciążonych dużym ryzykiem powikłań sercowo-naczyniowych NIE JEST konieczne wcześniejsze przygotowanie pacjenta lekiem przeciwkrzepliwym, gdy arytmia ta trwa mniej niż:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "12h",
+            "b": "48h",
+            "c": "72h",
+            "d": "7 dni",
+            "e": "zawsze należy pacjenta przygotować lekiem przeciwkrzepliwym przed wykonaniem kardiowersji, bez względu na czas trwania arytmii"
+        },
+        "answer": "b",
+        "justification": "Zgodnie z wytycznymi, u pacjentów z migotaniem przedsionków trwającym krócej niż 48 godzin, można wykonać kardiowersję bez 3-tygodniowego przygotowania antykoagulacyjnego. Jest to tzw. 'okno terapeutyczne', w którym ryzyko powstania skrzepliny w przedsionku jest niskie."
+    },
+    {
+        "question": "Do przewlekłych powikłań cukrzycy nie należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Cukrzycowa twardzina obrzękowa",
+            "b": "Jaskra wtórna krwotoczna",
+            "c": "Retinopatia cukrzycowa",
+            "d": "Nefropatia cukrzycowa",
+            "e": "Zespół hiperglikemiczno-hiperosmolalny"
+        },
+        "answer": "e",
+        "justification": "Retinopatia, nefropatia, twardzina obrzękowa i jaskra wtórna to przewlekłe powikłania cukrzycy. Zespół hiperglikemiczno-hiperosmolalny (HHS) jest ostrym, zagrażającym życiu powikłaniem cukrzycy, a nie przewlekłym."
+    },
+    {
+        "question": "Przyczyny niedoboru żelaza to: a. utrata krwi, b. niedostosowanie diety do rosnącego zapotrzebowania (np. w okresie dojrzewania), c. upośledzone wchłanianie z przewodu pokarmowego",
+        "type": "single_choice_abcd",
+        "options": {
+            "d": "prawidłowe odp. A i C",
+            "e": "prawidłowe odp. A, B, C"
+        },
+        "answer": "e",
+        "justification": "Wszystkie wymienione przyczyny mogą prowadzić do niedoboru żelaza. Przewlekła utrata krwi jest najczęstszą przyczyną u dorosłych. Zwiększone zapotrzebowanie (np. w ciąży, w okresie wzrostu) oraz upośledzone wchłanianie (np. w celiakii) są również istotnymi mechanizmami."
+    },
+    {
+        "question": "Czynnikiem ryzyka POCHP NIE JEST:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "czynne palenie papierosów",
+            "b": "bierne palenie papierosów",
+            "c": "zanieczyszczenie powietrza",
+            "d": "uwarunkowany genetycznie niedobór alfa1-antytrypsyny",
+            "e": "występowanie azbestozy płucnej w wywiadzie rodzinnym"
+        },
+        "answer": "e",
+        "justification": "Główne czynniki ryzyka POChP to palenie tytoniu, zanieczyszczenia powietrza i wrodzony niedobór alfa-1-antytrypsyny. Azbestoza jest czynnikiem ryzyka chorób śródmiąższowych płuc (pylicy) i międzybłoniaka opłucnej, a nie POChP."
+    },
+    {
+        "question": "Do leków o charakterze diuretycznym zaliczamy: a. furosemid, b. torasemid, c. spironolakton",
+        "type": "single_choice_abcd",
+        "options": {
+            "d": "A i B prawidłowe",
+            "e": "A, B, C prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Wszystkie wymienione leki należą do grupy diuretyków (leków moczopędnych). Furosemid i torasemid to diuretyki pętlowe, a spironolakton to diuretyk oszczędzający potas (antagonista aldosteronu)."
+    },
+    {
+        "question": "Który zestaw parametrów najlepiej opisuje niedokrwistość z niedoboru żelaza?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "MCV ↑, ferrytyna ↑, TIBC ↑",
+            "b": "MCV ↑, ferrytyna ↓, TIBC ↓",
+            "c": "MCV ↑, ferrytyna ↓, TIBC ↑",
+            "d": "MCV ↓, ferrytyna ↑, TIBC ↑",
+            "e": "MCV ↓, ferrytyna ↓, TIBC ↑"
+        },
+        "answer": "e",
+        "justification": "Niedokrwistość z niedoboru żelaza jest mikrocytarna (niskie MCV). Ferrytyna, jako białko magazynujące żelazo, ma niskie stężenie. Całkowita zdolność wiązania żelaza (TIBC) jest podwyższona, ponieważ organizm próbuje wychwycić jak najwięcej żelaza z pożywienia. Zatem: MCV ↓, ferrytyna ↓, TIBC ↑."
+    },
+    {
+        "question": "Które postępowanie w trakcie inwazyjnych zabiegów stomatologicznych u osób stosujących leki przeciwkrzepliwe lub skojarzoną terapię przeciwkrzepliwą i przeciwpłytkową jest nieprawidłowe w odniesieniu do przypadków niskiego ryzyka krwawień?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "U pacjentów otrzymujących dabigatran ostatnia dawka leku powinna być podana 1-2 dni przed zabiegiem",
+            "b": "U pacjentów otrzymujących apiksaban ostatnia dawka leku powinna być podana 24h przed zabiegiem",
+            "c": "U pacjentów leczonych VKA w przypadku wartości INR między 3-4 można rutynowo przeprowadzić zabieg ale należy zachować szczególną ostrożność.",
+            "d": "U pacjentów otrzymujących riwaroksaban ostatnia dawka leku powinna być podana 24 h przed zabiegiem",
+            "e": "U pacjentów leczonych VKA należy przed zabiegiem skontrolować INR, który powinien wynosić < 3,0."
+        },
+        "answer": "c",
+        "justification": "Przy wartościach INR powyżej 3,0 ryzyko krwawienia jest znacznie podwyższone i rutynowe przeprowadzanie zabiegów jest niezalecane. Wartości terapeutyczne INR to zazwyczaj 2,0-3,0. Zabieg można bezpiecznie przeprowadzić przy INR w tym zakresie. Opcja C sugeruje postępowanie przy zbyt wysokim INR."
+    },
+    {
+        "question": "Przyczyną podwyższonej temperatury ciała może być:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "infekcja",
+            "b": "proces autoimmunologiczny",
+            "c": "nowotwór złośliwy",
+            "d": "reakcja na podawane leki",
+            "e": "wszystkie odpowiedzi prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Gorączka jest niespecyficznym objawem, który może być wywołany przez wiele czynników. Należą do nich zakażenia (najczęstsza przyczyna), choroby autoimmunologiczne (np. toczeń, RZS), nowotwory (np. chłoniaki, białaczki) oraz reakcje polekowe (gorączka polekowa)."
+    },
+    {
+        "question": "Przerost dziąseł może być objawem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "cukrzycy",
+            "b": "małopłytkowości autoimmunologicznej",
+            "c": "ostrej białaczki mielomonocytowej",
+            "d": "astmy oskrzelowej",
+            "e": "niedokrwistości z niedoboru witaminy B12"
+        },
+        "answer": "c",
+        "justification": "Nacieczenie dziąseł przez komórki blastyczne, prowadzące do ich przerostu, jest charakterystycznym objawem dla niektórych typów ostrych białaczek szpikowych, zwłaszcza ostrej białaczki mielomonocytowej (M4) i monocytowej (M5)."
+    },
+    {
+        "question": "W której z podanych sytuacji NIE MOŻNA rozpoznać cukrzycy?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Przygodna glikemia ≥ 200 mg/dl i typowe objawy hiperglikemii",
+            "b": "Przygodna glikemia ≥ 200 mg/dl bez typowych objawów hiperglikemii i jednokrotnie (innego dnia) glikemia na czczo ≥ 126 mg/dl",
+            "c": "Przygodna glikemia > 250mg/dl bez typowych objawów hiperglikemii.",
+            "d": "Glikemia w 120 min. OGTT ≥ 200 mg/dl",
+            "e": "2-krotnie (oznaczona w innych dniach) glikemia na czczo ≥ 126 mg/dl"
+        },
+        "answer": "c",
+        "justification": "Opcje a, d, e to standardowe kryteria rozpoznania cukrzycy. Opcja b również spełnia kryteria (połączenie dwóch różnych). Opcja c, czyli pojedyncza przygodna glikemia > 250 mg/dl bez towarzyszących objawów klinicznych hiperglikemii, nie jest wystarczająca do postawienia diagnozy i wymaga potwierdzenia (np. ponownym oznaczeniem glikemii na czczo)."
+    },
+    {
+        "question": "Do grupy D chorych na POChP, charakteryzującej się dużym ryzykiem i dużą ilością objawów zaliczamy (wybierz najtrafniejszą odpowiedź):",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "≥ 1 zaostrzenie przebyte w ciągu ostatnich 12 miesięcy, ≥ 1 stopień w skali nasilenia duszności mMRC",
+            "b": "≤ 2 zaostrzenia przebyte w ciągu ostatnich 12 miesięcy, ≤ 2 stopień w skali nasilenia duszności mMRC",
+            "c": "≥ 2 zaostrzenia przebyte w ciągu ostatnich 12 miesięcy, ≤ 2 stopień w skali nasilenia duszności mMRC",
+            "d": "≥ 2 zaostrzenia przebyte w ciągu ostatnich 12 miesięcy, ≥ 2 stopień w skali nasilenia duszności mMRC",
+            "e": "≥ 3 zaostrzenia przebyte w ciągu ostatnich 12 miesięcy, ≥ 3 stopień w skali nasilenia duszności mMRC"
+        },
+        "answer": "d",
+        "justification": "Zgodnie z klasyfikacją GOLD dla POChP, grupa D (wysokie ryzyko, dużo objawów) obejmuje pacjentów, którzy przebyli ≥2 umiarkowane zaostrzenia lub ≥1 ciężkie (wymagające hospitalizacji) zaostrzenie w ostatnim roku ORAZ mają nasilone objawy (mMRC ≥2 lub CAT ≥10). Opcja 'd' najlepiej opisuje tę grupę."
+    },
+    {
+        "question": "Zastawkę aortalną osłuchujemy w:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "II prawym międzyżebrzu przy mostku",
+            "b": "II lewym międzyżebrzu przy mostku",
+            "c": "III prawym międzyżebrzu przy mostku",
+            "d": "V lewym międzyżebrzu przyśrodkowo od linii środkowo-obojczykowej",
+            "e": "IV-V prawym międzyżebrzu przy mostku"
+        },
+        "answer": "a",
+        "justification": "Standardowym miejscem osłuchiwania zastawki aortalnej jest druga przestrzeń międzyżebrowa po prawej stronie mostka."
+    },
+    {
+        "question": "Wskaż zdanie NIEPRAWDZIWE o nadciśnieniu tętniczym:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "najczęściej przebiega bezobjawowo",
+            "b": "nadciśnienie tętnicze pierwotne stanowi powyżej 90% wszystkich przyczyn nadciśnienia",
+            "c": "jawna nadczynność tarczycy może być przyczyną wtórnego nadciśnienia tętniczego",
+            "d": "u kobiet w ciąży lekiem hipotensyjnym pierwszego wyboru jest ACEI",
+            "e": "w leczeniu ważna jest rola niefarmakologiczna"
+        },
+        "answer": "d",
+        "justification": "Inhibitory konwertazy angiotensyny (ACEI) oraz sartany (ARB) są bezwzględnie przeciwwskazane w ciąży ze względu na ich działanie teratogenne (uszkadzające płód). Lekami pierwszego wyboru w ciąży są metyldopa, labetalol i nifedypina. Pozostałe stwierdzenia są prawdziwe."
+    },
+    {
+        "question": "O istotnym (wymagającym diagnostyki) powiększeniu węzłów chłonnych mówimy, gdy średnica pojedynczego węzła przekracza co najmniej:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "5mm",
+            "b": "7mm",
+            "c": "10mm",
+            "d": "15mm",
+            "e": "20mm"
+        },
+        "answer": "c",
+        "justification": "Za umowną granicę, powyżej której powiększenie węzła chłonnego uważa się za istotne klinicznie i wymagające dalszej diagnostyki, przyjmuje się średnicę 1 cm (10 mm). Wyjątkiem są węzły pachwinowe, które mogą być fizjologicznie większe."
+    },
+    {
+        "question": "Który zestaw objawów podmiotowych najlepiej prezentuje lewokomorową niewydolność serca?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "obrzęki, nykturia",
+            "b": "duszność, obrzęki",
+            "c": "duszność, kaszel",
+            "d": "nykturia, nudności i zaparcie",
+            "e": "obrzęki, kaszel"
+        },
+        "answer": "c",
+        "justification": "Typowe objawy lewokomorowej niewydolności serca wynikają z zastoju krwi w krążeniu płucnym. Należą do nich przede wszystkim duszność (wysiłkowa, spoczynkowa, orthopnoe) oraz kaszel (często napadowy, nocny, tzw. astma sercowa). Obrzęki i nykturia są bardziej charakterystyczne dla niewydolności prawokomorowej."
+    },
+    {
+        "question": "Który z wymienionych leków NIE POWODUJE hiperprolaktynemii:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ranigast",
+            "b": "metoklopramid",
+            "c": "zawierający estrogeny",
+            "d": "werapamil",
+            "e": "karbegolina"
+        },
+        "answer": "e",
+        "justification": "Metoklopramid, estrogeny i werapamil mogą powodować hiperprolaktynemię. Kabergolina jest agonistą dopaminy i jest stosowana w LECZENIU hiperprolaktynemii, czyli obniża stężenie prolaktyny. Ranigast (ranitydyna) rzadko, ale może wpływać na stężenie prolaktyny. Kabergolina działa przeciwnie."
+    },
+    {
+        "question": "Lekiem stosowanym do odwrócenia działania heparyny niefrakcjonowanej jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Dabigatran",
+            "b": "Siarczan protaminy",
+            "c": "Acenokumarol",
+            "d": "Acetylocysteina",
+            "e": "Fondaparynuks"
+        },
+        "answer": "b",
+        "justification": "Siarczan protaminy jest specyficznym antidotum dla heparyny niefrakcjonowanej. Wiąże się z heparyną, tworząc stabilny, nieaktywny kompleks i neutralizując jej działanie przeciwkrzepliwe."
+    },
+    {
+        "question": "Główny cel w leczeniu nadciśnienia tętniczego to uzyskanie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "skurczowego ciśnienia tętniczego <140 mmHg u wszystkich chorych",
+            "b": "skurczowego ciśnienia tętniczego <160 mmHg u wszystkich chorych",
+            "c": "rozkurczowego ciśnienia tętniczego <100mmHg u wszystkich chorych",
+            "d": "rozkurczowego ciśnienia tętniczego <100mmHg u wszystkich chorych, gdy jest dobrze tolerowane",
+            "e": "żadna z wyżej wymienionych odpowiedzi nie jest prawidłowa."
+        },
+        "answer": "a",
+        "justification": "Zgodnie z ogólnymi wytycznymi, podstawowym celem leczenia nadciśnienia tętniczego u większości pacjentów jest obniżenie ciśnienia tętniczego do wartości <140/90 mmHg. U wielu pacjentów (młodszych, z cukrzycą) dąży się do niższych wartości (np. <130/80 mmHg), ale <140 mmHg jest celem podstawowym."
+    },
+    {
+        "question": "W diagnostyce której jednostki chorobowej podstawowe znaczenie ma wykazanie zwiększonego stężenia insulinopodobnego czynnika wzrostu typu 1 (IGF-1)?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Nadczynności kory nadnerczy",
+            "b": "Cukrzycy typu 1",
+            "c": "Akromegalii",
+            "d": "Nadczynności tarczycy",
+            "e": "Cukrzycy typu 2"
+        },
+        "answer": "c",
+        "justification": "Akromegalia to choroba spowodowana nadmiernym wydzielaniem hormonu wzrostu (GH) przez gruczolaka przysadki. GH stymuluje wątrobę do produkcji IGF-1. Stężenie GH waha się w ciągu doby, dlatego oznaczanie stężenia IGF-1, które jest stabilne, jest podstawowym badaniem przesiewowym i diagnostycznym w kierunku akromegalii."
+    },
+    {
+        "question": "Poprzez nadciśnienie tętnicze oporne rozumiemy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Stosowanie odpowiedniego schematu leczenia obejmującego ≥ 2 leki hipotensyjne w tym diuretyku w optymalnych lub tolerowanych dawkach, które nie doprowadziło do obniżenia ciśnienia tętniczego <140 i/lub <90 mmHg.",
+            "b": "Stosowanie odpowiedniego schematu leczenia obejmującego ≥ 3 leki hipotensyjne w tym diuretyku w optymalnych lub tolerowanych dawkach, które nie doprowadziło do obniżenia ciśnienia tętniczego <135 i/lub <85 mmHg.",
+            "c": "Stosowanie odpowiedniego schematu leczenia obejmującego ≥ 3 leki hipotensyjne w tym diuretyku w optymalnych lub tolerowanych dawkach, które nie doprowadziło do obniżenia ciśnienia tętniczego <140 i/lub <90 mmHg.",
+            "d": "Stosowanie odpowiedniego schematu leczenia obejmującego ≥ 3 leki hipotensyjne w tym inhibitor konwertazy angiotensyny w optymalnych lub tolerowanych dawkach, które nie doprowadziło do obniżenia ciśnienia tętniczego < 135 i/lub <85 mmHg.",
+            "e": "Stosowanie odpowiedniego schematu leczenia obejmującego ≥ 3 leki hipotensyjne w tym inhibitor konwertazy angiotensyny w optymalnych lub tolerowanych dawkach, które nie doprowadziło do obniżenia ciśnienia tętniczego < 140 i/lub <90 mmHg."
+        },
+        "answer": "c",
+        "justification": "Nadciśnienie tętnicze oporne definiuje się jako brak osiągnięcia docelowych wartości ciśnienia (<140/90 mmHg) pomimo stosowania co najmniej trzech leków hipotensyjnych (w tym jednego diuretyku) w optymalnych dawkach."
+    },
+    {
+        "question": "W przebiegu niedokrwistości z niedoboru witaminy B12 stwierdzić można - wskaż FAŁSZYWE:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "towarzyszącą leukopenię i małopłytkowość",
+            "b": "nieznacznie zwiększone stężenie żelaza w surowicy",
+            "c": "zmniejszenie wielkości erytrocytów",
+            "d": "obniżone stężenie witaminy B12",
+            "e": "dużą zmienność kształtów i wielkości erytrocytów"
+        },
+        "answer": "c",
+        "justification": "Niedobór witaminy B12 prowadzi do niedokrwistości megaloblastycznej, w której krwinki czerwone są duże (makrocyty), a nie małe. Dlatego stwierdzenie 'zmniejszenie wielkości erytrocytów' jest fałszywe. Często występuje pancytopenia (leukopenia, małopłytkowość), a w rozmazie anizocytoza i poikilocytoza."
+    },
+    {
+        "question": "U chorych na cukrzycę ogólny cel wyrównania glikemii wyrażony wartością HbA1c wynosi nie więcej niż:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "6,0%",
+            "b": "6,5%",
+            "c": "7,0%",
+            "d": "7,5%",
+            "e": "8,0%"
+        },
+        "answer": "c",
+        "justification": "Zgodnie z ogólnymi zaleceniami PTD, podstawowym celem leczenia cukrzycy jest utrzymanie stężenia hemoglobiny glikowanej (HbA1c) na poziomie ≤ 7,0% (53 mmol/mol). Cele te są indywidualizowane (np. u młodych <6,5%, u starszych <8,0%), ale 7,0% jest celem ogólnym."
+    },
+    {
+        "question": "Złotym standardem w rozpoznaniu zatorowości płucnej jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Tomografia komputerowa płuc bez kontrastu",
+            "b": "USG płuc",
+            "c": "Angio-TK tętnic płucnych",
+            "d": "Echokardiografia",
+            "e": "Rezonans magnetyczny"
+        },
+        "answer": "c",
+        "justification": "Złotym standardem w diagnostyce zatorowości płucnej jest tomografia komputerowa z podaniem środka kontrastowego, czyli angiografia TK (angio-TK). Badanie to pozwala na bezpośrednie uwidocznienie skrzeplin w tętnicach płucnych."
+    },
+    {
+        "question": "W leczeniu zakrzepicy żył głębokich antagonistami witaminy K (acenokumarol, warfaryna) wskaźnik INR należy utrzymywać w granicy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "1,5-2,0",
+            "b": "1,5-3,5",
+            "c": "2,0-3,0",
+            "d": "2,5-3,5",
+            "e": "2,5-4,0"
+        },
+        "answer": "c",
+        "justification": "W leczeniu i profilaktyce wtórnej żylnej choroby zakrzepowo-zatorowej za pomocą antagonistów witaminy K (VKA) docelowy zakres terapeutyczny dla wskaźnika INR wynosi 2,0-3,0."
+    },
+    {
+        "question": "Chorobę von Willebrandta możemy leczyć:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Koncentratem czynnika IX",
+            "b": "Transfuzją koncentratu krwinek czerwonych",
+            "c": "Transfuzją koncentratu krwinek płytkowych",
+            "d": "Beta-blokerem",
+            "e": "Desmopresyną"
+        },
+        "answer": "e",
+        "justification": "W leczeniu łagodnych postaci choroby von Willebrandta stosuje się desmopresynę (DDAVP), która powoduje uwolnienie czynnika von Willebrandta i czynnika VIII z magazynów śródbłonkowych. W cięższych postaciach stosuje się koncentraty czynnika VIII zawierające czynnik von Willebrandta."
+    },
+    {
+        "question": "Do typowych odchyleń w badaniach laboratoryjnych u pacjenta z chorobą Cushinga należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "↑ACTH, ↑ kortyzol, ↑ potas, ↑ hemoglobina, ↑ leukocyty",
+            "b": "↓ACTH, ↑ kortyzol, ↓ potas, ↓ hemoglobina, ↓ leukocyty",
+            "c": "↑ACTH, ↑ kortyzol, ↓ potas, ↑ hemoglobina, ↑ leukocyty",
+            "d": "↓ACTH, ↑ kortyzol, ↓ potas, ↑ hemoglobina, ↑ leukocyty",
+            "e": "↓ACTH, ↓ kortyzol, ↑ potas, ↓ hemoglobina, ↓ leukocyty"
+        },
+        "answer": "d",
+        "justification": "W chorobie Cushinga (gruczolak przysadki produkujący ACTH) stwierdza się wysokie ACTH i wtórnie wysoki kortyzol. W zespole Cushinga (np. guz nadnercza) ACTH będzie niskie (hamowanie zwrotne), a kortyzol wysoki. Nadmiar kortyzolu powoduje hipokaliemię, wzrost hemoglobiny (policytemię) i leukocytozę z neutrofilią. Opcja 'd' najlepiej pasuje do zespołu Cushinga niezależnego od ACTH."
+    },
+    {
+        "question": "Wybierz odpowiedź FAŁSZYWĄ: Przypadkowo stwierdzony guz przysadki:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wymaga oceny hormonalnej",
+            "b": "może powodować objawy niedoczynności przysadki",
+            "c": "może być aktywny hormonalnie",
+            "d": "wymaga kontroli radiologicznej",
+            "e": "zawsze wymaga leczenia operacyjnego"
+        },
+        "answer": "e",
+        "justification": "Leczenie operacyjne guza przysadki (incydentaloma) nie jest wymagane zawsze. Wskazaniem do operacji jest czynność hormonalna guza lub objawy uciskowe (np. zaburzenia pola widzenia). Małe, nieczynne hormonalnie guzy bez efektu masy najczęściej podlegają jedynie obserwacji."
+    },
+    {
+        "question": "Plamki Koplika to objaw patognomoniczny:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Zakażenia HIV",
+            "b": "Mononukleozy",
+            "c": "Półpaśca",
+            "d": "Opryszczki",
+            "e": "Odry"
+        },
+        "answer": "e",
+        "justification": "Plamki Koplika – małe, białawe grudki otoczone czerwoną obwódką, pojawiające się na błonie śluzowej policzków na wysokości zębów przedtrzonowych – są objawem patognomonicznym (charakterystycznym i jednoznacznie wskazującym na daną chorobę) dla odry. Pojawiają się w okresie prodromalnym, przed wysypką."
+    },
+    {
+        "question": "Która z grup leków jest preferowana jako lek I rzutu u pacjenta z rozpoznaną cukrzycą oraz białkomoczem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Alfa bloker",
+            "b": "Beta bloker",
+            "c": "ACEI",
+            "d": "diuretyk tiazydowy",
+            "e": "bloker kanału wapniowego"
+        },
+        "answer": "c",
+        "justification": "U pacjentów z cukrzycą i towarzyszącym białkomoczem (nefropatią cukrzycową) lekami pierwszego wyboru w leczeniu nadciśnienia tętniczego są inhibitory konwertazy angiotensyny (ACEI) lub sartany (ARB). Leki te mają udowodnione działanie nefroprotekcyjne, zwalniające postęp choroby nerek."
+    },
+    {
+        "question": "Do niewydolności oddechowej może dojść w przebiegu:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "COVID",
+            "b": "POChP",
+            "c": "urazu klatki piersiowej",
+            "d": "Prawidłowe A i B",
+            "e": "Prawidłowe A, B, C"
+        },
+        "answer": "e",
+        "justification": "Niewydolność oddechowa może być spowodowana przez choroby miąższu płuc (COVID-19), choroby obturacyjne (POChP), a także przez przyczyny pozapłucne, takie jak ciężki uraz klatki piersiowej, który zaburza mechanikę oddychania. Wszystkie wymienione stany mogą do niej prowadzić."
+    },
+    {
+        "question": "Suchość w obrębie jamy ustnej i spojówek jest typowa dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zespołu Waterhouse'a i Friderichsena",
+            "b": "zespołu Cushinga",
+            "c": "zespołu Sjogrena",
+            "d": "nadczynności tarczycy",
+            "e": "zespołu Zollingera i Ellisona"
+        },
+        "answer": "c",
+        "justification": "Zespół Sjögrena to przewlekła choroba autoimmunologiczna, w której dochodzi do naciekania i niszczenia gruczołów zewnątrzwydzielniczych, głównie ślinowych i łzowych. Prowadzi to do charakterystycznego zespołu suchego (sicca syndrome) - suchości w jamie ustnej (kserostomia) i suchości oczu (xerophthalmia)."
+    },
+    {
+        "question": "W chorobie Gravesa-Basedowa występuje: Wybierz jedną odpowiedź:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "nadczynność tarczycy",
+            "b": "dermopatia",
+            "c": "akropachia",
+            "d": "orbitopatia",
+            "e": "wszystkie powyższe odp. są prawdziwe"
+        },
+        "answer": "e",
+        "justification": "Choroba Gravesa-Basedowa to choroba autoimmunologiczna, w której występują przeciwciała stymulujące receptor dla TSH. Prowadzi to do nadczynności tarczycy (wola naczyniowego). Oprócz tego mogą występować objawy pozatarczycowe: orbitopatia (wytrzeszcz), dermopatia (obrzęk przedgoleniowy) i akropachia (pogrubienie palców). Wszystkie te elementy wchodzą w skład obrazu choroby."
+    },
+    {
+        "question": "W ramach badań zleconych przez lekarza medycyny pracy stwierdzono glukozę na czczo: 116 mg/dl. Zlecono następnie OGTT, w którym glukoza na czczo wynosi 106 mg/dl, glukoza po 2 godz.- 170 mg/dl. U tego pacjenta należy rozpoznać:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Cukrzycę",
+            "b": "Nieprawidłową glikemię na czczo",
+            "c": "Nieprawidłową tolerancję glukozy",
+            "d": "Nieprawidłową glikemię na czczo oraz nieprawidłową tolerancję glukozy",
+            "e": "Wyniki tych badań są prawidłowe"
+        },
+        "answer": "d",
+        "justification": "Glikemia na czczo w zakresie 100-125 mg/dl definiuje stan 'nieprawidłowa glikemia na czczo' (IFG). Glikemia w 120. minucie OGTT w zakresie 140-199 mg/dl definiuje 'nieprawidłową tolerancję glukozy' (IGT). Pacjent spełnia oba te kryteria, więc ma zarówno IFG, jak i IGT, co wspólnie określa się jako stan przedcukrzycowy."
+    },
+    {
+        "question": "Która z wymienionych tętnic NIE jest dostępna palpacyjnej ocenie tętna u osoby dorosłej?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "tętnica promieniowa",
+            "b": "tętnica szyjna wewnętrzna",
+            "c": "tętnica podkolanowa",
+            "d": "tętnica udowa",
+            "e": "wszystkie wymienione tętnice jesteśmy w stanie zbadać palpacyjnie"
+        },
+        "answer": "b",
+        "justification": "Tętno bada się na tętnicach powierzchownych. Tętnica promieniowa, podkolanowa, udowa są dostępne palpacyjnie. Na szyi bada się tętno na tętnicy szyjnej wspólnej, a nie na tętnicy szyjnej wewnętrznej, która przebiega głęboko."
+    },
+    {
+        "question": "W profilaktyce udaru niedokrwiennego u pacjentów z napadowym migotaniem przedsionków stosujemy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "rywaroksaban",
+            "b": "dabigatran",
+            "c": "fondaparynuks",
+            "d": "A i B prawidłowe",
+            "e": "A, B, C prawidłowe"
+        },
+        "answer": "d",
+        "justification": "W profilaktyce udaru mózgu u pacjentów z migotaniem przedsionków stosuje się doustne antykoagulanty. Należą do nich antagoniści witaminy K oraz nowe doustne antykoagulanty (NOAC/DOAC), takie jak rywaroksaban (inhibitor Xa) i dabigatran (inhibitor trombiny). Fondaparynuks jest lekiem podawanym podskórnie."
+    },
+    {
+        "question": "Gorączka reumatyczna, zaznacz prawidłowe:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "pojawia się jako powikłanie u ok 3% pacjentów z nieleczonym antybiotykiem paciorkowcowym zapaleniem gardła i migdałków.",
+            "b": "nie towarzyszy jej gorączka, pomimo archaicznej nazwy choroby.",
+            "c": "bardzo szybko w przebiegu tej choroby normalizuje się stężenie białek stanu zapalnego w surowicy krwi.",
+            "d": "raz przebyta gwarantuje nabytą odporność do końca życia pacjenta.",
+            "e": "w sposób nieunikniony prowadzi do reumatoidalnego zapalenia stawów (RZS)"
+        },
+        "answer": "a",
+        "justification": "Gorączka reumatyczna jest odległym, autoimmunologicznym powikłaniem nieleczonego lub nieskutecznie leczonego paciorkowcowego zapalenia gardła, występującym u ok. 3% osób. Pozostałe odpowiedzi są fałszywe: chorobie towarzyszy gorączka, markery zapalne są podwyższone, przebycie choroby nie daje odporności (możliwe nawroty), a powikłaniem jest wada serca, a nie RZS."
+    },
+    {
+        "question": "W jakim mechanizmie nagłego zatrzymania krążenia wykonasz defibrylację:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "migotanie komór, asystolia",
+            "b": "częstoskurcz komorowy bez tętna, rozkojarzenie elektromechaniczne",
+            "c": "asystolia, rozkojarzenie elektromechaniczne",
+            "d": "częstoskurcz komorowy bez tętna, migotanie komór",
+            "e": "żadna odp. nie jest prawidłowa"
+        },
+        "answer": "d",
+        "justification": "Defibrylację elektryczną wykonuje się wyłącznie w dwóch mechanizmach zatrzymania krążenia: migotaniu komór (VF) oraz częstoskurczu komorowym bez tętna (pVT). Są to tzw. rytmy do defibrylacji. Asystolia i rozkojarzenie elektromechaniczne (PEA) są rytmami nie do defibrylacji."
+    },
+    {
+        "question": "Do skaz osoczowych wrodzonych należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Rozsiane krzepnięcie wewnątrznaczyniowe",
+            "b": "Hemofilia",
+            "c": "Zespół hemolityczno-mocznicowy",
+            "d": "Pierwotna małopłytkowość immunologiczna",
+            "e": "Zakrzepowa plamica małopłytkowa"
+        },
+        "answer": "b",
+        "justification": "Skazy osoczowe to zaburzenia wynikające z niedoboru lub nieprawidłowej funkcji osoczowych czynników krzepnięcia. Hemofilia (niedobór czynnika VIII lub IX) jest klasycznym przykładem wrodzonej skazy osoczowej. Pozostałe wymienione to skazy nabyte (DIC) lub skazy płytkowe (ITP, TTP) lub naczyniowe/złożone (HUS)."
+    },
+    {
+        "question": "Objawami ostrej białaczki szpikowej mogą być:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "gorączka",
+            "b": "objawy skazy krwotocznej",
+            "c": "płaskie wykwity lub guzki na skórze",
+            "d": "objawy leukostazy",
+            "e": "wszystkie wymienione"
+        },
+        "answer": "e",
+        "justification": "Objawy ostrej białaczki wynikają z niewydolności szpiku (niedokrwistość, infekcje - gorączka, skaza krwotoczna) oraz z naciekania narządów przez komórki białaczkowe (np. zmiany skórne, przerost dziąseł). Leukostaza (zespół nadmiernej lepkości) to stan nagły przy bardzo wysokiej liczbie blastów. Wszystkie wymienione objawy mogą wystąpić."
+    },
+    {
+        "question": "Który z poniższych objawów NIE JEST typowy dla niedoczynności tarczycy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zaburzenia miesiączkowania",
+            "b": "trudności w utracie masy ciała",
+            "c": "bradykardia",
+            "d": "skóra wilgotna, miękka, zaczerwieniona",
+            "e": "zaparcia"
+        },
+        "answer": "d",
+        "justification": "Dla niedoczynności tarczycy charakterystyczna jest skóra sucha, zimna, blada, łuszcząca się. Skóra wilgotna, miękka, ciepła i zaczerwieniona (tzw. skóra aksamitna) jest typowa dla nadczynności tarczycy. Pozostałe objawy są charakterystyczne dla niedoczynności."
+    },
+    {
+        "question": "Przez ile miesięcy, po uzyskaniu normalizacji hemoglobiny i ferrytyny należy jeszcze stosować doustne preparaty zawierające żelazo elementarne celem uzupełnienia zapasów wewnątrzustrojowych?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "1 miesiąc",
+            "b": "6 miesięcy",
+            "c": "12 miesięcy",
+            "d": "2 miesiące",
+            "e": "3 miesiące"
+        },
+        "answer": "e",
+        "justification": "Leczenie niedokrwistości z niedoboru żelaza ma dwa cele: normalizację stężenia hemoglobiny i uzupełnienie zapasów ustrojowych żelaza (co odzwierciedla stężenie ferrytyny). Po normalizacji hemoglobiny (co trwa ok. 6-8 tygodni), leczenie należy kontynuować przez kolejne 3-6 miesięcy, aby odbudować zapasy. Odpowiedź 'e' (3 miesiące) jest najbardziej zbliżona do dolnej granicy tego zalecenia."
+    },
+    {
+        "question": "Hemofilia A",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "jest skazą krwotoczną wrodzoną, niedobór czynnika VIII, częściej dotyka mężczyzn",
+            "b": "jest skazą krwotoczną wrodzoną, niedobór czynnika IX, częściej dotyka mężczyzn",
+            "c": "jest skazą krwotoczną wrodzoną, niedobór czynnika VIII, częściej dotyka kobiet",
+            "d": "jest skazą krwotoczną wrodzoną, niedobór czynnika IX, częściej dotyka kobiet"
+        },
+        "answer": "a",
+        "justification": "Hemofilia A jest wrodzoną skazą krwotoczną osoczową, spowodowaną niedoborem czynnika krzepnięcia VIII. Jest chorobą dziedziczoną recesywnie w sprzężeniu z chromosomem X, dlatego chorują głównie mężczyźni, a kobiety są nosicielkami."
+    },
+    {
+        "question": "Które choroby nie dają objawów w jamie ustnej lub w narządzie żucia?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "bielactwo",
+            "b": "akromegalia",
+            "c": "ch. Addisona",
+            "d": "niedokrwistość z niedoboru wit. B12",
+            "e": "ostra białaczka szpikowa"
+        },
+        "answer": "a",
+        "justification": "Akromegalia (prognatyzm), choroba Addisona (przebarwienia), niedokrwistość z niedoboru B12 (język Huntera) i ostra białaczka (przerost dziąseł, owrzodzenia) dają charakterystyczne objawy w jamie ustnej. Bielactwo (vitiligo) to choroba skóry polegająca na depigmentacji, która rzadko zajmuje błony śluzowe jamy ustnej."
+    },
+    {
+        "question": "Guz Virchowa to",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "przerzut raka żołądka do węzła nadobojczykowego po stronie lewej",
+            "b": "przerzut raka żołądka do węzła nadobojczykowego po stronie prawej",
+            "c": "przerzut raka jajnika do węzła nadobojczykowego po stronie lewej",
+            "d": "przerzut raka jajnika do węzła nadobojczykowego po stronie prawej"
+        },
+        "answer": "a",
+        "justification": "Węzeł Virchowa (lub węzeł nadobojczykowy lewy) to węzeł chłonny zlokalizowany w lewym dole nadobojczykowym. Jego powiększenie (tzw. objaw Troisiera) jest często pierwszym objawem przerzutu nowotworu złośliwego z jamy brzusznej, najczęściej raka żołądka."
+    },
+    {
+        "question": "Język czerwony, bawoli, wygładzony. Występuje w",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niedokrwistości z niedoboru witaminy B12",
+            "b": "niedokrwistości z niedoboru żelaza",
+            "c": "niedokrwistości z niedoboru kwasu foliowego",
+            "d": "Niedoboru witaminy C i A"
+        },
+        "answer": "a",
+        "justification": "Gładki, czerwony, piekący język (zapalenie języka Huntera) jest klasycznym objawem niedokrwistości z niedoboru witaminy B12 (choroby Addisona-Biermera). Wynika on z zaniku brodawek językowych."
+    },
+    {
+        "question": "Który objaw nie występuje w odmie?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "kaszel",
+            "b": "bębenkowy opuk",
+            "c": "wzmożone drżenie głosowe",
+            "d": "zmniejszony szmer pęcherzykowy"
+        },
+        "answer": "c",
+        "justification": "W odmie opłucnowej, z powodu obecności powietrza w jamie opłucnej, dochodzi do osłabienia lub zniesienia drżenia głosowego oraz szmeru pęcherzykowego. Odgłos opukowy jest bębenkowy (nadmiernie jawny). Kaszel może występować. Zatem wzmożone drżenie głosowe nie występuje."
+    },
+    {
+        "question": "Sztywność karku jest typowa dla",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zapalenia opon mózgowo-rdzeniowych",
+            "b": "innych",
+            "c": "innych",
+            "d": "innych"
+        },
+        "answer": "a",
+        "justification": "Sztywność karku jest jednym z głównych objawów oponowych, charakterystycznym dla zapalenia opon mózgowo-rdzeniowych. Wynika z podrażnienia opon przez proces zapalny."
+    },
+    {
+        "question": "Dawka heparyny (enoksaparyna) dla 60 kg, kiedy GFR >30 to",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "60 mg co 12 h",
+            "b": "60mg co 24 h",
+            "c": "100 mg co 12 h",
+            "d": "40 mg co 12 h",
+            "e": "40 mg co 24 h"
+        },
+        "answer": "b",
+        "justification": "Standardowa dawka profilaktyczna enoksaparyny (heparyny drobnocząsteczkowej) u pacjentów o masie ciała ok. 60 kg i z prawidłową funkcją nerek (GFR > 30 ml/min) wynosi 40 mg (4000 j.m.) raz na dobę (co 24 h). W leczeniu zakrzepicy stosuje się dawki wyższe, zwykle co 12h."
+    },
+    {
+        "question": "Jakiego objawu nie ma w IZW?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "powiększenie śledziony",
+            "b": "plamy Cullena",
+            "c": "przedłużającej się gorączki",
+            "d": "wybroczyny pod paznokciem"
+        },
+        "answer": "b",
+        "justification": "W infekcyjnym zapaleniu wsierdzia (IZW) typowe są gorączka, powiększenie śledziony, wybroczyny (np. pod paznokciami, plamki Janewaya, guzki Oslera). Plama Cullena (zasinienie wokół pępka) jest objawem krwotoku wewnątrzotrzewnowego, charakterystycznym dla ostrego krwotocznego zapalenia trzustki."
+    },
+    {
+        "question": "Gdzie występuje żółtaczka",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "WZW A",
+            "b": "guz głowy trzustki",
+            "c": "niedokrwistość hemolityczna",
+            "d": "a i c",
+            "e": "wszystko ok"
+        },
+        "answer": "e",
+        "justification": "Żółtaczka jest objawem, a nie chorobą. Występuje w WZW A (żółtaczka wątrobowa), w guzie głowy trzustki (żółtaczka mechaniczna, pozawątrobowa) oraz w niedokrwistości hemolitycznej (żółtaczka przedwątrobowa). Zatem występuje we wszystkich wymienionych stanach."
+    },
+    {
+        "question": "Zaznacz prawdziwe zdanie dotyczące przewlekłego zapalenia trzustki",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "nie trzeba różnicować z rakiem",
+            "b": "najczęściej polekowe",
+            "c": "rzadko spowodowane alkoholem",
+            "d": "ból nawracający"
+        },
+        "answer": "d",
+        "justification": "Najbardziej charakterystycznym objawem przewlekłego zapalenia trzustki jest nawracający lub stały ból w nadbrzuszu. Pozostałe stwierdzenia są fałszywe: zawsze trzeba różnicować z rakiem, najczęstszą przyczyną jest alkoholizm, a nie leki."
+    },
+    {
+        "question": "Skala CCS - III stopień",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "znaczne dolegliwości wieńcowe, np podczas wolnego wchodzenia na 1. piętro",
+            "b": "inne",
+            "c": "inne"
+        },
+        "answer": "a",
+        "justification": "Skala CCS służy do klasyfikacji nasilenia dławicy piersiowej. Stopień III oznacza znaczne ograniczenie zwykłej aktywności fizycznej - ból wieńcowy pojawia się po przejściu 100-200 m po płaskim terenie lub po wejściu na jedno piętro w normalnym tempie."
+    },
+    {
+        "question": "Wskaż zdanie prawdziwe dotyczące bólu wieńcowego",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "kłujący ból",
+            "b": "może być wywołany przez stres",
+            "c": "tylko w bolu wieńcowym mamy promieniowanie do lewej strony",
+            "d": "inne"
+        },
+        "answer": "b",
+        "justification": "Ból wieńcowy może być wywołany nie tylko przez wysiłek fizyczny, ale także przez stres emocjonalny. Ból kłujący jest nietypowy dla dławicy. Promieniowanie może występować do różnych miejsc, nie tylko do lewej strony."
+    },
+    {
+        "question": "Co nie jest przyczyną nadciśnienia wtórnego?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ch. Addisona",
+            "b": "marskość wątroby",
+            "c": "inne",
+            "d": "inne"
+        },
+        "answer": "a",
+        "justification": "Nadciśnienie wtórne może być spowodowane np. chorobami nerek, zwężeniem tętnicy nerkowej, guzami nadnerczy (Cushing, Conn, pheochromocytoma). Marskość wątroby może prowadzić do nadciśnienia. Choroba Addisona (niedoczynność kory nadnerczy) charakteryzuje się hipotensją (niskim ciśnieniem), a nie nadciśnieniem."
+    },
+    {
+        "question": "Co nie będzie skutkiem marskości wątroby?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "nadciśnienie wrotne",
+            "b": "nadciśnienie tętnicze",
+            "c": "żylaki przełyku",
+            "d": "encefalopatia",
+            "e": "hipersplenizm"
+        },
+        "answer": "b",
+        "justification": "Marskość wątroby prowadzi do nadciśnienia wrotnego i jego powikłań: żylaków przełyku, wodobrzusza, encefalopatii wątrobowej i hipersplenizmu. U pacjentów z marskością, z powodu rozszerzenia naczyń obwodowych, ciśnienie tętnicze systemowe jest zazwyczaj niskie lub prawidłowe, a nie podwyższone."
+    },
+    {
+        "question": "Jakie są mikronaczyniowe powikłania cukrzycy? 1. retinopatia cukrzycowa, 2. zaćma, 3. nefropatia cukrzycowa, 4. miażdżyca tt. wieńcowych",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "1, 3",
+            "b": "1, 2, 3",
+            "c": "1, 3, 4"
+        },
+        "answer": "a",
+        "justification": "Do klasycznych powikłań mikronaczyniowych (mikroangiopatii) cukrzycy należą retinopatia (uszkodzenie siatkówki) i nefropatia (uszkodzenie nerek). Neuropatia również jest zaliczana do tej grupy. Miażdżyca tętnic wieńcowych to powikłanie makronaczyniowe. Zaćma, choć częstsza u cukrzyków, nie jest klasyfikowana jako powikłanie mikronaczyniowe."
+    },
+    {
+        "question": "Nadczynność tarczycy, wole toksyczne. Co nie będzie objawem?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "obrzęk przedgoleniowy",
+            "b": "nerwowość",
+            "c": "kołatanie serca",
+            "d": "pot",
+            "e": "biegunka"
+        },
+        "answer": "a",
+        "justification": "Obrzęk przedgoleniowy (dermopatia tarczycowa) jest objawem specyficznym dla choroby Gravesa-Basedowa, a nie dla każdej nadczynności tarczycy (np. wola guzkowego toksycznego). Pozostałe objawy są niespecyficzne i występują w każdej tyreotoksykozie."
+    },
+    {
+        "question": "W których schorzeniach traci się masę ciała? 1. Addison, 2. cukrzyca typu 1, 3. cukrzyca typu 2, 4. Hashimoto, 5. rozsiany rak żołądka",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "1, 2, 5",
+            "b": "1, 2, 3, 5",
+            "c": "1, 5"
+        },
+        "answer": "a",
+        "justification": "Utrata masy ciała jest typowa dla choroby Addisona (niedoczynność kory nadnerczy), niewyrównanej cukrzycy typu 1 oraz zaawansowanych chorób nowotworowych. W cukrzycy typu 2 częściej obserwuje się nadwagę/otyłość. W chorobie Hashimoto (niedoczynność tarczycy) typowy jest przyrost masy ciała."
+    },
+    {
+        "question": "Pacjent z chorobą Gravesa-Basedowa. Zgłasza: owrzodzenie na migdałkach, białe naloty w j.u., gorączka, przyjmuje tyreostatyki. Jakie badania zlecić?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "TSH",
+            "b": "TSH i fT4",
+            "c": "morfologię krwi obwodowej",
+            "d": "inne"
+        },
+        "answer": "c",
+        "justification": "Opisane objawy (gorączka, zmiany w gardle) u pacjenta leczonego tyreostatykami (np. tiamazolem) budzą podejrzenie agranulocytozy - groźnego, choć rzadkiego powikłania tej terapii. Należy natychmiast odstawić lek i wykonać morfologię krwi z rozmazem w celu oceny liczby neutrofili."
+    },
+    {
+        "question": "Sinica centralna 1. nigdy na błonach śluzowych 2. nie występuje u osób z ciężką niedokrwistością 3. zawsze powoduje zagrożenie życia 4. Hb odtlenowana >5 g/dl 5. głównie w obrębie trójkąta Fiłatowa",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "2, 4",
+            "b": "4, 5",
+            "c": "2, 3, 4"
+        },
+        "answer": "a",
+        "justification": "Sinica centralna pojawia się, gdy stężenie odtlenowanej hemoglobiny we krwi włośniczkowej przekracza 5 g/dl (stwierdzenie 4). Z tego powodu może być niewidoczna u osób z ciężką niedokrwistością, mimo ciężkiej hipoksemii (stwierdzenie 2). Widoczna jest na dobrze ukrwionych błonach śluzowych (język, wargi). Stwierdzenia 1, 3 i 5 są fałszywe."
+    },
+    {
+        "question": "Kiedy rozpoznajemy nadciśnienie tętnicze? Jeśli na dwóch odrębnych wizytach średnia przekracza lub jest równa",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "140/90",
+            "b": "inne",
+            "c": "inne"
+        },
+        "answer": "a",
+        "justification": "Zgodnie z definicją, nadciśnienie tętnicze rozpoznaje się, gdy średnie wartości ciśnienia tętniczego, zmierzone podczas co najmniej dwóch różnych wizyt, wynoszą ≥ 140 mmHg dla ciśnienia skurczowego i/lub ≥ 90 mmHg dla ciśnienia rozkurczowego."
+    },
+    {
+        "question": "OGTT w 2 h i wynik 164 - jakie rozpoznanie?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "cukrzyca",
+            "b": "nieprawidłowa glikemia na czczo",
+            "c": "nieprawidłowa tolerancja glukozy"
+        },
+        "answer": "c",
+        "justification": "Wynik testu obciążenia glukozą (OGTT) w 120. minucie w przedziale 140-199 mg/dl świadczy o nieprawidłowej tolerancji glukozy (IGT), która jest stanem przedcukrzycowym."
+    },
+    {
+        "question": "Kiedy zwiększone ryzyko IZW? 1. wada wrodzona serca 2. niedomykalność zastawki z wypadaniem płatka 3. stan po reumatycznym zapaleniu wsierdzia",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "1, 3",
+            "b": "1, 2",
+            "c": "1, 2, 3"
+        },
+        "answer": "c",
+        "justification": "Do grupy wysokiego ryzyka infekcyjnego zapalenia wsierdzia (IZW), wymagającej profilaktyki antybiotykowej, należą pacjenci ze sztucznymi zastawkami, po przebytym IZW oraz z niektórymi wrodzonymi wadami serca. Wypadanie płatka zastawki mitralnej z niedomykalnością również jest czynnikiem ryzyka (choć niższej kategorii). Stan po gorączce reumatycznej z wadą zastawkową także. Wszystkie wymienione stany zwiększają ryzyko."
+    },
+    {
+        "question": "Jak sprawdzić efekty leczenie cukrzycy po 3 miesiącach?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "HbA1c",
+            "b": "inne",
+            "c": "inne"
+        },
+        "answer": "a",
+        "justification": "Hemoglobina glikowana (HbA1c) odzwierciedla średnie stężenie glukozy we krwi w ciągu ostatnich 2-3 miesięcy. Jest to najlepszy wskaźnik do oceny długoterminowej kontroli glikemii i efektywności leczenia cukrzycy."
+    },
+    {
+        "question": "Komu nie damy antybiotyku przed wszczepieniem implantu?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "pacjent z wszczepioną 2 miesiące wcześniej zastawką",
+            "b": "pacjent po 2x ostrym zawale serca i na insulinie (cukrzyca 2 typu).",
+            "c": "Pacjent z niezoperowaną siniczą wadą serca",
+            "d": "Pacjent po operacji siniczej wady serca 2 miesiące wcześniej."
+        },
+        "answer": "b",
+        "justification": "Profilaktyka antybiotykowa IZW jest wskazana u pacjentów z grupy najwyższego ryzyka, do której należą pacjenci ze sztuczną zastawką (a, d) i nieskorygowaną siniczą wadą serca (c). Pacjent z cukrzycą i po zawale nie należy do grupy wysokiego ryzyka IZW i nie wymaga rutynowej profilaktyki przed zabiegami stomatologicznymi."
+    },
+    {
+        "question": "Choroba Addisona - wskaż fałszywe",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "utrata masy ciała",
+            "b": "objawy w jamie ustnej daje",
+            "c": "chory chce spożywać słone pokarmy",
+            "d": "hipotonia ortostatyczna",
+            "e": "wszystkie są prawdziwe"
+        },
+        "answer": "e",
+        "justification": "Pytanie prosi o wskazanie fałszywego, ale wszystkie podane objawy są prawdziwe dla choroby Addisona: utrata masy ciała, przebarwienia w jamie ustnej, głód soli, hipotonia ortostatyczna. Zatem pytanie jest błędnie sformułowane. Jeśli trzeba wybrać, to być może chodzi o to, że nie *wszyscy* chorzy mają wszystkie te objawy, ale są one typowe."
+    },
+    {
+        "question": "Najczęstszy czynnik etiologiczny zakażeń układu moczowego?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "E.coli",
+            "b": "inne",
+            "c": "inne"
+        },
+        "answer": "a",
+        "justification": "Escherichia coli jest odpowiedzialna za zdecydowaną większość (ok. 80-90%) niepowikłanych, pozaszpitalnych zakażeń układu moczowego."
+    }
+]
