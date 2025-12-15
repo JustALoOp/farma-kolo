@@ -792,8 +792,128 @@
         },
         "answer": "C",
         "justification": "Wycisk anatomiczny (diagnostyczny) musi dać pełny obraz pola protetycznego, aby można było zaplanować tor wprowadzania protezy (paralelometria) i zasięg płyty. Musi więc obejmować wszystkie struktury twarde i miękkie."
+    },
+[
+    {
+        "question": "Do oznak nadmiernego podparcia wargi górnej w trakcie ustalania zwarcia centralnego (i przymiarki woskowej) należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Napięty, naciągnięty wygląd warg i wygładzenie rynienki podnosowej",
+            "B": "Zanik bruzd: bródkowo-nosowej i nosowo-wargowej",
+            "C": "Redukcja czerwieni wargowej (wąskie wargi)",
+            "D": "Opadanie kątów ust",
+            "E": "Pogłębienie bruzd nosowo-wargowych"
+        },
+        "answer": "A",
+        "justification": "Nadmierne wysunięcie wału woskowego lub zębów przednich do przodu powoduje 'wypchanie' wargi górnej. Objawia się to zatarciem naturalnych zagłębień (rynienki podnosowej philtrum), napiętą skórą i trudnością w swobodnym złączeniu warg. (Zanik bruzd nosowo-wargowych jest pożądany w pewnym stopniu dla odmłodzenia, ale ich całkowite wygładzenie i nienaturalne napięcie to błąd. Opadanie kątów ust to cecha zbyt niskiego zwarcia/słabego podparcia)."
+    },
+    {
+        "question": "W procesie polimeryzacji akrylu inicjowanej chemicznie (polimeryzacja na zimno), aktywatorem rozpadu nadtlenku benzoilu jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ciepło (temperatura powyżej 65°C)",
+            "B": "Światło widzialne",
+            "C": "Związek z grupy trzeciorzędowych amin (np. dwumetylo-p-toluidyna)",
+            "D": "Hydrochinon",
+            "E": "Alkohol etylowy"
+        },
+        "answer": "C",
+        "justification": "W akrylach samopolimeryzujących (chemoutwardzalnych) inicjator (nadtlenek benzoilu w proszku) jest aktywowany chemicznie przez aktywator znajdujący się w płynie (monomerze). Jest nim zazwyczaj trzeciorzędowa amina (np. N,N-dwumetylo-p-toluidyna), która powoduje rozpad nadtlenku na wolne rodniki w temperaturze pokojowej. (Hydrochinon to inhibitor zapobiegający samoistnej polimeryzacji w butelce)."
+    },
+    {
+        "question": "Zenit zęba (najbardziej dowierzchołkowy punkt linii szyjki) w siekaczach centralnych górnych znajduje się zazwyczaj:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Idealnie na środku szerokości zęba",
+            "B": "Nieznacznie przesunięty dystalnie względem długiej osi zęba",
+            "C": "Nieznacznie przesunięty mezjalnie",
+            "D": "Na tej samej wysokości co w siekaczach bocznych",
+            "E": "Brak reguły"
+        },
+        "answer": "B",
+        "justification": "W estetyce stomatologicznej przyjmuje się (wg reguł Gurela i innych), że zenit dziąsła dla siekacza centralnego (11, 21) oraz kła (13, 23) znajduje się lekko dystalnie od długiej osi zęba. Dla siekacza bocznego (12, 22) zenit leży zazwyczaj na środku osi zęba."
+    },
+    {
+        "question": "Ogrzewanie masy ogniotrwałej z zatopionym modelem woskowym (w technice protez szkieletowych) wykonuje się, aby:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zwiększyć ekspansję higroskopijną masy",
+            "B": "Wytopić wosk i doprowadzić do ekspansji termicznej masy w celu skompensowania skurczu odlewniczego metalu",
+            "C": "Zahartować formę",
+            "D": "Zmniejszyć porowatość odlewu",
+            "E": "Tylko w celu usunięcia wosku"
+        },
+        "answer": "B",
+        "justification": "Metale (szczególnie stopy Cr-Co) kurczą się podczas stygnięcia (skurcz odlewniczy ok. 2-2.3%). Aby odlew pasował na model gipsowy, forma ogniotrwała musi zostać powiększona (ekspansja) przed wlaniem metalu. Osiąga się to głównie przez ekspansję termiczną (podgrzewanie w piecu) oraz ekspansję wiązania/higroskopijną masy osłaniającej."
+    },
+    {
+        "question": "Głębokość podcienia retencyjnego (undercut) wymagana dla standardowej klamry lanej ze stopu Cr-Co (np. klamra Ackera) wynosi:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "0,25 mm",
+            "B": "0,5 mm",
+            "C": "0,75 mm",
+            "D": "1,0 mm",
+            "E": "2,0 mm"
+        },
+        "answer": "A",
+        "justification": "Klamry lane ze stopów chromowo-kobaltowych są sztywne (mały moduł elastyczności). Aby nie wywierały destrukcyjnych sił na ząb podczas zdejmowania protezy, ich końcówka retencyjna nie może wchodzić w głębokie podcienie. Standardem jest 0,25 mm (ewentualnie do 0,3 mm). Dla klamer doginanych (stal) dopuszcza się 0,5 mm, a dla złota 0,5-0,75 mm."
+    },
+    {
+        "question": "Utrwalanie modelu gipsowego (np. wtórnego pod protezę szkieletową) w roztworze mydła (mydlenie) ma na celu:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wzmocnienie powierzchni modelu i izolację przed przywieraniem wosku/masy powielającej",
+            "B": "Zwiększenie ekspansji gipsu",
+            "C": "Ułatwienie uwalniania modelu z puszki",
+            "D": "Zmianę koloru gipsu",
+            "E": "Dezynfekcję modelu"
+        },
+        "answer": "A",
+        "justification": "Mydlenie modelu (kąpiel w ciepłym roztworze mydła szarego) tworzy na powierzchni gipsu nierozpuszczalne mydła wapniowe. Zamyka to pory gipsu, utwardza powierzchnię i nadaje jej poślizg (izolacja), co jest kluczowe np. przy wykonywaniu modelu powielanego masą agarową (agar nie przywiera do gipsu)."
+    },
+    {
+        "question": "Wskazaniem do wykonania licówek porcelanowych NIE jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Przebarwienie korony zęba oporne na wybielanie (np. po antybiotykach)",
+            "B": "Korekta kształtu zęba (np. zęby stożkowe)",
+            "C": "Zamknięcie diastemy",
+            "D": "Ząb martwy, mocno przebarwiony, po leczeniu kanałowym z dużym zniszczeniem tkanek",
+            "E": "Niewielkie pęknięcia szkliwa"
+        },
+        "answer": "D",
+        "justification": "Zęby martwe, mocno przebarwione i zniszczone (duże wypełnienia) są przeciwwskazaniem do licówek ze względu na ryzyko złamania osłabionej korony oraz trudność w maskowaniu bardzo ciemnego zęba cienką warstwą ceramiki. W takich przypadkach (szczególnie po RCT) zaleca się korony pełnoceramiczne."
+    },
+    {
+        "question": "Która z niżej wymienionych mas wyciskowych jest PRZECIWWSKAZANA do wykonywania wycisku pod protezę szkieletową (model roboczy):",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Masa agarowa",
+            "B": "Masa polieterowa",
+            "C": "Masa silikonowa addycyjna",
+            "D": "Masa alginatowa (jako wycisk anatomiczny)",
+            "E": "Masa tlenkowo-cynkowo-eugenolowa"
+        },
+        "answer": "E",
+        "justification": "Masa tlenkowo-cynkowo-eugenolowa (np. Repin) jest sztywna po związaniu i krucha. Nadaje się tylko do wycisków na bezzębiu (protezy całkowite). W przypadku protez szkieletowych (obecność zębów, podcieni) wyjęcie takiej masy z jamy ustnej jest niemożliwe bez jej połamania lub uszkodzenia przyzębia/zębów. Do szkieletów używa się mas elastycznych (silikony, polietery, alginaty, agar)."
+    },
+    {
+        "question": "Cementy karboksylowe charakteryzują się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Chemicznym połączeniem ze szkliwem i zębiną (adhezja swoista)",
+            "B": "Brakiem adhezji do tkanek twardych",
+            "C": "Bardzo wysoką rozpuszczalnością w wodzie",
+            "D": "Działaniem drażniącym na miazgę silniejszym niż cement fosforanowy",
+            "E": "Przezroczystością"
+        },
+        "answer": "A",
+        "justification": "Cement polikarboksylowy był pierwszym systemem wykazującym chemiczną adhezję do struktury zęba (grupy karboksylowe wiążą się z wapniem w szkliwie i zębinie). Jest też stosunkowo łagodny dla miazgi (duża cząsteczka kwasu poliakrylowego nie penetruje kanalików tak łatwo jak kwas fosforowy)."
     }
 ]
+]
+
 
 
 
