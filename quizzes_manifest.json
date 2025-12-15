@@ -70,5 +70,11 @@
         "title": "Pytania z notatek",
         "subject": "Interna",
         "file": "Interna/interna_notatki.json"
+    },
+    {
+        "id": "protetyka_1",
+        "title": "Protetyka 1",
+        "subject": "Protetyka",
+        "file": "Protetyka/protetyka_1.json"
     }
 ]
