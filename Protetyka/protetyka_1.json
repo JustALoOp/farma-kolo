@@ -622,7 +622,7 @@
             "E": "Tylko A i C"
         },
         "answer": "D",
-        "justification": "Skurcz polimeryzacyjny powoduje, że akryl 'ucieka' od modelu, co jest najbardziej widoczne na podniebieniu (odstawanie). Uszczelnienie tylne ("Ah-linia", post-dam) wykonuje się właśnie po to, aby skompensować ten skurcz i zapewnić szczelność. Zbyt wczesne wyjęcie protezy może prowadzić do deformacji termicznych/naprężeń."
+        "justification": "Skurcz polimeryzacyjny powoduje, że akryl 'ucieka' od modelu, co jest najbardziej widoczne na podniebieniu (odstawanie). Uszczelnienie tylne (Ah-linia, post-dam) wykonuje się właśnie po to, aby skompensować ten skurcz i zapewnić szczelność. Zbyt wczesne wyjęcie protezy może prowadzić do deformacji termicznych/naprężeń."
     },
     {
         "question": "System RPI (Rest, Proximal Plate, I-bar) składa się z:",
@@ -794,6 +794,7 @@
         "justification": "Wycisk anatomiczny (diagnostyczny) musi dać pełny obraz pola protetycznego, aby można było zaplanować tor wprowadzania protezy (paralelometria) i zasięg płyty. Musi więc obejmować wszystkie struktury twarde i miękkie."
     }
 ]
+
 
 
 
