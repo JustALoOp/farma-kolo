@@ -493,7 +493,177 @@
         },
         "answer": "C",
         "justification": "Chociaż proste protezy szkieletowe przy brakach międzyzębowych można wykonać na podstawie wycisku alginatowego, to w przypadku braków skrzydłowych (Klasa I i II Kennedy'ego) kluczowe jest prawidłowe odwzorowanie zasięgu płyty i ugięcia błony śluzowej. Dlatego zaleca się wyciski na łyżkach indywidualnych (masy silikonowe, tiokolowe lub alginatowe wysokiej klasy) lub metodę wycisku dzielonego (alter-cast), aby zapewnić równomierne podparcie na zębach i błonie śluzowej."
+    },
+    {
+        "question": "W metodzie wtryskowego formowania (np. system Ivocap) w porównaniu do metody tradycyjnego puszkowania akrylu:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Skurcz polimeryzacyjny jest kompensowany przez ciągłe dotłaczanie materiału pod ciśnieniem w trakcie polimeryzacji",
+            "B": "Nie dochodzi do podwyższenia zwarcia, ponieważ kuweta jest skręcona 'metal do metalu' przed wtryskiem",
+            "C": "Zawartość monomeru resztkowego jest zazwyczaj mniejsza",
+            "D": "Wszystkie odpowiedzi są prawidłowe",
+            "E": "Tylko A i B są prawidłowe"
+        },
+        "answer": "D",
+        "justification": "Metoda wtryskowa (np. SR Ivocap) eliminuje główne wady metody tradycyjnej (prasowania). Skurcz polimeryzacyjny jest kompensowany przez ciągły dopływ akrylu z naboju pod ciśnieniem. Puszki są skręcone idealnie (metal-metal), co zapobiega podwyższeniu zwarcia (które w metodzie tradycyjnej wynika z niedociśnięcia połówek puszki przez nadmiar ciasta). Polimeryzacja w kontrolowanej temperaturze i czasie redukuje ilość monomeru resztkowego."
+    },
+    {
+        "question": "Zgodnie z klasyfikacją Eichnera, strefy podparcia to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Kontakt zębów przednich",
+            "B": "Kontakt zębów przedtrzonowych i trzonowych w zwarciu (strefy boczne)",
+            "C": "Tylko kontakt zębów trzonowych",
+            "D": "Obszary bezzębne na wyrostku",
+            "E": "Brak prawidłowej odpowiedzi"
+        },
+        "answer": "B",
+        "justification": "W klasyfikacji Eichnera wyróżniamy 4 strefy podparcia w odcinkach bocznych (po dwie z każdej strony: okolica przedtrzonowców i trzonowców). To zachowane kontakty antagonistyczne w tych strefach decydują o przynależności do grupy A (4 strefy), B (1-3 strefy) lub C (brak stref podparcia). Zęby przednie nie są zaliczane do stref podparcia w tej klasyfikacji."
+    },
+    {
+        "question": "Podczas polimeryzacji akrylu, zjawisko 'gwałtownego wrzenia monomeru' (porowatość gazowa) zachodzi, gdy temperatura wewnątrz masy przekroczy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "60°C",
+            "B": "70°C",
+            "C": "100,3°C",
+            "D": "120°C",
+            "E": "37°C"
+        },
+        "answer": "C",
+        "justification": "Temperatura wrzenia monomeru metakrylanu metylu (MMA) wynosi około 100,3°C - 100,8°C. Reakcja polimeryzacji jest egzotermiczna. Jeśli temperatura kąpieli wodnej zostanie podniesiona zbyt szybko, ciepło reakcji + ciepło z zewnątrz sprawią, że temperatura w środku bloku akrylu przekroczy ten punkt, powodując parowanie monomeru i powstanie porowatości."
+    },
+    {
+        "question": "Ząb 'różowy' (pink tooth) w protezie może być wynikiem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zafarbowania zęba akrylowego przez barwniki spożywcze",
+            "B": "Zbyt cienkiej warstwy akrylu na podniebieniu",
+            "C": "Przemieszczenia się zęba w gipsie lub wypłukania izolatora, co skutkuje wniknięciem różowego akrylu płyty w strukturę zęba lub na jego powierzchnię",
+            "D": "Użycia zębów porcelanowych",
+            "E": "Brak prawidłowej odpowiedzi"
+        },
+        "answer": "C",
+        "justification": "Jeśli zęby nie są stabilnie osadzone w gipsie przed wyparzeniem wosku lub jeśli izolator zostanie uszkodzony/źle nałożony, płynne ciasto akrylowe (różowe) może wpłynąć na powierzchnię szyjkową lub licową zęba sztucznego, trwale go przebarwiając, lub ząb może się przesunąć w głąb różowego tworzywa."
+    },
+    {
+        "question": "W protezach szkieletowych, klamra Bonvilla (zespołowa) składa się z:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Dwóch klamer trójramiennych połączonych cierniami na sąsiednich zębach",
+            "B": "Jednego ramienia retencyjnego i dwóch cierni",
+            "C": "Klamry pierścieniowej i klamry typu T",
+            "D": "Klamry RPI i belki",
+            "E": "Zatrzasku kulowego"
+        },
+        "answer": "A",
+        "justification": "Klamra Bonvilla to tzw. klamra podwójna (zespołowa), stosowana zazwyczaj w II klasie Kennedy'ego (braki jednostronne) po stronie zachowanych zębów, aby uzyskać dobrą retencję i stabilizację. Konstrukcyjnie są to dwie klamry G (trójramienne) na sąsiadujących zębach (np. 6 i 7), połączone wspólnym oparciem (cierniem) i ramionami."
+    },
+    {
+        "question": "Która z niżej wymienionych metod polimeryzacji akrylu minimalizuje ilość monomeru resztkowego?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Polimeryzacja krótkoczasowa (wrzątek przez 20 min)",
+            "B": "Polimeryzacja długoczasowa w niższej temperaturze (np. 70-75°C przez 9h) z końcowym wygotowaniem (100°C przez 30-60 min)",
+            "C": "Polimeryzacja w temperaturze pokojowej (samopolimeryzacja)",
+            "D": "Polimeryzacja światłem",
+            "E": "Wszystkie dają ten sam wynik"
+        },
+        "answer": "B",
+        "justification": "Długi cykl polimeryzacji w niższej temperaturze pozwala na zużycie większości inicjatora bez gwałtownego wzrostu temperatury (uniknięcie porowatości), a końcowe podniesienie temperatury do wrzenia (tzw. terminal boil) zwiększa ruchliwość łańcuchów polimeru i pozwala przereagować pozostałym cząsteczkom monomeru, co drastycznie obniża jego poziom resztkowy."
+    },
+    {
+        "question": "Wskaż prawidłowe stwierdzenie dotyczące analizy modelu w paralelometrze:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Tor wprowadzania protezy zawsze pokrywa się z osią długą zębów",
+            "B": "Zmiana nachylenia modelu (tilt) zmienia przebieg linii największej wypukłości (linii imiennej) na zębach",
+            "C": "Analizator służy tylko do wyznaczania toru wprowadzania, nie służy do frezowania",
+            "D": "Podcienie mierzy się cyrklem",
+            "E": "Płaszczyzna zgryzowa musi być zawsze pozioma"
+        },
+        "answer": "B",
+        "justification": "To kluczowa zasada paralelometrii. Pochylając model (tył, przód, boki), zmieniamy relację zęba do pionowego rysika analizatora. Dzięki temu możemy 'przesuwać' linię największej wypukłości, aby uzyskać lepsze podcienie retencyjne lub wyeliminować podcienie niepożądane (martwe strefy) na powierzchniach prowadzących."
+    },
+    {
+        "question": "Podparcia okluzyjne (ciernie) w protezach szkieletowych powinny przenosić siły:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prostopadle do długiej osi zęba",
+            "B": "Równolegle do długiej osi zęba (osiowo)",
+            "C": "Skośnie, wyważając ząb",
+            "D": "Wyłącznie na błonę śluzową",
+            "E": "Nie mają znaczenia dla przenoszenia sił"
+        },
+        "answer": "B",
+        "justification": "Zadaniem podparcia (ciernia) jest przenoszenie sił żucia z protezy na ozębną zęba filarowego. Fizjologicznie ozębna najlepiej znosi siły działające wzdłuż długiej osi zęba. Dlatego dno łoża pod cierń powinno być tak ukształtowane (kąt <90 stopni względem ramienia łączącego), aby siła była kierowana osiowo."
+    },
+    {
+        "question": "Jaka jest minimalna odległość górnego brzegu dużej klamry (łuku podjęzykowego) od brzegu dziąsła brzeżnego w żuchwie?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "0-1 mm",
+            "B": "Minimum 3-4 mm (a wg niektórych źródeł 5 mm)",
+            "C": "Może dotykać dziąsła",
+            "D": "10 mm",
+            "E": "Nie ma to znaczenia"
+        },
+        "answer": "B",
+        "justification": "Łuk podjęzykowy (lingual bar) musi być oddalony od brzegu dziąsła brzeżnego o co najmniej 3-4 mm (standardowo przyjmuje się 4 mm), aby nie uciskać przyzębia brzeżnego i umożliwić samooczyszczanie śliną. Jeśli dno jamy ustnej jest zbyt płytkie (odległość od brzegu dziąsła do dna < 7-8 mm), należy zastosować płytę językową (lingual plate)."
+    },
+    {
+        "question": "Przyczyną odstającej płyty protezy całkowitej od podniebienia (szczelina na tylnej granicy) może być:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Skurcz polimeryzacyjny akrylu",
+            "B": "Zbyt wczesne rozpuszkowanie protezy",
+            "C": "Brak wykonania uszczelnienia tylnego (post-dam) na modelu",
+            "D": "Wszystkie wymienione czynniki",
+            "E": "Tylko A i C"
+        },
+        "answer": "D",
+        "justification": "Skurcz polimeryzacyjny powoduje, że akryl 'ucieka' od modelu, co jest najbardziej widoczne na podniebieniu (odstawanie). Uszczelnienie tylne ("Ah-linia", post-dam) wykonuje się właśnie po to, aby skompensować ten skurcz i zapewnić szczelność. Zbyt wczesne wyjęcie protezy może prowadzić do deformacji termicznych/naprężeń."
+    },
+    {
+        "question": "System RPI (Rest, Proximal Plate, I-bar) składa się z:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ciernia na powierzchni mezjalnej, płyty prowadzącej dystalnej i klamry typu I (dojście ododziąsłowe)",
+            "B": "Ciernia dystalnego i klamry G",
+            "C": "Klamry pętlowej i dwóch cierni",
+            "D": "Zatrzasku i korony",
+            "E": "Ciernia na powierzchni dystalnej i klamry T"
+        },
+        "answer": "A",
+        "justification": "System RPI (wg Kratochvila/Krolla) to klasyczne rozwiązanie dla braków skrzydłowych. Składa się z: R (Rest) - ciernia mezjalnego (zmienia punkt obrotu, odciąża dystalną część zęba), P (Proximal Plate) - płyty proksymalnej od strony luki, I (I-bar) - klamry belkowej typu I dochodzącej do podcienia od strony dziąsła. Taka konstrukcja minimalizuje siły wyważające ząb filarowy."
+    },
+    {
+        "question": "W przypadku pacjenta z silnym odruchem wymiotnym, do pobrania wycisku anatomicznego najlepiej użyć:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Gipsu wyciskowego",
+            "B": "Masy alginatowej szybkowiążącej (fast set)",
+            "C": "Masy silikonowej o długim czasie wiązania",
+            "D": "Wosku",
+            "E": "Żadnej, nie pobiera się wycisku"
+        },
+        "answer": "B",
+        "justification": "Kluczem przy odruchu wymiotnym jest skrócenie czasu manipulacji w jamie ustnej. Alginat 'fast set' wiąże szybko, jest neutralny w smaku i łatwy do usunięcia. Należy również zadbać o postawę pacjenta (pochylenie do przodu), oddychanie przez nos i unikanie nadmiaru masy na podniebieniu miękkim."
+    },
+    {
+        "question": "W metodzie wrocławskiej (i innych metodach czynnościowych) test 'szerokiego otwarcia ust' służy do ukształtowania:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Odcinka przedniego (wargowego) łyżki",
+            "B": "Odcinka bocznego (policzkowego) w rejonie napinania się wyrostka dziobiastego żuchwy (dla szczęki) i fałdów skrzydłowo-żuchwowych",
+            "C": "Uszczelnienia tylnego",
+            "D": "Wędzidełka języka",
+            "E": "Tylko wędzidełka wargi dolnej"
+        },
+        "answer": "B",
+        "justification": "Szerokie otwarcie ust powoduje napięcie więzadła skrzydłowo-żuchwowego oraz przemieszczenie wyrostka dziobiastego żuchwy do przodu, co może spychać protezę górną w odcinku dystalno-policzkowym (za guzem szczęki). W żuchwie może napinać mięśnie dna jamy ustnej. Test ten koryguje grubość i zasięg w tych newralgicznych strefach."
     }
 ]
+
 
 
