@@ -181,5 +181,188 @@
         },
         "answer": "D",
         "justification": "Patrz uzasadnienie do pytania nr 4. Metoda połykowa ustala zwarcie centralne i wysokość zwarcia. Często w kluczach testowych 'A i C' (gdzie C to centralne położenie żuchwy) jest wskazywane jako poprawne, mimo że połykanie jest czynnością pasywną (odruchową), a nie 'metodą aktywną' w sensie sterowania ręką lekarza. Jednak w kontekście opcji D, jest to najczęstsza odpowiedź egzaminacyjna."
+    },
+    {
+        "question": "Według koncepcji Frusha i Fishera (SPA) dotyczącej doboru zębów przednich, wskaż zdanie NIEPOPRAWNIE opisujące cechy zębów męskich i kobiecych:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Według Frusha typowo kobiece zęby przednie najszersze są na poziomie dolnej 1/3 korony zęba (bliżej brzegu siecznego), natomiast zęby typowo męskie w połowie zęba lub górnej 1/3 jego długości",
+            "B": "Według Frusha typowo męskie zęby przednie najszersze są na poziomie dolnej 1/3 korony zęba (bliżej brzegu siecznego), natomiast zęby typowo żeńskie w połowie zęba lub górnej 1/3 jego długości",
+            "C": "Przyjmuje się, że zaokrąglone i wypukłe linie kojarzą się z kobiecym typem zębów",
+            "D": "Linie proste i kształty kanciaste kojarzą się z męskim typem zębów",
+            "E": "Odp. C i D są prawidłowe"
+        },
+        "answer": "B",
+        "justification": "W koncepcji Frusha i Fishera (dentogenika) zęby kobiece charakteryzują się liniami zaokrąglonymi i zwężaniem się ku szyjce (co sprawia, że optycznie najszersze są w okolicy brzegu siecznego). Zęby męskie są bardziej kanciaste, 'kwadratowe' (proste boki), co oznacza, że masa zęba jest rozłożona bardziej równomiernie lub punkt ciężkości leży wyżej. Zdanie B odwraca tę zależność, przypisując cechę 'najszersze przy brzegu siecznym' typowo męskim zębom w kontraście do żeńskich."
+    },
+    {
+        "question": "W klasyfikacji przypadków protetycznych według Majewskiego (stopień trudności diagnostyczno-terapeutycznego):",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Nie uwzględnia morfologiczno-fizjologicznych warunków podłoża śluzówkowego",
+            "B": "Określa wzajemny stosunek wyrostków zębodołowych szczęk i żuchwy względem siebie i płaszczyzny Campera",
+            "C": "Wyróżnia 3 grupy przypadków",
+            "D": "Uwzględnia wiek, stan zdrowia pacjenta oraz jego cechy osobowości",
+            "E": "Prawidłowe odp. B i C"
+        },
+        "answer": "C",
+        "justification": "Klasyfikacja trudności przypadków protetycznych wg Majewskiego dzieli pacjentów na trzy grupy prognostyczne (I – dobre rokowanie, II – niepewne/trudne warunki miejscowe lub ogólne, III – złe rokowanie/bardzo trudne warunki miejscowe i ogólne). Uwzględnia ona zarówno warunki anatomiczne (zanik), jak i psychologiczne."
+    },
+    {
+        "question": "Wskaż prawidłową kolejność etapów wycisku wybiórczo-odciążającego wg Kozłowskiego:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "4, 1, 7, 5, 2, 6, 8, 9, 3",
+            "B": "4, 1, 5, 7, 2, 8, 6, 9, 3",
+            "C": "4, 1, 5, 7, 2, 6, 8, 9, 3",
+            "D": "4, 1, 5, 7, 2, 6, 8, 3, 9",
+            "E": "4, 1, 5, 7, 2, 6, 8, 9, 3"
+        },
+        "answer": "C",
+        "justification": "Metoda Kozłowskiego polega na wykonaniu wycisku anatomicznego (4), odalniu modelu gipsowego (1), zaznaczeniu miejsc odciążenia i pokryciu ich warstwą izolatora/gipsu na modelu (5), wykonaniu łyżki indywidualnej na tak przygotowanym modelu (7), a następnie pobraniu właściwego wycisku czynnościowego (2). Kolejność logiczna: anatomia -> model -> planowanie odciążeń -> łyżka -> wycisk."
+    },
+    {
+        "question": "Do przyczyn powstawania porowatości gazowej (kulistej) w protezach akrylowych należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zbyt mała ilość monomeru",
+            "B": "Upychanie zbyt gęstego ciasta akrylowego",
+            "C": "Niedokładne wymieszanie proszku z płynem",
+            "D": "Zbyt szybkie podnoszenie temperatury (wrzenie monomeru)",
+            "E": "Uwalnianie protezy z gorącej puszki"
+        },
+        "answer": "D",
+        "justification": "Porowatość gazowa powstaje, gdy temperatura polimeryzacji wzrasta zbyt gwałtownie, przekraczając temperaturę wrzenia monomeru (ok. 100,3°C). Monomer paruje wewnątrz masy, tworząc kuliste pęcherzyki. Zbyt mała ilość monomeru lub brak ciśnienia powoduje porowatość skurczową (nieregularną)."
+    },
+    {
+        "question": "Podczas ustalania zwarcia centralnego, do ustalenia równoległości między powierzchnią zgryzową a linią źrenic użyjesz:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Płytki Foxa",
+            "B": "Kaloty",
+            "C": "Cyrkla",
+            "D": "A i B",
+            "E": "A, B i C"
+        },
+        "answer": "A",
+        "justification": "Płytka Foxa to podstawowe narzędzie służące do oceny równoległości płaszczyzny zgryzowej wzornika górnego względem linii źrenic (w odcinku przednim) oraz płaszczyzny Campera (w odcinku bocznym)."
+    },
+    {
+        "question": "W klasyfikacji Supple'a, najgorsze warunki do protezowania (podłoże ruchome, zanikłe, zniszczone) występują w:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Typie I",
+            "B": "Typie II",
+            "C": "Typie III",
+            "D": "Typie IV",
+            "E": "Typach I i II"
+        },
+        "answer": "D",
+        "justification": "Klasyfikacja Supple'a: Typ I - podłoże idealne (wysokie wyrostki, błona nieruchoma). Typ II - podłoże zanikłe twarde (cienka błona, ból). Typ III - podłoże zanikłe miękkie (ruchome, flabby ridge). Typ IV - podłoże zniszczone, wyrostki zanikłe, ruchoma błona, przyczepy mięśni blisko szczytu. Typ IV stanowi najtrudniejsze warunki do protezowania (brak retencji i stabilizacji)."
+    },
+    {
+        "question": "W protezach szkieletowych przy obustronnych brakach skrzydłowych (Klasa I Kennedy'ego) w żuchwie z zębami granicznymi 44 i 34 należy zastosować podparcia:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Na powierzchniach mezjalnych zębów 44 i 34 (podparcia dalekie)",
+            "B": "Na powierzchniach dystalnych zębów 33 i 43 (podparcia bliskie)",
+            "C": "Na powierzchniach mezjalnych zębów 33 i 43",
+            "D": "Na powierzchniach dystalnych zębów 44 i 34 (podparcia bliskie)",
+            "E": "Wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "A",
+        "justification": "W przypadku braków skrzydłowych (Klasa I i II) zaleca się stosowanie podparć dalekich (na powierzchni mezjalnej zęba filarowego, z dala od luki). Pozwala to na swobodniejszą rotację protezy w kierunku dziąsłowym pod wpływem sił żucia, co zmniejsza działanie sił wyważających na ząb filarowy (zmniejsza moment obrotowy działający dystalnie)."
+    },
+    {
+        "question": "Klamry doginane w protezach częściowych osiadających wykonywane są najczęściej z:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Drutu stalowego okrągłego o średnicy 0,3-0,5mm",
+            "B": "Drutu chromowo-kobaltowego o średnicy 0,7mm",
+            "C": "Drutu okrągłego chromowo-niklowego (stal nierdzewna) o średnicy 0,7-0,9mm",
+            "D": "Drutu okrągłego chromowo-kobaltowego średnicy 1-1,5mm",
+            "E": "Drutu półokrągłego 0,3 mm"
+        },
+        "answer": "C",
+        "justification": "Standardowym materiałem na klamry doginane jest drut ze stali nierdzewnej (chromowo-niklowy) o przekroju okrągłym. Typowa średnica dla zębów trzonowych i przedtrzonowych to 0,7 mm do 0,9 mm (rzadziej 1,0 mm dla dużych trzonowców). Druty Cr-Co są zbyt sztywne do doginania (stosowane w odlewnictwie)."
+    },
+    {
+        "question": "Wskaż zdanie fałszywe dotyczące tlenku cyrkonu (cyrkonii) stosowanego w protetyce:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Czysty pierwiastek cyrkon pod względem chemicznym jest zaliczany do ceramiki",
+            "B": "Jest koloru białego",
+            "C": "W stomatologii zastosowanie znajduje postać tetragonalna stabilizowana itrem (Y-TZP)",
+            "D": "Podbudowa z tlenku cyrkonu może być frezowana w technologii CAD/CAM",
+            "E": "Wszystkie powyższe są prawdziwe"
+        },
+        "answer": "A",
+        "justification": "Cyrkon (Zr) to pierwiastek chemiczny będący metalem. W stomatologii stosujemy tlenek cyrkonu (ZrO2), który jest materiałem ceramicznym (ceramiką tlenkową). Stwierdzenie, że czysty cyrkon jest ceramiką, jest błędem chemicznym."
+    },
+    {
+        "question": "Ruchomego połączenia wzorników zwarciowych (w celu kontroli zwarcia) można dokonać poprzez:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Sklejenie ich rozgrzanym nożykiem do wosku",
+            "B": "Użycie kluczy zwarciowych (nacięć/rowków)",
+            "C": "Wtopienie w przedsionkowe powierzchnie wzorników zszywek",
+            "D": "Wszystkie odpowiedzi prawidłowe",
+            "E": "Brak prawidłowej odpowiedzi"
+        },
+        "answer": "B",
+        "justification": "Klucze zwarciowe (nacięcia w kształcie litery V lub rowki na powierzchniach zgryzowych wałów, posmarowane wazeliną i połączone np. silikonem lub gipsem, albo ukształtowane w wosku tak, by do siebie pasowały) pozwalają na wielokrotne, precyzyjne łączenie i rozłączanie wzorników. Sklejenie na gorąco tworzy połączenie stałe (nieruchome)."
+    },
+    {
+        "question": "W metodzie Marxkorsa (wycisk czynnościowy przy ustach otwartych/zamkniętych):",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Technika pobierania wycisku zakłada kształtowanie czynnościowe pobrzeży przez pacjenta w bardziej fizjologicznych warunkach – przy ustach otwartych",
+            "B": "Jeśli łyżka dolna po doprowadzeniu do strefy neutralnej przykrywa niewielkie pole protetyczne żuchwy nie zapewniając stabilizacji przyszłej protezie całkowitej, należy przygotować łyżkę do tzw. wycisku ekstensyjnego",
+            "C": "Masy do pobrania wycisku czynnościowe powinny mieć krótki czas wiązania by zwiększyć komfort pacjenta",
+            "D": "Pobieranie wycisków w 2 etapach nie jest nigdy wskazane",
+            "E": "Zasięg łyżki indywidualnej nigdy nie może przekraczać strefy neutralnej"
+        },
+        "answer": "B",
+        "justification": "Metoda Marxkorsa często wiąże się z koniecznością maksymalnego wykorzystania podłoża. Jeśli standardowy zasięg łyżki (ograniczony do grzbietu wyrostka) nie zapewnia retencji (np. w dużym zaniku), wykonuje się wycisk ekstensyjny, rozszerzając zasięg na strefy takie jak np. okolica podjęzykowa (skrzydełka motyla) czy trójkąty zatrzonowce, o ile pozwala na to strefa neutralna."
+    },
+    {
+        "question": "Zaznacz prawidłową informację dotyczącą powierzchni prowadzącej w protezach szkieletowych:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Jest powierzchnią dolnokątową",
+            "B": "Jest powierzchnią równoległą do analizatora",
+            "C": "Znajduje się w określonym stosunku przestrzennym względem powierzchni retencyjnej",
+            "D": "Jej szerokość jest równa co najmniej jednej ze ścian zęba oporowego",
+            "E": "Wszystkie powyższe"
+        },
+        "answer": "B",
+        "justification": "Powierzchnie prowadzące (guide planes) są preparowane na zębach filarowych tak, aby były wzajemnie równoległe do siebie i równoległe do toru wprowadzania protezy (który wyznacza pionowe ramię analizatora)."
+    },
+    {
+        "question": "Które z wymienionych elementów można stosować w protezach nakładowych (overdentures)?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zatrzaski (np. kulowe)",
+            "B": "Magnesy",
+            "C": "Korony teleskopowe",
+            "D": "Odpowiedzi A i C",
+            "E": "Wszystkie powyższe"
+        },
+        "answer": "E",
+        "justification": "Protezy typu overdenture mogą być utrzymywane na korzeniach lub implantach za pomocą różnych systemów retencyjnych: zaczepów kulowych (zatrzasków), belek, magnesów oraz koron teleskopowych."
+    },
+    {
+        "question": "Wycisk mukodynamiczny:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "To wycisk anatomiczny",
+            "B": "To wycisk czynnościowy",
+            "C": "Obejmuje błonę śluzową nieruchomą",
+            "D": "Obejmuje błonę śluzową ruchomą i nieruchomą",
+            "E": "Najczęściej dotyczy szczęki"
+        },
+        "answer": "D",
+        "justification": "Wycisk mukodynamiczny jest wyciskiem czynnościowym, który rejestruje nie tylko strefę podparcia (błona nieruchoma), ale przede wszystkim granice i zachowanie błony śluzowej ruchomej podczas funkcji, co pozwala na właściwe ukształtowanie brzeża protezy."
     }
 ]
+
