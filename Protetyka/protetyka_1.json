@@ -662,8 +662,139 @@
         },
         "answer": "B",
         "justification": "Szerokie otwarcie ust powoduje napięcie więzadła skrzydłowo-żuchwowego oraz przemieszczenie wyrostka dziobiastego żuchwy do przodu, co może spychać protezę górną w odcinku dystalno-policzkowym (za guzem szczęki). W żuchwie może napinać mięśnie dna jamy ustnej. Test ten koryguje grubość i zasięg w tych newralgicznych strefach."
+    },
+    {
+        "question": "Wycisk mukostatyczny (spoczynkowy) jest zalecany u pacjentów:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ze znacznym zanikiem wyrostka zębodołowego i cienką, zanikłą błoną śluzową (np. wg Supple typ II)",
+            "B": "Z przerostem błony śluzowej (flabby ridge)",
+            "C": "Zawsze przy protezach szkieletowych",
+            "D": "Tylko w szczęce",
+            "E": "Tylko w żuchwie"
+        },
+        "answer": "A",
+        "justification": "Wycisk mukostatyczny (pobierany bez ucisku tkanek, często masami rzadkopłynnymi np. pasta ZnOE, rzadki silikon) jest wskazany, gdy błona śluzowa jest cienka i wrażliwa na ucisk (atrofia), aby uniknąć jej deformacji i niedokrwienia pod protezą. W przypadku 'flabby ridge' (przerostów) również stosuje się technikę odciążającą (mukostatyczną w obrębie przerostu), ale klasyczne wskazanie to 'cienka błona na zanikłym podłożu'."
+    },
+    {
+        "question": "Wskaż zdanie nieprawdziwe dotyczące masy silikonowej typu C (kondensacyjnej):",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Reakcją uboczną wiązania jest uwalnianie alkoholu etylowego",
+            "B": "Wykazuje skurcz liniowy w czasie, dlatego model należy odlać stosunkowo szybko",
+            "C": "Jest to materiał hydrofilowy (bardzo dobrze zwilżalny przez wodę/gips)",
+            "D": "Składa się z bazy i katalizatora",
+            "E": "Jest mniej stabilna wymiarowo niż silikony A (addycyjne)"
+        },
+        "answer": "C",
+        "justification": "Silikony (zarówno C, jak i A) są z natury hydrofobowe (odpychają wodę), co utrudnia wylanie modelu gipsowego bez pęcherzyków powietrza (chyba że producent dodał surfaktanty, wtedy są 'hydrofilizowane', ale w bazie są hydrofobowe). Zdanie C jako ogólna cecha jest fałszywe w porównaniu np. do polieterów czy hydrokoloidów."
+    },
+    {
+        "question": "Podczas próbnego ustawienia zębów (w wosku) zauważono, że przy zwarciu zęby boczne kontaktują się, a w odcinku przednim występuje szpara (zgryz otwarty). Może to świadczyć o:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zbyt niskim ustawieniu zwarcia",
+            "B": "Podwyższeniu zwarcia w odcinku bocznym lub przemieszczeniu wałów woskowych",
+            "C": "Skurczu wosku",
+            "D": "Złym dobraniu koloru zębów",
+            "E": "Zbyt głębokim podniebieniu"
+        },
+        "answer": "B",
+        "justification": "Kontakt tylko na trzonowcach z otwarciem zgryzu z przodu to klasyczny objaw podwyższenia zwarcia w odcinku tylnym (przedwczesne kontakty). Może to wynikać z błędu przy rejestracji (pacjent zagryzł nierówno woski) lub przemieszczenia zębów."
+    },
+    {
+        "question": "W metodzie wrocławskiej (aktywnej) ustalania zwarcia centralnego, pacjent wykonuje ruch:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Cofania żuchwy przy pomocy języka skierowanego na podniebienie (dotylne)",
+            "B": "Połykania śliny",
+            "C": "Zagryzania na wały woskowe z siłą maksymalną",
+            "D": "Wysuwania żuchwy",
+            "E": "Brak prawidłowej odpowiedzi"
+        },
+        "answer": "A",
+        "justification": "W metodach aktywnych (sterowanych przez pacjenta, ale instruowanych) często prosi się pacjenta o dotknięcie czubkiem języka tylnej części podniebienia (lub wału górnego) i zamknięcie ust. To wymusza cofnięcie żuchwy do relacji centralnej."
+    },
+    {
+        "question": "Co to jest 'rebase' (podścielenie całościowe/wymiana płyty)?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wymiana całej płyty protezy z zachowaniem łuku zębowego i relacji zwarciowej",
+            "B": "Dodanie nowej warstwy akrylu tylko od strony dośluzówkowej (relining)",
+            "C": "Naprawa pękniętej protezy",
+            "D": "Wymiana tylko zębów w protezie",
+            "E": "Polerowanie protezy"
+        },
+        "answer": "A",
+        "justification": "Rebase (wymiana płyty) to proces, w którym usuwa się prawie całą starą płytę akrylową (pozostawiając tylko zęby w ich oryginalnym ustawieniu w indeksie gipsowym) i wykonuje nową płytę. Stosuje się to, gdy materiał płyty jest zniszczony, porowaty lub odbarwiony, a zęby i zwarcie są poprawne. (Relining to tylko podścielenie - opcja B)."
+    },
+    {
+        "question": "Zjawisko 'imbibicji' w masach wyciskowych dotyczy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Mas silikonowych i polega na uwalnianiu alkoholu",
+            "B": "Mas hydrokoloidalnych (alginat) i polega na chłonięciu wody, co powoduje pęcznienie",
+            "C": "Mas termoplastycznych i polega na twardnieniu pod wpływem zimna",
+            "D": "Gipsu i polega na wiązaniu",
+            "E": "Polimerów i polega na skurczu"
+        },
+        "answer": "B",
+        "justification": "Imbibicja to zdolność żeli (jak alginat) do wchłaniania rozpuszczalnika (wody), co prowadzi do zwiększenia objętości (pęcznienia) i zniekształcenia wycisku."
+    },
+    {
+        "question": "Kąt nachylenia drogi stawowej (w artykulatorze) ustala się zazwyczaj na podstawie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Rejestratu protruzyjnego (wysunięcia żuchwy)",
+            "B": "Rejestratu zwarcia centralnego",
+            "C": "Linii pośrodkowej",
+            "D": "Kształtu zębów przednich",
+            "E": "Linii kłów"
+        },
+        "answer": "A",
+        "justification": "W artykulatorach (półindywidualnych) kąt nachylenia drogi stawowej (saggital condylar inclination) ustawia się używając kęska woskowego zarejestrowanego w protruzji (wysunięciu żuchwy o ok. 5-6 mm). Zjawisko Christensena (szczelina z tyłu przy wysunięciu) pozwala artykulatorowi odwzorować nachylenie guzka stawowego."
+    },
+    {
+        "question": "W przypadku zaniku wyrostka zębodołowego w żuchwie, otwór bródkowy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Znajduje się bliżej dolnego brzegu żuchwy",
+            "B": "Przemieszcza się relatywnie ku szczytowi wyrostka (lub nawet na szczyt)",
+            "C": "Nie zmienia swojego położenia względem szczytu wyrostka",
+            "D": "Zarasta",
+            "E": "Przesuwa się do tyłu"
+        },
+        "answer": "B",
+        "justification": "Ponieważ zanik kości postępuje 'od góry' (od szczytu wyrostka), stały punkt anatomiczny, jakim jest otwór bródkowy (z nerwem bródkowym), znajduje się coraz bliżej powierzchni podparcia protezy. W skrajnych zanikach może leżeć na samym szczycie wyrostka, co wymaga odciążenia w protezie, by uniknąć bólu (ucisk na nerw)."
+    },
+    {
+        "question": "Sztywność łącznika głównego w protezie szkieletowej górnej zapewnia:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Jego kształt i odpowiednia grubość oraz reliefowanie (np. wał podniebienny)",
+            "B": "Zastosowanie metalu o dużej elastyczności",
+            "C": "Jak najmniejsza powierzchnia pokrycia podniebienia",
+            "D": "Brak kontaktu z błoną śluzową",
+            "E": "Tylko A i B"
+        },
+        "answer": "A",
+        "justification": "Łącznik główny (major connector) musi być sztywny, aby równomiernie rozkładać siły żucia na obie strony łuku (cross-arch stabilization). Sztywność uzyskuje się poprzez odpowiedni stop (Cr-Co), grubość oraz profil (np. 'beading' na brzegach, kształt taśmy)."
+    },
+    {
+        "question": "Wycisk anatomiczny pod protezę szkieletową powinien obejmować:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Tylko zęby pozostałe",
+            "B": "Tylko braki zębowe",
+            "C": "Całe podłoże protetyczne: zęby, wyrostki bezzębne, przyczepy wędzidełek i dno jamy ustnej/podniebienie",
+            "D": "Tylko strefy podparcia",
+            "E": "Brak poprawnej odpowiedzi"
+        },
+        "answer": "C",
+        "justification": "Wycisk anatomiczny (diagnostyczny) musi dać pełny obraz pola protetycznego, aby można było zaplanować tor wprowadzania protezy (paralelometria) i zasięg płyty. Musi więc obejmować wszystkie struktury twarde i miękkie."
     }
 ]
+
 
 
 
