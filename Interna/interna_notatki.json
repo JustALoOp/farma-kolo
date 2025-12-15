@@ -1,0 +1,338 @@
+[
+    {
+        "question": "Zgodnie z zaleceniami Polskiego Towarzystwa Diabetologicznego (PTD), ogólnym celem leczenia cukrzycy jest utrzymanie hemoglobiny glikowanej (HbA1c) na poziomie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "poniżej 6,5%",
+            "B": "poniżej 7%",
+            "C": "pomiędzy 7% a 8%",
+            "D": "poniżej 8%"
+        },
+        "answer": "B",
+        "justification": "W dokumencie na stronie 1 podano: 'Zdaniem ekspertów z Polskiego Towarzystwa Diabetologicznego (PTD) ogólnym celem leczenia cukrzycy jest utrzymanie poziomu hemoglobiny glikowanej HbA1c poniżej 7%'."
+    },
+    {
+        "question": "Która z poniższych wartości glikemii na czczo kwalifikuje pacjenta do rozpoznania stanu przedcukrzycowego (nieprawidłowej glikemii na czczo - IFG)?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "95 mg/dl",
+            "B": "110 mg/dl",
+            "C": "127 mg/dl",
+            "D": "135 mg/dl"
+        },
+        "answer": "B",
+        "justification": "Stan przedcukrzycowy, a konkretnie nieprawidłowa glikemia na czczo (IGF), jest definiowany jako stężenie glukozy na czczo w przedziale 100-125 mg/dl. Wartość 110 mg/dl mieści się w tym zakresie."
+    },
+    {
+        "question": "Które z poniższych przeciwciał jest uznawane za najważniejsze w diagnostyce cukrzycy typu 1?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "IAA (przeciwciała przeciwwyspowe)",
+            "B": "GADA (przeciwciała przeciwko dekarboksylazie kwasu glutaminowego)",
+            "C": "IA-2A",
+            "D": "przeciwciało przeciwko receptorowi cynkowemu - ZN8"
+        },
+        "answer": "B",
+        "justification": "W tabeli porównującej cukrzycę typu 1 i 2, przy przeciwciałach GADA widnieje dopisek 'NAJWAŻNIEJSZE'."
+    },
+    {
+        "question": "U pacjenta z rozpoznaną cukrzycą i współistniejącym białkomoczem, lekiem pierwszego rzutu jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Alfa bloker",
+            "B": "Beta bloker",
+            "C": "ACEI (inhibitor konwertazy angiotensyny)",
+            "D": "diuretyk tiazydowy"
+        },
+        "answer": "C",
+        "justification": "Na stronie 2, w pytaniu nr 41, wskazano, że u pacjenta z cukrzycą i białkomoczem preferowaną grupą leków jako lek I rzutu są inhibitory ACE (ACEI)."
+    },
+    {
+        "question": "Kwasicza śpiączka ketonowa jest powikłaniem typowym dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Cukrzycy typu 2",
+            "B": "Stanu przedcukrzycowego",
+            "C": "Cukrzycy ciążowej",
+            "D": "Cukrzycy typu 1"
+        },
+        "answer": "D",
+        "justification": "W tabeli 'CUKRZYCA - POWIKŁANIA' (str. 2) w wierszu 'Kwasicza śpiączka ketonowa' podano, że jest ona 'typowa dla cukrzycy typu 1'."
+    },
+    {
+        "question": "Jaka jest definicja mikroalbuminurii, wczesnego wskaźnika nefropatii cukrzycowej?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "wydalanie albumin <30 mg/dobę",
+            "B": "wydalanie albumin 30-300 mg/dobę",
+            "C": "wydalanie albumin >300 mg/dobę",
+            "D": "wydalanie albumin >3,5 g/dobę"
+        },
+        "answer": "B",
+        "justification": "Na stronie 3, w sekcji 'NEFROPATIA CUKRZYCOWA', podano, że mikroalbuminuria to wydalanie albumin w zakresie 30-300 mg/dl/24h."
+    },
+    {
+        "question": "Którego połączenia leków hipotensyjnych należy unikać?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "ARB + diuretyk tiazydowy",
+            "B": "ACEI + beta-bloker",
+            "C": "ARB + ACEI",
+            "D": "Beta-bloker + diuretyk tiazydowy"
+        },
+        "answer": "C",
+        "justification": "Na stronie 4 w punkcie 'Jakich leków nie łączyć w leczeniu NT' wskazano jednoznacznie na połączenie ARB + ACEI."
+    },
+    {
+        "question": "W leczeniu nadciśnienia tętniczego u kobiety w ciąży przeciwwskazane są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Metyldopa i beta-blokery",
+            "B": "Inhibitory konwertazy angiotensyny (ACEI) i antagoniści receptora angiotensyny II (ARB)",
+            "C": "Blokery kanałów wapniowych",
+            "D": "Labetolol i hydralazyna"
+        },
+        "answer": "B",
+        "justification": "Na stronie 4 podano: 'Kobiety z nadciśnieniem tętniczym leczone inhibitorami konwertazy angiotensyny lub antagonistami receptora angiotensyny II powinny ZAPRZESTAĆ STOSOWANIA TYCH LEKÓW PRZED CIĄŻĄ... gdyż leki te zwiększają ryzyko wad wrodzonych'."
+    },
+    {
+        "question": "Objaw Graefego, obserwowany w orbitopatii tarczycowej, polega na:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Rzadkim mruganiu",
+            "B": "Drżeniu zamkniętych powiek",
+            "C": "Ukazaniu się rąbka twardówki nad tęczówką przy ruchu gałek ocznych w dół",
+            "D": "Rozchodzeniu się gałek ocznych przy patrzeniu zbieżnym"
+        },
+        "answer": "C",
+        "justification": "Definicja objawu Graefego na stronie 5 brzmi: 'GAŁKA OCZNA PORUSZA SIĘ SZYBCIEJ OD POWIEKI; ukazanie się rąbka twardówki nad tęczówką przy ruchu gałek ocznych w dół'."
+    },
+    {
+        "question": "Laboratoryjnym kryterium rozpoznania akromegalii jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Brak supresji wydzielania GH poniżej 1 ng/ml w teście doustnego obciążenia glukozą (OGTT)",
+            "B": "Podwyższone stężenie TSH",
+            "C": "Obniżone stężenie IGF-1",
+            "D": "Supresja wydzielania GH poniżej 1 ng/ml w teście doustnego obciążenia glukozą (OGTT)"
+        },
+        "answer": "A",
+        "justification": "Na stronie 6, w sekcji 'DIAGNOSTYKA', jako kryterium rozpoznania akromegalii podano 'stężenie GH w teście z glukozą (jak OGTT) > 1ng/ml'."
+    },
+    {
+        "question": "Najczęstszym czynnikiem etiologicznym zakażenia układu moczowego jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Staphylococcus aureus",
+            "B": "Klebsiella pneumoniae",
+            "C": "Escherichia coli",
+            "D": "Proteus mirabilis"
+        },
+        "answer": "C",
+        "justification": "Na stronie 7 podano: 'NAJCZĘSTSZY CZYNNIK ETIOLOGICZNY ZAKAŻENIA UKŁADU MOCZOWEGO: Escherichia Coli'."
+    },
+    {
+        "question": "Duszność, która nasila się w pozycji leżącej i ustępuje po przyjęciu pozycji siedzącej, to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Platypnoe",
+            "B": "Ortopnoe",
+            "C": "Napadowa duszność nocna",
+            "D": "Tachypnoe"
+        },
+        "answer": "B",
+        "justification": "Definicja objawu ortopnoe w tabeli na stronie 7 dotyczącej niewydolności lewostronnej serca brzmi: 'występuje po położeniu, ustępuje po przyjęciu pozycji siedzącej lub stojącej'."
+    },
+    {
+        "question": "Który parametr jest uważany za \"złoty standard\" w rozpoznawaniu zatorowości płucnej (ZP)?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Oznaczenie D-dimerów",
+            "B": "RTG klatki piersiowej",
+            "C": "Echokardiografia przezklatkowa",
+            "D": "Arteriografia płucna z podaniem środka cieniującego (angio-TK)"
+        },
+        "answer": "D",
+        "justification": "Na stronie 8 podano: 'Arteriografia z wybiórczym podaniem środka cieniującego do prawej i lewej tętnicy płucnej jest „złotym standardem” w rozpoznawaniu ZP'."
+    },
+    {
+        "question": "Najważniejszym elementem leczenia przewlekłej obturacyjnej choroby płuc (POChP) jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Stosowanie leków rozszerzających oskrzela",
+            "B": "Tlenoterapia",
+            "C": "Zaprzestanie palenia tytoniu",
+            "D": "Stosowanie glikokortykosteroidów wziewnych"
+        },
+        "answer": "C",
+        "justification": "Na stronie 9, w sekcji dotyczącej leczenia POChP, podkreślono: 'najważniejsze ZAPRZESTANIE PALENIA TYTONIU'."
+    },
+    {
+        "question": "U pacjenta z hemofilią A w badaniach laboratoryjnych typowo stwierdza się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wydłużony czas krwawienia i prawidłowy APTT",
+            "B": "Wydłużony APTT i prawidłowy czas krwawienia",
+            "C": "Wydłużony czas protrombinowy (PT)",
+            "D": "Zmniejszoną liczbę płytek krwi"
+        },
+        "answer": "B",
+        "justification": "W opisie hemofilii na stronie 10 podano, że charakterystyczne jest wydłużenie APTT przy prawidłowym czasie krwawienia, liczbie płytek i czasie protrombinowym."
+    },
+    {
+        "question": "Objaw Kussmaula (wzrost ciśnienia żylnego na wdechu) NIE występuje w:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Niewydolności prawokomorowej serca",
+            "B": "Zaciskającym zapaleniu osierdzia",
+            "C": "Masywnym zatorze tętnicy płucnej",
+            "D": "Tamponadzie serca"
+        },
+        "answer": "D",
+        "justification": "Na stronie 10, w opisie objawu Kussmaula, wymieniono przyczyny i wyraźnie zaznaczono 'NIE W TAMPONADZIE SERCA'."
+    },
+    {
+        "question": "Najczęstszą przyczyną pierwotnej niedoczynności tarczycy w rejonach o wystarczającej podaży jodu jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Leczenie radiojodem",
+            "B": "Choroba Hashimoto (przewlekłe autoimmunologiczne zapalenie tarczycy)",
+            "C": "Całkowite wycięcie tarczycy",
+            "D": "Polekowa niedoczynność tarczycy"
+        },
+        "answer": "B",
+        "justification": "Na stronie 11, przy opisie pierwotnej niedoczynności tarczycy, jako najczęstszą przyczynę wymieniono chorobę Hashimoto."
+    },
+    {
+        "question": "Który z objawów NIE jest charakterystyczny dla zespołu Cushinga?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Otyłość brzuszna z chudymi kończynami",
+            "B": "Czerwone rozstępy",
+            "C": "Hipotensja ortostatyczna",
+            "D": "Hiperglikemia"
+        },
+        "answer": "C",
+        "justification": "W zespole Cushinga charakterystyczne jest nadciśnienie tętnicze. Hipotensja ortostatyczna jest typowa dla niedoczynności kory nadnerczy (choroby Addisona), a nie dla hiperkortyzolemii (zespołu Cushinga)."
+    },
+    {
+        "question": "Które rytmy serca kwalifikują się do defibrylacji?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Asystolia i aktywność elektryczna bez tętna (PEA)",
+            "B": "Migotanie komór (VF) i częstoskurcz komorowy bez tętna (VT)",
+            "C": "Migotanie przedsionków i asystolia",
+            "D": "Częstoskurcz komorowy bez tętna (VT) i aktywność elektryczna bez tętna (PEA)"
+        },
+        "answer": "B",
+        "justification": "Na stronie 13 wyraźnie wskazano, że rytmami do defibrylacji są migotanie komór (VF) i częstoskurcz komorowy bez tętna (VT)."
+    },
+    {
+        "question": "Bolesne, czerwone guzki umiejscowione głównie na palcach rąk i stóp, występujące w przebiegu infekcyjnego zapalenia wsierdzia (IZW) to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Plamki Rotha",
+            "B": "Objaw Janewaya",
+            "C": "Guzki Oslera",
+            "D": "Palce pałeczkowate"
+        },
+        "answer": "C",
+        "justification": "Na stronie 14 opisano guzki Oslera jako 'bolesne, czerwone, umiejscowione głównie na palcach rąk i stóp'. Objaw Janewaya to niebolesne plamy, a plamki Rotha to wybroczyny w siatkówce."
+    },
+    {
+        "question": "W niedokrwistości z niedoboru witaminy B12 (chorobie Addisona-Biermera) w morfologii krwi i badaniach biochemicznych stwierdza się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Mikrocytozę, obniżone stężenie ferrytyny",
+            "B": "Makrocytozę, podwyższone stężenie MMA i homocysteiny",
+            "C": "Normocytozę, podwyższone stężenie retikulocytów",
+            "D": "Makrocytozę, obniżone stężenie MMA i prawidłowe stężenie homocysteiny"
+        },
+        "answer": "B",
+        "justification": "W tabeli na stronie 3 w dokumencie zbiorczym (i na stronie 15 w pierwszym dokumencie) podano, że dla niedokrwistości z niedoboru B12 charakterystyczna jest makrocytoza oraz podwyższone stężenie MMA i homocysteiny."
+    },
+    {
+        "question": "Sinica centralna jest spowodowana:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Spowolnieniem przepływu krwi w naczyniach włosowatych",
+            "B": "Zwiększoną ilością odtlenowanej hemoglobiny (>5g/dl) w krwi tętniczej",
+            "C": "Niską temperaturą otoczenia",
+            "D": "Obecnością karoksyhemoglobiny"
+        },
+        "answer": "B",
+        "justification": "Na stronie 16 zdefiniowano sinicę centralną jako 'niebieskawe zabarwienie błon śluzowych i skóry będące wynikiem zwiększonej ilości odtlenowanej hemoglobiny (>5g/dl)'."
+    },
+    {
+        "question": "Pierwotna niedoczynność kory nadnerczy (choroba Addisona) charakteryzuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Hipernatremią i hipokaliemią",
+            "B": "Hiperglikemią",
+            "C": "Ciemnym przebarwieniem skóry i błon śluzowych",
+            "D": "Nadciśnieniem tętniczym"
+        },
+        "answer": "C",
+        "justification": "Na stronie 17, w opisie choroby Addisona, wymieniono 'suchość i ciemne przebarwienie skóry, które występuje szczególnie na odsłoniętych częściach ciała' oraz 'przebarwienia ... na błonach śluzowych'."
+    },
+    {
+        "question": "Do tzw. \"objawów B\" w chłoniakach NIE należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Gorączka powyżej 38°C",
+            "B": "Nocne poty",
+            "C": "Utrata masy ciała >10% w ciągu 6 miesięcy",
+            "D": "Powiększenie węzłów chłonnych"
+        },
+        "answer": "D",
+        "justification": "Na stronie 18 wymieniono \"objawy B\" jako: nocne poty, gorączka >38°C i utrata >10% m.c. w ciągu 6 msc. Powiększenie węzłów chłonnych (limfadenopatia) jest głównym objawem chłoniaka, ale nie zalicza się do konstytucyjnych \"objawów B\"."
+    },
+    {
+        "question": "W chorobie von Willebrandta charakterystyczne jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wydłużenie czasu krwawienia i często wydłużenie APTT",
+            "B": "Izolowane wydłużenie czasu protrombinowego (PT)",
+            "C": "Prawidłowy czas krwawienia i prawidłowy APTT",
+            "D": "Znaczna małopłytkowość"
+        },
+        "answer": "A",
+        "justification": "Na stronie 19 podano, że w chorobie von Willebrandta czas krwawienia i APTT są wydłużone, a aktywność czynnika VIII jest zmniejszona."
+    },
+    {
+        "question": "Który lek diuretyczny powoduje zwiększone zwrotne wchłanianie jonów wapnia, co może prowadzić do hiperkalcemii?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "furosemid",
+            "B": "torasemid",
+            "C": "spironolakton",
+            "D": "hydrochlorotiazyd"
+        },
+        "answer": "D",
+        "justification": "W pytaniu na stronie 19 jednoznacznie wskazano hydrochlorotiazyd jako lek diuretyczny, który powoduje zwiększone wchłanianie zwrotne jonów wapnia. Diuretyki pętlowe (furosemid, torasemid) zwiększają wydalanie wapnia."
+    },
+    {
+        "question": "W przypadku migotania przedsionków trwającego krócej niż 48h u pacjenta bez dużego ryzyka powikłań, kardiowersja elektryczna:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wymaga 3-tygodniowego przygotowania lekiem przeciwkrzepliwym",
+            "B": "Jest bezwzględnie przeciwwskazana",
+            "C": "Może być wykonana bez wcześniejszego przygotowania lekiem przeciwkrzepliwym",
+            "D": "Musi być poprzedzona wykonaniem echokardiografii przezprzełykowej"
+        },
+        "answer": "C",
+        "justification": "Na stronie 20 podano: 'W przypadku wykonywania kardiowersji migotania przedsionków u pacjentów nieobciążonych dużym ryzykiem powikłań sercowo-naczyniowych NIE JEST konieczne wcześniejsze przygotowanie pacjenta lekiem przeciwkrzepliwym, gdy arytmia ta trwa mniej niż 48h'."
+    },
+    {
+        "question": "Stan, w którym dobowa objętość moczu wynosi poniżej 400-500 ml u dorosłych, to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Poliuria",
+            "B": "Anuria",
+            "C": "Oliguria",
+            "D": "Dyzuria"
+        },
+        "answer": "C",
+        "justification": "Definicje na stronie 20 (i w dokumencie zbiorczym) jasno określają oligurię (skąpomocz) jako zmniejszenie ilości moczu dobowego poniżej 400-500 ml u dorosłych."
+    }
+]

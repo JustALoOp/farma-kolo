@@ -1,0 +1,1272 @@
+[
+    {
+        "question": "O aktywnym zakażeniu wirusem zapalenia wątroby typu B świadczy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Dodatnie p/c anty HBs",
+            "B": "Dodatnie HBeAg",
+            "C": "Dodatnie HBV-Ag",
+            "D": "Prawidłowe B i C",
+            "E": "Prawidłowe B i A"
+        },
+        "answer": "D",
+        "justification": "Aktywne zakażenie (replikacja) wirusa HBV charakteryzuje się obecnością antygenu HBeAg oraz materiału genetycznego wirusa (HBV DNA). Antygen HBsAg świadczy o samym zakażeniu (ostrym lub przewlekłym), ale niekoniecznie o aktywnej replikacji. Przeciwciała anty-HBs świadczą o odporności po szczepieniu lub przechorowaniu. Zatem obecność HBeAg i HBV DNA (w pytaniu jako HBV-Ag, co jest uproszczeniem) wskazuje na aktywne zakażenie. Odpowiedź D (B i C) jest najbardziej poprawna, chociaż C jest sformułowane nieprecyzyjnie (powinno być HBV DNA)."
+    },
+    {
+        "question": "Kryterium rozpoznania wirusowego zapalenia wątroby typu C świadczy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Stwierdzenie obecności przeciwciał anty-HCV",
+            "B": "Stwierdzenie obecności HCV-RNA metodą PCR",
+            "C": "Prawidłowe A i B",
+            "D": "Prawidłowe A",
+            "E": "Prawidłowe B"
+        },
+        "answer": "B",
+        "justification": "Samo stwierdzenie obecności przeciwciał anty-HCV świadczy jedynie o kontakcie z wirusem w przeszłości. Wiele osób (ok. 20-40%) eliminuje wirusa samoistnie, ale przeciwciała pozostają. Ostatecznym potwierdzeniem czynnego, przewlekłego zakażenia WZW typu C, wymagającego leczenia, jest wykrycie materiału genetycznego wirusa (HCV-RNA) metodą PCR."
+    },
+    {
+        "question": "Przyczyną przewlekłego wirusowego zapalenia wątroby jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "WZW typu A",
+            "B": "Wirusowe zapalenie wątroby typu B",
+            "C": "Wirusowe zapalenie wątroby typu C",
+            "D": "Prawidłowe B i C",
+            "E": "Wszystkie wymienione"
+        },
+        "answer": "D",
+        "justification": "Wirusy zapalenia wątroby typu B (HBV) i C (HCV) mogą powodować zakażenia przewlekłe, które prowadzą do marskości i raka wątrobowokomórkowego. Wirus zapalenia wątroby typu A (HAV) powoduje tylko ostre, samoograniczające się zakażenie i nigdy nie przechodzi w formę przewlekłą."
+    },
+    {
+        "question": "Do ryzyka wątrobowokomórkowego predysponuje:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Marskość wątroby",
+            "B": "Zakażenie HBV",
+            "C": "Zakażenie HCV",
+            "D": "Prawidłowe B i C",
+            "E": "Wszystkie wymienione"
+        },
+        "answer": "E",
+        "justification": "Wszystkie wymienione czynniki są głównymi czynnikami ryzyka rozwoju raka wątrobowokomórkowego (HCC). Przewlekłe zakażenie HBV i HCV prowadzi do przewlekłego zapalenia i marskości wątroby, a sama marskość wątroby (niezależnie od etiologii) jest najsilniejszym czynnikiem predysponującym do rozwoju HCC."
+    },
+    {
+        "question": "W leczeniu przewlekłym z powodu migotania przedsionków stosujemy poniższe leki, POZA:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "acenokumarol",
+            "B": "warfaryna",
+            "C": "naproksyn",
+            "D": "rywaroksaban",
+            "E": "dabigatran"
+        },
+        "answer": "C",
+        "justification": "W profilaktyce przeciwzakrzepowej w migotaniu przedsionków stosuje się leki przeciwkrzepliwe: antagonistów witaminy K (VKA) jak acenokumarol i warfaryna, oraz nowe doustne antykoagulanty (NOAC/DOAC) jak rywaroksaban i dabigatran. Naproksyn jest niesteroidowym lekiem przeciwzapalnym (NLPZ) i nie jest stosowany w tym celu; wręcz przeciwnie, może zwiększać ryzyko krwawienia."
+    },
+    {
+        "question": "W leczeniu przeciążającym z powodu migotania przedsionków stosujemy poniższe leki, poza:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "acenokumarol",
+            "B": "warfaryna",
+            "C": "naproksyn",
+            "D": "rywaroksaban",
+            "E": "dabigatran"
+        },
+        "answer": "C",
+        "justification": "W profilaktyce przeciwzakrzepowej w migotaniu przedsionków stosuje się leki przeciwkrzepliwe. Do tej grupy należą antagoniści witaminy K (acenokumarol, warfaryna) oraz nowe doustne antykoagulanty (rywaroksaban, dabigatran). Naproksyn to niesteroidowy lek przeciwzapalny (NLPZ), który nie ma zastosowania w tej profilaktyce i może zwiększać ryzyko krwawień."
+    },
+    {
+        "question": "W leczeniu przeciwkrzepliwym z powodu migotania przedsionków stosujemy poniższe leki, poza:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "acenokumarol",
+            "b": "warfaryna",
+            "c": "naproksyn",
+            "d": "rywaroksaban",
+            "e": "dabigatran"
+        },
+        "answer": "c",
+        "justification": "Do leczenia przeciwkrzepliwego w migotaniu przedsionków używa się antagonistów witaminy K (acenokumarol, warfaryna) oraz nowych doustnych antykoagulantów (rywaroksaban, dabigatran). Naproksyn jest niesteroidowym lekiem przeciwzapalnym i nie jest stosowany w tym wskazaniu."
+    },
+    {
+        "question": "Najczęstszym objawem cukrzycy jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wzmożone pragnienie",
+            "b": "wielomocz",
+            "c": "utrata masy ciała",
+            "d": "zmęczenie",
+            "e": "brak objawów"
+        },
+        "answer": "e",
+        "justification": "Chociaż klasyczne objawy cukrzycy to poliuria (wielomocz), polidypsja (wzmożone pragnienie) i utrata masy ciała, to najczęściej, zwłaszcza w cukrzycy typu 2, choroba przez długi czas rozwija się bezobjawowo lub objawy są bardzo niespecyficzne. Dlatego często jest wykrywana przypadkowo podczas rutynowych badań."
+    },
+    {
+        "question": "Objawy kliniczne nadczynności tarczycy to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "utrata masy ciała, biegunka, drżenie rąk",
+            "b": "chudnięcie pomimo wzmożonego apetytu, uczucie gorąca, tachykardia",
+            "c": "bezsenność, niepokój, wzmożona potliwość",
+            "d": "prawidłowe a i c",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Wszystkie wymienione zestawy objawów są charakterystyczne dla nadczynności tarczycy, która jest stanem metabolicznym charakteryzującym się przyspieszeniem metabolizmu. Prowadzi to do utraty masy ciała, biegunek, uczucia gorąca, drżenia rąk, przyspieszonej akcji serca (tachykardii) oraz objawów ze strony układu nerwowego, jak niepokój i bezsenność."
+    },
+    {
+        "question": "Do typowych dolegliwości w ostrym zapaleniu trzustki należy: a. Ostry, opasujący ból w nadbrzuszu, b. Gorączka, c. Nudności, wymioty, bębnica",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Prawidłowe a, c",
+            "B": "Prawidłowe a i b",
+            "C": "Prawidłowe a",
+            "D": "Prawidłowe a, b, i c"
+        },
+        "answer": "D",
+        "justification": "Ostre zapalenie trzustki (OZT) klasycznie objawia się nagłym, silnym, opasującym bólem w nadbrzuszu, promieniującym do pleców. Towarzyszą mu nudności, wymioty, gorączka oraz objawy niedrożności porażennej jelit, takie jak wzdęcie (bębnica) i zatrzymanie gazów i stolca. Wszystkie wymienione objawy są typowe."
+    },
+    {
+        "question": "W którym tygodniu ciąży oznacza się u kobiet zwykle poziom TSH i jakie maksymalne stężenie w surowicy uważa się za prawidłowe w okresie prekoncepcyjnym i w I trymestrze?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "w 4-8 tygodniu; 3.0 mIU/l",
+            "B": "w 3-5 tygodniu; 0.1 mIU/l",
+            "C": "w 4-8 tygodniu; 2.5 mIU/l",
+            "D": "w 3-5 tygodniu; 2.5 mIU/l",
+            "E": "w 4-8 tygodniu; 4.0 mIU/l"
+        },
+        "answer": "C",
+        "justification": "Zgodnie z wytycznymi, u kobiet planujących ciążę oraz w I trymestrze ciąży, docelowe stężenie TSH powinno być niższe niż 2,5 mIU/l. Oznaczenie wykonuje się zazwyczaj wcześnie, między 4. a 8. tygodniem ciąży, aby w razie potrzeby szybko wdrożyć leczenie niedoczynności tarczycy, która może negatywnie wpływać na rozwój płodu."
+    },
+    {
+        "question": "W leczeniu przewlekłym z powodu migotania przedsionków stosujemy poniższe leki, POZA:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "acenokumarol",
+            "b": "warfaryna",
+            "c": "naproksyn",
+            "d": "rywaroksaban",
+            "e": "dabigatran"
+        },
+        "answer": "c",
+        "justification": "W profilaktyce powikłań zakrzepowo-zatorowych w migotaniu przedsionków stosuje się leki przeciwkrzepliwe, takie jak antagoniści witaminy K (acenokumarol, warfaryna) oraz nowe doustne antykoagulanty (rywaroksaban, dabigatran). Naproksyn jest niesteroidowym lekiem przeciwzapalnym (NLPZ) i nie jest stosowany w tym wskazaniu, a jego przyjmowanie z lekami przeciwkrzepliwymi zwiększa ryzyko krwawienia."
+    },
+    {
+        "question": "Długotrwałe nadużywanie alkoholu najczęściej doprowadza do uszkodzenia wątroby, ale może być także przyczyną:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ostrego i przewlekłego zapalenia trzustki",
+            "b": "kardiomiopatii rozstrzeniowej",
+            "c": "polineuropatii",
+            "d": "prawidłowe b i c",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Alkohol etylowy jest toksyną wielonarządową. Jego przewlekłe nadużywanie prowadzi nie tylko do uszkodzenia wątroby, ale również do zapalenia trzustki (ostrego i przewlekłego), uszkodzenia mięśnia sercowego (kardiomiopatia rozstrzeniowa) oraz uszkodzenia obwodowego układu nerwowego (polineuropatia). Wszystkie wymienione stany są znanymi powikłaniami alkoholizmu."
+    },
+    {
+        "question": "W leczeniu zaostrzenia astmy zastosujemy: 1. GKS dożylnie, 2. tlenoterapię, 3. krótko działające beta-2-mimetyki wziewne, 4. leki przeciwcholinergiczne wziewne",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "prawidłowe 1, 3",
+            "b": "prawidłowe 2, 4",
+            "c": "prawidłowe 1, 2, 3",
+            "d": "prawidłowe 1, 2, 3, 4"
+        },
+        "answer": "d",
+        "justification": "Postępowanie w ciężkim zaostrzeniu astmy oskrzelowej opiera się na jednoczesnym zastosowaniu kilku interwencji: tlenoterapii w celu zwalczenia hipoksemii, intensywnej bronchodylatacji za pomocą krótko działających beta-2-mimetyków (SABA) i leków przeciwcholinergicznych (SAMA) podawanych w nebulizacji oraz systemowych glikokortykosteroidów (dożylnie lub doustnie) w celu opanowania procesu zapalnego."
+    },
+    {
+        "question": "W leczeniu świeżo rozpoznanej cukrzycy typu 2, w pierwszej kolejności zastosujemy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "insulinę",
+            "b": "pochodne sulfonylomocznika",
+            "c": "metforminę",
+            "d": "flozyny",
+            "e": "prawidłowe b i d"
+        },
+        "answer": "c",
+        "justification": "Zgodnie z aktualnymi wytycznymi towarzystw diabetologicznych (w tym Polskiego Towarzystwa Diabetologicznego), lekiem pierwszego rzutu w terapii cukrzycy typu 2 jest metformina, o ile nie ma przeciwwskazań do jej stosowania. Leczenie farmakologiczne wdraża się jednocześnie z modyfikacją stylu życia (dieta i wysiłek fizyczny)."
+    },
+    {
+        "question": "Spirometria jest kluczowym badaniem w diagnostyce:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zapalenia płuc o etiologii COVID-19",
+            "b": "gruźlicy płuc",
+            "c": "przewlekłej obturacyjnej choroby płuc",
+            "d": "prawidłowe a i b",
+            "e": "prawidłowe a i c"
+        },
+        "answer": "c",
+        "justification": "Spirometria to podstawowe badanie czynnościowe układu oddechowego, które jest niezbędne do rozpoznania i monitorowania chorób przebiegających z obturacją (zwężeniem) dróg oddechowych, takich jak przewlekła obturacyjna choroba płuc (POChP) i astma. W zapaleniu płuc czy gruźlicy jej rola jest pomocnicza, a nie kluczowa dla samego rozpoznania."
+    },
+    {
+        "question": "Najczęstszym objawem cukrzycowej choroby nerek jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "krwiomocz",
+            "b": "białkomocz - zwiększony wydatek albumin",
+            "c": "spadek ciśnienia tętniczego",
+            "d": "prawda - fałsz",
+            "e": "fałsz - fałsz"
+        },
+        "answer": "b",
+        "justification": "Najwcześniejszym, charakterystycznym objawem laboratoryjnym uszkodzenia nerek w przebiegu cukrzycy (nefropatii cukrzycowej) jest zwiększone wydalanie albumin z moczem, początkowo w niewielkich ilościach (mikroalbuminuria), które z czasem narasta do jawnego białkomoczu. Jest to podstawowy parametr w badaniach przesiewowych w kierunku tej choroby."
+    },
+    {
+        "question": "Do najgroźniejszych dla zdrowia i życia powikłań zakrzepicy żył głębokich kończyn dolnych należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niewydolność żylna",
+            "b": "zespół pozakrzepowy",
+            "c": "zatorowość płucna",
+            "d": "owrzodzenia podudzi",
+            "e": "obrzęk kończyny"
+        },
+        "answer": "c",
+        "justification": "Najpoważniejszym ostrym i bezpośrednio zagrażającym życiu powikłaniem zakrzepicy żył głębokich jest zatorowość płucna. Powstaje ona na skutek oderwania się skrzepliny, która z prądem krwi przemieszcza się do tętnic płucnych, powodując ich zablokowanie. Pozostałe wymienione stany to powikłania przewlekłe, znacznie mniej groźne."
+    },
+    {
+        "question": "Objawem gruźlicy jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "kaszel",
+            "b": "stany podgorączkowe i gorączka",
+            "c": "nocne poty",
+            "d": "chudnięcie",
+            "e": "wszystkie wymienione"
+        },
+        "answer": "e",
+        "justification": "Wszystkie wymienione objawy są typowe dla gruźlicy płuc. Przewlekły kaszel (trwający > 2-3 tygodnie), stany podgorączkowe/gorączka, nocne poty oraz niezamierzona utrata masy ciała to klasyczne objawy ogólne tej choroby, które powinny skłonić do diagnostyki w tym kierunku."
+    },
+    {
+        "question": "Czynnikiem ryzyka rozwoju gruźlicy są wszystkie wymienione, ZA WYJĄTKIEM:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niedożywienie",
+            "b": "pacjenci z HIV, leczeni immunosupresyjnie",
+            "c": "bliski kontakt z osobami z rozpoznaniem TBC",
+            "d": "wszystko prawidłowe",
+            "e": "picie pasteryzowanego mleka"
+        },
+        "answer": "e",
+        "justification": "Do czynników ryzyka zachorowania na gruźlicę należą stany obniżonej odporności (niedożywienie, zakażenie HIV, immunosupresja) oraz ekspozycja na prątki (bliski kontakt z chorym). Picie pasteryzowanego mleka jest bezpieczne. Ryzyko zakażenia prątkiem bydlęcym (M. bovis) wiązało się historycznie z piciem mleka surowego (niepasteryzowanego), jednak obecnie jest to niezwykle rzadkie."
+    },
+    {
+        "question": "Do objawów zakażenia wirusem HIV mogą należeć:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "gorączka, bóle mięśni i stawów",
+            "b": "zapalenie gardła, powiększenie węzłów chłonnych",
+            "c": "wysypka plamisto-grudkowa",
+            "d": "prawidłowe a i b",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Wszystkie wymienione objawy są charakterystyczne dla ostrej choroby retrowirusowej, która występuje u większości osób w ciągu 2-4 tygodni od zakażenia HIV. Objawy te przypominają mononukleozę zakaźną i są niespecyficzne, ale ich współwystępowanie powinno nasuwać podejrzenie świeżego zakażenia HIV."
+    },
+    {
+        "question": "W ostrych zespołach wieńcowych ból w klatce piersiowej jest najczęstszym objawem. Jaki charakter ma ból dławicowy?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "gniotący, piekący, ściskający",
+            "b": "zlokalizowany zamostkowo",
+            "c": "promieniuje do żuchwy, szyi, lewego ramienia",
+            "d": "prawidłowe a i b",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Ból w ostrych zespołach wieńcowych (dławicowy) ma bardzo charakterystyczny zestaw cech. Jest opisywany jako gniotący, piekący lub ściskający, zlokalizowany za mostkiem i często promieniuje do szyi, żuchwy, lewego barku i ramienia. Wszystkie wymienione cechy są typowe dla tego rodzaju bólu."
+    },
+    {
+        "question": "Ostra niedokrwistość pokrwotoczna charakteryzuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "prawidłowym MCV",
+            "b": "zwiększoną liczbą retikulocytów",
+            "c": "osłabieniem, bladością skóry i błon śluzowych, tachykardią, hipotensją",
+            "d": "prawidłowe b i c",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "W ostrej niedokrwistości pokrwotocznej początkowo MCV jest prawidłowe (normocytarna), ponieważ krwinki czerwone nie zdążyły jeszcze zmienić swojej wielkości. Organizm reaguje na utratę krwi zwiększoną produkcją młodych krwinek (retikulocytów), co staje się widoczne po kilku dniach. Klinicznie dominują objawy wstrząsu hipowolemicznego: osłabienie, bladość, przyspieszenie akcji serca (tachykardia) i spadek ciśnienia (hipotensja). Wszystkie te cechy są charakterystyczne."
+    },
+    {
+        "question": "W przebiegu przewleklej choroby nerek związanej z postępującą niewydolnością obserwujemy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niedokrwistość",
+            "b": "zaburzenia gospodarki wapniowo-fosforanowej",
+            "c": "nadciśnienie tętnicze",
+            "d": "kwasicę metaboliczną",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Przewlekła choroba nerek (PChN) prowadzi do upośledzenia wszystkich funkcji nerek. Skutkuje to niedokrwistością (z powodu niedoboru erytropoetyny), zaburzeniami gospodarki mineralnej (hiperfosfatemia, hipokalcemia, wtórna nadczynność przytarczyc), nadciśnieniem tętniczym (z powodu retencji sodu i wody oraz nadaktywności układu RAA) oraz kwasicą metaboliczną (z powodu upośledzenia wydalania jonów wodorowych)."
+    },
+    {
+        "question": "W diagnostyce ostrych zespołów wieńcowych oznaczamy stężenie troponin sercowych. Kiedy odnotowujemy wzrost ich stężenia?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "w zawale serca z uniesieniem odcinka ST (STEMI)",
+            "b": "w zawale serca bez uniesienia odcinka ST (NSTEMI)",
+            "c": "w niestabilnej dławicy piersiowej",
+            "d": "prawidłowe a i b",
+            "e": "prawidłowe a, b, c"
+        },
+        "answer": "d",
+        "justification": "Troponiny sercowe są markerami martwicy kardiomiocytów. Ich podwyższone stężenie jest kryterium rozpoznania zawału serca, zarówno z uniesieniem odcinka ST (STEMI), jak i bez uniesienia ST (NSTEMI). W niestabilnej dławicy piersiowej, z definicji, nie dochodzi do martwicy mięśnia sercowego, a stężenie troponin pozostaje w normie."
+    },
+    {
+        "question": "W leczeniu ostrych zespołów wieńcowych stosujemy leczenie przeciwpłytkowe. Które z wymienionych leków do niego należą?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "kwas acetylosalicylowy",
+            "b": "klopidogrel",
+            "c": "tikagrelor",
+            "d": "prasugrel",
+            "e": "wszystkie wymienione"
+        },
+        "answer": "e",
+        "justification": "Podstawą leczenia ostrych zespołów wieńcowych jest podwójna terapia przeciwpłytkowa (DAPT). Składa się ona z kwasu acetylosalicylowego (ASA) oraz jednego z inhibitorów receptora P2Y12, do których należą klopidogrel, tikagrelor i prasugrel. Wszystkie wymienione leki są stosowane w tym wskazaniu."
+    },
+    {
+        "question": "Święty dla charakterystyczny dla COVID-19",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zapalenia płuc o etiologii COVID-19",
+            "b": "prawidłowe a i b",
+            "c": "prawidłowe a i c"
+        },
+        "answer": "a",
+        "justification": "To pytanie wydaje się niekompletne ('Święty dla charakterystyczny'). Jednakże, w kontekście pozostałych opcji, można przypuszczać, że chodzi o objawy lub cechy charakterystyczne dla COVID-19. Zapalenie płuc jest jednym z najpoważniejszych i charakterystycznych powikłań COVID-19, często o typowym obrazie w badaniach obrazowych (np. zmiany typu 'mlecznej szyby' w TK). Biorąc pod uwagę opcje, odpowiedź 'zapalenia płuc o etiologii COVID-19' jest najbardziej logiczna."
+    },
+    {
+        "question": "Spirometria jest badaniem kluczowym w diagnostyce:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "przewlekłej obturacyjnej choroby płuc (POChP)",
+            "b": "astmy",
+            "c": "mukowiscydozy",
+            "d": "prawidłowe a i b",
+            "e": "prawidłowe a, b, c"
+        },
+        "answer": "d",
+        "justification": "Spirometria jest podstawowym badaniem do diagnozowania i monitorowania chorób przebiegających z obturacją dróg oddechowych. Jest niezbędna do rozpoznania POChP (gdzie obturacja jest utrwalona) oraz astmy (gdzie obturacja jest zmienna i zwykle odwracalna). W mukowiscydozie również występują zmiany obturacyjne, ale spirometria jest jednym z wielu badań, a nie jedynym kluczowym. Najsilniej jest związana z POChP i astmą."
+    },
+    {
+        "question": "W leczeniu przewlekłym chorób płuc o podłożu obturacyjnym (POChP, astma) stosujemy wziewne leki rozszerzające oskrzela. Należą do nich:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "beta-2-mimetyki",
+            "b": "leki przeciwcholinergiczne",
+            "c": "glikokortykosteroidy",
+            "d": "prawidłowe a i b",
+            "e": "prawidłowe a, b, c"
+        },
+        "answer": "d",
+        "justification": "Głównymi grupami leków rozszerzających oskrzela (bronchodylatatorów) stosowanymi w POChP i astmie są beta-2-mimetyki (długo i krótko działające) oraz leki przeciwcholinergiczne (długo i krótko działające). Glikokortykosteroidy wziewne działają głównie przeciwzapalnie, a nie bezpośrednio rozszerzająco na oskrzela, choć ich rola w leczeniu astmy i niektórych przypadków POChP jest kluczowa."
+    },
+    {
+        "question": "Do którego z pacjentów rozpoznasz cukrzycę?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "prawidłowe a i b",
+            "B": "oznaczona glikemia na czczo dwukrotnie w odstępie kilku dni wynosiła: 135 mg/dl oraz 115 mg/dl",
+            "C": "oznaczona glikemia w 2h testu OGTT wynosiła 211 mg/dl",
+            "D": "prawidłowe a i c",
+            "E": "oznaczone stężenie hemoglobiny glikowanej wynosiło HbA1c > 7%"
+        },
+        "answer": "C",
+        "justification": "Kryteria rozpoznania cukrzycy to m.in.: 1) dwukrotne oznaczenie glikemii na czczo ≥ 126 mg/dl, 2) glikemia w 2. godzinie OGTT ≥ 200 mg/dl, 3) HbA1c ≥ 6,5% (≥48 mmol/mol), 4) przygodna glikemia ≥ 200 mg/dl z objawami hiperglikemii. W opcji B pierwszy wynik (135) spełnia kryterium, ale drugi (115) już nie, więc nie można rozpoznać cukrzycy. W opcji C wynik OGTT (211) spełnia kryterium (≥200). W opcji E HbA1c > 7% również spełnia kryterium (≥6,5%). Pytanie jest sformułowane w taki sposób, że pojedyncze opcje C i E są prawidłowe, ale warianty odpowiedzi A, B, D ich nie łączą poprawnie. Przyjmując, że trzeba wybrać jedną odpowiedź, C jest jednoznacznym kryterium. Jeśli można było wybrać więcej, E też byłoby poprawne."
+    },
+    {
+        "question": "Do typowych dolegliwości w ostrym zapaleniu trzustki należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "ostry, opasujący ból w nadbrzuszu",
+            "B": "gorączka",
+            "C": "nudności, wymioty",
+            "D": "prawidłowe a i c",
+            "E": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "E",
+        "justification": "Klasyczny obraz kliniczny ostrego zapalenia trzustki (OZT) obejmuje nagły, silny, opasujący ból w nadbrzuszu, promieniujący do pleców. Towarzyszą mu nudności, uporczywe wymioty, gorączka oraz objawy takie jak wzdęcie i zatrzymanie perystaltyki. Wszystkie wymienione w opcjach A, B, C objawy są typowe dla OZT."
+    },
+    {
+        "question": "W leczeniu zakażeń układu moczowego najczęściej stosowanymi lekami są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "nitrofurantoina i furazydyna",
+            "b": "kotrimoksazol",
+            "c": "fluorochinolony",
+            "d": "penicyliny i cefalosporyny",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "W leczeniu zakażeń układu moczowego (ZUM) stosuje się wiele grup antybiotyków, w zależności od ciężkości zakażenia, czynnika etiologicznego i lokalnej lekowrażliwości. W niepowikłanym zapaleniu pęcherza często stosuje się furazydynę/nitrofurantoinę, kotrimoksazol, fosfomycynę. W cięższych zakażeniach (np. odmiedniczkowe zapalenie nerek) używa się fluorochinolonów, cefalosporyn czy penicylin z inhibitorami. Wszystkie wymienione grupy leków mają zastosowanie w leczeniu ZUM."
+    },
+    {
+        "question": "W niedokrwistości z niedoboru żelaza w morfologii krwi obserwujemy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "obniżenie stężenia hemoglobiny",
+            "b": "zmniejszenie średniej objętości krwinki czerwonej (MCV) - niedokrwistość mikrocytarna",
+            "c": "zmniejszenie średniej masy hemoglobiny w krwince (MCH)",
+            "d": "prawidłowe a i b",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Niedokrwistość z niedoboru żelaza jest klasycznym przykładem niedokrwistości mikrocytarnej i hipochromicznej. Charakteryzuje się obniżeniem stężenia hemoglobiny (Hb), spadkiem średniej objętości erytrocytu (MCV < 80 fl) oraz obniżeniem średniej zawartości (MCH) i stężenia (MCHC) hemoglobiny w krwince. Wszystkie wymienione cechy są typowe."
+    },
+    {
+        "question": "Objawami niedokrwistości, niezależnie od przyczyny, są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "osłabienie, łatwa męczliwość",
+            "b": "upośledzenie koncentracji i uwagi",
+            "c": "bóle i zawroty głowy",
+            "d": "bladość skóry i błon śluzowych",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Niezależnie od przyczyny, niedokrwistość (anemia) prowadzi do zespołu objawów wynikających z niedotlenienia tkanek. Należą do nich objawy ogólne, takie jak osłabienie, męczliwość, upośledzenie koncentracji, bóle i zawroty głowy, a także objawy przedmiotowe, jak bladość skóry i widocznych błon śluzowych oraz tachykardia. Wszystkie wymienione objawy są charakterystyczne."
+    },
+    {
+        "question": "Do najczęstszych przyczyn niedokrwistości z niedoboru żelaza należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "przewlekła utrata krwi (np. z przewodu pokarmowego, obfite miesiączki)",
+            "b": "zwiększone zapotrzebowanie (ciąża, okres dojrzewania)",
+            "c": "upośledzone wchłanianie (np. po operacjach żołądka, w celiakii)",
+            "d": "niedobór w diecie",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Etiologia niedokrwistości z niedoboru żelaza jest zróżnicowana. Najczęstszą przyczyną u dorosłych jest przewlekła utrata krwi. Inne ważne przyczyny to zwiększone zapotrzebowanie na żelazo w okresach fizjologicznych (ciąża, laktacja, wzrost), upośledzone wchłanianie z przewodu pokarmowego oraz niedostateczna podaż w diecie (rzadziej w krajach rozwiniętych). Wszystkie wymienione czynniki mogą prowadzić do niedoboru żelaza."
+    },
+    {
+        "question": "Do przyczyn hiperkaliemii (wzrostu stężenia potasu w surowicy) należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ostra i przewlekła niewydolność nerek",
+            "b": "stosowanie leków: inhibitorów konwertazy angiotensyny (ACEI), antagonistów receptora angiotensyny (ARB), spironolaktonu",
+            "c": "niedobór aldosteronu (choroba Addisona)",
+            "d": "kwasica metaboliczna",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Hiperkaliemia może być spowodowana przez upośledzone wydalanie potasu przez nerki (niewydolność nerek, leki blokujące układ RAA, niedobór aldosteronu) lub przez przemieszczenie potasu z komórek do przestrzeni pozakomórkowej (np. w kwasicy metabolicznej, w wyniku rozpadu komórek). Wszystkie wymienione przyczyny prowadzą do wzrostu stężenia potasu w surowicy."
+    },
+    {
+        "question": "W diagnostyce niedoczynności tarczycy stwierdzamy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "podwyższone stężenie TSH, obniżone stężenie FT4",
+            "b": "obniżone stężenie TSH, podwyższone stężenie FT4",
+            "c": "podwyższone stężenie TSH, prawidłowe stężenie FT4",
+            "d": "prawidłowe a i c",
+            "e": "prawidłowe b i c"
+        },
+        "answer": "d",
+        "justification": "Pierwotna niedoczynność tarczycy (najczęstsza postać) charakteryzuje się podwyższonym stężeniem TSH (z powodu braku hamowania zwrotnego przez hormony tarczycy) i obniżonym stężeniem FT4 (jawna niedoczynność). Podwyższone TSH przy prawidłowym FT4 definiuje subkliniczną (utajoną) niedoczynność tarczycy. Zatem obie odpowiedzi A i C opisują stany związane z niedoczynnością tarczycy."
+    },
+    {
+        "question": "W diagnostyce nadczynności tarczycy stwierdzamy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "obniżone stężenie TSH, podwyższone stężenie FT4 i FT3",
+            "b": "obniżone stężenie TSH, prawidłowe stężenie FT4 i FT3",
+            "c": "obniżone stężenie TSH, podwyższone stężenie FT4",
+            "d": "prawidłowe a i c",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "W pierwotnej nadczynności tarczycy (np. choroba Gravesa-Basedowa, wole guzkowe toksyczne) dochodzi do nadmiernej produkcji hormonów tarczycy, co hamuje wydzielanie TSH przez przysadkę. Diagnostycznie stwierdza się niskie lub nieoznaczalne stężenie TSH oraz podwyższone stężenie wolnych hormonów tarczycy (FT4 i/lub FT3). Stan, w którym TSH jest obniżone, a stężenia FT4 i FT3 są jeszcze w normie, określa się jako subkliniczną nadczynność tarczycy. Wszystkie wymienione warianty (a, b, c) wpisują się w spektrum nadczynności tarczycy."
+    },
+    {
+        "question": "Do objawów niedoczynności tarczycy należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "przyrost masy ciała, zaparcia, uczucie zimna",
+            "b": "bradykardia (wolna akcja serca)",
+            "c": "sucha, zimna, blada skóra, obrzęki",
+            "d": "senność, spowolnienie psychoruchowe",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Niedoczynność tarczycy to zespół objawów wynikający ze spowolnienia procesów metabolicznych. Prowadzi to do przyrostu masy ciała, zaparć, nietolerancji zimna, spowolnienia akcji serca, zmian skórnych (suchość, obrzęki), a także objawów neuropsychiatrycznych, jak senność i spowolnienie. Wszystkie wymienione objawy są typowe."
+    },
+    {
+        "question": "Najczęstszą przyczyną nadczynności tarczycy jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "choroba Gravesa-Basedowa",
+            "b": "wole guzkowe toksyczne",
+            "c": "zapalenie tarczycy",
+            "d": "prawidłowe a i b",
+            "e": "prawidłowe a, b, c"
+        },
+        "answer": "d",
+        "justification": "Najczęstszymi przyczynami endogennej nadczynności tarczycy są choroba Gravesa-Basedowa (autoimmunologiczna) oraz wole guzkowe toksyczne (autonomiczne guzki produkujące hormony). Zapalenia tarczycy (np. podostre, poporodowe) mogą powodować przejściową nadczynność w fazie destrukcji (tyreotoksykozy), ale są rzadszą przyczyną utrwalonej nadczynności. Dlatego A i B to dwie główne przyczyny."
+    },
+    {
+        "question": "Najczęstszą przyczyną niedoczynności tarczycy w Polsce jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niedobór jodu",
+            "b": "choroba Hashimoto (przewlekłe autoimmunologiczne zapalenie tarczycy)",
+            "c": "stan po operacji tarczycy",
+            "d": "stan po leczeniu jodem promieniotwórczym",
+            "e": "prawidłowe c i d"
+        },
+        "answer": "b",
+        "justification": "W krajach o wystarczającej podaży jodu, takich jak Polska (dzięki obowiązkowemu jodowaniu soli), najczęstszą przyczyną pierwotnej niedoczynności tarczycy jest choroba Hashimoto. Jest to przewlekły autoimmunologiczny proces zapalny, który prowadzi do stopniowego niszczenia miąższu tarczycy i spadku produkcji hormonów. Stany po leczeniu (operacyjnym, jodem radioaktywnym) są drugą co do częstości przyczyną."
+    },
+    {
+        "question": "W leczeniu napadu dny moczanowej zastosujemy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "kolchicynę",
+            "b": "niesteroidowe leki przeciwzapalne (NLPZ)",
+            "c": "glikokortykosteroidy (dostawowo lub systemowo)",
+            "d": "allopurynol",
+            "e": "prawidłowe a, b, c"
+        },
+        "answer": "e",
+        "justification": "W leczeniu ostrego napadu dny moczanowej celem jest szybkie opanowanie stanu zapalnego. Stosuje się kolchicynę, niesteroidowe leki przeciwzapalne (NLPZ) lub glikokortykosteroidy. Allopurynol jest lekiem obniżającym stężenie kwasu moczowego i stosuje się go w leczeniu przewlekłym, w okresach międzynapadowych. Jego włączenie w trakcie ostrego napadu jest błędem, ponieważ może nasilić i przedłużyć objawy."
+    },
+    {
+        "question": "Obrzęk zlokalizowany w okolicy kostek, nasilający się w ciągu dnia, a zmniejszający po nocy, jest charakterystyczny dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niewydolności nerek",
+            "b": "niewydolności wątroby",
+            "c": "przewlekłej niewydolności żylnej",
+            "d": "niewydolności serca",
+            "e": "niedoczynności tarczycy"
+        },
+        "answer": "c",
+        "justification": "Obrzęki nasilające się w pozycji stojącej w ciągu dnia i ustępujące po odpoczynku nocnym są typowe dla przewlekłej niewydolności żylnej. Wynikają one z zastoju krwi w żyłach kończyn dolnych. Obrzęki w niewydolności serca, nerek czy wątroby mają charakter bardziej uogólniony i nie wykazują tak dużej zmienności dobowej związanej z pozycją ciała."
+    },
+    {
+        "question": "Nagłe zatrzymanie krążenia w mechanizmie migotania komór lub częstoskurczu komorowego bez tętna jest wskazaniem do:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "natychmiastowej defibrylacji elektrycznej",
+            "b": "podania adrenaliny",
+            "c": "podania amiodaronu",
+            "d": "kardiowersji elektrycznej",
+            "e": "rozpoczęcia uciskania klatki piersiowej"
+        },
+        "answer": "a",
+        "justification": "Migotanie komór (VF) i częstoskurcz komorowy bez tętna (pVT) to tzw. rytmy do defibrylacji. Jedynym skutecznym leczeniem, które może przywrócić prawidłowy rytm serca, jest natychmiastowe wykonanie defibrylacji elektrycznej. Uciskanie klatki piersiowej jest kluczowe, ale należy je prowadzić do czasu przygotowania defibrylatora i jak najszybciej wykonać wyładowanie."
+    },
+    {
+        "question": "Obrzęk płuc jest stanem zagrożenia życia, który najczęściej jest objawem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ostrej lewokomorowej niewydolności serca",
+            "b": "przewlekłej niewydolności nerek w stadium schyłkowym",
+            "c": "zespołu nerczycowego",
+            "d": "ostrego zapalenia trzustki",
+            "e": "przełomu nadciśnieniowego"
+        },
+        "answer": "a",
+        "justification": "Kardiogenny obrzęk płuc, objawiający się skrajną dusznością i pienistą, różowo podbarwioną plwociną, jest najczęściej wynikiem ostrej niewydolności lewej komory serca (np. w przebiegu zawału). Prowadzi to do gwałtownego wzrostu ciśnienia w krążeniu płucnym i przesiąkania płynu do pęcherzyków płucnych. Inne wymienione stany rzadziej prowadzą do tak gwałtownego obrzęku płuc."
+    },
+    {
+        "question": "Podstawą rozpoznania przewlekłej obturacyjnej choroby płuc (POChP) jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wywiad (narażenie na dym tytoniowy i objawy)",
+            "b": "badanie fizykalne",
+            "c": "RTG klatki piersiowej",
+            "d": "badanie spirometryczne (stwierdzenie nieodwracalnej obturacji)",
+            "e": "gazometria krwi tętniczej"
+        },
+        "answer": "d",
+        "justification": "Chociaż wywiad i narażenie na czynniki ryzyka (głównie palenie tytoniu) są kluczowe w podejrzeniu POChP, to ostateczne rozpoznanie wymaga potwierdzenia utrwalonej (w dużej mierze nieodwracalnej po podaniu leku rozkurczającego oskrzela) obturacji w badaniu spirometrycznym. Wskaźnik Tiffeneau (FEV1/FVC) po próbie rozkurczowej < 0,7 jest kryterium diagnostycznym."
+    },
+    {
+        "question": "Do objawów niewydolności prawej komory serca należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "obrzęki kończyn dolnych",
+            "b": "płyn w jamach ciała (opłucnej, otrzewnej - wodobrzusze)",
+            "c": "powiększenie wątroby (hepatomegalia) i poszerzenie żył szyjnych",
+            "d": "nykturia",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Niewydolność prawokomorowa serca prowadzi do zastoju krwi w krążeniu systemowym. Objawia się to obrzękami obwodowymi (głównie kończyn dolnych), gromadzeniem płynu w jamach ciała (wodobrzusze, płyn w opłucnej), powiększeniem wątroby z powodu jej przekrwienia biernego oraz poszerzeniem żył szyjnych. Nykturia (oddawanie moczu w nocy) również jest częstym objawem, związanym z redystrybucją płynów w pozycji leżącej. Wszystkie wymienione objawy są typowe."
+    },
+    {
+        "question": "Do objawów lewokomorowej niewydolności serca należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "duszność wysiłkowa",
+            "b": "orthopnoe (duszność w pozycji leżącej)",
+            "c": "kaszel (szczególnie w nocy, tzw. astma sercowa)",
+            "d": "trzeszczenia i rzężenia nad polami płucnymi",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Niewydolność lewokomorowa serca prowadzi do zastoju krwi w krążeniu płucnym. Objawia się to głównie dusznością (początkowo wysiłkową, potem spoczynkową, w tym w pozycji leżącej - orthopnoe), kaszlem (wynikającym z obrzęku błony śluzowej oskrzeli) oraz objawami osłuchowymi w postaci trzeszczeń i rzężeń nad płucami (z powodu przesiąkania płynu do pęcherzyków). Wszystkie wymienione objawy są charakterystyczne."
+    },
+    {
+        "question": "Podstawą leczenia cukrzycy jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "leczenie farmakologiczne (leki doustne i insulina)",
+            "b": "modyfikacja stylu życia (dieta i wysiłek fizyczny)",
+            "c": "edukacja pacjenta i samokontrola",
+            "d": "prawidłowe a i b",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Nowoczesne leczenie cukrzycy to kompleksowe postępowanie obejmujące kilka kluczowych elementów. Należą do nich: modyfikacja stylu życia (która jest podstawą terapii), leczenie farmakologiczne dostosowane do pacjenta, a także edukacja terapeutyczna dotycząca choroby, diety, wysiłku, obsługi sprzętu i samokontroli glikemii. Wszystkie te elementy są niezbędne do osiągnięcia celów leczenia."
+    },
+    {
+        "question": "Nagły, silny ból w klatce piersiowej o charakterze rozdzierającym, promieniujący do pleców, jest najbardziej charakterystyczny dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zawału serca",
+            "b": "zatorowości płucnej",
+            "c": "pęknięcia tętniaka rozwarstwiającego aortę",
+            "d": "odmy opłucnowej",
+            "e": "zapalenia osierdzia"
+        },
+        "answer": "c",
+        "justification": "Nagły, niezwykle silny, rozdzierający ból w klatce piersiowej, często promieniujący do okolicy międzyłopatkowej lub wzdłuż kręgosłupa, jest klasycznym i najbardziej alarmującym objawem ostrego rozwarstwienia aorty. Jest to stan bezpośredniego zagrożenia życia, wymagający natychmiastowej diagnostyki i leczenia."
+    },
+    {
+        "question": "Typowym objawem dla choroby Leśniowskiego-Crohna jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "bóle brzucha, biegunka, utrata masy ciała",
+            "b": "zmiany okołoodbytnicze (przetoki, ropnie)",
+            "c": "gorączka, niedokrwistość",
+            "d": "prawidłowe a i c",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Choroba Leśniowskiego-Crohna to przewlekłe, nieswoiste zapalenie jelit, które może dotyczyć każdego odcinka przewodu pokarmowego. Typowe objawy to bóle brzucha, biegunka i utrata masy ciała. Charakterystyczne są również zmiany okołoodbytnicze. Jako choroba zapalna o charakterze systemowym, często przebiega z gorączką, osłabieniem i niedokrwistością. Wszystkie wymienione objawy są typowe."
+    },
+    {
+        "question": "W leczeniu zaostrzenia wrzodziejącego zapalenia jelita grubego stosuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "preparaty kwasu 5-aminosalicylowego (mesalazyna)",
+            "b": "glikokortykosteroidy (doustnie lub dożylnie)",
+            "c": "leki biologiczne (np. inhibitory TNF-alfa)",
+            "d": "antybiotyki",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Leczenie zaostrzenia wrzodziejącego zapalenia jelita grubego zależy od jego ciężkości. W łagodnych i umiarkowanych rzutach stosuje się preparaty 5-ASA (doustnie i doodbytniczo). W cięższych zaostrzeniach konieczne są glikokortykosteroidy systemowe. W przypadku braku odpowiedzi lub w najcięższych postaciach stosuje się leki biologiczne (infliksymab) lub cyklosporynę. Antybiotyki mogą być stosowane w przypadku nadkażenia bakteryjnego lub jako terapia wspomagająca. Wszystkie leki mają swoje miejsce w terapii."
+    },
+    {
+        "question": "Dla ostrego odmiedniczkowego zapalenia nerek charakterystyczne jest występowanie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wysokiej gorączki z dreszczami",
+            "b": "bólu w okolicy lędźwiowej",
+            "c": "dodatniego objawu Goldflama",
+            "d": "nudności i wymiotów",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Ostre odmiedniczkowe zapalenie nerek jest ciężkim zakażeniem górnego odcinka układu moczowego. Charakteryzuje się objawami ogólnoustrojowymi (wysoka gorączka, dreszcze, nudności, wymioty) oraz objawami miejscowymi, takimi jak ból w okolicy lędźwiowej po stronie chorej nerki i dodatni objaw Goldflama (ból przy wstrząsaniu tej okolicy). Wszystkie wymienione objawy są typowe."
+    },
+    {
+        "question": "Do przyczyn ostrego uszkodzenia nerek (AKI) zaliczamy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "przyczyny przednerkowe (np. wstrząs, odwodnienie)",
+            "b": "przyczyny nerkowe (np. uszkodzenie kłębuszków, cewek)",
+            "c": "przyczyny zanerkowe (np. kamica moczowa, przerost prostaty)",
+            "d": "prawidłowe a i b",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Ostre uszkodzenie nerek (AKI) dzieli się etiologicznie na trzy grupy. Przyczyny przednerkowe wynikają z upośledzenia przepływu krwi przez nerki. Przyczyny nerkowe (miąższowe) to bezpośrednie uszkodzenie struktur nerki. Przyczyny zanerkowe (po nerkowe) są spowodowane utrudnieniem odpływu moczu z nerek. Wszystkie te mechanizmy mogą prowadzić do AKI."
+    },
+    {
+        "question": "Najczęstszym objawem kamicy nerkowej jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "kolka nerkowa (nagły, silny ból w okolicy lędźwiowej promieniujący do pachwiny)",
+            "b": "krwiomocz lub krwinkomocz",
+            "c": "nudności i wymioty",
+            "d": "brak objawów (kamica bezobjawowa)",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Kamica nerkowa może przebiegać na różne sposoby. Najbardziej charakterystycznym objawem jest kolka nerkowa, spowodowana przemieszczaniem się złogu w moczowodzie. Często towarzyszy jej krwiomocz (widoczny lub mikroskopowy) oraz nudności i wymioty. Jednak bardzo często, zwłaszcza gdy złogi są zlokalizowane w kielichach nerkowych i nie powodują utrudnienia odpływu moczu, kamica jest bezobjawowa i wykrywana przypadkowo."
+    },
+    {
+        "question": "Do objawów zakażenia dolnego odcinka dróg moczowych (zapalenia pęcherza) należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "dyzuria (ból i pieczenie przy oddawaniu moczu)",
+            "b": "częstomocz i parcia naglące",
+            "c": "ból w okolicy nadłonowej",
+            "d": "zmiana zapachu i zabarwienia moczu",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Zapalenie pęcherza moczowego charakteryzuje się typowym zestawem objawów dyzurycznych: bólem i pieczeniem podczas mikcji, częstym oddawaniem małych porcji moczu oraz uczuciem nagłego parcia na pęcherz. Często występuje również ból w okolicy nadłonowej oraz zmiana wyglądu i zapachu moczu. Wszystkie wymienione objawy są charakterystyczne."
+    },
+    {
+        "question": "W leczeniu nadciśnienia tętniczego lekami pierwszego wyboru są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "inhibitory konwertazy angiotensyny (ACEI) lub sartany (ARB)",
+            "b": "antagoniści wapnia (blokery kanału wapniowego)",
+            "c": "diuretyki tiazydowe/tiazydopodobne",
+            "d": "beta-blokery (w określonych sytuacjach klinicznych)",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Zgodnie z aktualnymi wytycznymi, w leczeniu nadciśnienia tętniczego stosuje się pięć głównych grup leków: ACEI, ARB, antagonistów wapnia, diuretyki tiazydowe/tiazydopodobne oraz beta-blokery. Terapia zazwyczaj rozpoczyna się od połączenia dwóch leków z różnych grup (najczęściej ACEI/ARB + antagonista wapnia lub diuretyk). Wszystkie wymienione grupy są uważane za leki pierwszego rzutu."
+    },
+    {
+        "question": "Dla zespołu nerczycowego charakterystyczne jest występowanie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "masywny białkomocz (>3,5 g/dobę)",
+            "b": "hipoalbuminemia",
+            "c": "obrzęki",
+            "d": "hiperlipidemia",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Zespół nerczycowy to konstelacja objawów wynikająca z dużej utraty białka z moczem. Definiuje go masywny białkomocz, który prowadzi do spadku stężenia albumin we krwi (hipoalbuminemia). To z kolei powoduje spadek ciśnienia onkotycznego i powstawanie uogólnionych obrzęków. Hipoalbuminemia stymuluje wątrobę do wzmożonej produkcji lipoprotein, co skutkuje hiperlipidemią. Wszystkie te elementy tworzą klasyczny obraz zespołu nerczycowego."
+    },
+    {
+        "question": "W ostrym zapaleniu pęcherzyka żółciowego typowo występuje:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ból w prawym podżebrzu, narastający, promieniujący do prawej łopatki",
+            "b": "gorączka i dreszcze",
+            "c": "nudności i wymioty",
+            "d": "dodatni objaw Chełmońskiego i objaw Murphy'ego",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Ostre zapalenie pęcherzyka żółciowego, najczęściej na tle kamicy, objawia się silnym, stałym bólem w prawym podżebrzu, często promieniującym do pleców lub prawej łopatki. Towarzyszą mu objawy ogólne (gorączka, dreszcze) oraz nudności i wymioty. W badaniu fizykalnym stwierdza się charakterystyczne objawy otrzewnowe w tej okolicy, jak dodatni objaw Murphy'ego (ból nasilający się podczas głębokiego wdechu przy ucisku na okolicę pęcherzyka) i objaw Chełmońskiego (ból przy wstrząsaniu). Wszystkie wymienione cechy są typowe."
+    },
+    {
+        "question": "Najczęstszym objawem choroby wrzodowej żołądka i dwunastnicy jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ból w nadbrzuszu",
+            "b": "zgaga, nudności",
+            "c": "związek objawów z posiłkami (ból na czczo lub poposiłkowy)",
+            "d": "brak objawów",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Choroba wrzodowa może przebiegać na różne sposoby. Najczęstszym objawem jest ból w nadbrzuszu, często o charakterze piekącym lub głodu. Charakterystyczny jest związek dolegliwości z posiłkami (np. ból na czczo lub w nocy w chorobie wrzodowej dwunastnicy, ból poposiłkowy w chorobie wrzodowej żołądka). Często współistnieje zgaga i nudności. Należy jednak pamiętać, że choroba wrzodowa, zwłaszcza u osób starszych lub przyjmujących NLPZ, może być bezobjawowa aż do wystąpienia powikłań (krwawienie, perforacja)."
+    },
+    {
+        "question": "Najgroźniejszym powikłaniem choroby wrzodowej jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "krwawienie z górnego odcinka przewodu pokarmowego",
+            "b": "perforacja (pęknięcie) wrzodu",
+            "c": "penetracja wrzodu do sąsiednich narządów (np. trzustki)",
+            "d": "zwężenie odźwiernika",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Wszystkie wymienione stany są poważnymi i potencjalnie zagrażającymi życiu powikłaniami choroby wrzodowej. Krwawienie jest najczęstsze. Perforacja prowadzi do zapalenia otrzewnej i jest stanem bezpośredniego zagrożenia życia. Penetracja i zwężenie odźwiernika to powikłania przewlekłe, ale również bardzo poważne i wymagające interwencji. Trudno wskazać jedno 'najgroźniejsze', ponieważ wszystkie są bardzo niebezpieczne."
+    },
+    {
+        "question": "Do czynników ryzyka żylnej choroby zakrzepowo-zatorowej należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "unieruchomienie, niedawny duży zabieg operacyjny lub uraz",
+            "b": "choroba nowotworowa",
+            "c": "ciąża i połóg, stosowanie doustnej antykoncepcji hormonalnej",
+            "d": "otyłość, wiek podeszły",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Ryzyko żylnej choroby zakrzepowo-zatorowej (ŻChZZ) jest związane z tzw. triadą Virchowa: zastojem krwi, uszkodzeniem ściany naczyniowej i stanami nadkrzepliwości. Wszystkie wymienione czynniki wpisują się w te mechanizmy. Unieruchomienie i zabiegi powodują zastój i uszkodzenie śródbłonka. Nowotwory i niektóre leki (antykoncepcja) indukują nadkrzepliwość. Ciąża, otyłość i wiek podeszły są złożonymi czynnikami ryzyka. Wszystkie odpowiedzi są prawidłowe."
+    },
+    {
+        "question": "W leczeniu żylnej choroby zakrzepowo-zatorowej stosuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "heparyny (drobnocząsteczkowe lub niefrakcjonowana)",
+            "b": "antagonistów witaminy K (acenokumarol, warfaryna)",
+            "c": "nowe doustne antykoagulanty (rywaroksaban, apiksaban)",
+            "d": "leczenie trombolityczne (w wybranych przypadkach zatorowości płucnej)",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Podstawą leczenia ŻChZZ jest farmakoterapia przeciwkrzepliwa, która ma na celu zapobieganie narastaniu skrzepliny i jej fragmentacji. Leczenie zazwyczaj rozpoczyna się od heparyn, a następnie kontynuuje się antagonistami witaminy K lub nowymi doustnymi antykoagulantami przez co najmniej 3 miesiące. W masywnej, zagrażającej życiu zatorowości płucnej stosuje się leczenie trombolityczne, które ma na celu rozpuszczenie skrzepliny."
+    },
+    {
+        "question": "Do objawów zapalenia płuc należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "kaszel (początkowo suchy, potem z odkrztuszaniem wydzieliny)",
+            "b": "gorączka, dreszcze",
+            "c": "ból w klatce piersiowej o charakterze opłucnowym",
+            "d": "duszność, osłabienie",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Klasyczne objawy zapalenia płuc obejmują zarówno objawy ze strony układu oddechowego (kaszel, ból opłucnowy, duszność), jak i objawy ogólne (gorączka, dreszcze, osłabienie). Obraz kliniczny może być różny w zależności od wieku pacjenta, chorób współistniejących i czynnika etiologicznego, ale wszystkie wymienione objawy są typowe."
+    },
+    {
+        "question": "Podstawą rozpoznania zapalenia płuc jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "stwierdzenie objawów klinicznych (kaszel, gorączka, duszność)",
+            "b": "stwierdzenie zmian osłuchowych nad płucami (trzeszczenia, rzężenia)",
+            "c": "stwierdzenie nowego zacienienia na zdjęciu RTG klatki piersiowej",
+            "d": "podwyższone wskaźniki stanu zapalnego (CRP, leukocytoza)",
+            "e": "prawidłowe a, c, d"
+        },
+        "answer": "c",
+        "justification": "Chociaż objawy kliniczne i podwyższone markery zapalne nasuwają podejrzenie zapalenia płuc, złotym standardem i kryterium koniecznym do potwierdzenia rozpoznania jest stwierdzenie nowego nacieku zapalnego na zdjęciu rentgenowskim klatki piersiowej. Bez tego objawu radiologicznego nie można postawić pewnej diagnozy zapalenia płuc."
+    },
+    {
+        "question": "Najczęstszą przyczyną pozaszpitalnego zapalenia płuc jest zakażenie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "Streptococcus pneumoniae (dwoinka zapalenia płuc)",
+            "b": "Haemophilus influenzae",
+            "c": "Mycoplasma pneumoniae, Chlamydophila pneumoniae (bakterie atypowe)",
+            "d": "wirusy (grypy, RSV, koronawirusy)",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "a",
+        "justification": "Streptococcus pneumoniae (pneumokok) pozostaje najczęstszym czynnikiem etiologicznym pozaszpitalnego zapalenia płuc u dorosłych. Inne wymienione patogeny, zarówno typowe (H. influenzae), atypowe, jak i wirusowe, również są częstymi przyczynami, jednak to pneumokok jest odpowiedzialny za największy odsetek przypadków, zwłaszcza tych o cięższym przebiegu."
+    },
+    {
+        "question": "Anemia megaloblastyczna jest najczęściej spowodowana niedoborem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "żelaza",
+            "b": "witaminy B12",
+            "c": "kwasu foliowego",
+            "d": "prawidłowe b i c",
+            "e": "wszystkich wymienionych"
+        },
+        "answer": "d",
+        "justification": "Anemia megaloblastyczna to niedokrwistość charakteryzująca się obecnością dużych (makrocytarnych) krwinek czerwonych, wynikająca z zaburzeń syntezy DNA. Najczęstszą przyczyną tych zaburzeń jest niedobór witaminy B12 (kobalaminy) lub kwasu foliowego, które są niezbędne w tym procesie. Niedobór żelaza prowadzi do anemii mikrocytarnej, a nie megaloblastycznej."
+    },
+    {
+        "question": "W chorobie Addisona-Biermera niedobór witaminy B12 jest spowodowany:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niedostateczną podażą w diecie (dieta wegańska)",
+            "b": "przewlekłym zanikowym zapaleniem błony śluzowej żołądka o podłożu autoimmunologicznym",
+            "c": "brakiem czynnika wewnętrznego (czynnika Castle'a)",
+            "d": "prawidłowe b i c",
+            "e": "wszystkimi wymienionymi"
+        },
+        "answer": "d",
+        "justification": "Choroba Addisona-Biermera to specyficzny typ anemii megaloblastycznej. Jej przyczyną jest autoimmunologiczne, zanikowe zapalenie błony śluzowej żołądka, które prowadzi do zniszczenia komórek okładzinowych produkujących czynnik wewnętrzny (czynnik Castle'a). Brak tego czynnika uniemożliwia wchłanianie witaminy B12 w jelicie krętym, co prowadzi do jej niedoboru. Jest to więc przyczyna zaburzeń wchłaniania, a nie niedoboru w diecie."
+    },
+    {
+        "question": "Do objawów niedoboru witaminy B12 należą, oprócz objawów anemii:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "objawy neurologiczne (parestezje, zaburzenia chodu, zaburzenia poznawcze)",
+            "b": "objawy psychiatryczne (depresja, psychozy)",
+            "c": "objawy ze strony przewodu pokarmowego (zapalenie języka - język Huntera)",
+            "d": "przedwczesne siwienie",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Niedobór witaminy B12, oprócz powodowania anemii megaloblastycznej, prowadzi do szerokiego spektrum objawów z innych układów. Najpoważniejsze są objawy neurologiczne (wynikające z demielinizacji), ale występują także objawy psychiatryczne, zmiany w przewodzie pokarmowym (charakterystyczny, wygładzony, piekący język) oraz zmiany skórne. Wszystkie wymienione objawy mogą wystąpić w przebiegu niedoboru B12."
+    },
+    {
+        "question": "Ostra białaczka jest nowotworem złośliwym układu krwiotwórczego. Jej objawy wynikają z:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "wyparcia prawidłowej hematopoezy przez komórki blastyczne",
+            "b": "niedokrwistości (osłabienie, bladość)",
+            "c": "małopłytkowości (skaza krwotoczna)",
+            "d": "neutropenii (ciężkie, nawracające zakażenia)",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "W ostrych białaczkach dochodzi do niekontrolowanej proliferacji niedojrzałych komórek (blastów) w szpiku kostnym. Komórki te wypierają prawidłowe linie krwiotwórcze, co prowadzi do cytopenii: niedokrwistości (mało erytrocytów), małopłytkowości (mało płytek krwi) i neutropenii (mało neutrofili). Objawy kliniczne są bezpośrednim następstwem tych zaburzeń i obejmują osłabienie, skazę krwotoczną oraz ciężkie infekcje. Wszystkie wymienione elementy są ze sobą powiązane przyczynowo-skutkowo."
+    },
+    {
+        "question": "Podstawą rozpoznania ostrej białaczki jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "badanie morfologii krwi obwodowej z rozmazem",
+            "b": "badanie szpiku kostnego (biopsja aspiracyjna i trepanobiopsja)",
+            "c": "stwierdzenie >20% blastów w szpiku lub krwi obwodowej",
+            "d": "badania cytogenetyczne i molekularne",
+            "e": "prawidłowe b i c"
+        },
+        "answer": "e",
+        "justification": "Podejrzenie ostrej białaczki nasuwa nieprawidłowa morfologia krwi (cytopenie, obecność blastów). Jednak ostateczne rozpoznanie wymaga badania szpiku kostnego, w którym, zgodnie z definicją WHO, stwierdza się obecność co najmniej 20% komórek blastycznych. Badania cytogenetyczne i molekularne są kluczowe dla określenia rokowania i wyboru terapii, ale nie dla samego rozpoznania."
+    },
+    {
+        "question": "W leczeniu wstrząsu anafilaktycznego lekiem pierwszego rzutu jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "adrenalina podana domięśniowo",
+            "b": "glikokortykosteroid podany dożylnie",
+            "c": "lek przeciwhistaminowy podany dożylnie",
+            "d": "płynoterapia dożylna",
+            "e": "tlenoterapia"
+        },
+        "answer": "a",
+        "justification": "Lekiem ratującym życie we wstrząsie anafilaktycznym jest adrenalina, podana jak najszybciej domięśniowo w przednio-boczną powierzchnię uda. Odwraca ona kluczowe patomechanizmy wstrząsu: skurcz oskrzeli i spadek ciśnienia. Inne leki (GKS, przeciwhistaminowe) i interwencje (płynoterapia, tlenoterapia) są stosowane jako leczenie uzupełniające, ale nie mogą zastąpić ani opóźnić podania adrenaliny."
+    },
+    {
+        "question": "Do objawów \"B\" w chłoniakach zaliczamy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "gorączkę >38 st. C bez uchwytnej przyczyny infekcyjnej",
+            "b": "zlewne poty nocne",
+            "c": "niezamierzoną utratę >10% masy ciała w ciągu 6 miesięcy",
+            "d": "świąd skóry",
+            "e": "prawidłowe a, b, c"
+        },
+        "answer": "e",
+        "justification": "Objawy 'B' to zestaw trzech określonych objawów ogólnoustrojowych, których występowanie ma znaczenie rokownicze w chłoniakach (szczególnie w chłoniaku Hodgkina). Należą do nich: gorączka >38°C, zlewne poty nocne oraz utrata masy ciała >10% w ciągu ostatnich 6 miesięcy. Świąd skóry jest częstym objawem, ale nie jest zaliczany do objawów B."
+    },
+    {
+        "question": "W diagnostyce chłoniaków kluczowe znaczenie ma:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "badanie morfologii krwi",
+            "b": "badania obrazowe (TK, PET-CT)",
+            "c": "pobranie całego powiększonego węzła chłonnego do badania histopatologicznego",
+            "d": "biopsja aspiracyjna cienkoigłowa (BACC) węzła chłonnego",
+            "e": "badanie szpiku kostnego"
+        },
+        "answer": "c",
+        "justification": "Ostateczne i pewne rozpoznanie chłoniaka wymaga badania histopatologicznego i immunohistochemicznego całego pobranego węzła chłonnego. Pozwala to na ocenę architektury węzła i dokładne określenie typu chłoniaka. Biopsja aspiracyjna cienkoigłowa (BACC) jest niewystarczająca. Pozostałe badania są kluczowe w ocenie stopnia zaawansowania choroby, ale nie w samym rozpoznaniu."
+    },
+    {
+        "question": "Dla gorączki reumatycznej charakterystyczne jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "występuje jako powikłanie po nieleczonym paciorkowcowym zapaleniu gardła",
+            "b": "zapalenie dużych stawów (wędrujące)",
+            "c": "zapalenie serca (pancarditis)",
+            "d": "pląsawica Sydenhama, guzki podskórne, rumień brzeżny",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Gorączka reumatyczna to autoimmunologiczna choroba zapalna, która rozwija się jako powikłanie po infekcji gardła paciorkowcem beta-hemolizującym grupy A. Jej rozpoznanie opiera się na kryteriach Jonesa, które obejmują objawy duże (zapalenie serca, wędrujące zapalenie stawów, pląsawica, guzki podskórne, rumień brzeżny) i małe. Wszystkie wymienione w opcjach cechy są charakterystyczne dla tej choroby."
+    },
+    {
+        "question": "Najpoważniejszym powikłaniem gorączki reumatycznej jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "przewlekłe zapalenie stawów",
+            "b": "nabyta wada serca (najczęściej stenoza mitralna)",
+            "c": "uszkodzenie nerek",
+            "d": "trwałe zaburzenia neurologiczne",
+            "e": "zmiany skórne"
+        },
+        "answer": "b",
+        "justification": "Najgroźniejszym i najczęstszym odległym powikłaniem gorączki reumatycznej jest uszkodzenie zastawek serca, prowadzące do rozwoju nabytych wad serca. Najczęściej dotyczy to zastawki mitralnej (zwężenie, rzadziej niedomykalność) i aortalnej. Pozostałe objawy choroby zwykle ustępują bez trwałych następstw."
+    },
+    {
+        "question": "Dla infekcyjnego zapalenia wsierdzia (IZW) charakterystyczne jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "gorączka, szmer nad sercem",
+            "b": "dodatnie posiewy krwi",
+            "c": "objawy zatorowości obwodowej (np. udar mózgu, zatory w kończynach)",
+            "d": "objawy immunologiczne (guzki Oslera, plamki Rotha)",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Infekcyjne zapalenie wsierdzia to zakażenie wsierdzia, najczęściej zastawkowego. Jego obraz kliniczny jest zróżnicowany i obejmuje objawy ogólne (gorączka), kardiologiczne (nowy szmer, objawy niewydolności serca), powikłania zatorowe (wynikające z fragmentacji wegetacji bakteryjnych) oraz objawy wynikające z reakcji immunologicznej. Potwierdzeniem są dodatnie posiewy krwi i obecność wegetacji w echokardiografii. Wszystkie wymienione cechy są typowe."
+    },
+    {
+        "question": "Najważniejszym czynnikiem ryzyka infekcyjnego zapalenia wsierdzia (IZW) jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "obecność sztucznej zastawki serca",
+            "b": "przebyte IZW",
+            "c": "wrodzone wady serca (szczególnie sinicze)",
+            "d": "narkomania dożylna",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Wszystkie wymienione stany należą do grupy najwyższego ryzyka wystąpienia infekcyjnego zapalenia wsierdzia. U tych pacjentów konieczna jest profilaktyka antybiotykowa przed procedurami związanymi z ryzykiem bakteriemii. Najwyższe ryzyko dotyczy pacjentów ze sztuczną zastawką, po przebytym IZW oraz z niektórymi złożonymi wadami wrodzonymi serca."
+    },
+    {
+        "question": "Do przewlekłych powikłań cukrzycy należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "powikłania mikronaczyniowe: retinopatia, nefropatia, neuropatia",
+            "b": "powikłania makronaczyniowe: choroba niedokrwienna serca, choroba naczyń mózgowych (udar), choroba tętnic obwodowych",
+            "c": "zespół stopy cukrzycowej",
+            "d": "prawidłowe a i b",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Przewlekła hiperglikemia w cukrzycy prowadzi do uszkodzenia naczyń krwionośnych i nerwów. Wyróżnia się powikłania mikronaczyniowe (dotyczące małych naczyń) oraz makronaczyniowe (przyspieszony rozwój miażdżycy w dużych tętnicach). Zespół stopy cukrzycowej jest złożonym powikłaniem, wynikającym zarówno z neuropatii, jak i niedokrwienia. Wszystkie wymienione stany to klasyczne przewlekłe powikłania cukrzycy."
+    },
+    {
+        "question": "Kryterium rozpoznania cukrzycy jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "dwukrotne stwierdzenie glikemii na czczo ≥ 126 mg/dl",
+            "b": "glikemia w 120. minucie doustnego testu obciążenia glukozą (OGTT) ≥ 200 mg/dl",
+            "c": "glikemia przygodna ≥ 200 mg/dl z towarzyszącymi objawami hiperglikemii",
+            "d": "stężenie hemoglobiny glikowanej (HbA1c) ≥ 6,5%",
+            "e": "każde z powyższych"
+        },
+        "answer": "e",
+        "justification": "Zgodnie z aktualnymi wytycznymi, każde z wymienionych kryteriów jest wystarczające do rozpoznania cukrzycy. Glikemia na czczo musi być potwierdzona w drugim oznaczeniu (chyba że od razu są obecne objawy i bardzo wysoka glikemia). Pozostałe kryteria (OGTT, glikemia przygodna z objawami, HbA1c) nie wymagają powtórzenia do postawienia diagnozy. Wszystkie opcje to prawidłowe kryteria diagnostyczne."
+    },
+    {
+        "question": "W leczeniu cukrzycowej kwasicy ketonowej kluczowe jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "intensywna płynoterapia dożylna",
+            "b": "insulinoterapia dożylna w ciągłym wlewie",
+            "c": "wyrównywanie zaburzeń elektrolitowych (szczególnie niedoboru potasu)",
+            "d": "leczenie przyczyny wywołującej (np. zakażenia)",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Leczenie cukrzycowej kwasicy ketonowej (DKA) to złożony proces wymagający jednoczesnego działania na kilku frontach. Kluczowe jest nawodnienie pacjenta (płynoterapia), obniżenie glikemii i zahamowanie ketogenezy (insulinoterapia), a także ścisłe monitorowanie i wyrównywanie stężenia elektrolitów, zwłaszcza potasu, którego całkowity ustrójowy niedobór jest regułą. Jednocześnie należy szukać i leczyć czynnik wywołujący DKA."
+    },
+    {
+        "question": "Za ciężką hipoglikemię uznaje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "stężenie glukozy < 54 mg/dl",
+            "b": "każdy epizod, w którym pacjent wymaga pomocy osoby trzeciej do jej opanowania",
+            "c": "epizod z utratą przytomności lub drgawkami",
+            "d": "prawidłowe b i c",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "d",
+        "justification": "Hipoglikemię klasyfikuje się na podstawie stężenia glukozy oraz objawów klinicznych. Poziom 1 to glikemia 54-69 mg/dl. Poziom 2 (klinicznie istotna hipoglikemia) to glikemia < 54 mg/dl. Ciężka hipoglikemia (poziom 3) jest definiowana klinicznie jako każdy epizod, w którym z powodu zaburzeń funkcji poznawczych pacjent wymaga pomocy osób trzecich, niezależnie od zmierzonego stężenia glukozy. Obejmuje to stany z utratą przytomności czy drgawkami. Zatem definicje kliniczne (b i c) są kluczowe dla pojęcia ciężkiej hipoglikemii."
+    },
+    {
+        "question": "W leczeniu ciężkiej hipoglikemii u pacjenta nieprzytomnego należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "podać dożylnie 20% roztwór glukozy",
+            "b": "podać domięśniowo lub podskórnie glukagon",
+            "c": "próbować podać słodki napój do wypicia",
+            "d": "prawidłowe a i b",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "d",
+        "justification": "U pacjenta nieprzytomnego z ciężką hipoglikemią podawanie czegokolwiek doustnie jest przeciwwskazane z powodu ryzyka zachłyśnięcia. Postępowaniem z wyboru jest podanie dożylne stężonego roztworu glukozy. Jeśli dostęp dożylny jest niemożliwy lub opóźniony (np. w warunkach pozaszpitalnych), alternatywą jest podanie glukagonu domięśniowo lub podskórnie, co może być wykonane przez osoby przeszkolone (np. rodzinę pacjenta)."
+    },
+    {
+        "question": "Hiperaldosteronizm pierwotny (zespół Conna) charakteryzuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "nadciśnieniem tętniczym (często opornym na leczenie)",
+            "b": "hipokaliemią (niskim stężeniem potasu)",
+            "c": "niską aktywnością reninową osocza (ARO)",
+            "d": "zasadowicą metaboliczną",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Zespół Conna to stan autonomicznego, nadmiernego wydzielania aldosteronu przez nadnercza. Aldosteron powoduje retencję sodu i wody (co prowadzi do nadciśnienia) oraz utratę potasu i jonów wodorowych z moczem (co prowadzi do hipokaliemii i zasadowicy metabolicznej). Nadmierne wydzielanie aldosteronu hamuje wydzielanie reniny, stąd niska aktywność reninowa osocza. Wszystkie te cechy są typowe dla tego zespołu."
+    },
+    {
+        "question": "Do przyczyn guza chromochłonnego nadnerczy należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "napadowe nadciśnienie tętnicze",
+            "b": "napadowe bóle głowy, kołatania serca, potliwość, bladość",
+            "c": "hiperglikemia",
+            "d": "drżenie mięśni, niepokój",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Guz chromochłonny to nowotwór wydzielający katecholaminy (adrenalinę, noradrenalinę). Objawy mają charakter napadowy i wynikają z działania tych hormonów. Klasyczna triada objawów to napadowy ból głowy, potliwość i kołatanie serca, czemu towarzyszy gwałtowny wzrost ciśnienia. Katecholaminy powodują również drżenie, niepokój i podnoszą stężenie glukozy. Wszystkie wymienione objawy są typowe."
+    },
+    {
+        "question": "Dla choroby Cushinga (ACTH-zależnej) charakterystyczne jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "otyłość centralna ('bawoli kark', 'twarz księżycowata')",
+            "b": "czerwone, szerokie rozstępy na skórze brzucha, ud, pośladków",
+            "c": "ścieńczenie skóry, łatwe siniaczenie, trądzik, hirsutyzm",
+            "d": "nadciśnienie tętnicze, cukrzyca, osłabienie mięśni, osteoporoza",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Zespół Cushinga to zespół objawów wynikający z nadmiaru glikokortykosteroidów. Niezależnie od przyczyny, prowadzi to do bardzo charakterystycznego obrazu klinicznego, obejmującego redystrybucję tkanki tłuszczowej (otyłość centralna), zmiany zanikowe skóry (rozstępy, siniaki), nadmiar androgenów (trądzik, hirsutyzm) oraz powikłania metaboliczne, takie jak nadciśnienie, cukrzyca i osteoporoza. Wszystkie wymienione cechy są typowe."
+    },
+    {
+        "question": "W chorobie Addisona (pierwotnej niedoczynności kory nadnerczy) stwierdza się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "osłabienie, utratę masy ciała, niskie ciśnienie tętnicze",
+            "b": "ciemne zabarwienie skóry i błon śluzowych (hiperpigmentacja)",
+            "c": "hiponatremię, hiperkaliemię, hipoglikemię",
+            "d": "bóle brzucha, nudności, wymioty",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "W chorobie Addisona dochodzi do niedoboru kortyzolu i aldosteronu. Niedobór kortyzolu powoduje osłabienie, utratę wagi, hipotensję i hipoglikemię. Niedobór aldosteronu prowadzi do hiponatremii i hiperkaliemii. Charakterystyczna dla postaci pierwotnej jest hiperpigmentacja skóry, wynikająca z nadmiaru ACTH, który stymuluje melanocyty. Częste są też niespecyficzne objawy z przewodu pokarmowego. Wszystkie wymienione cechy są typowe."
+    },
+    {
+        "question": "Do przyczyn niedokrwistości chorób przewlekłych (ACD) zaliczamy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "przewlekłe zakażenia (np. gruźlica, zapalenie kości)",
+            "b": "choroby autoimmunologiczne (np. RZS, toczeń rumieniowaty)",
+            "c": "choroby nowotworowe",
+            "d": "przewlekłą chorobę nerek",
+            "e": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "e",
+        "justification": "Niedokrwistość chorób przewlekłych (obecnie nazywana niedokrwistością w przebiegu przewlekłych stanów zapalnych) rozwija się w przebiegu chorób, którym towarzyszy długotrwała aktywacja układu odpornościowego. Mechanizm jest złożony i obejmuje m.in. działanie hepcydyny, która blokuje wykorzystanie żelaza. Wszystkie wymienione stany: przewlekłe infekcje, choroby autoimmunologiczne i nowotwory, są klasycznymi przyczynami tego typu niedokrwistości. PChN również powoduje ACD, choć tu dominuje mechanizm niedoboru erytropoetyny."
+    },
+    {
+        "question": "Najczęściej występującą niedokrwistością na świecie jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niedokrwistość z niedoboru żelaza",
+            "b": "niedokrwistość z niedoboru witaminy B12",
+            "c": "niedokrwistość chorób przewlekłych",
+            "d": "niedokrwistość aplastyczna",
+            "e": "niedokrwistość pokrwotoczna"
+        },
+        "answer": "a",
+        "justification": "Niedokrwistość z niedoboru żelaza jest najczęstszym typem niedokrwistości na świecie, dotykającym setki milionów ludzi, zwłaszcza kobiety w wieku rozrodczym i dzieci w krajach rozwijających się. Jest to również najczęstsza przyczyna niedokrwistości w ogóle."
+    },
+    {
+        "question": "Dodatni objaw Chełmońskiego (ból przy wstrząsaniu okolicy prawego łuku żebrowego) występuje w:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "ostrym zapaleniu pęcherza moczowego",
+            "b": "wodobrzuszu",
+            "c": "zapaleniu pęcherzyka żółciowego",
+            "d": "splenomegalii",
+            "e": "odmiedniczkowym zapaleniu nerek"
+        },
+        "answer": "c",
+        "justification": "Objaw Chełmońskiego jest jednym z objawów otrzewnowych charakterystycznych dla ostrego zapalenia pęcherzyka żółciowego. Polega na wystąpieniu bólu podczas wstrząsania (delikatnego uderzania) okolicy prawego podżebrza. Innym typowym objawem jest objaw Murphy'ego."
+    },
+    {
+        "question": "Dodatni objaw Goldflama (ból przy wstrząsaniu okolicy kąta kręgosłupowo-żebrowego) występuje w:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "zapaleniu pęcherzyka żółciowego",
+            "b": "ostrym zapaleniu trzustki",
+            "c": "wodobrzuszu",
+            "d": "splenomegalii",
+            "e": "odmiedniczkowym zapaleniu nerek"
+        },
+        "answer": "e",
+        "justification": "Objaw Goldflama jest charakterystyczny dla ostrego odmiedniczkowego zapalenia nerek lub innych stanów powodujących gwałtowne powiększenie nerki (np. wodonercze). Polega na wystąpieniu silnego bólu podczas wstrząsania okolicy lędźwiowej po stronie chorej nerki."
+    },
+    {
+        "question": "Tętno dziwaczne (pulsus paradoxus) jest charakterystyczne dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "migotania przedsionków",
+            "b": "koarktacji aorty",
+            "c": "tamponady serca",
+            "d": "przetrwałego przewodu Botalla",
+            "e": "zwężenia zastawki mitralnej"
+        },
+        "answer": "c",
+        "justification": "Tętno dziwaczne to znaczny spadek skurczowego ciśnienia tętniczego (>10 mmHg) podczas wdechu. Jest to objaw najbardziej charakterystyczny dla tamponady serca, ale może też występować w ciężkim zaostrzeniu astmy/POChP czy w zaciskającym zapaleniu osierdzia."
+    },
+    {
+        "question": "W łagodnej hemofilii A, który z poniższych parametrów układu krzepnięcia może być nieprawidłowy?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "czas trombinowy",
+            "b": "czas protrombinowy",
+            "c": "liczba płytek krwi",
+            "d": "czas krwawienia",
+            "e": "czas częściowej tromboplastyny po aktywacji (APTT)"
+        },
+        "answer": "e",
+        "justification": "Hemofilia A to wrodzony niedobór czynnika VIII krzepnięcia. Czynnik VIII jest elementem wewnątrzpochodnej drogi krzepnięcia, której laboratoryjnym odzwierciedleniem jest czas częściowej tromboplastyny po aktywacji (APTT). Dlatego w hemofilii A charakterystyczne jest izolowane wydłużenie APTT. Pozostałe parametry (czas protrombinowy, czas trombinowy, liczba płytek) są prawidłowe."
+    },
+    {
+        "question": "Wskaż zdanie FAŁSZYWE dla astmy oskrzelowej:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "w spirometrii stwierdza się utrwaloną obturację",
+            "b": "czynnikiem wyzwalającym napad mogą być alergeny, wysiłek, stres",
+            "c": "nasilenie objawów może się zmieniać z dnia na dzień",
+            "d": "w czasie napadu stwierdza się najczęściej świsty i wydłużony wydech",
+            "e": "zwykle pojawia się w dzieciństwie"
+        },
+        "answer": "a",
+        "justification": "Kluczową cechą astmy jest zmienność i odwracalność obturacji dróg oddechowych. Utrwalona obturacja (czyli taka, która nie ustępuje po podaniu leku rozkurczającego oskrzela) jest cechą charakterystyczną dla przewlekłej obturacyjnej choroby płuc (POChP), a nie dla astmy (choć w długotrwałej, źle kontrolowanej astmie może dojść do tzw. remodelingu dróg oddechowych i częściowo utrwalonej obturacji)."
+    },
+    {
+        "question": "Skąd uzyskuje się szpik kostny do badania cytologicznego?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "z żeber (dowolne żebro od 8 do 12)",
+            "b": "z kości gnykowej",
+            "c": "z talerza kości biodrowej lub kolca biodrowego tylnego górnego",
+            "d": "z kości piętowej",
+            "e": "z kości czaszki"
+        },
+        "answer": "c",
+        "justification": "Standardowym miejscem pobierania szpiku kostnego u dorosłych jest tylny kolec biodrowy górny lub talerz kości biodrowej. U dzieci można pobierać szpik z przedniej powierzchni kości piszczelowej. Inne wymienione lokalizacje nie są wykorzystywane do tego celu."
+    },
+    {
+        "question": "Napadowy ból głowy, pocenie się, kołatanie serca, bladość twarzy, nadciśnienie tętnicze to objawy charakterystyczne dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niedoczynności kory nadnerczy",
+            "b": "guza chromochłonnego",
+            "c": "nadczynności tarczycy",
+            "d": "akromegalii",
+            "e": "choroby Cushinga"
+        },
+        "answer": "b",
+        "justification": "Podany zestaw objawów (tzw. triada objawów: ból głowy, potliwość, kołatanie serca) występujących napadowo, w połączeniu z gwałtownym wzrostem ciśnienia, jest klasycznym obrazem klinicznym guza chromochłonnego (pheochromocytoma), nowotworu wydzielającego katecholaminy."
+    },
+    {
+        "question": "O czym może świadczyć podwyższone MCV (średnia objętość krwinki czerwonej) w morfologii krwi obwodowej?",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "niedoborze żelaza w organizmie",
+            "b": "nadmiarze żelaza w organizmie",
+            "c": "niedoborze witaminy B12 w organizmie",
+            "d": "nadmiarze witaminy B12 w organizmie",
+            "e": "niedoborze kwasu foliowego w organizmie"
+        },
+        "answer": "c",
+        "justification": "Podwyższone MCV (>100 fl) oznacza makrocytozę. Najczęstszą przyczyną niedokrwistości makrocytarnej (megaloblastycznej) jest niedobór witaminy B12 lub kwasu foliowego. Niedobór żelaza powoduje mikrocytozę (niskie MCV). W pytaniu błędnie rozdzielono niedobór witaminy B12 i kwasu foliowego, które obie powodują wysokie MCV. Z podanych opcji, C jest prawidłowa (tak samo jak byłaby E)."
+    },
+    {
+        "question": "Zmiany skórne występujące w przebiegu marskości wątroby to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "a": "rumień dłoniowy",
+            "b": "naczyniaki gwiaździste (pajączki wątrobowe)",
+            "c": "utrata owłosienia na klatce piersiowej i pod pachami u mężczyzn",
+            "d": "prawidłowa jest odpowiedź A oraz B",
+            "e": "prawidłowa jest odpowiedź A, B oraz C"
+        },
+        "answer": "e",
+        "justification": "W marskości wątroby dochodzi do wielu zmian skórnych. Rumień dłoniowy i pajączki wątrobowe wynikają z zaburzeń metabolizmu estrogenów. Z tego samego powodu u mężczyzn dochodzi do utraty owłosienia typu męskiego (na klatce piersiowej, pod pachami) i ginekomastii. Wszystkie wymienione objawy są charakterystyczne."
+    }
+]

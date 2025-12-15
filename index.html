@@ -3,12 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Farmakologia kolokwium</title> <!-- Title updated -->
+    <title>Gąskowy Serwis Edukacyjny</title> <!-- Title updated -->
     <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 <body>
     <div id="quiz-selection-container">
-        <h1>Wybierz Quiz</h1>
+        <img src="logo.png" alt="Gąskowe logo" style="width:160px;height:160px;">
+        <h1>Gąskowy Serwis Edukacyjny</h1>
         <div id="quiz-buttons-container">
             <!-- Quiz buttons will be dynamically added here by JavaScript -->
         </div>
@@ -29,8 +31,9 @@
             <p id="question-text"></p>
         </div>
         <div id="answers-container">
-            <button id="true-btn" class="btn">Prawda</button>
-            <button id="false-btn" class="btn">Fałsz</button>
+            <div id="abcd-answers-container">
+                <!-- ABCD answer buttons/checkboxes will be dynamically added here -->
+            </div>
         </div>
         <div id="feedback-container">
             <p id="feedback-text"></p>

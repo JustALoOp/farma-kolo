@@ -215,3 +215,146 @@ body {
         font-size: 1.1em;
     }
 }
+
+/* Styles for Subject Headings in Quiz Selection */
+#quiz-buttons-container h2 {
+    margin-top: 25px;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+    color: #444; /* Slightly darker than body text for emphasis */
+    border-bottom: 2px solid #007bff; /* Theme color border */
+    padding-bottom: 8px;
+    text-align: left; /* Align with buttons if they are full width */
+}
+
+/* Styles for ABCD Answer Buttons */
+.btn-abcd {
+    display: block; /* Make buttons take full available width */
+    width: 90%;    /* Or a specific percentage like 90% */
+    margin: 10px auto; /* Center block buttons with some vertical space */
+    padding: 15px;
+    font-size: 1em;
+    text-align: left; /* Align text to the left within the button */
+    background-color: #6c757d; /* A neutral color, can be changed */
+}
+
+.btn-abcd:hover {
+    background-color: #5a6268; /* Darker shade for hover */
+}
+
+/* Styles for Multiple-Choice Question Checkboxes and Labels */
+#abcd-answers-container .mcq-option { /* Container for each checkbox+label pair */
+    display: flex; /* Align checkbox and label on the same line */
+    align-items: center; /* Vertically center items in the div */
+    margin: 12px 0; /* Vertical spacing */
+    padding: 10px; /* Padding around each option */
+    border: 1px solid #ddd; /* Optional: border for each option */
+    border-radius: 5px;
+    text-align: left;
+    margin-left: auto;  /* Centering the option div itself if its width is not 100% */
+    margin-right: auto;
+    width: 90%; /* Match button width for consistency */
+}
+
+.checkbox-abcd {
+    margin-right: 12px; /* Space between checkbox and label text */
+    transform: scale(1.3); /* Make checkbox slightly larger */
+    cursor: pointer;
+}
+
+#abcd-answers-container label {
+    font-size: 1em;
+    color: #333;
+    flex-grow: 1; /* Allow label to take available space */
+    cursor: pointer;
+}
+
+/* Style for the "Potwierdź odpowiedzi" (Confirm Answers) Button */
+#submit-mcq-btn {
+    margin-top: 20px; /* Add some space above the submit button */
+    background-color: #28a745; /* Green color for confirm, distinct from options */
+}
+
+#submit-mcq-btn:hover {
+    background-color: #218838; /* Darker green for hover */
+}
+
+/* For user's selected answer that is correct */
+.user-selected-correct {
+    background-color: #d4edda; /* Light green */
+    border-color: #c3e6cb;
+    color: #155724; /* Dark green text */
+}
+
+/* Ensure specificity for buttons if needed */
+.btn.user-selected-correct {
+    background-color: #28a745; /* Similar to existing true-btn but could be distinct */
+    color: white;
+    border: 2px solid #1e7e34; /* Darker green border */
+}
+
+/* Ensure specificity for MCQ options if needed */
+#abcd-answers-container .mcq-option.user-selected-correct {
+    background-color: #d4edda; /* Light green background for the div */
+    border: 1px solid #c3e6cb;
+}
+#abcd-answers-container .mcq-option.user-selected-correct label {
+    color: #155724; /* Dark green text for the label */
+}
+
+/* For user's selected answer that is incorrect */
+.user-selected-incorrect {
+    background-color: #f8d7da; /* Light red */
+    border-color: #f5c6cb;
+    color: #721c24; /* Dark red text */
+}
+
+/* Ensure specificity for buttons if needed */
+.btn.user-selected-incorrect {
+    background-color: #dc3545; /* Similar to existing false-btn */
+    color: white;
+    border: 2px solid #b21f2d; /* Darker red border */
+}
+
+#abcd-answers-container .mcq-option.user-selected-incorrect {
+    background-color: #f8d7da; /* Light red background for the div */
+    border: 1px solid #f5c6cb;
+}
+#abcd-answers-container .mcq-option.user-selected-incorrect label {
+    color: #721c24; /* Dark red text for the label */
+}
+
+/* For highlighting the actual correct answer when the user was wrong */
+.actual-correct-answer {
+    /* Using a light blue/cyan shade for distinction */
+    background-color: #e0f7fa; /* Light cyan */
+    border-color: #b2ebf2;     /* Slightly darker cyan border */
+    color: #00796b;            /* Dark cyan/teal text */
+}
+
+/* Ensure specificity for buttons if needed */
+.btn.actual-correct-answer {
+    background-color: #00bcd4; /* Cyan */
+    color: white;
+    border: 2px solid #0097a7; /* Darker cyan border */
+}
+
+/* Ensure specificity for MCQ options if needed */
+#abcd-answers-container .mcq-option.actual-correct-answer {
+    background-color: #e0f7fa; /* Light cyan background for the div */
+    border: 1px solid #b2ebf2;
+}
+#abcd-answers-container .mcq-option.actual-correct-answer label {
+    color: #00796b; /* Dark cyan/teal text for the label */
+}
+
+/*
+   Adjustments to ensure overrides if user selected a correct option
+   but the MCQ was globally wrong. This scenario is tricky.
+   For now, actual-correct-answer might override user-selected-incorrect
+   if applied to the same element. The JS logic aims to apply them to different elements.
+   If a correct option was part of an incorrect MCQ submission,
+   it will be user-selected-incorrect.
+   actual-correct-answer is for correct options *not* selected by the user.
+   So, direct conflict on the same element for these two classes is unlikely with current JS.
+*/
