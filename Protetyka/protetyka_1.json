@@ -363,6 +363,137 @@
         },
         "answer": "D",
         "justification": "Wycisk mukodynamiczny jest wyciskiem czynnościowym, który rejestruje nie tylko strefę podparcia (błona nieruchoma), ale przede wszystkim granice i zachowanie błony śluzowej ruchomej podczas funkcji, co pozwala na właściwe ukształtowanie brzeża protezy."
+    },
+    {
+        "question": "Linia Campera przebiega:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Od otworu podoczodołowego do górnej granicy przewodu słuchowego zewnętrznego",
+            "B": "Równolegle do linii łączącej źrenice",
+            "C": "Od kolca nosowego przedniego do bródki",
+            "D": "Od dolnego brzegu skrzydła nosa do środka skrawka ucha (lub górnej granicy przewodu słuchowego zewnętrznego)",
+            "E": "Pokrywa się z linią Frankfurtu"
+        },
+        "answer": "D",
+        "justification": "Linia Campera to linia orientacyjna na tkankach miękkich twarzy, biegnąca od dolnego brzegu skrzydła nosa do środka skrawka ucha (tragus). Jest ona kluczowa przy ustalaniu płaszczyzny zwarcia w protezach całkowitych, ponieważ płaszczyzna zgryzowa w odcinku bocznym powinna być do niej równoległa."
+    },
+    {
+        "question": "Masy alginatowe wykorzystywane do wykonania wycisków ulegają zjawiskom:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Synererezy, dlatego należy je przechowywać w wilgotnym środowisku (np. 100% wilgotności)",
+            "B": "Imbibicji, dlatego należy je najpierw zanurzyć w płynie dezynfekującym na długi czas",
+            "C": "Są hydrofobowe i dlatego trudno odlać z nich model",
+            "D": "Synererezy (kurczenia się poprzez utratę wody) oraz imbibicji (pęcznienia pod wpływem chłonięcia wody)",
+            "E": "Prawidłowe A i B"
+        },
+        "answer": "D",
+        "justification": "Masy alginatowe są hydrokoloidami nieodwracalnymi. Ulegają synererezie (wydzielaniu wody na powierzchnię i kurczeniu się) w suchym środowisku oraz imbibicji (chłonięciu wody i pęcznieniu) po zanurzeniu w wodzie. Dlatego wyciski te należy przechowywać w środowisku o wilgotności 100% (np. zawinięte w wilgotną serwetkę), ale nie zanurzone w wodzie, i odlać model tak szybko, jak to możliwe."
+    },
+    {
+        "question": "Klamra doginana różni się od klamry lanej tym, że:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Jest bardziej sztywna i mniej sprężysta",
+            "B": "Do zęba przylega powierzchniowo",
+            "C": "Do zęba przylega liniowo i jest bardziej sprężysta (elastyczna)",
+            "D": "Jest wykonana ze stopu chromo-kobaltowego metodą traconego wosku",
+            "E": "Wszystkie odpowiedzi są fałszywe"
+        },
+        "answer": "C",
+        "justification": "Klamry doginane wykonuje się z drutu o przekroju okrągłym (zazwyczaj stal nierdzewna), co sprawia, że stykają się z powierzchnią zęba liniowo (punktowo w przekroju). Dzięki strukturze włóknistej drutu (w przeciwieństwie do krystalicznej struktury odlewu) są one znacznie bardziej sprężyste i elastyczne niż klamry lane, co pozwala na stosowanie ich w głębszych podcieniach (do 0,5 mm, a czasem więcej)."
+    },
+    {
+        "question": "Wskazaniem do zastosowania klamry pierścieniowej w protezie szkieletowej jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ząb przedtrzonowy w idealnym łuku",
+            "B": "Samotnie stojący trzonowiec, często pochylony, gdzie podcień znajduje się po stronie przeciwnej do luki (np. po stronie językowej przy pochyleniu doprzednio-językowym)",
+            "C": "Ząb sieczny dolny",
+            "D": "Braki międzyzębowe w odcinku przednim",
+            "E": "Brak prawidłowej odpowiedzi"
+        },
+        "answer": "B",
+        "justification": "Klamra pierścieniowa jest klamrą okalającą ząb niemal w całości. Stosuje się ją głównie na samotnie stojących trzonowcach, które są pochylone (np. dolne trzonowce pochylone w stronę języka i luki). Taka konstrukcja pozwala ramieniu retencyjnemu sięgnąć do podcienia, które znajduje się po stronie pochylenia (np. językowej), zapewniając jednocześnie odpowiednią stabilizację dzięki długiemu ramieniu prowadzącemu."
+    },
+    {
+        "question": "Przyczyną porowatości skurczowej (nieregularne puste przestrzenie) w protezie akrylowej może być:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zbyt szybkie podgrzewanie puszki polimeryzacyjnej (wrzenie monomeru)",
+            "B": "Zbyt mała ilość ciasta akrylowego włożonego do puszki lub niedostateczne sprasowanie",
+            "C": "Zbyt długi czas polimeryzacji",
+            "D": "Zbyt powolne studzenie puszki",
+            "E": "Odp. A i C"
+        },
+        "answer": "B",
+        "justification": "Porowatość skurczowa wynika z faktu, że akryl kurczy się podczas polimeryzacji (skurcz polimeryzacyjny). Jeśli w puszcze jest zbyt mało materiału lub nie zastosowano nadmiaru ciasta i odpowiedniego nacisku prasy, powstaną nieregularne pustki wynikające z braku materiału rekompensującego skurcz. (Porowatość gazowa, kulista, wynika z wrzenia monomeru – odp. A)."
+    },
+    {
+        "question": "Profilaktyka zakażeń grzybiczych (Stomatopathia prothetica) u pacjentów użytkujących protezy całkowite obejmuje:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Przechowywanie protez w wodzie przez całą dobę",
+            "B": "Wyjmowanie protez na noc (spoczynek nocny bez protez) i przechowywanie ich na sucho po umyciu",
+            "C": "Stosowanie silnych klejów mocujących, aby uniknąć ruchu protezy",
+            "D": "Mycie protez wyłącznie wrzącą wodą",
+            "E": "Brak konieczności mycia protez, jeśli stosuje się tabletki czyszczące"
+        },
+        "answer": "B",
+        "justification": "Zaleca się wyjmowanie protez na noc (ok. 6-8 godzin przerwy), aby odciążyć błonę śluzową, przywrócić prawidłowe ukrwienie i ograniczyć rozwój grzybów (Candida albicans), które preferują wilgotne, beztlenowe środowisko pod płytą protezy. Współczesne zalecenia sugerują przechowywanie czystej protezy w suchym, przewiewnym pudełku."
+    },
+    {
+        "question": "Wskaż prawidłową kolejność klinicznych etapów wykonania protezy szkieletowej:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wycisk anatomiczny -> Projektowanie na modelu -> Wycisk czynnościowy (na łyżce indywidualnej) -> Przymiarka metalowego szkieletu -> Ustalenie zwarcia -> Przymiarka z zębami -> Oddanie",
+            "B": "Wycisk czynnościowy -> Wycisk anatomiczny -> Oddanie",
+            "C": "Ustalenie zwarcia -> Wycisk anatomiczny -> Przymiarka szkieletu -> Oddanie",
+            "D": "Wycisk anatomiczny -> Oddanie gotowej protezy (bez etapów pośrednich)",
+            "E": "Żadna z powyższych"
+        },
+        "answer": "A",
+        "justification": "Standardowa procedura to: 1. Wycisk anatomiczny (dla modelu diagnostycznego). 2. Analiza paralelometryczna i wykonanie łyżki indywidualnej. 3. Wycisk czynnościowy (precyzyjny). 4. Wykonanie modelu roboczego i odlew metalowego szkieletu. 5. Przymiarka szkieletu w ustach (sprawdzenie dopasowania). 6. Rejestracja zwarcia na wzornikach (często na szkielecie). 7. Przymiarka próbna z zębami w wosku. 8. Oddanie gotowej protezy."
+    },
+    {
+        "question": "Zbyt szybkie chłodzenie puszki polimeryzacyjnej po zakończonym procesie polimeryzacji akrylu (hartowanie) prowadzi do:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Powstania porowatości gazowej",
+            "B": "Powstania naprężeń wewnętrznych w tworzywie i mikropęknięć (pęknięć)",
+            "C": "Zwiększenia elastyczności protezy",
+            "D": "Zmniejszenia skurczu polimeryzacyjnego",
+            "E": "Poprawy stabilności koloru"
+        },
+        "answer": "B",
+        "justification": "Gwałtowne studzenie (np. wrzucenie gorącej puszki do zimnej wody) powoduje nierównomierne kurczenie się gipsu i akrylu, co generuje duże naprężenia wewnętrzne (naprężenia termiczne). Może to skutkować pęknięciem protezy (często niewidocznym mikropęknięciem) lub zębów gipsowych, a także deformacją płyty."
+    },
+    {
+        "question": "Protezy typu overdenture (nakładowe) mogą być utrzymywane na korzeniach zębów własnych za pomocą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zatrzasków korzeniowych (np. typu Ceka, Rhein)",
+            "B": "Magnesów",
+            "C": "Belek (np. Doldera)",
+            "D": "Koron teleskopowych",
+            "E": "Wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "E",
+        "justification": "Protezy nakładowe wykorzystują korzenie zębów (lub implanty) do poprawy retencji i stabilizacji. Wszystkie wymienione elementy (zatrzaski kulowe, magnesy, belki łączące korzenie, systemy teleskopowe) są stosowanymi rozwiązaniami w tego typu uzupełnieniach."
+    },
+    {
+        "question": "Wskaż zdanie prawdziwe dotyczące wycisków pod protezy szkieletowe:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Najlepszym materiałem jest masa termoplastyczna",
+            "B": "Wycisk powinien być wykonany masą alginatową na łyżce standardowej, bez konieczności użycia łyżki indywidualnej w trudnych przypadkach",
+            "C": "Zaleca się stosowanie mas silikonowych lub mas alginatowych, przy czym w przypadku braków skrzydłowych wskazane jest wykonanie wycisku na łyżce indywidualnej (wycisk czynnościowy)",
+            "D": "Nigdy nie pobiera się wycisków masami elastomerowymi",
+            "E": "Pod protezy szkieletowe pobiera się wyłącznie wyciski mukostatyczne"
+        },
+        "answer": "C",
+        "justification": "Chociaż proste protezy szkieletowe przy brakach międzyzębowych można wykonać na podstawie wycisku alginatowego, to w przypadku braków skrzydłowych (Klasa I i II Kennedy'ego) kluczowe jest prawidłowe odwzorowanie zasięgu płyty i ugięcia błony śluzowej. Dlatego zaleca się wyciski na łyżkach indywidualnych (masy silikonowe, tiokolowe lub alginatowe wysokiej klasy) lub metodę wycisku dzielonego (alter-cast), aby zapewnić równomierne podparcie na zębach i błonie śluzowej."
     }
 ]
+
 
