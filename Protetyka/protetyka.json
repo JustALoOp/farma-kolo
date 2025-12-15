@@ -1,0 +1,185 @@
+[
+    {
+        "question": "Wskaż zdanie prawdziwe dotyczące zaniku kości w szczęce i żuchwie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Pionowy i poziomy zanik kości przebiega w taki sam sposób w szczęce i żuchwie.",
+            "B": "W szczęce zanika głównie przedsionkowy stok wyrostka zębodołowego z kierunkiem do wewnątrz, co jest przyczyną skrócenia i zwężenia kości przy równoczesnym pogłębieniu podniebienia.",
+            "C": "W żuchwie zanik następuje w odcinku przednim od strony przedsionka, a w odcinkach bocznych od stoków językowych.",
+            "D": "W żuchwie zanik następuje w odcinku przednim i w odcinkach bocznych od strony stoków językowych.",
+            "E": "Brak prawidłowej odpowiedzi"
+        },
+        "answer": "C",
+        "justification": "W szczęce zanik odbywa się głównie kosztem blaszki przedsionkowej (dośrodkowo), co zmniejsza łuk. W żuchwie w odcinkach bocznych zanik następuje często od strony językowej (odśrodkowo), co sprawia, że łuk żuchwy wydaje się szerszy w stosunku do szczęki. W odcinku przednim żuchwy zanik postępuje od strony wargowej i od szczytu, co obniża wyrostek (odpowiedź C jest najbardziej zbliżona do klasycznego opisu w literaturze polskiej, np. Spiechowicz/Majewski)."
+    },
+    {
+        "question": "Kieszeń policzkowa to tzw. miejsce:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Za wędzidełkiem policzka w szczęce",
+            "B": "Przed wędzidełkiem policzka w szczęce",
+            "C": "Za wędzidełkiem policzka w żuchwie",
+            "D": "Przed wędzidełkiem policzka w żuchwie",
+            "E": "Wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "C",
+        "justification": "W terminologii protetycznej protez całkowitych, kieszeń policzkowa (często utożsamiana z kieszonką Fish'a w kontekście strefy neutralnej lub zachyłkiem policzkowym) znajduje się w odcinku bocznym żuchwy, dystalnie od wędzidełka policzka."
+    },
+    {
+        "question": "Wyciski czynnościowe na łyżkach indywidualnych mogą być:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Jednowarstwowe",
+            "B": "Dwuwarstwowe",
+            "C": "Różnowarstwowe",
+            "D": "Prawidłowe tylko A i B",
+            "E": "Prawidłowe A, B, C"
+        },
+        "answer": "A",
+        "justification": "Klasyczny wycisk czynnościowy pod protezę całkowitą, pobierany na łyżce indywidualnej (np. z użyciem pasty tlenkowo-cynkowo-eugenolowej lub elastomeru), jest wyciskiem jednowarstwowym. Wyciski dwuwarstwowe (korekcyjne) stosuje się zazwyczaj na łyżkach standardowych w protetyce stałej."
+    },
+    {
+        "question": "Metoda połykowa służy do ustalenia:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Spoczynkowego położenia żuchwy",
+            "B": "Dotylnego położenia żuchwy",
+            "C": "Centralnego położenia żuchwy (metoda aktywna)",
+            "D": "Prawdziwe A i C",
+            "E": "Prawdziwe A i B"
+        },
+        "answer": "D",
+        "justification": "Metoda połykowa (czynność fizjologiczna) jest wykorzystywana do ustalenia zwarcia centralnego (relacji centralnej - położenia dotylnego zwarciowego) oraz wysokości zwarcia. Akt połykania pozycjonuje żuchwę w relacji centralnej, a także pozwala ustalić wysokość zwarcia. W opcjach testowych często łączy się ustalanie położenia w płaszczyźnie poziomej (centralne/dotylne) i pionowej."
+    },
+    {
+        "question": "Do metod pasywnych rejestracji zwarcia centralnego w płaszczyźnie poziomej nie zaliczamy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Metody połykowej",
+            "B": "Wielokrotnego powtarzania ruchów zamykania i otwierania ust",
+            "C": "Uśmiechu podczas zwierania wzorników",
+            "D": "Manipulacji Dawsona",
+            "E": "Brak poprawnej odpowiedzi"
+        },
+        "answer": "D",
+        "justification": "Metody pasywne to te, w których pacjent wykonuje ruchy samodzielnie (np. połykanie, zmęczenie mięśni). Manipulacja Dawsona (rękoczyn Dawsona) jest metodą aktywną (manualną), gdzie lekarz prowadzi żuchwę pacjenta do relacji centralnej."
+    },
+    {
+        "question": "Okluzja ochronna – wybierz zdanie fałszywe:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Charakterystyczna dla uzębienia naturalnego",
+            "B": "W ruchach ekscentrycznych jednocześnie kontaktują się ze sobą zęby po stronie pracującej, jak i balansującej",
+            "C": "W ruchach protruzyjnych prowadzą zęby przednie",
+            "D": "Brak poprawnej odpowiedzi",
+            "E": "Odp. a, b i c są fałszywe"
+        },
+        "answer": "B",
+        "justification": "Okluzja ochronna (wzajemnie chroniona) charakteryzuje się brakiem kontaktów na stronie balansującej. Jednoczesne kontakty po stronie pracującej i balansującej to cecha okluzji zbalansowanej (pożądanej w protezach całkowitych, ale nie w uzębieniu naturalnym z okluzją ochronną)."
+    },
+    {
+        "question": "W typie II według Supple istotnie zanikłe wyrostki zębodołowe pokryte cienką, niepodatną błoną śluzową umożliwiają uzyskanie dobrej retencji i stabilizacji protez. Typ II według Supple to jama ustna o podłożu zanikłym twardym. Określ prawdziwość zdań.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Pierwsze zdanie prawdziwe, drugie fałszywe",
+            "B": "Pierwsze zdanie fałszywe, drugie prawdziwe",
+            "C": "Oba zdania prawdziwe",
+            "D": "Oba zdania fałszywe",
+            "E": "Brak prawidłowej odpowiedzi"
+        },
+        "answer": "B",
+        "justification": "Typ II wg Supple'a to 'podłoże zanikłe twarde' (zdanie 2 prawdziwe). Charakteryzuje się zanikłym wyrostkiem i cienką, twardą, niepodatną błoną śluzową. Jednakże, takie warunki są **niekorzystne** dla retencji i stabilizacji (częsty brak przyssania, ból przy ucisku), dlatego stwierdzenie, że 'umożliwiają uzyskanie dobrej retencji', jest fałszywe."
+    },
+    {
+        "question": "Podczas ustalania zwarcia centralnego przy braku stref podparcia (bezzębie):",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Rejestrat zwarciowy służy do zarejestrowania przebiegu płaszczyzny protetycznej i wysokości zwarciowej",
+            "B": "Wzorniki zwarciowe służą do określenia przebiegu płaszczyzny protetycznej i wysokości zwarciowej",
+            "C": "W ustaleniu przebiegu płaszczyzny protetycznej pomagają linie pomocnicze powłok zewnętrznych twarzy: linia Campera, linia źrenic, czy linia łącząca dolne brzegi oczodołów",
+            "D": "Wymiar pionowy zwany wysokością zwarcia jest tylko jednym z elementów składowych ustalenia zwarcia centralnego",
+            "E": "Prawidłowe B i D"
+        },
+        "answer": "E",
+        "justification": "Wzorniki zwarciowe służą do ustalenia płaszczyzny okluzyjnej i wysokości zwarcia (B). Ustalenie zwarcia centralnego obejmuje zarówno wymiar pionowy (wysokość), jak i poziomy (relacja żuchwy do szczęki), więc D jest również prawdą. Odpowiedź E łączy te dwa poprawne stwierdzenia."
+    },
+    {
+        "question": "Łyżkę indywidualną górną należy skrócić w zakresie od guza szczęki do drugiego trzonowca, jeżeli spada z podłoża podczas wykonywania ruchu:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ułożenie warg jak przy gwizdaniu",
+            "B": "Szeroki uśmiech",
+            "C": "Szerokie otwarcie ust",
+            "D": "Oblizywanie wargi górnej",
+            "E": "Brak prawidłowej odpowiedzi"
+        },
+        "answer": "C",
+        "justification": "Jeśli proteza/łyżka spada przy szerokim otwarciu ust, oznacza to zazwyczaj, że jest zbyt długa w odcinku dystalnym (za guzem szczęki) lub zbyt gruba w rejonie przedsionka policzkowego, gdzie napina się wyrostek dziobiasty żuchwy lub więzadło skrzydłowo-żuchwowe."
+    },
+    {
+        "question": "Wycisk mukodynamiczny:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "To wycisk anatomiczny",
+            "B": "To wycisk czynnościowy",
+            "C": "Obejmuje błonę śluzową nieruchomą",
+            "D": "Obejmuje błonę śluzową ruchomą i nieruchomą",
+            "E": "Najczęściej dotyczy szczęki",
+            "F": "Najczęściej dotyczy żuchwy"
+        },
+        "answer": "D",
+        "justification": "Wycisk mukodynamiczny (czynnościowy) z definicji rejestruje granicę między błoną śluzową ruchomą a nieruchomą oraz kształtuje obrzeże w strefie działania mięśni (błona ruchoma) dla zapewnienia uszczelnienia."
+    },
+    {
+        "question": "Zaznacz odpowiedź prawidłową na temat strefy neutralnej:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wielkość i wypadkowe działania tych sił są takie same u wszystkich ludzi",
+            "B": "Strefa neutralna jest obszarem w którym siły języka działające na zewnątrz są równoważone przez kierunki sił wyzwalanych przez wargi i język, a działających do wewnątrz",
+            "C": "Mówimy o niej u pacjentów bezzębnych oraz u pacjentów brakami skrzydłowymi",
+            "D": "Jest to przestrzeń jamy ustnej zawarta pomiędzy trzonem języka a podniebieniem",
+            "E": "Odpowiedzi B i D prawidłowe"
+        },
+        "answer": "B",
+        "justification": "Strefa neutralna (równowagi mięśniowej) to obszar, w którym siły wywierane przez język (od wewnątrz) równoważą się z siłami wywieranymi przez policzki i wargi (od zewnątrz). Umieszczenie zębów w tej strefie jest kluczowe dla stabilności protezy."
+    },
+    {
+        "question": "Zaznacz prawdziwą informację dotyczącą analizatora (paralelometru):",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Przy kontakcie punktowym między ścianą zęba a analizatorem powstaje kąt jeżeli jest on wierzchołkiem zwrócony do powierzchni żującej to ściana zęba nazywa się górno kątową",
+            "B": "Przy kontakcie punktowym między ścianą zęba a analizatorem powstaje kąt jeżeli jest on wierzchołkiem zwrócony w kierunku szyjki zęba to ścian nazywa się dolno kątową",
+            "C": "Największa wypukłość względna wynika z ustawienia zęba względem analizatora. Zależy od stosunku długiej osi zęba do pionowego ramienia paralelometru",
+            "D": "A i B prawidłowe",
+            "E": "A, B i C prawidłowe"
+        },
+        "answer": "C",
+        "justification": "Największa wypukłość zęba (linia imienna/survey line) na modelu roboczym zależy od toru wprowadzania protezy, czyli relacji długiej osi zęba do pionowego ramienia analizatora. Zmieniając nachylenie modelu, zmieniamy przebieg linii największej wypukłości (wypukłość względna)."
+    },
+    {
+        "question": "14. Podścielenia – wskaż odpowiedź prawidłową:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "metodę podścielenia bezpośredniego stosuje się w przypadkach rozległych zaników wyrostka zębodołowego szczęki i części zębodołowej żuchwy",
+            "B": "metoda podścielenia pośredniego nie wymaga pozbawienia pacjenta protezy na okres wykonawstwa laboratoryjnego tej czynności",
+            "C": "ciasto akrylowe ma bardzo małą prężność, dlatego daje się stosunkowo łatwo rozprowadzić po wewnętrznej (niepolerowanej) powierzchni protezy podczas podścielania bezpośredniego",
+            "D": "metoda podścielenia pośredniego wymaga również pracy technika",
+            "E": "w razie konieczności podścielenia protezy górnej i dolnej błędem w sztuce jest rozłożenie tych czynności na 2 etapy"
+        },
+        "answer": "D",
+        "justification": "Podścielenie pośrednie (laboratoryjne) polega na pobraniu wycisku protezą w ustach pacjenta, a następnie wymianie materiału wyciskowego na akryl w laboratorium, co wymaga pracy technika. Metoda bezpośrednia odbywa się w gabinecie (cold-curing acrylic), ale jest rzadziej zalecana przy dużych zanikach ze względu na ryzyko błędów i podrażnień."
+    },
+    {
+        "question": "W przypadku pacjenta z bezzębiem, metoda połykowa służy do ustalenia:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Spoczynkowego położenia żuchwy",
+            "B": "Dotylnego położenia żuchwy",
+            "C": "Centralnego położenia żuchwy – metoda aktywna",
+            "D": "Prawdziwe A i C",
+            "E": "Prawdziwe A i B"
+        },
+        "answer": "D",
+        "justification": "Patrz uzasadnienie do pytania nr 4. Metoda połykowa ustala zwarcie centralne i wysokość zwarcia. Często w kluczach testowych 'A i C' (gdzie C to centralne położenie żuchwy) jest wskazywane jako poprawne, mimo że połykanie jest czynnością pasywną (odruchową), a nie 'metodą aktywną' w sensie sterowania ręką lekarza. Jednak w kontekście opcji D, jest to najczęstsza odpowiedź egzaminacyjna."
+    }
+]
