@@ -1,360 +1,336 @@
+:root {
+    /* Color Palette */
+    --primary-color: #4f46e5;       /* Indigo 600 */
+    --primary-hover: #4338ca;       /* Indigo 700 */
+    --secondary-color: #10b981;     /* Emerald 500 */
+    --accent-color: #f59e0b;        /* Amber 500 */
+    --danger-color: #ef4444;        /* Red 500 */
+    --text-main: #1f2937;           /* Gray 800 */
+    --text-muted: #6b7280;          /* Gray 500 */
+    --bg-app: #f3f4f6;              /* Gray 100 */
+    --bg-card: #ffffff;
+    --border-color: #e5e7eb;        /* Gray 200 */
+
+    /* Typography */
+    --font-heading: 'Poppins', sans-serif;
+    --font-body: 'Inter', sans-serif;
+
+    /* Spacing & Radius */
+    --radius-sm: 0.375rem;
+    --radius-md: 0.75rem;
+    --radius-lg: 1rem;
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+* {
+    box-sizing: border-box;
+}
+
 body {
-    font-family: sans-serif;
+    font-family: var(--font-body);
     display: flex;
-    /* Making body a flex container to center quiz selection initially,
-       quiz-container will be hidden then shown by JS, potentially re-centering if needed */
-    flex-direction: column; /* Stack selection and quiz container if both were visible */
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
-    color: #333;
-}
-
-#quiz-selection-container {
-    width: 90%;
-    max-width: 600px;
-    margin: 20px auto;
+    background-color: var(--bg-app);
+    color: var(--text-main);
+    line-height: 1.6;
     padding: 20px;
-    background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
 }
 
-#quiz-selection-container h1 {
-    margin-bottom: 20px;
-    color: #333;
-    font-size: 1.8em; /* Example size for selection title */
-}
-
-#quiz-buttons-container button {
-    display: block;
+/* --- Common Containers --- */
+#quiz-selection-container,
+.quiz-container {
+    background-color: var(--bg-card);
+    padding: 2.5rem;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
     width: 100%;
-    padding: 15px;
-    margin-bottom: 10px;
-    font-size: 1.1em;
-    background-color: #007bff;
-    color: white;
+    max-width: 600px;
+    text-align: center;
+    margin: 0 auto;
+    transition: transform 0.2s ease;
+}
+
+#quiz-selection-container img {
+    margin-bottom: 1.5rem;
+    filter: drop-shadow(0 4px 6px rgba(0,0,0,0.1));
+}
+
+/* --- Typography --- */
+h1, h2 {
+    font-family: var(--font-heading);
+    color: var(--text-main);
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 1.875rem; /* 30px */
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    letter-spacing: -0.025em;
+}
+
+h2 {
+    font-size: 1.25rem; /* 20px */
+    font-weight: 600;
+    margin-top: 2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--border-color);
+    color: var(--text-muted);
+}
+
+/* --- Buttons --- */
+button, .btn {
+    font-family: var(--font-body);
+    font-weight: 500;
     border: none;
-    border-radius: 5px;
+    border-radius: var(--radius-md);
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: all 0.2s ease;
+    font-size: 1rem;
+    box-shadow: var(--shadow-sm);
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.btn:hover, button:hover {
+    transform: translateY(-1px);
+    box-shadow: var(--shadow-md);
+}
+
+.btn:active, button:active {
+    transform: translateY(0);
+}
+
+/* Main Menu Buttons */
+#quiz-buttons-container button {
+    width: 100%;
+    padding: 1rem 1.5rem;
+    margin-bottom: 0.75rem;
+    background-color: var(--primary-color);
+    color: white;
+    text-align: left;
+    justify-content: flex-start;
 }
 
 #quiz-buttons-container button:hover {
-    background-color: #0056b3;
+    background-color: var(--primary-hover);
 }
 
-.quiz-container {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 90%;
-    max-width: 600px;
-    text-align: center;
-    /* margin: 20px auto; */ /* Centering if body wasn't flex, but JS will manage visibility */
-}
-
-/* Styles for the h1 inside quiz-container, now with an ID */
-#quiz-title-display {
-    color: #333;
-    margin-bottom: 20px; /* Original h1 margin */
-    font-size: 1.8em; /* Consistent with selection title, or adjust as needed */
-}
-
-#score-container {
-    font-size: 1.1em;
-    margin-bottom: 15px;
-    color: #333;
-    font-weight: bold;
-}
-
-.score-correct-value {
-    color: #28a745;
-    font-weight: bold;
-}
-
-.score-incorrect-value {
-    color: #dc3545;
-    font-weight: bold;
-}
-
-#question-container {
-    margin-bottom: 20px;
-    min-height: 50px;
-}
-
-#question-text {
-    font-size: 1.2em;
-    margin-bottom: 10px;
-}
-
-#feedback-container {
-    margin-top: 20px;
-    min-height: 60px;
-}
-
-#feedback-text {
-    font-weight: bold;
-}
-
-#justification-text {
-    margin-top: 5px;
-    color: #555;
-}
-
+/* Quiz Control Buttons */
 .btn {
-    background-color: #007bff;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    margin: 5px;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 1em;
-    transition: background-color 0.3s ease;
-    display: inline-block;
-}
-
-.btn:hover {
-    background-color: #0056b3;
+    padding: 0.75rem 1.5rem;
+    margin: 0.5rem;
+    min-width: 140px;
 }
 
 #next-btn {
-    margin-top: 20px;
+    background-color: var(--primary-color);
+    color: white;
+    width: 100%;
+    margin: 2rem 0 1rem 0;
 }
-
-#true-btn {
-    background-color: #28a745;
-}
-
-#true-btn:hover {
-    background-color: #218838;
-}
-
-#false-btn {
-    background-color: #dc3545;
-}
-
-#false-btn:hover {
-    background-color: #c82333;
-}
+#next-btn:hover { background-color: var(--primary-hover); }
 
 #reset-btn {
-    background-color: #ffc107;
-    color: #212529;
-    margin-top: 10px;
+    background-color: white;
+    color: var(--text-main);
+    border: 1px solid var(--border-color);
 }
-
 #reset-btn:hover {
-    background-color: #e0a800;
+    background-color: var(--bg-app);
+    border-color: var(--text-muted);
 }
 
 #back-to-menu-btn {
-    background-color: #6c757d; /* Grey color */
-    color: white;
-    margin-top: 10px;
+    background-color: transparent;
+    color: var(--text-muted);
+    box-shadow: none;
+    padding: 0.5rem;
+}
+#back-to-menu-btn:hover {
+    color: var(--text-main);
+    background-color: transparent;
+    text-decoration: underline;
+    transform: none;
+    box-shadow: none;
 }
 
-#back-to-menu-btn:hover {
-    background-color: #5a6268;
+/* True/False Buttons */
+#true-btn {
+    background-color: var(--secondary-color);
+    color: white;
+}
+#true-btn:hover { background-color: #059669; }
+
+#false-btn {
+    background-color: var(--danger-color);
+    color: white;
+}
+#false-btn:hover { background-color: #dc2626; }
+
+
+/* --- Quiz Elements --- */
+#score-container {
+    display: inline-block;
+    background-color: var(--bg-app);
+    padding: 0.5rem 1.5rem;
+    border-radius: 9999px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+
+.score-correct-value { color: var(--secondary-color); }
+.score-incorrect-value { color: var(--danger-color); }
+
+.progress-bar-container {
+    width: 100%;
+    background-color: var(--border-color);
+    border-radius: 9999px;
+    height: 0.75rem;
+    overflow: hidden;
+    margin-bottom: 2.5rem;
+}
+
+#progress-bar {
+    height: 100%;
+    background: linear-gradient(90deg, var(--primary-color), var(--primary-hover));
+    border-radius: 9999px;
+    transition: width 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+#question-text {
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    color: var(--text-main);
+    line-height: 1.5;
+}
+
+/* --- Feedback --- */
+#feedback-container {
+    min-height: 40px;
+    margin-top: 1.5rem;
+}
+
+#feedback-text {
+    font-weight: 700;
+    font-size: 1.1rem;
+    padding: 0.75rem;
+    border-radius: var(--radius-md);
+    background-color: transparent;
+}
+/* Style modifications by JS usually, but defaults could be here */
+
+
+/* --- Multiple Choice (ABCD) --- */
+.btn-abcd {
+    width: 100%;
+    text-align: left;
+    background-color: white;
+    border: 1px solid var(--border-color);
+    color: var(--text-main);
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border-radius: var(--radius-md);
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+}
+
+.btn-abcd:hover {
+    border-color: var(--primary-color);
+    background-color: #eff6ff;
+    transform: translateX(4px);
+}
+
+#abcd-answers-container .mcq-option {
+    background-color: white;
+    border: 1px solid var(--border-color);
+    padding: 1rem;
+    border-radius: var(--radius-md);
+    margin: 0.75rem 0;
+    display: flex;
+    align-items: center;
+    transition: all 0.2s;
+    cursor: pointer;
+}
+
+#abcd-answers-container .mcq-option:hover {
+    border-color: var(--primary-color);
+    background-color: #eff6ff;
+}
+
+.checkbox-abcd {
+    width: 1.2rem;
+    height: 1.2rem;
+    margin-right: 1rem;
+    accent-color: var(--primary-color);
+    cursor: pointer;
+}
+
+#submit-mcq-btn {
+    background-color: var(--secondary-color);
+    color: white;
+    width: 100%;
+    margin-top: 1.5rem;
+}
+#submit-mcq-btn:hover { background-color: #059669; }
+
+
+/* --- States (Correct/Incorrect) --- */
+/* User clicked Correct */
+.user-selected-correct,
+.btn.user-selected-correct,
+#abcd-answers-container .mcq-option.user-selected-correct {
+    background-color: #ecfdf5 !important;
+    border-color: var(--secondary-color) !important;
+    color: #065f46 !important;
+}
+
+/* User clicked Incorrect */
+.user-selected-incorrect,
+.btn.user-selected-incorrect,
+#abcd-answers-container .mcq-option.user-selected-incorrect {
+    background-color: #fef2f2 !important;
+    border-color: var(--danger-color) !important;
+    color: #991b1b !important;
+}
+
+/* Show actual correct answer */
+.actual-correct-answer,
+.btn.actual-correct-answer,
+#abcd-answers-container .mcq-option.actual-correct-answer {
+    background-color: #ecfeff !important; /* Cyan 50 */
+    border-color: #06b6d4 !important;     /* Cyan 500 */
+    box-shadow: 0 0 0 1px #06b6d4;
 }
 
 .hidden {
     display: none !important;
 }
 
-.progress-bar-container {
-    width: 100%;
-    background-color: #e0e0e0;
-    border-radius: 4px;
-    margin-bottom: 20px;
-    height: 20px;
-    overflow: hidden;
-}
-
-#progress-bar {
-    width: 0%;
-    height: 100%;
-    background-color: #007bff;
-    border-radius: 4px;
-    transition: width 0.3s ease-in-out;
-    text-align: center;
-    line-height: 20px;
-    color: white;
-}
-
-@media (max-width: 480px) {
-    .quiz-container, #quiz-selection-container { /* Ensure selection container also adapts */
-        padding: 15px;
+/* --- Responsive --- */
+@media (max-width: 640px) {
+    body {
+        padding: 10px;
     }
-
-    #answers-container .btn {
-        display: block;
+    #quiz-selection-container, .quiz-container {
+        padding: 1.5rem;
+    }
+    h1 { font-size: 1.5rem; }
+    h2 { font-size: 1.1rem; }
+    
+    .btn {
         width: 100%;
-        margin: 10px 0;
-    }
-
-    #next-btn, #reset-btn, #back-to-menu-btn { /* Grouped all footer buttons for mobile stacking */
-       display: block;
-       width: 100%;
-       margin-left: 0;
-       margin-right: 0;
-       margin-top: 10px;
-    }
-
-    /* General h1 inside quiz-container and selection-container for mobile */
-    .quiz-container h1, #quiz-selection-container h1, #quiz-title-display {
-        font-size: 1.5em; /* Unified smaller size for h1 on mobile */
-    }
-
-    #question-text {
-        font-size: 1.1em;
+        margin: 0.5rem 0;
     }
 }
-
-/* Styles for Subject Headings in Quiz Selection */
-#quiz-buttons-container h2 {
-    margin-top: 25px;
-    margin-bottom: 10px;
-    font-size: 1.5em;
-    color: #444; /* Slightly darker than body text for emphasis */
-    border-bottom: 2px solid #007bff; /* Theme color border */
-    padding-bottom: 8px;
-    text-align: left; /* Align with buttons if they are full width */
-}
-
-/* Styles for ABCD Answer Buttons */
-.btn-abcd {
-    display: block; /* Make buttons take full available width */
-    width: 90%;    /* Or a specific percentage like 90% */
-    margin: 10px auto; /* Center block buttons with some vertical space */
-    padding: 15px;
-    font-size: 1em;
-    text-align: left; /* Align text to the left within the button */
-    background-color: #6c757d; /* A neutral color, can be changed */
-}
-
-.btn-abcd:hover {
-    background-color: #5a6268; /* Darker shade for hover */
-}
-
-/* Styles for Multiple-Choice Question Checkboxes and Labels */
-#abcd-answers-container .mcq-option { /* Container for each checkbox+label pair */
-    display: flex; /* Align checkbox and label on the same line */
-    align-items: center; /* Vertically center items in the div */
-    margin: 12px 0; /* Vertical spacing */
-    padding: 10px; /* Padding around each option */
-    border: 1px solid #ddd; /* Optional: border for each option */
-    border-radius: 5px;
-    text-align: left;
-    margin-left: auto;  /* Centering the option div itself if its width is not 100% */
-    margin-right: auto;
-    width: 90%; /* Match button width for consistency */
-}
-
-.checkbox-abcd {
-    margin-right: 12px; /* Space between checkbox and label text */
-    transform: scale(1.3); /* Make checkbox slightly larger */
-    cursor: pointer;
-}
-
-#abcd-answers-container label {
-    font-size: 1em;
-    color: #333;
-    flex-grow: 1; /* Allow label to take available space */
-    cursor: pointer;
-}
-
-/* Style for the "Potwierdź odpowiedzi" (Confirm Answers) Button */
-#submit-mcq-btn {
-    margin-top: 20px; /* Add some space above the submit button */
-    background-color: #28a745; /* Green color for confirm, distinct from options */
-}
-
-#submit-mcq-btn:hover {
-    background-color: #218838; /* Darker green for hover */
-}
-
-/* For user's selected answer that is correct */
-.user-selected-correct {
-    background-color: #d4edda; /* Light green */
-    border-color: #c3e6cb;
-    color: #155724; /* Dark green text */
-}
-
-/* Ensure specificity for buttons if needed */
-.btn.user-selected-correct {
-    background-color: #28a745; /* Similar to existing true-btn but could be distinct */
-    color: white;
-    border: 2px solid #1e7e34; /* Darker green border */
-}
-
-/* Ensure specificity for MCQ options if needed */
-#abcd-answers-container .mcq-option.user-selected-correct {
-    background-color: #d4edda; /* Light green background for the div */
-    border: 1px solid #c3e6cb;
-}
-#abcd-answers-container .mcq-option.user-selected-correct label {
-    color: #155724; /* Dark green text for the label */
-}
-
-/* For user's selected answer that is incorrect */
-.user-selected-incorrect {
-    background-color: #f8d7da; /* Light red */
-    border-color: #f5c6cb;
-    color: #721c24; /* Dark red text */
-}
-
-/* Ensure specificity for buttons if needed */
-.btn.user-selected-incorrect {
-    background-color: #dc3545; /* Similar to existing false-btn */
-    color: white;
-    border: 2px solid #b21f2d; /* Darker red border */
-}
-
-#abcd-answers-container .mcq-option.user-selected-incorrect {
-    background-color: #f8d7da; /* Light red background for the div */
-    border: 1px solid #f5c6cb;
-}
-#abcd-answers-container .mcq-option.user-selected-incorrect label {
-    color: #721c24; /* Dark red text for the label */
-}
-
-/* For highlighting the actual correct answer when the user was wrong */
-.actual-correct-answer {
-    /* Using a light blue/cyan shade for distinction */
-    background-color: #e0f7fa; /* Light cyan */
-    border-color: #b2ebf2;     /* Slightly darker cyan border */
-    color: #00796b;            /* Dark cyan/teal text */
-}
-
-/* Ensure specificity for buttons if needed */
-.btn.actual-correct-answer {
-    background-color: #00bcd4; /* Cyan */
-    color: white;
-    border: 2px solid #0097a7; /* Darker cyan border */
-}
-
-/* Ensure specificity for MCQ options if needed */
-#abcd-answers-container .mcq-option.actual-correct-answer {
-    background-color: #e0f7fa; /* Light cyan background for the div */
-    border: 1px solid #b2ebf2;
-}
-#abcd-answers-container .mcq-option.actual-correct-answer label {
-    color: #00796b; /* Dark cyan/teal text for the label */
-}
-
-/*
-   Adjustments to ensure overrides if user selected a correct option
-   but the MCQ was globally wrong. This scenario is tricky.
-   For now, actual-correct-answer might override user-selected-incorrect
-   if applied to the same element. The JS logic aims to apply them to different elements.
-   If a correct option was part of an incorrect MCQ submission,
-   it will be user-selected-incorrect.
-   actual-correct-answer is for correct options *not* selected by the user.
-   So, direct conflict on the same element for these two classes is unlikely with current JS.
-*/
