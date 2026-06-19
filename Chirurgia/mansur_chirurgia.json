@@ -1,0 +1,1432 @@
+[
+    {
+        "question": "Jaki jest najczęstszy objaw złamania jarzmowo-szczękowo-oczodołowego (ZJSO)?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zaburzenia czucia na przebiegu nerwu podoczodołowego",
+            "B": "Wyciek płynu mózgowo-rdzeniowego z nosa",
+            "C": "Opadanie powieki górnej",
+            "D": "Silny ból przy przełykaniu",
+            "E": "Objaw Vincenta"
+        },
+        "answer": "A",
+        "justification": "Złamanie ZJSO często przechodzi przez kanał nerwu podoczodołowego, powodując zaburzenia czucia (parestezje, niedoczulicę) w obszarze jego unerwienia."
+    },
+    {
+        "question": "Do zamknięcia połączenia ustno-zatokowego najczęściej wykorzystuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Płat śluzówkowo-okostnowy z podniebienia twardego",
+            "B": "Płat śluzówkowo-okostnowy z przedsionka jamy ustnej (płat Wassmunda-Borchersa)",
+            "C": "Wolny przeszczep skóry",
+            "D": "Płat z języka",
+            "E": "Tylko szwy zbliżające brzegi dziąsła"
+        },
+        "answer": "B",
+        "justification": "Metoda Wassmunda-Borchersa polegająca na przesunięciu trapezoiwatego płata policzkowego jest najczęstszym sposobem plastyki połączenia ustno-zatokowego."
+    },
+    {
+        "question": "Objaw Vincenta polega na:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Bolesności opukowej zęba",
+            "B": "Zaburzeniach czucia (parestezji) w obrębie wargi dolnej i bródki",
+            "C": "Trzeszczeniu odłamów kostnych",
+            "D": "Zniesieniu odruchu rogówkowego",
+            "E": "Tętnieniu guza podczas badania palpacyjnego"
+        },
+        "answer": "B",
+        "justification": "Objaw Vincenta to zaburzenia czucia w zakresie unerwienia nerwu zębodołowego dolnego (warga dolna, bródka), często występujący w złamaniach żuchwy, guzach lub po urazach."
+    },
+    {
+        "question": "Wskazaniem do ekstrakcji zęba mądrości w żuchwie nie jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Nawracające stany zapalne (pericoronitis)",
+            "B": "Torbiel zawiązkowa wokół korony zatrzymanego zęba",
+            "C": "Ząb całkowicie zatrzymany, bezobjawowy, głęboko w kości u 60-letniego pacjenta",
+            "D": "Próchnica głęboka niekwalifikująca się do leczenia zachowawczego",
+            "E": "Wskazania ortodontyczne przed planowanym leczeniem"
+        },
+        "answer": "C",
+        "justification": "Głęboko zatrzymane, bezobjawowe zęby u starszych pacjentów bez patologii wokół korony często poddaje się jedynie obserwacji ze względu na wysokie ryzyko powikłań zabiegu."
+    },
+    {
+        "question": "Najczęstszym nowotworem łagodnym gruczołów ślinowych jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Rak gruczołowato-torbielowaty (cylindroma)",
+            "B": "Guz Warthina (gruczolak limfatyczny brodawczakowaty)",
+            "C": "Gruczolak wielopostaciowy (guz mieszany)",
+            "D": "Rak śluzowo-naskórkowy",
+            "E": "Naczyniak"
+        },
+        "answer": "C",
+        "justification": "Gruczolak wielopostaciowy (tumor mixtus) to najczęstszy nowotwór łagodny ślinianek, głównie lokalizujący się w śliniance przyusznej."
+    },
+    {
+        "question": "Linia złamania Le Fort I przebiega przez:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Korzenie kości nosowych i szczeliny oczodołowe dolne",
+            "B": "Podstawę szczęki, oddzielając wyrostek zębodołowy i podniebienie od reszty szczęki",
+            "C": "Kości jarzmowe i łuki jarzmowe",
+            "D": "Szwy czołowo-nosowe i czołowo-szczękowe",
+            "E": "Guzowatość szczęki i wyrostki kłykciowe żuchwy"
+        },
+        "answer": "B",
+        "justification": "Złamanie Le Fort I to oderwanie masywu szczękowo-zębodołowego, linia biegnie poziomo nad wierzchołkami zębów."
+    },
+    {
+        "question": "W przypadku ropnia podbródkowego nacięcie wykonuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zawsze wewnątrzustnie",
+            "B": "Zewnątrzustnie w fałdzie podbródkowym",
+            "C": "Wewnątrzustnie lub zewnątrzustnie w zależności od punktu największego chełbotania",
+            "D": "Nie nacina się, stosuje się jedynie drenaż punktowy",
+            "E": "Zewnątrzustnie poniżej brzegu żuchwy w odległości 2 cm"
+        },
+        "answer": "C",
+        "justification": "Lokalizacja nacięcia (wewnątrzustnie czy zewnątrzustnie) zależy od kierunku szerzenia się ropnia i miejsca największego chełbotania (ewentualnie najbliżej powierzchni skóry/błony śluzowej)."
+    },
+    {
+        "question": "Do objawów złamania oczodołu typu rozrostowego ('blow-out') należą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zapadnięcie gałki ocznej (enoftalmia) i podwójne widzenie (diplopia)",
+            "B": "Wysadzenie gałki ocznej (egzoftalmia)",
+            "C": "Utrata wzroku bezpośrednio po urazie",
+            "D": "Pulsowanie gałki ocznej",
+            "E": "Silne krwawienie z tętnicy ocznej"
+        },
+        "answer": "A",
+        "justification": "Złamanie rozrostowe dna oczodołu prowadzi do przemieszczenia zawartości oczodołu do zatoki szczękowej, co skutkuje enoftalmią i ograniczeniem ruchomości gałki (diplopią)."
+    },
+    {
+        "question": "Suchy zębodół (alveolitis sicca) objawia się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Silnym, promieniującym bólem występującym zwykle 2-3 dni po ekstrakcji",
+            "B": "Obfitym ropnym wysiękiem z zębodołu",
+            "C": "Natychmiastowym bólem po ustąpieniu znieczulenia, który mija na drugi dzień",
+            "D": "Wysoką gorączką powyżej 39°C i dreszczami",
+            "E": "Powiększeniem węzłów chłonnych karkowych"
+        },
+        "answer": "A",
+        "justification": "Ból w suchym zębodole zaczyna się typowo w 2.-3. dobie po zabiegu, zębodół jest pusty lub wypełniony rozpadłym skrzepem."
+    },
+    {
+        "question": "Która przestrzeń powięziowa jest najczęstszym punktem wyjścia dla zakażeń zębopochodnych w żuchwie prowadzących do anginy Ludwiga?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Przestrzeń skrzydłowo-żuchwowa",
+            "B": "Przestrzeń podbródkowa, podżuchwowa i podjęzykowa jednocześnie",
+            "C": "Przestrzeń przygardłowa",
+            "D": "Przestrzeń zagardłowa",
+            "E": "Przestrzeń skroniowa"
+        },
+        "answer": "B",
+        "justification": "Angina Ludwiga to ropowica dna jamy ustnej obejmująca obustronnie przestrzenie podżuchwowe, podbródkową i podjęzykowe."
+    },
+    {
+        "question": "Najtwardszą tkanką zęba jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zębina",
+            "B": "Szkliwo",
+            "C": "Cement korzeniowy",
+            "D": "Miazga",
+            "E": "Kość wyrostka zębodołowego"
+        },
+        "answer": "B",
+        "justification": "Szkliwo jest w 96% zmineralizowane i stanowi najtwardszą tkankę w organizmie."
+    },
+    {
+        "question": "Czym jest metoda Partsch I stosowana w leczeniu torbieli?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Całkowitym wyłuszczeniem torbieli z zaszyciem rany na głucho",
+            "B": "Marsupializacją (wgłobieniem) torbieli do jamy ustnej",
+            "C": "Odbarczeniem torbieli i drenażem przez 6 miesięcy bez wycinania mieszka",
+            "D": "Wypełnieniem jamy torbieli materiałem kościozastępczym",
+            "E": "Resekcją kości wraz z torbielą"
+        },
+        "answer": "B",
+        "justification": "Operacja Partsch I (marsupializacja) polega na przekształceniu torbieli w dodatkowy zachyłek jamy ustnej (wgłobienie)."
+    },
+    {
+        "question": "Do unieruchamiania odłamów złamanej żuchwy stosuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Szyny Tigerstedta",
+            "B": "Płytki mini-tytanowe",
+            "C": "Szyny Webera",
+            "D": "Szyny Vankiewicza",
+            "E": "Odpowiedzi A i B są prawidłowe"
+        },
+        "answer": "E",
+        "justification": "Do leczenia złamań stosuje się metody zachowawcze (np. wyciągi międzyszczękowe na szynach Tigerstedta) lub chirurgiczne (osteosynteza płytkowa)."
+    },
+    {
+        "question": "Nerw zębodołowy dolny wychodzi z żuchwy przez:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Otwór bródkowy",
+            "B": "Otwór owalny",
+            "C": "Otwór żuchwy",
+            "D": "Otwór okrągły",
+            "E": "Szczelinę oczodołową dolną"
+        },
+        "answer": "A",
+        "justification": "Nerw zębodołowy dolny kończy się (jako nerw bródkowy) wychodząc z kanału żuchwy przez otwór bródkowy."
+    },
+    {
+        "question": "Najczęstszą przyczyną powstawania torbieli korzeniowej jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Uraz mechaniczny zęba bez uszkodzenia miazgi",
+            "B": "Zaburzenia rozwojowe narządu zębowego",
+            "C": "Martwica miazgi i przewlekły stan zapalny tkanek okołowierzchołkowych",
+            "D": "Zatrzymanie wyrzynania zęba",
+            "E": "Choroby przyzębia (paradontoza)"
+        },
+        "answer": "C",
+        "justification": "Torbiel korzeniowa ma podłoże zapalne, powstaje z ziarniniaka okołowierzchołkowego w wyniku martwicy miazgi."
+    },
+    {
+        "question": "Zespół Gorlina-Goltza wiąże się z występowaniem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Mnogich torbieli zawiązkowych i raków podstawnokomórkowych skóry",
+            "B": "Mnogich kostniaków i polipowatości jelit",
+            "C": "Guzów brunatnych w nadczynności przytarczyc",
+            "D": "Szkliwiaków o złośliwym przebiegu",
+            "E": "Dysplazji włóknistej kości"
+        },
+        "answer": "A",
+        "justification": "Zespół Gorlina-Goltza (zespół nabłoniaków podstawnokomórkowych) charakteryzuje się m.in. mnogimi torbielami zębopochodnymi gruczołowymi (keratocystami) i rakami podstawnokomórkowymi."
+    },
+    {
+        "question": "Technika znieczulenia przewodowego w dole skrzydłowo-żuchwowym obejmuje znieczulenie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Nerwu zębodołowego dolnego, nerwu językowego, niekiedy nerwu policzkowego",
+            "B": "Nerwu zębodołowego górnego tylnego",
+            "C": "Nerwu podoczodołowego",
+            "D": "Nerwu bródkowego i siekaczowego",
+            "E": "Tylko nerwu językowego"
+        },
+        "answer": "A",
+        "justification": "W znieczuleniu do otworu żuchwy (w dole skrzydłowo-żuchwowym) blokuje się pień nerwu zębodołowego dolnego oraz zazwyczaj leżący do przodu nerw językowy."
+    },
+    {
+        "question": "Wskazaniem do stosowania antybiotykoterapii po ekstrakcji zęba jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Każda ekstrakcja zęba w żuchwie",
+            "B": "Profilaktyka zapalenia wsierdzia u pacjentów z grupy wysokiego ryzyka",
+            "C": "Podwyższona temperatura ciała (37,2°C) w pierwszej dobie po zabiegu dłutowania",
+            "D": "Ekstrakcja zęba z żywą miazgą w znieczuleniu miejscowym",
+            "E": "Pojawienie się niewielkiego obrzęku po ekstrakcji ósemki"
+        },
+        "answer": "B",
+        "justification": "Profilaktyka IZW jest bezwzględnym wskazaniem do osłony antybiotykowej u obciążonych pacjentów kardiologicznych."
+    },
+    {
+        "question": "Szkliwiak (ameloblastoma) najczęściej lokalizuje się w:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Odcinku przednim szczęki",
+            "B": "Odcinku bocznym i kącie żuchwy",
+            "C": "Podniebieniu twardym",
+            "D": "Dnie jamy ustnej",
+            "E": "Wyrostku kłykciowym żuchwy"
+        },
+        "answer": "B",
+        "justification": "Najczęstszą lokalizacją ameloblastoma jest okolica trzonu i kąta żuchwy (ok. 80% przypadków)."
+    },
+    {
+        "question": "Operacja Caldwell-Luca jest zabiegiem dotyczącym:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zatoki szczękowej",
+            "B": "Stawu skroniowo-żuchwowego",
+            "C": "Częściowej resekcji żuchwy",
+            "D": "Leczenia złamań wyrostka kłykciowego",
+            "E": "Wyłuszczenia ślinianki podżuchwowej"
+        },
+        "answer": "A",
+        "justification": "Operacja sposobem Caldwella-Luca to klasyczny dostęp do zatoki szczękowej przez dół nadkłowy."
+    },
+    {
+        "question": "W przypadku zwichnięcia żuchwy (luxatio mandibulae) najczęściej dochodzi do przemieszczenia głowy żuchwy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Do tyłu od guzka stawowego",
+            "B": "Do przodu od guzka stawowego",
+            "C": "Przyśrodkowo",
+            "D": "Bocznie",
+            "E": "Dogłowowo do środkowego dołu czaszki"
+        },
+        "answer": "B",
+        "justification": "Najczęstsze zwichnięcie to zwichnięcie przednie, w którym głowa żuchwy przekracza guzek stawowy i blokuje się przed nim."
+    },
+    {
+        "question": "Rękoczyn Hipokratesa stosowany jest w celu:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zahamowania krwawienia poekstrakcyjnego",
+            "B": "Odbarczenia ropnia przestrzeni podżuchwowej",
+            "C": "Repozycji przedniego zwichnięcia żuchwy",
+            "D": "Stabilizacji złamanej kości jarzmowej",
+            "E": "Oceny ruchomości stawu skroniowo-żuchwowego"
+        },
+        "answer": "C",
+        "justification": "Rękoczyn Hipokratesa to klasyczna metoda obustronnego nastawienia (repozycji) przedniego zwichnięcia żuchwy."
+    },
+    {
+        "question": "Metoda znieczulenia metodą Gow-Gatesa pozwala na znieczulenie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Tylko nerwu zębodołowego dolnego",
+            "B": "Nerwu zębodołowego dolnego, językowego i policzkowego przy jednym wkłuciu",
+            "C": "Nerwu podoczodołowego i zębodołowego górnego przedniego",
+            "D": "Całego splotu zębowego górnego",
+            "E": "Tylko gałązek zębodołowych w obrębie szczęki"
+        },
+        "answer": "B",
+        "justification": "Znieczulenie Gow-Gatesa to tzw. blokada pnia żuchwowego (prawdziwy blok nerwu żuchwowego), znieczulająca zazwyczaj nerw zębodołowy dolny, językowy, uszno-skroniowy, żuchwowo-gnykowy i często policzkowy."
+    },
+    {
+        "question": "Złamanie typu Le Fort II obejmuje:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Tylko oderwanie wyrostka zębodołowego szczęki",
+            "B": "Piramidalne oderwanie szczęki od kości twarzoczaszki z pęknięciem kości nosowych i dna oczodołu",
+            "C": "Całkowite oderwanie twarzoczaszki od podstawy czaszki",
+            "D": "Izolowane złamanie łuku jarzmowego",
+            "E": "Złamanie dna zatoki szczękowej bez przemieszczenia"
+        },
+        "answer": "B",
+        "justification": "Le Fort II to złamanie piramidalne. Linia pęknięcia biegnie przez kości nosowe, przyśrodkową i dolną ścianę oczodołu oraz wyrostek piramidalny szczęki."
+    },
+    {
+        "question": "W leczeniu chirurgicznym ropowicy dna jamy ustnej (anginy Ludwiga) nacięcia wykonuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wyłącznie wewnątrzustnie pod językiem",
+            "B": "Wzdłuż brzegów mięśnia mostkowo-obojczykowo-sutkowego",
+            "C": "Zewnątrzustnie w kształcie litery T lub kołnierzykowato (tzw. nacięcie kołnierzykowe na szyi)",
+            "D": "W okolicy kąta żuchwy",
+            "E": "Nie nacina się, podaje się tylko sterydy i antybiotyki"
+        },
+        "answer": "C",
+        "justification": "W anginie Ludwiga konieczne są szerokie nacięcia zewnątrzustne obustronne okolic podżuchwowych i podbródkowej, często łączone w jedno cięcie 'kołnierzykowe'."
+    },
+    {
+        "question": "Rak płaskonabłonkowy rogowaciejący najczęściej występuje w jamie ustnej w okolicy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Podniebienia twardego",
+            "B": "Grzbietu języka",
+            "C": "Dna jamy ustnej i bocznej powierzchni języka",
+            "D": "Wewnętrznej powierzchni wargi górnej",
+            "E": "Błony śluzowej policzków na linii zgryzu"
+        },
+        "answer": "C",
+        "justification": "Boczna krawędź języka oraz dno jamy ustnej to najbardziej predysponowane miejsca dla raka płaskonabłonkowego."
+    },
+    {
+        "question": "Ograniczenie otwierania ust do 10-15 mm to szczękościsk (trismus):",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "I stopnia",
+            "B": "II stopnia",
+            "C": "III stopnia",
+            "D": "Czwarty stopień",
+            "E": "Taki stan nie jest kwalifikowany jako szczękościsk"
+        },
+        "answer": "C",
+        "justification": "Trismus dzieli się na stopnie. Rozwarcie szczęk poniżej 15 mm to III (ciężki) stopień szczękościsku (I stopień to rozwarcie ok. 2-3 cm)."
+    },
+    {
+        "question": "Do torbieli niezębopochodnych szczelinowych jamy ustnej należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Torbiel korzeniowa",
+            "B": "Torbiel zawiązkowa",
+            "C": "Torbiel boczna szyi",
+            "D": "Torbiel kanału przysiecznego (przewodu nosowo-podniebiennego)",
+            "E": "Keratocysta (KCOT)"
+        },
+        "answer": "D",
+        "justification": "Torbiel kanału przysiecznego powstaje z nabłonka przetrwałego w przewodzie nosowo-podniebiennym i jest klasyfikowana jako torbiel rozwojowa niezębopochodna."
+    },
+    {
+        "question": "Otwór podoczodołowy, w którym należy zaaplikować środek znieczulający podczas znieczulenia nerwu podoczodołowego, położony jest najczęściej w osi zęba:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Kła górnego",
+            "B": "Pierwszego przedtrzonowca górnego (zęba 4)",
+            "C": "Drugiego przedtrzonowca górnego (zęba 5)",
+            "D": "Pierwszego trzonowca górnego (zęba 6)",
+            "E": "Siekacza bocznego górnego (zęba 2)"
+        },
+        "answer": "B",
+        "justification": "Otwór podoczodołowy leży ok. 5-8 mm poniżej dolnego brzegu oczodołu, zazwyczaj w przedłużeniu osi pierwszego przedtrzonowca lub w połowie odległości między 4 a 5."
+    },
+    {
+        "question": "Wybity ząb stały (awulsja), który pacjent przyniósł w ręce do gabinetu po 15 minutach od urazu, należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Natychmiast wyrzucić, gdyż zębów po awulsji się nie replantuje",
+            "B": "Oczyścić szczoteczką z użyciem pasty do zębów i replantować",
+            "C": "Dokładnie zdezynfekować alkoholem, usunąć miazgę w dłoni i replantować",
+            "D": "Delikatnie opłukać w soli fizjologicznej bez szorowania korzenia i natychmiast replantować",
+            "E": "Włożyć na 24 godziny do podchlorynu sodu przed replantacją"
+        },
+        "answer": "D",
+        "justification": "Zasady postępowania w awulsji: nie dotykać korzenia, opłukać delikatnie w soli fizjologicznej i replantować najszybciej jak to możliwe (najlepiej do 30 min)."
+    },
+    {
+        "question": "Tzw. objaw 'okularów' (obustronny krwiak okularowy) pojawiający się późno (po kilkunastu godzinach lub na drugi dzień) może świadczyć o:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Złamaniu kości nosowych",
+            "B": "Złamaniu łuków jarzmowych",
+            "C": "Złamaniu podstawy czaszki w przednim dole czaszkowym",
+            "D": "Izolowanym urazie tkanek miękkich (podbite oczy)",
+            "E": "Złamaniu trzonu żuchwy"
+        },
+        "answer": "C",
+        "justification": "Krwiak okularowy pojawiający się powoli (często opisywany jako objaw szopa pracza) jest jednym z typowych objawów złamania przedniego dołu podstawy czaszki."
+    },
+    {
+        "question": "Zapalenie kości i szpiku typu Garrego charakteryzuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ostrym ropnym przebiegiem z martwicą kości i tworzeniem przetok",
+            "B": "Przewlekłym wytwórczym zapaleniem okostnej (osteoitis condensans) z asymetrycznym pogrubieniem kości żuchwy u młodych pacjentów",
+            "C": "Zapaleniem swoistym w przebiegu kiły III rzędowej",
+            "D": "Rozlanym martwiczym procesem wywołanym bisfosfonianami (MRONJ)",
+            "E": "Rozwojem rozległych owrzodzeń na błonie śluzowej i martwicą zębodołu po usunięciu zęba"
+        },
+        "answer": "B",
+        "justification": "Zapalenie Garrego (osteomyelitis sicca / periostitis ossificans) przebiega z nasiloną czynnością kościotwórczą okostnej, dając obraz 'cebulkowatych' warstw kości i twardy obrzęk w okolicy kąta/trzonu żuchwy."
+    },
+    {
+        "question": "Kąt żuchwy, spojenie i okolica kłów to najczęstsze miejsca złamań w obrębie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Szczęki",
+            "B": "Żuchwy",
+            "C": "Oczodołu",
+            "D": "Łuku jarzmowego",
+            "E": "Wyrostka zębodołowego szczęki"
+        },
+        "answer": "B",
+        "justification": "To punkty zmniejszonej oporności żuchwy, najczęściej ulegające złamaniom."
+    },
+    {
+        "question": "Plamki Fordyce'a to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zmiany przednowotworowe na wargach",
+            "B": "Ektopowe gruczoły łojowe zlokalizowane na błonie śluzowej policzków i warg",
+            "C": "Drobne ropnie w przebiegu grzybicy",
+            "D": "Wykwity w przebiegu odry (plamki Koplika)",
+            "E": "Wirusowe zmiany brodawczakowate"
+        },
+        "answer": "B",
+        "justification": "Plamki Fordyce'a to drobne, żółto-białe grudki na błonie śluzowej, które są niefizjologicznie umiejscowionymi (ektopowymi) gruczołami łojowymi."
+    },
+    {
+        "question": "Narzędzie typu Lindo-Levien to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Dźwignia do korzeni o cienkim, rowkowanym dziobie",
+            "B": "Kleszcze do ekstrakcji zębów trzonowych mlecznych",
+            "C": "Luksator stosowany przy atraumatycznych ekstrakcjach",
+            "D": "Dźwignia zimnicza, tzw. róg bawoli do zębów trzonowych dolnych",
+            "E": "Rodzaj kiret chirurgicznych do wyłyżeczkowania zębodołu"
+        },
+        "answer": "A",
+        "justification": "Dźwignie Lindo-Leviena charakteryzują się smukłym, wąskim i ząbkowanym (rowkowanym poprzecznie) dziobem przydatnym m.in. do luksacji i wydobywania korzeni."
+    },
+    {
+        "question": "Do złośliwych nowotworów pochodzenia nienabłonkowego w obrębie jamy ustnej zalicza się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Rak płaskonabłonkowy",
+            "B": "Mięsak (sarcoma)",
+            "C": "Gruczolakorak",
+            "D": "Szkliwiak",
+            "E": "Guz Warthina"
+        },
+        "answer": "B",
+        "justification": "Raki wywodzą się z tkanki nabłonkowej, natomiast nowotwory złośliwe z tkanki mezenchymalnej (nienabłonkowej) to mięsaki."
+    },
+    {
+        "question": "Najdłużej działającym środkiem znieczulenia miejscowego spośród wymienionych jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Artykaina",
+            "B": "Bupiwakaina",
+            "C": "Lidokaina",
+            "D": "Mepiwakaina",
+            "E": "Prilokaina"
+        },
+        "answer": "B",
+        "justification": "Bupiwakaina jest anestetykiem długodziałającym, utrzymującym znieczulenie przez wiele godzin, stosowanym m.in. po poważnych zabiegach chirurgicznych."
+    },
+    {
+        "question": "Wskazaniem do resekcji wierzchołka korzenia zęba jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Przewlekłe zapalenie przyzębia okołowierzchołkowego i zatarty w 1/3 wierzchołkowej kanał korzeniowy (niedrożny)",
+            "B": "Rozległe poddziąsłowe złamanie korony zęba z utratą ponad połowy korzenia",
+            "C": "Ząb z ostrym zapaleniem miazgi nieodwracalnym u pacjenta bez znieczulenia",
+            "D": "Resorpcja wzdłuż całej długości korzenia",
+            "E": "Ciężka zaawansowana choroba przyzębia ze znaczną ruchomością zęba"
+        },
+        "answer": "A",
+        "justification": "Resekcja jest wskazana, gdy zmiany okołowierzchołkowe nie poddają się zachowawczemu leczeniu endodontycznemu lub gdy dół kanału (obszar wierzchołkowy) jest niedrożny z powodu np. złamanego narzędzia czy zwapnienia."
+    },
+    {
+        "question": "Krwawienie reaktywne (wtórne wczesne) występuje po ekstrakcji zęba po:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Natychmiastowym usunięciu zęba na fotelu",
+            "B": "2-3 godzinach, jako wynik obniżenia ciśnienia krwi",
+            "C": "Kilku godzinach (często po ustąpieniu działania adrenaliny ze znieczulenia)",
+            "D": "5 dniach na skutek infekcji bakteryjnej i rozpadu skrzepu",
+            "E": "2 tygodniach, jako skutek zaburzeń układu krzepnięcia"
+        },
+        "answer": "C",
+        "justification": "Krwawienie wczesne reaktywne pojawia się po kilku godzinach w efekcie zaniku działania naczynioskurczowego dodatków do anestetyków i wzrostu ciśnienia tętniczego po opuszczeniu gabinetu."
+    },
+    {
+        "question": "Test szpilkowy (badanie czucia bólu za pomocą nakłuwania igłą) po urazie szczękowo-twarzowym ma na celu ocenę wydolności nerwu:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Twarzowego",
+            "B": "Trójdzielnego",
+            "C": "Błędnego",
+            "D": "Podjęzykowego",
+            "E": "Szyjnego poprzecznego"
+        },
+        "answer": "B",
+        "justification": "Za czucie powierzchniowe skóry i błon śluzowych na twarzy odpowiada nerw trójdzielny (V)."
+    },
+    {
+        "question": "Nerw twarzowy wychodzi z czaszki przez otwór:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Okragły",
+            "B": "Owalny",
+            "C": "Rylcowo-sutkowy",
+            "D": "Szyjny",
+            "E": "Kolczysty"
+        },
+        "answer": "C",
+        "justification": "Główny pień nerwu twarzowego (odpowiadający za mimikę twarzy) opuszcza kanał nerwu twarzowego przez otwór rylcowo-sutkowy (foramen stylomastoideum)."
+    },
+    {
+        "question": "Stan zapalny toczący się w kości i podokostnowo w żuchwie charakteryzuje się na zdjęciach RTG pierwszymi widocznymi objawami resorpcji kości dopiero po:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "3 dniach",
+            "B": "7-10 dniach",
+            "C": "1-3 miesiącach",
+            "D": "14-21 dniach (niektórzy autorzy podają 10-14 dni jako minimum do ok 3 tygodni)",
+            "E": "Tego samego dnia"
+        },
+        "answer": "D",
+        "justification": "Zmiany radiologiczne w postaci przejaśnień (osteolizy) w ostrym zapaleniu kości są zazwyczaj widoczne nie wcześniej niż po upływie ok. 2-3 tygodni od początku zakażenia."
+    },
+    {
+        "question": "Włókniak kostniejący to nowotwór łagodny o największej predylekcji do występowania w obrębie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Trzonu żuchwy, najczęściej w rejonie zębów przedtrzonowych i trzonowych",
+            "B": "Guzowatości szczęki",
+            "C": "Wyrostka rylcowatego",
+            "D": "Oczodołu",
+            "E": "Dna jamy ustnej"
+        },
+        "answer": "A",
+        "justification": "Włókniaki kostniejące (ossifying fibroma) predysponują silnie do żuchwy (szczególnie bocznych odcinków trzonu) u osób młodych i w średnim wieku."
+    },
+    {
+        "question": "Przewód Stensena to wyjście z:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Gruczołu łzowego",
+            "B": "Ślinianki podżuchwowej",
+            "C": "Ślinianki podjęzykowej",
+            "D": "Ślinianki przyusznej",
+            "E": "Małych gruczołów policzkowych"
+        },
+        "answer": "D",
+        "justification": "Przewód Stensena (przewód ślinianki przyusznej) uchodzi na błonie śluzowej policzka na wysokości drugiego górnego trzonowca."
+    },
+    {
+        "question": "Leukoplakia (rogowacenie białe) to pojęcie ściśle:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Kliniczne, oznaczające białą plamę na błonie śluzowej, której nie można przypisać innej jednostce chorobowej",
+            "B": "Histopatologiczne, oznaczające raka in situ",
+            "C": "Mikrobiologiczne, oznaczające infekcję grzybiczą",
+            "D": "Wirusologiczne, związane z zakażeniem HPV",
+            "E": "Immunologiczne, tożsame z liszajem płaskim"
+        },
+        "answer": "A",
+        "justification": "Leukoplakia to diagnoza na drodze wykluczenia (tzw. określenie kliniczne), używane w odniesieniu do białej plamy (tarczki), której nie da się zetrzeć ani zaklasyfikować jako inne zdiagnozowane schorzenie."
+    },
+    {
+        "question": "Częstym objawem nowotworów złośliwych zatoki szczękowej, który odróżnia je w wywiadzie od nawracających stanów zapalnych, jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Obustronny katar sienny",
+            "B": "Niestabilność zębów górnych przedtrzonowych i trzonowych oraz ból o charakterze neuralgicznym bez uchwytnej przyczyny odontogennej",
+            "C": "Ból zęba podczas spożywania gorących pokarmów",
+            "D": "Masywne owrzodzenia na podniebieniu miękkim",
+            "E": "Zwiększone wydzielanie śliny"
+        },
+        "answer": "B",
+        "justification": "Naciekający rak zatoki szczękowej powoduje niszczenie dna zatoki (wyrostka zębodołowego), co prowadzi do ruchomości zębów ('zęby pływające') oraz parestezji lub bólów z podrażnienia gałązek nerwów zębodołowych górnych."
+    },
+    {
+        "question": "Do zakażeń wirusowych o szczególnym znaczeniu w etiologii raka jamy ustnej i gardła środkowego zalicza się infekcję wirusem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "HBV",
+            "B": "VZV (wirus ospy wietrznej i półpaśca)",
+            "C": "HPV, szczególnie szczepem 16",
+            "D": "CMV",
+            "E": "HIV jako bezpośrednią przyczynę raka kolczystokomórkowego"
+        },
+        "answer": "C",
+        "justification": "Wirus brodawczaka ludzkiego (HPV 16 i 18) jest kluczowym, niezależnym od tytoniu czynnikiem ryzyka powstawania raka płaskonabłonkowego głowy i szyi, zwłaszcza części ustnej gardła."
+    },
+    {
+        "question": "Rozrost dziąseł i tworzenie się guzów typu nadziąślaków może być efektem ubocznym przewlekłego stosowania:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Aspiryny",
+            "B": "Fenytoiny",
+            "C": "Bisfosfonianów",
+            "D": "Antybiotyków z grupy makrolidów",
+            "E": "Witaminy C w dużych dawkach"
+        },
+        "answer": "B",
+        "justification": "Powiększenie dziąseł i wtórne guzki (często typu ziarniniaków) to klasyczny skutek uboczny stosowania m.in. leków przeciwpadaczkowych (fenytoina), blokerów kanałów wapniowych (nifedypina) oraz immunosupresantów (cyklosporyna A)."
+    },
+    {
+        "question": "Odwarstwienie płata śluzówkowo-okostnowego przy ekstrakcjach chirurgicznych wykonuje się najczęściej za pomocą:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Rozwieraka",
+            "B": "Raspatora",
+            "C": "Luksatora",
+            "D": "Kleszczy Meissnera",
+            "E": "Kirety Volkmanna"
+        },
+        "answer": "B",
+        "justification": "Raspator służy do precyzyjnego oddzielania błony śluzowej wraz z okostną od podłoża kostnego."
+    },
+    {
+        "question": "Tzw. objaw 'pustej zębodoli' na zdjęciu OPG często można zaobserwować w przebiegu:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zespołu Gorlina-Goltza",
+            "B": "Zapalenia przyzębia i znacznego stopnia poziomego zaniku kości",
+            "C": "Centralnego guza olbrzymiokomórkowego (CGCM) przypominającego banki mydlane",
+            "D": "Histiocytozy z komórek Langerhansa (LCH), kiedy zęby pozbawione kości wyglądają jak wyrwane i zawieszone w próżni (tzw. floating teeth)",
+            "E": "Kostniaka żuchwy"
+        },
+        "answer": "D",
+        "justification": "Histiocytoza LCH daje charakterystyczny objaw ubytku struktury kostnej w wyrostku zębodołowym ze zjawiskiem 'zębów pływających w powietrzu' na zdjęciu."
+    },
+    {
+        "question": "Plastyka ubytku kości po resekcji wierzchołka lub wyłuszczeniu torbieli często obejmuje zastosowanie materiałów:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Autogenicznych (np. kość własna pacjenta)",
+            "B": "Allogenicznych (kość z banku dawców)",
+            "C": "Ksenogenicznych (pochodzenia zwierzęcego np. kość bydlęca - BioOss)",
+            "D": "Alloplastycznych (syntetycznych)",
+            "E": "Wszystkie z wymienionych mogą być stosowane jako wszczepy do defektów kości."
+        },
+        "answer": "E",
+        "justification": "W chirurgii odtwórczej można stosować kość własną pacjenta (najlepsza), od obcego dawcy gatunkowego (alloprzeszczepy), z innych gatunków (ksenoprzeszczepy) bądź biomateriały syntetyczne (alloplastyczne)."
+    },
+    {
+        "question": "Zespół Frey (łucja smakowa lub pocenie smakowe) powstaje w wyniku:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Całkowitego uszkodzenia nerwu twarzowego",
+            "B": "Ostrego zapalenia ślinianki podżuchwowej",
+            "C": "Zaburzonej reinerwacji (nieprawidłowego połączenia włókien nerwu uszno-skroniowego z unerwieniem gruczołów potowych w skórze po operacjach ślinianki przyusznej)",
+            "D": "Niewyleczonej kiły trzeciorzędowej",
+            "E": "Porażenia nerwu podjęzykowego"
+        },
+        "answer": "C",
+        "justification": "Zespół Lucji Frey występuje po operacjach przyusznicy. Włókna wydzielnicze do ślinianki zrastają się z włóknami potowymi skóry. Podczas jedzenia (stymulacji smakiem) pacjent się poci na policzku, a skóra staje się czerwona."
+    },
+    {
+        "question": "Ślinianka podżuchwowa leży obustronnie w trójkącie podżuchwowym, a od zewnątrz jej powierzchnia przylega do:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Mięśnia żuchwowo-gnykowego",
+            "B": "Wewnętrznej powierzchni trzonu żuchwy (w tzw. dołku podżuchwowym)",
+            "C": "Przedniego brzuśca mięśnia dwubrzuścowego",
+            "D": "Tętnicy szyjnej wewnętrznej",
+            "E": "Nerwu twarzowego"
+        },
+        "answer": "B",
+        "justification": "Gruczoł podżuchwowy przylega od strony bocznej do dołka podżuchwowego na przyśrodkowej powierzchni trzonu żuchwy."
+    },
+    {
+        "question": "W przypadku konieczności wykonania drenażu z głębokich przestrzeni (np. przestrzeni przygardłowej) stosuje się najczęściej:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Krótkie sączki gazowe zmieniane co godzinę",
+            "B": "Dreny rurkowe z materiałów silikonowych zapewniające drożność, ewentualnie drenaż ssący",
+            "C": "Gąbki hemostatyczne typu Spongostan",
+            "D": "Drenaż uciskowy z bandaża elastycznego",
+            "E": "Szew ciągły bez użycia rurek"
+        },
+        "answer": "B",
+        "justification": "Do głębokich przestrzeni powięziowych najlepiej stosować drenaż rurkowy, bierny (gumowy, Redona) lub czynny (ssący), w celu ewakuacji treści z obszarów trudno dostępnych i z głębokich zakamarków."
+    },
+    {
+        "question": "Obraz 'kamyków kostkowanych' (brukowca) oraz martwica serowata to typowe objawy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Promienicy jamy ustnej",
+            "B": "Tężca",
+            "C": "Gruźlicy w obrębie błony śluzowej jamy ustnej",
+            "D": "Kiły wczesnej",
+            "E": "Rzeżączki"
+        },
+        "answer": "C",
+        "justification": "Gruźlica może manifestować się w jamie ustnej bardzo bolesnymi owrzodzeniami, często o podminowanych, poszarpanych brzegach, a w przypadku węzłów i głębszych zmian – z cechami martwicy serowatej."
+    },
+    {
+        "question": "Wskaż prawidłowe położenie pacjenta na fotelu podczas ekstrakcji górnych zębów w warunkach znieczulenia miejscowego:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Pacjent ułożony całkowicie płasko na plecach (pozycja Trendelenburga)",
+            "B": "Oparcie fotela pochylone do tyłu o około 45 stopni względem pionu, z głową pacjenta odchyloną nieznacznie, a wysokość fotela tak dobrana, by jama ustna znajdowała się na poziomie łokcia lekarza",
+            "C": "Siedząco, z głową podpartą prosto, pod kątem 90 stopni, fotel maksymalnie obniżony",
+            "D": "Siedząco, lekarz powinien pracować na siedząco w każdej sytuacji ze względów ergonomicznych",
+            "E": "Brak reguł, zależy to wyłącznie od leworęczności lekarza"
+        },
+        "answer": "B",
+        "justification": "Przy ekstrakcji zębów górnych fotel odchylony jest bardziej ku tyłowi (ok. 45-60 stopni) niż przy usuwaniu zębów dolnych (gdzie fotel jest podniesiony i oparcie bardziej pionowe)."
+    },
+    {
+        "question": "Szyna przedsionkowa (np. płytka zgryzowa akrylowa) chroniąca ranę może być stosowana jako część postępowania pooperacyjnego w przypadku:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zwykłej ekstrakcji siekacza w żuchwie",
+            "B": "Zabiegów na podniebieniu twardym (np. wycięcie zmiany) lub rozległej plastyki połączeń ustno-zatokowych w celu ochrony skrzepu/płata",
+            "C": "Biopsji gruboigłowej w policzku",
+            "D": "Każdorazowo po ekstrakcji trzonowca",
+            "E": "Tylko u pacjentów ze szczękościskiem"
+        },
+        "answer": "B",
+        "justification": "Płytki ochronne (płytki podniebienne) stosuje się na podniebieniu (ochrona skrzepu po pobraniu nabłonka), lub czasem przy plastyce OAC, by uchronić podniebienie lub płat przed uciskiem zębów dolnych i jedzeniem."
+    },
+    {
+        "question": "Podczas dłutowania korzeni zębów dolnych powikłaniem uszkadzającym unerwienie i powodującym odrętwienie połowy języka jest uszkodzenie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Nerwu zębodołowego dolnego",
+            "B": "Nerwu bródkowego",
+            "C": "Nerwu żuchwowo-gnykowego",
+            "D": "Nerwu językowego",
+            "E": "Nerwu językowo-gardłowego"
+        },
+        "answer": "D",
+        "justification": "Nerw językowy przebiega bardzo blisko wewnętrznej blaszki kostnej zębodołu dolnego zęba mądrości, dlatego bywa narażony podczas trudnych ekstrakcji lub usuwania dłutem i wiertłem trzonowców dolnych."
+    },
+    {
+        "question": "Odwarstwienie wierzchołka nosa i wargi górnej to technika chirurgiczna określana skrótem (tzw. dostęp przez opadającą maskę twarzy):",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Midfacial degloving",
+            "B": "Osteotomia Le Fort II",
+            "C": "Cięcie Weber-Fergusona",
+            "D": "Zabieg Caldwella-Luca",
+            "E": "Dostęp wieńcowy (coronal approach)"
+        },
+        "answer": "A",
+        "justification": "Midfacial degloving to szeroki dostęp do struktur środkowego piętra twarzy (nos, szczęka) poprzez wewnątrzustne obustronne cięcia przedsionkowe z uwolnieniem powłok miękkich, unikając blizn na skórze twarzy."
+    },
+    {
+        "question": "Do złośliwych nowotworów mogących w swoim przebiegu naśladować objawy zapalenia zęba (ból przy opukiwaniu, wiotkość zęba) z niszczeniem kości i szybkim przerzutowaniem drogą naczyń chłonnych należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Szkliwiak",
+            "B": "Torbiel zębopochodna zawiązkowa",
+            "C": "Rak płaskonabłonkowy kolczystokomórkowy zębodółu lub dziąsła",
+            "D": "Kostniak zarodkowy (osteoblastoma)",
+            "E": "Szkliwiak włókniakowaty"
+        },
+        "answer": "C",
+        "justification": "Raki błony śluzowej (płaskonabłonkowe) narastając w obrębie szczeliny ozębnowej niszczą kość wyrostka, powodując rozchwianie i ból pozornie wskazujący na 'chory' ząb."
+    },
+    {
+        "question": "W przypadku zwichnięcia zęba stałego (luxatio completa) po urazie, optymalny czas do dokonania replantacji to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Do 2 godzin (optymalnie w 15-30 minut)",
+            "B": "Najlepiej na następny dzień po zmniejszeniu obrzęku",
+            "C": "Po tygodniu na wizycie kontrolnej",
+            "D": "Zależy od zęba (kły można po tygodniu)",
+            "E": "Tego zęba się już nie używa, wykonuje się implant"
+        },
+        "answer": "A",
+        "justification": "Maksymalny sukces zapewnia replantacja w ciągu pierwszych 30 minut. Czas poza jamą ustną nie powinien przekraczać 2 godzin."
+    },
+    {
+        "question": "Przy złamaniach żuchwy, szczelina przechodząca przez otwór bródkowy powoduje:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zawsze krwawienie z nosa",
+            "B": "Niedowład mięśnia szerokiego szyi",
+            "C": "Możliwe uszkodzenie nerwu bródkowego (objaw Vincenta)",
+            "D": "Brak możliwości otwarcia ust",
+            "E": "Opuchliznę pod oczami"
+        },
+        "answer": "C",
+        "justification": "Przerwanie ciągłości nerwu w kanale bródkowym lub w jego otworze skutkuje parestezją (objawem Vincenta)."
+    },
+    {
+        "question": "Metoda znieczulenia śródwięzadłowego polega na podaniu leku znieczulającego:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Bezpośrednio w głąb kości zębodołu",
+            "B": "W przestrzeń ozębnową pod ciśnieniem",
+            "C": "Śródskórnie na twarzy",
+            "D": "Przez błonę śluzową podniebienia do jamy nosowej",
+            "E": "Do miazgi zęba przez ubytek próchnicowy"
+        },
+        "answer": "B",
+        "justification": "Znieczulenie śródwięzadłowe (intraligamentarne) to technika, gdzie anestetyk wstrzykiwany jest do szczeliny ozębnowej pod odpowiednim ciśnieniem."
+    },
+    {
+        "question": "Zapalenie trójkąta podżuchwowego bywa trudne do odróżnienia od:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zapalenia węzłów chłonnych w przebiegu mononukleozy",
+            "B": "Zapalenia ślinianki podżuchwowej (sialoadenitis)",
+            "C": "Ropnia okołomigdałkowego",
+            "D": "Naczyniaka szyi",
+            "E": "Odpowiedzi A i B są poprawne"
+        },
+        "answer": "E",
+        "justification": "W trójkącie podżuchwowym znajduje się ślinianka oraz duże węzły chłonne. Oba mogą ulec ostrym procesom zapalnym."
+    },
+    {
+        "question": "Cystektomia (wyłuszczenie torbieli w całości - Partsch II) polega na:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Stworzeniu ubytku i włożeniu sączka",
+            "B": "Zabiegu polegającym na całkowitym usunięciu torebki torbieli wraz z jej zawartością",
+            "C": "Odbarczeniu na 3 tygodnie",
+            "D": "Tylko zablokowaniu kanału korzeniowego cementem",
+            "E": "Częściowym usunięciu ściany dla drenażu"
+        },
+        "answer": "B",
+        "justification": "Zabieg Partsch II to całkowite (doszczętne) wyłuszczenie mieszka torbieli."
+    },
+    {
+        "question": "Pacjenci przyjmujący bisfosfoniany dożylnie (np. z powodu przerzutów nowotworowych do kości) po ekstrakcji zęba są zagrożeni:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ostrym atakiem duszności",
+            "B": "Niewydolnością krążenia",
+            "C": "MRONJ (martwicą kości szczęk związaną ze stosowaniem leków)",
+            "D": "Natychmiastowym wstrząsem anafilaktycznym",
+            "E": "Rakowiakiem szyi"
+        },
+        "answer": "C",
+        "justification": "Leki antyresorpcyjne (w tym bisfosfoniany) stwarzają wysokie ryzyko rozwoju martwicy kości (MRONJ - Medication-Related Osteonecrosis of the Jaw)."
+    },
+    {
+        "question": "Co jest bezwzględnym przeciwwskazaniem do zastosowania znieczulenia z dodatkiem noradrenaliny/adrenaliny?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Cukrzyca ustabilizowana",
+            "B": "Ciąża w drugim trymestrze",
+            "C": "Świeży zawał mięśnia sercowego (do 6 miesięcy) lub ciężka arytmia",
+            "D": "Astma oskrzelowa",
+            "E": "Leczenie przeciwkrzepliwe"
+        },
+        "answer": "C",
+        "justification": "Dodatek wazokonstryktorów jest mocno przeciwwskazany lub wymaga krańcowej ostrożności w schorzeniach układu krążenia (świeży zawał, zaawansowane zaburzenia rytmu)."
+    },
+    {
+        "question": "Nacięcie skóry na szyi u pacjenta po napromienianiu z powodu raka płaskonabłonkowego głowy niesie za sobą ogromne ryzyko:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Szybkiego gojenia, ze względu na zwiększone krążenie we włosowatych naczyniach",
+            "B": "ORN (osteoradionekrozy - popromiennej martwicy kości), zakażenia, owrzodzenia skóry z powodu atrofii po naświetlaniach",
+            "C": "Wystąpienia chłoniaka Hodgkina",
+            "D": "Sarkoidozy",
+            "E": "Braku powikłań, skóra jest po prostu twardsza"
+        },
+        "answer": "B",
+        "justification": "Tkanki po naświetlaniu (radioterapii) ulegają stwardnieniu (fibrosis) oraz zmniejsza się w nich gęstość naczyń (endarteritis obliterans), co sprzyja rozwojowi popromiennej martwicy kości (ORN) oraz braku gojenia ran zewnątrzustnych."
+    },
+    {
+        "question": "Skrzydlak (Pterygium) jamy ustnej (tzw. Pterygium zębopochodne):",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Często wywołuje silny ból żuchwy",
+            "B": "Jest wrodzoną wadą anatomiczną wędzidełka i rzadko występuje",
+            "C": "Jest w rzeczywistości schorzeniem narządu wzroku, a określenie użyte jest jako dystraktor lub dla zmian na spojówce, nie występuje jako 'zębopochodny' w ujęciu podręcznikowym w J.U.",
+            "D": "Inaczej to rak dna jamy ustnej",
+            "E": "Rodzaj szczeliny podniebienia"
+        },
+        "answer": "C",
+        "justification": "Pterygium (skrzydlik) odnosi się głównie do zmian na spojówce oka. W J.U. termin ten pojawia się jako wada - pterygium colli (szyja płetwiasta) lub w zespole Popliteal pterygium syndrome, lecz nie występuje pterygium zębopochodne."
+    },
+    {
+        "question": "Zakażenie wirusem opryszczki (HSV) u dzieci objawia się najczęściej pierwszy raz jako:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Raki jamy ustnej",
+            "B": "Torbiel szczęki",
+            "C": "Pierwotne opryszczkowe zapalenie jamy ustnej i dziąseł (gingivostomatitis herpetica)",
+            "D": "Porażenie Bella",
+            "E": "Tężec"
+        },
+        "answer": "C",
+        "justification": "Pierwszy kontakt dziecka z wirusem opryszczki (najczęściej HSV-1) wywołuje obraz ostrego zapalenia błony śluzowej i dziąseł, często z gorączką i trudnościami w przełykaniu."
+    },
+    {
+        "question": "Guz ciążowy (epulis gravidarum) to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Postać mięsaka prążkowanokomórkowego",
+            "B": "Ziarniniak naczyniowy będący odczynem zapalno-naczyniowym modyfikowanym stanem hormonalnym u ciężarnych",
+            "C": "Rzadki przerzut raka jajnika do dziąseł",
+            "D": "Zawsze wrodzona wada rozwojowa zęba",
+            "E": "Przerost torbieli na szyi"
+        },
+        "answer": "B",
+        "justification": "Epulis gravidarum to nienowotworowa, reaktywna zmiana rozrostowa dziąseł (ziarniniak naczyniasty/ropotwórczy) stymulowana przez wyższe stężenia progesteronu i estrogenu."
+    },
+    {
+        "question": "Jeżeli po ekstrakcji górnego kła korzeń wpada do światła zatoki szczękowej, lekarz powinien:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zaszyć ranę, aby uniknąć przetoki",
+            "B": "Odstąpić od zabiegu i wysłać na badanie USG miednicy",
+            "C": "Otworzyć zatokę z dostępu policzkowego (np. met. Caldwella-Luca), odszukać korzeń i zaszyć ubytek",
+            "D": "Przepchnąć go do nosa przez otwór naturalny",
+            "E": "Napełnić zatokę wodą, by wypłynął sam"
+        },
+        "answer": "C",
+        "justification": "Obce ciało w zatoce poekstrakcyjnej zazwyczaj wymaga zabiegu otwarcia zatoki i jej sanacji, zwykle poprzez zmodyfikowany dostęp przez dziąsło w rzucie przedniej ściany, a także zaopatrzenia plastycznego przetoki."
+    },
+    {
+        "question": "Ząb z całkowitą i ostrą ropną martwicą miazgi przy braku zmian rtg często przy opukiwaniu pionowym wykazuje objaw nazywany:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Objawem Oslera",
+            "B": "Objawem zęba wysadzonego, ze względu na wydzielający się gaz (ból wzrasta na ciepło, maleje na zimno)",
+            "C": "Objawem Trousseau",
+            "D": "Objawem Lasegue’a",
+            "E": "Objawem Argyll-Robertsona"
+        },
+        "answer": "B",
+        "justification": "W zapaleniu zgorzelinowym / ropnym zwiększa się ciśnienie w jamie zęba, co powoduje uczucie wysadzenia ('ząb wydaje się za wysoki')."
+    },
+    {
+        "question": "Podczas ekstrakcji kleszczami ruchy rotacyjne wykonuje się najczęściej na zębach:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Trzonowych dolnych",
+            "B": "Jednokorzeniowych o stożkowatym kształcie (np. siekacze górne przyśrodkowe i dolne przedtrzonowce)",
+            "C": "Wielokorzeniowych w szczęce",
+            "D": "Trzonowych z rozwartymi korzeniami",
+            "E": "Drugich przedtrzonowcach górnych"
+        },
+        "answer": "B",
+        "justification": "Ruchy rotacyjne (obrotowe) stosuje się do usuwania zębów mających prosty, pojedynczy, zaokrąglony korzeń (np. siekacze centralne górne)."
+    },
+    {
+        "question": "Ból neuropatyczny wywołany mikrouszkodzeniem nerwu po ekstrakcji objawia się jako:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Dreszcze, poty i ból brzucha",
+            "B": "Ból o charakterze pieczenia, mrowienia lub rażenia prądem, często przewlekły (neuropatia)",
+            "C": "Bardzo szybkie bicie serca i duszność bez ucisku w twarzy",
+            "D": "Pojawienie się ropnia twardego",
+            "E": "Ślinotok trwający ponad miesiąc z ropą"
+        },
+        "answer": "B",
+        "justification": "Neuropatie nerwu zębodołowego to ból neuropatyczny, objawiający się najczęściej dyzestezją lub alodynią w okolicy podbródkowej."
+    },
+    {
+        "question": "Główny mięsień odpowiadający za obniżenie żuchwy (otwieranie ust) to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Mięsień żwacz",
+            "B": "Mięsień skrzydłowy przyśrodkowy",
+            "C": "Mięsień skroniowy",
+            "D": "Mięsień skrzydłowy boczny (zwłaszcza jego dolna głowa) oraz mięśnie nadgnykowe",
+            "E": "Mięsień okrężny ust"
+        },
+        "answer": "D",
+        "justification": "Opuszczanie żuchwy następuje w wyniku skurczu mięśnia skrzydłowego bocznego i współpracy mięśni nadgnykowych (bródkowo-gnykowego, żuchwowo-gnykowego, dwubrzuścowego)."
+    },
+    {
+        "question": "Skala TNM stosowana jest w onkologii do oceny:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Składu biochemicznego śliny",
+            "B": "Wielkości (T), zajęcia węzłów chłonnych (N) i obecności przerzutów odległych (M)",
+            "C": "Ilości wydzielanej ropy i natężenia bólu",
+            "D": "Złamań masywu twarzoczaszki",
+            "E": "Gęstości nowotworu kościopochodnego"
+        },
+        "answer": "B",
+        "justification": "TNM to powszechna na całym świecie onkologiczna skala klinicznej klasyfikacji stopnia zaawansowania guzów złośliwych."
+    },
+    {
+        "question": "Wyciąg międzyszczękowy elastyczny zakłada się przy pomocy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Śrub MMF (mini-śrub chirurgicznych) wkręcanych do zębodołów",
+            "B": "Śrub na zębach mądrości lub w wyrostku zębodołowym/łuków Erich'a, na które zaczepia się gumki",
+            "C": "Samych płytek z tytanu",
+            "D": "Elastycznej nici pod brodą i przez nos",
+            "E": "Masek twarzowych ortodontycznych nakładanych na zęby"
+        },
+        "answer": "B",
+        "justification": "Wyciąg elastyczny zapina się najczęściej na zaczepach zlokalizowanych na założonych szynach (szyny z zaczepami) lub na czasowych śrubach do fiksacji międzyszczękowej (MMF screws)."
+    },
+    {
+        "question": "Rozszczep podniebienia wtórnego rozwija się w embriogenezie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Pod koniec ciąży w 8. miesiącu",
+            "B": "Podczas zapłodnienia przez nadmiar chromosomów",
+            "C": "Z powodu braku zrastania się wyrostków podniebiennych bocznych w okolicy 8.-12. tygodnia życia płodowego",
+            "D": "Od powikłań okołoporodowych (przeciśnięcie przez kanał rodny)",
+            "E": "Po 3. roku życia na skutek urazu"
+        },
+        "answer": "C",
+        "justification": "Podniebienie wtórne zrasta się w 8-12 tygodniu zarodkowym. Niedojście do złączenia powoduje rozszczep podniebienia."
+    },
+    {
+        "question": "Stosowanie leków takich jak penicyliny niesie ryzyko wystąpienia objawu niepożądanego w postaci:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zespołu wstrząsu alergicznego (wstrząsu anafilaktycznego)",
+            "B": "Pojawienia się kamieni nazębnych w przyspieszonym tempie",
+            "C": "Wytworzenia się leukoplakii na policzkach",
+            "D": "Spowolnienia krzepnięcia i masywnych krwawień u każdego pacjenta",
+            "E": "Miejscowego zatrucia kości wyrostka"
+        },
+        "answer": "A",
+        "justification": "Reakcja anafilaktyczna (w tym wstrząs) to najgroźniejsze i najszybciej rozwijające się zagrażające życiu powikłanie immunologiczne przy antybiotykoterapii opartej na antybiotykach beta-laktamowych (penicylinach)."
+    },
+    {
+        "question": "Pacjent przychodzi do gabinetu z bolesnym obrzękiem całej twarzy i oka. Ma wysokie tętno i obrzęk powieki z opadaniem na zewnątrz. Jest ryzyko zakrzepowego zapalenia zatoki jamistej. Zapalenie to często przenosi się w to miejsce drogą żyły:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Twarzowej i żył ocznych",
+            "B": "Płucnej",
+            "C": "Wrotnej",
+            "D": "Odłokciowej",
+            "E": "Podjęzykowej"
+        },
+        "answer": "A",
+        "justification": "Zakażenia z okolic trójkąta śmierci przemieszczają się bez zastawek przez układ żyły twarzowej, żyłę kątową, do żył ocznych i ostatecznie do zatoki jamistej w czaszce."
+    },
+    {
+        "question": "Ropień okołowierzchołkowy to stan, który leczymy u stomatologa głównie poprzez:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wyrwanie wszystkich zębów sąsiadujących",
+            "B": "Wyłącznie wypisanie recepty na antybiotyk",
+            "C": "Otwarciem komory zęba (ewentualnie połączonym z resekcją lub ekstrakcją) i ewentualnym nacięciem ropnia (w drenażu zewnątrzustnym lub wewnątrzustnym)",
+            "D": "Podanie witaminy C",
+            "E": "Drenaż dożylny"
+        },
+        "answer": "C",
+        "justification": "Podstawową formą leczenia w J.U. jest leczenie zęba (otwarcie/usunięcie) i drenaż. Antybiotyki bez usunięcia przyczyny / drenażu to za mało."
+    },
+    {
+        "question": "Czym się różni ropień od ropowicy?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ropowica jest otorbiona tkanką ziarninową, a ropień szerzy się luźno w przestrzeniach międzypowięziowych.",
+            "B": "Ropień to ostry, ograniczony zbiornik treści ropnej otoczony błoną ropotwórczą, a ropowica to nieograniczone, rozlane zapalenie ropne w tkance łącznej i przestrzeniach powięziowych.",
+            "C": "Są to te same określenia stosowane zamiennie.",
+            "D": "Ropień występuje tylko pod skórą, ropowica w jamie brzusznej.",
+            "E": "Ropień wywoływany jest tylko przez wirusy, ropowica przez bakterie."
+        },
+        "answer": "B",
+        "justification": "Główną i zasadniczą różnicą jest ograniczenie zbiornika ropnego - w ropniu istnieje wyraźna, formująca się błona ropotwórcza, co lokalizuje zmianę, a w ropowicy zakażenie szerzy się swobodnie międzypowięziowo."
+    },
+    {
+        "question": "Przy zatrzymanych dolnych zębach mądrości najbardziej wskazane dla oceny rzutu zęba na kanał nerwu jest badanie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zdjęcie zębowe przylegające (małe rtg)",
+            "B": "CBCT (tomografia wiązki stożkowej) lub OPG (pantomogram) jako metoda podstawowa",
+            "C": "Zdjęcie zgryzowe szczęki",
+            "D": "Badanie ultrasonograficzne przez policzek",
+            "E": "Tylko badanie palpacyjne i zdjęcie czaszki bocznej (cefalometria)"
+        },
+        "answer": "B",
+        "justification": "Pantomogram to przesiewowe zdjęcie pierwszego wyboru, jednak CBCT daje w pełni przestrzenną dokładną informację o przebiegu korzeni względem nerwu zębodołowego dolnego."
+    },
+    {
+        "question": "Ból zęba pojawiający się na skutek zmian ciśnienia atmosferycznego w trakcie np. lotów samolotem, bywa nazywany:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Bólem hipostatycznym",
+            "B": "Barodontalgią (aerodontalgią)",
+            "C": "Zespołem lotniczym",
+            "D": "Anginą ciśnieniową",
+            "E": "Hiperalgezją podciśnieniową"
+        },
+        "answer": "B",
+        "justification": "Barodontalgia to ból zęba (najczęściej z martwą, gnijącą miazgą w kanałach i obecnością gazów w uszczelnionych przestrzeniach) pojawiający się na dużej wysokości / przy nurkowaniu."
+    },
+    {
+        "question": "Typowym objawem torbieli pęcherzykowej (zawiązkowej) w badaniu radiologicznym jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Rozlane przejaśnienie bez wyraźnych granic obejmujące wiele zębów z wewnątrz tkanką przypominającą zęby (zębiaki)",
+            "B": "Przejaśnienie w kształcie kropli lub gruszki między korzeniami zębów przednich z obecnością zęba w zębodole",
+            "C": "Osteoskleroza w kształcie obłoczków dymu",
+            "D": "Przejaśnienie w okolicy korony zatrzymanego (niewyrzniętego) zęba, ostro odgraniczone i przylegające do szyjki",
+            "E": "Torbiel wyrzynania widoczna tylko nad dziąsłem a nie w kości"
+        },
+        "answer": "D",
+        "justification": "Torbiel zawiązkowa powstaje z nabłonka szkliwowgo wokół korony zatrzymanego zęba, otaczając ją wyraźnym przejaśnieniem przymocowanym w okolicy cementowo-szkliwnej."
+    },
+    {
+        "question": "Usunięcie węzłów chłonnych szyi to potocznie zwana operacja:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Operacja Partsch I",
+            "B": "Metoda Obwegesera",
+            "C": "Dyssekcja (limfadenektomia) szyi, np. operacja Jawdyńskiego-Crile'a",
+            "D": "Operacja Bassiniego",
+            "E": "Laryngektomia"
+        },
+        "answer": "C",
+        "justification": "Radykalne wycięcie układu chłonnego szyi ze względów onkologicznych nosi miano operacji Crile'a (w Polsce nazywana też zabiegiem Jawdyńskiego)."
+    },
+    {
+        "question": "Jeżeli po wyrwaniu górnego szóstego zęba test Valsalvy wskazuje na bąble (przetoka ustno-zatokowa), standardowe postępowanie natychmiastowe powinno obejmować:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Uspokojenie pacjenta i odesłanie do domu, samo się zrośnie po kilku latach",
+            "B": "Plastyczne zamknięcie połączenia przy użyciu płata z otaczających tkanek miękkich podczas tej samej wizyty",
+            "C": "Zaklejenie jamy woskiem",
+            "D": "Usunięcie reszty zębów i implantację bloku kostnego",
+            "E": "Złamanie wyrostka na stałe by zewrzeć ścianki"
+        },
+        "answer": "B",
+        "justification": "Natychmiastowe chirurgiczne (plastyczne) zamknięcie ubytku, co obniża ryzyko stanu zapalnego zatoki."
+    },
+    {
+        "question": "Ból neuralgiczny nerwu trójdzielnego (rwa twarzowa) charakteryzuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Tępym, ciągłym bólem przez miesiąc",
+            "B": "Nagłymi, jednostronnymi, bardzo silnymi atakami bólu 'jak prąd' w obrębie 2. lub 3. gałęzi z obecnością punktów spustowych",
+            "C": "Bólem obustronnym narastającym nocą",
+            "D": "Drętwieniem na całej twarzy od urodzenia",
+            "E": "Gorączką zawsze przy ataku"
+        },
+        "answer": "B",
+        "justification": "Neuralgia V charakteryzuje się napadami rwącego, prądopodobnego, ostrego bólu trwającego krótko, na jednej stronie, z obecnością 'trigger points' (punktów spustowych)."
+    },
+    {
+        "question": "Lekiem pierwszego rzutu w farmakologicznym leczeniu typowej neuralgii nerwu trójdzielnego jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Karbamazepina",
+            "B": "Kwas acetylosalicylowy",
+            "C": "Amoksycylina",
+            "D": "Karbocysteina",
+            "E": "Diklofenak"
+        },
+        "answer": "A",
+        "justification": "Leki przeciwdrgawkowe (karbamazepina) są standardem opieki farmakologicznej w tego typu nerwobólach."
+    },
+    {
+        "question": "Stan zwany jako ząb zatrzymany (dens retentus) diagnozujemy kiedy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ząb pozostał w całości lub częściowo w kości mimo zakończenia swojego fizjologicznego okresu wyrzynania",
+            "B": "Ząb jeszcze nie wyrżnął się, ale pacjent ma 5 lat i chodzi o jedynkę stałą",
+            "C": "Ząb mleczny nie wypadł w terminie",
+            "D": "Korzeń zęba wbił się w zębodół po urazie",
+            "E": "Ząb uległ złamaniu i widoczny jest tylko korzeń"
+        },
+        "answer": "A",
+        "justification": "Retencja to przebywanie zęba (wykształconego) w kości po przekroczeniu fizjologicznego terminu wyrzynania."
+    },
+    {
+        "question": "W torbieli tętniakowatej kości (ABC - aneurysmal bone cyst) wnętrze najczęściej:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Jest wypełnione masami serowatymi i zębami",
+            "B": "Przypomina gąbkę wypełnioną płynną lub półpłynną krwią, nieposiadającą właściwej wyściółki nabłonkowej",
+            "C": "Jest puste (torbiel powietrzna)",
+            "D": "Jest w całości wypełnione litą kością",
+            "E": "Zawiera włókna nerwowe naśladujące nerwiak"
+        },
+        "answer": "B",
+        "justification": "Torbiel tętniakowata to torbiel rzekoma (nie ma nabłonka) z zatokami wypełnionymi krwią."
+    },
+    {
+        "question": "Czym się charakteryzuje nacięcie i drenaż w ostrej fazie ropnia (anginy) Ludwiga?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Nie można wyczekać do pojawienia się wyraźnego chełbotania i ropy; nacięcia mają charakter często odbarczający (dekompresyjny) ze względu na twardy deskowaty naciek i zagrażającą duszność",
+            "B": "Czekamy do momentu pęknięcia skóry",
+            "C": "Wycina się tylko węzły chłonne podbródkowe bez wchodzenia głębiej",
+            "D": "Należy nakłuwać zmianę i odciągać treść strzykawką",
+            "E": "Jest to zabieg zarezerwowany tylko po zakończeniu tygodniowej antybiotykoterapii"
+        },
+        "answer": "A",
+        "justification": "Angina Ludwiga jest stanem bezpośredniego zagrożenia życia. Naciek z reguły jest twardy i napięty. Przez szybkie postępowanie chirurgiczne zapobiegamy przemieszczeniu się obrzęku do krtani."
+    },
+    {
+        "question": "Pod pojęciem hipercemontozy rozumiemy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Proces uogólnionego rozrostu kości zbitej w szczęce",
+            "B": "Rozrost cementu korzeniowego (często u wierzchołków) mogący znacznie utrudniać ekstrakcję zęba",
+            "C": "Dodatkowy ząb w łuku (mesiodens)",
+            "D": "Ból stawu skroniowo-żuchwowego o poranku",
+            "E": "Nowotwór złośliwy z cementoblastów"
+        },
+        "answer": "B",
+        "justification": "To nadmierne odkładanie cementu na powierzchni korzeni utrudniające wyrwanie (powiększa to objętość korzenia)."
+    },
+    {
+        "question": "Które stwierdzenie odnośnie operacji usunięcia kamienia ze ślinianki podżuchwowej zlokalizowanego w okolicy jej wnęki (na końcu przewodu przed gruczołem) jest najbardziej prawidłowe?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Usuwa się go zawsze wewnątrzustnie nacinając przewód z zachowaniem gruczołu",
+            "B": "Kamieni w tej lokalizacji z reguły nie ma możliwości usunąć wewnątrzustnie i z reguły wskazana jest resekcja całej ślinianki podżuchwowej zewnątrzustnie",
+            "C": "Próbuje się go przepchnąć z powrotem do ślinianki",
+            "D": "Kamica w tej śliniance nie występuje",
+            "E": "Czeka się na samoczynne rozpuszczenie w ciagu 2 miesięcy"
+        },
+        "answer": "B",
+        "justification": "Kamienie zlokalizowane głęboko, we wnęce ślinianki podżuchwowej, bardzo trudno wyłuskać bez uszkodzenia struktur, dlatego nawracające stany zapalne gruczołu spowodowane takimi złogami leczy się przez wycięcie ślinianki."
+    },
+    {
+        "question": "Objaw 'trzasku' i przeskakiwania w stawie skroniowo-żuchwowym świadczy najczęściej o:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Dyslokacji krążka stawowego",
+            "B": "Złamaniu wyrostka kłykciowego",
+            "C": "Zapaleniu zęba przedtrzonowego",
+            "D": "Cystach w śliniance przyusznej",
+            "E": "Uszkodzeniu torebki włóknistej z naciekiem ropnym"
+        },
+        "answer": "A",
+        "justification": "Odgłos trzasku zazwyczaj jest efektem przemieszczania (najczęściej do przodu) krążka stawowego i powrotu głowy żuchwy pod krążek podczas ruchów żuchwy."
+    },
+    {
+        "question": "Zespół Sjogrena objawia się m.in.:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Hipersekrecją (nadprodukcją) śliny",
+            "B": "Postępującą suchością spojówek i jamy ustnej na skutek autoimmunologicznego niszczenia gruczołów ślinowych i łzowych",
+            "C": "Przewlekłym zapaleniem wyrostka robaczkowego",
+            "D": "Kamicą tylko ślinianek podjęzykowych",
+            "E": "Tylko problemami w unerwieniu ślinianek"
+        },
+        "answer": "B",
+        "justification": "Zespół Sjögrena to przewlekła choroba o podłożu autoimmunologicznym, przebiegająca z keratoconjunctivitis sicca oraz xerostomią."
+    },
+    {
+        "question": "Bisfosfoniany, leki z powodu których przed planowanymi ekstrakcjami u takich pacjentów wymaga się profilaktyki lub zaniechania zabiegu, stosowane są w leczeniu:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "RZS i tocznia",
+            "B": "Cukrzycy typu I",
+            "C": "Zaawansowanej osteoporozy i nowotworów dających przerzuty do kości",
+            "D": "Nadciśnienia i arytmii",
+            "E": "Tylko w leczeniu trądziku różowatego"
+        },
+        "answer": "C",
+        "justification": "Są to silne leki zapobiegające osteoklastycznej destrukcji kości, szeroko używane w osteoporozie, szpiczaku mnogim, i przy przerzutach kostnych."
+    },
+    {
+        "question": "Kiretaż otwarty w chorobach przyzębia charakteryzuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Czyszczeniem kieszonek bez odwarstwiania dziąsła",
+            "B": "Usunięciem całego dziąsła w obszarze między zębami i brakiem szycia",
+            "C": "Odwarstwieniem płata śluzówkowo-okostnowego celem lepszego widzenia korzeni i kości podczas oczyszczania ze złogów i tkanki ziarninowej",
+            "D": "Kiretaż otwarty dotyczy wyłącznie wyłyżeczkowania ubytku w zębie przed pląbowaniem",
+            "E": "Założeniem leków dokanałowych pod dziąsłem"
+        },
+        "answer": "C",
+        "justification": "Słowo 'otwarty' w periodontologii oznacza zabieg płatowy - z wytworzeniem i odchyleniem płata śluzówkowo-okostnowego dla dostępu do korzeni i wad kostnych."
+    },
+    {
+        "question": "Czyrak (furunculus) na twarzy (np. nosie lub wardze górnej):",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zawsze powinien być silnie wyciśnięty w celu szybkiego usunięcia czopa martwiczego",
+            "B": "Nie powinien być pod żadnym pozorem wyciskany ze względu na bliskość żylnych połączeń w 'trójkącie śmierci' grożących przeniesieniem zakażenia m.in. do zatoki jamistej",
+            "C": "Wywoływany jest wyłącznie przez gronkowce wewnątrzustne migrujące ze śliny",
+            "D": "Dotyczy wyłącznie starców na sterydach",
+            "E": "Brak opcji"
+        },
+        "answer": "B",
+        "justification": "To ropne, martwicze zapalenie mieszka włosowego najczęściej gronkowcowe. Zabiegi wyciskania w centralnym punkcie twarzy są bezwzględnie zakazane z uwagi na groźne zakrzepowe zapalenie naczyń żylnych głowy."
+    },
+    {
+        "question": "Ząb potworniakowy (odontoma) dzieli się na złożony i zestawny. Złożony charakteryzuje się:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Obecnością drobnych tworów naśladujących miniaturowe ząbki w worku, otoczone kością (występują poszczególne ząbki)",
+            "B": "Bezkrystaliczną i całkowicie amorficzną (nieuporządkowaną) strukturą tkanek zębowych bez zachowania jakiejkolwiek formy zęba (guz twardy)",
+            "C": "Zmianami w kształcie pajęczych sieci",
+            "D": "Zbudowaniem wyłącznie ze szkliwa bez zębiny",
+            "E": "Obecnością włosów i gruczołów potowych"
+        },
+        "answer": "B",
+        "justification": "Zębiak zestawny (odontoma compositum) posiada liczne struktury zębopodobne. Zębiak złożony (odontoma complexum) to amorficzna masa przemieszanych tkanek zęba bez odwzorowania kształtu."
+    },
+    {
+        "question": "Najtrudniejszy do usunięcia, głęboko wklinowany, położony poziomo i skierowany do tyłu (dystalnie) dolny ząb mądrości klasyfikuje się według Wintera jako:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Położenie mezjalne",
+            "B": "Położenie dystalne",
+            "C": "Położenie pionowe",
+            "D": "Położenie poprzeczne boczne",
+            "E": "Torbiel wyrzynania"
+        },
+        "answer": "B",
+        "justification": "Kątowe odchylenie zęba w klasyfikacji Wintera określa pozycję dystalną jako ząb obrócony koroną w stronę gałęzi, co wybitnie utrudnia luksację wzdłuż krzywizny jego korzeni."
+    },
+    {
+        "question": "Jedną z charakterystycznych różnic klinicznych między dysplazją włóknistą a zapaleniem kości jest w dysplazji:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Twardy jak kość, przeważnie powolny, bezbolesny wzrost u dziecka/nastolatka bez cech ostrego zapalenia czy wydzieliny ropnej",
+            "B": "Ruchomość wszystkich zębów i ich samoistne wypadanie",
+            "C": "Ból z pulsującym charakterem reagującym na NLPZ",
+            "D": "Zaburzenia widzenia w ciągu tygodnia od początku",
+            "E": "Występowanie tylko u mężczyzn po 70. r.ż."
+        },
+        "answer": "A",
+        "justification": "Dysplazja włóknista charakteryzuje się powolną przebudową kości na tkankę włóknisto-kostną, często ujawniając się powolnie narastającym guzowatym i twardym rozdęciem bez bólu."
+    },
+    {
+        "question": "Technika repozycji krwiaka po ekstrakcji przy użyciu gąbki z żelatyny (np. Spongostan):",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Blokuje całkowicie wzrost nowych komórek - dlatego po wyciągnięciu powstaje suchy zębodół",
+            "B": "Służy do zahamowania krwawienia dzięki hemostatycznym, resorbującym się właściwościom; ułatwia powstanie mocnego skrzepu",
+            "C": "Jest przeciwwskazana u pacjentów ze skazą płytkową",
+            "D": "Służy tylko jako nośnik antybiotyku w kości",
+            "E": "Musi zostać usunięta podczas kolejnej wizyty po 2 tygodniach"
+        },
+        "answer": "B",
+        "justification": "Są to materiały ulegające resorpcji i przyspieszające stabilizację krzepnięcia krwi zębodółu po wyrwaniu, nie wymagające ich ręcznego usuwania z rany."
+    },
+    {
+        "question": "Jeżeli po wyrwaniu trzonowca w zatoce zostanie usunięta znaczna część guza zębopochodnego (np. keratocysty), materiał histopatologiczny powinien trafić w roztwór utrwalający, najczęściej jest to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Sól fizjologiczna",
+            "B": "Płyn Lugola",
+            "C": "10% roztwór formaliny (lub w formolu buforowanym)",
+            "D": "70% alkohol etylowy",
+            "E": "Podchloryn sodu"
+        },
+        "answer": "C",
+        "justification": "Standardowym środkiem utrwalającym każdy preparat tkankowy dla celów anatomopatologicznych (biopsje) jest 10-procentowa formalina (4% roztwór formaldehydu)."
+    },
+    {
+        "question": "Krwawienie z nosa po urazie środkowego piętra twarzy (wyciek krwi oraz wodnistego płynu po odchyleniu głowy) powinien nakierować myśli na:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Izolowany uraz podniebienia",
+            "B": "Uszkodzenie blaszki sitowej i płynotok mózgowo-rdzeniowy (ryzyko ZOMR)",
+            "C": "Zwykły uraz naczyń splotu Kiesselbacha niemający większego znaczenia",
+            "D": "Tylko wstrząśnienie błędnika",
+            "E": "Wyłącznie uszkodzenie zęba trzonowego u góry"
+        },
+        "answer": "B",
+        "justification": "Obecność jasnego, wodnistego płynu wymieszanego z krwią po urazach wysoko w szczęce to klasyczny objaw przerwania powłok opon w rejonie blaszki sitowej (liquorrhoea rhinalis)."
+    },
+    {
+        "question": "Jaka jest postawa wobec ostrego ropnia zlokalizowanego na podniebieniu od strony podniebiennej w rzucie zęba siekacza bocznego w stadium chełbotania?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wyciskanie",
+            "B": "Nacięcie błony śluzowej skalpelem odciążające oraz leczenie zęba",
+            "C": "Podanie kwasu acetylosalicylowego na miesiąc",
+            "D": "Odczekanie paru dni bez antybiotyku w nadziei, że przebije się przez twarz",
+            "E": "Nacięcie zewnątrzustne pod nosem"
+        },
+        "answer": "B",
+        "justification": "Gdy istnieje ropień i jest chełbotanie wykonuje się zabieg (incision) mający na celu drenaż."
+    },
+    {
+        "question": "W onkologii chirurgicznej szczękowo-twarzowej, 'resekcja brzeżna żuchwy' oznacza:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Usunięcie tylko zębów przy krawędzi bez szlifowania kości",
+            "B": "Częściowe wycięcie zachowujące ciągłość kości (np. usunięcie wyrostka zębodołowego i części trzonu od strony rany z guzem łagodnym lub płytko naciekającym oszczędzające dno trzonu żuchwy)",
+            "C": "Amputacja całej żuchwy w stawach",
+            "D": "Wycięcie brzegu mięśni żwaczowych przy kącie",
+            "E": "Częściowe usunięcie błony śluzowej obok zębów z pozostawieniem zębów"
+        },
+        "answer": "B",
+        "justification": "Resekcja brzeżna to postępowanie zachowawcze mające oszczędzić dolną krawędź żuchwy (marginal resection) u pacjentów ze zmianami nowotworowymi nie niszczącymi pełnej grubości trzonu."
+    },
+    {
+        "question": "Ból przedsionka na poziomie dwójki górnej, wrażliwość w rzucie otworu przysiecznego po iniekcji podniebiennej wywołany prądem nazywamy objawem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Neuralgią zębodołową",
+            "B": "Odruchową parestezją bez znaczenia",
+            "C": "Klinicznie to może po prostu ukłucie nerwu (pobudzenie czuciowe) podczas wkłuwania lub wtłaczania plynu w przestrzeń, często opisywane przez pacjentów jako piorun w przednich zębach.",
+            "D": "Niedowładem Bela",
+            "E": "Zębem bezmiazgowym z martwicą"
+        },
+        "answer": "C",
+        "justification": "Kłucie podczas znieczulania pni nerwowych (zwłaszcza nosowo-podniebiennego czy na otworze żuchwowym) powoduje ostry 'prąd' świadczący o trafieniu w pęczek - nie jest to proces chorobowy."
+    },
+    {
+        "question": "Płukanie suchych zębodołów chlorheksydyną:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Nie ma większego znaczenia przeciwbakteryjnego",
+            "B": "Jest bardzo skutecznym, powszechnie stosowanym działaniem dezynfekującym w chirurgii, mającym zapobiec ponownemu zakażeniu we wczesnej i późnej fazie",
+            "C": "Tylko woda utleniona pod ciśnieniem jest prawidłowa",
+            "D": "Wywołuje ropę i zaburza gojenie",
+            "E": "Podrażnia zębodół, co wywołuje ból"
+        },
+        "answer": "B",
+        "justification": "Zastosowanie preparatów chlorheksydyny w płukankach czy żelach obniża ilość płytki oraz ilość bakterii w rejonie po zabiegu, co obniża ryzyko i objawy zębodołu pozabiegowego suchego."
+    }
+]

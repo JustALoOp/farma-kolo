@@ -76,5 +76,17 @@
         "title": "Protetyka 1",
         "subject": "Protetyka",
         "file": "Protetyka/protetyka_1.json"
+    },
+    {
+        "id": "chirurgia_baza",
+        "title": "Zaliczenie 2026 (Baza)",
+        "subject": "Chirurgia",
+        "file": "Chirurgia/questions_chirurgia.json"
+    },
+    {
+        "id": "chirurgia_mansur",
+        "title": "Mansur Rahnama - Pytania Wygenerowane",
+        "subject": "Chirurgia",
+        "file": "Chirurgia/mansur_chirurgia.json"
     }
 ]
