@@ -91,7 +91,7 @@
     },
     {
         "id": "chirurgia_urazy_nowotwory",
-        "title": "Urazy, nowotwory i torbiele (50 pytań)",
+        "title": "Urazy, nowotwory i torbiele (100 pytań)",
         "subject": "Chirurgia",
         "file": "Chirurgia/urazy_nowotwory_chirurgia.json"
     }
