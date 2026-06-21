@@ -1,0 +1,652 @@
+[
+    {
+        "question": "Szkliwiak (ameloblastoma) najczęściej umiejscawia się w:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Przednim odcinku szczęki",
+            "B": "Okolicy kąta i gałęzi żuchwy",
+            "C": "Podniebieniu twardym",
+            "D": "Dnie jamy ustnej",
+            "E": "Tylnym odcinku szczęki (guzowatości)"
+        },
+        "answer": "B",
+        "justification": "Szkliwiak to najczęstszy łagodny nowotwór zębopochodny, zlokalizowany w ok. 80% przypadków w żuchwie, z ogromną predylekcją do okolicy kąta i gałęzi żuchwy."
+    },
+    {
+        "question": "Radiologiczny obraz 'baniek mydlanych' lub 'plastra miodu' w żuchwie jest wysoce charakterystyczny m.in. dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Torbieli zawiązkowej",
+            "B": "Szkliwiaka (ameloblastoma) wielokomorowego",
+            "C": "Kostniaka zarodkowego",
+            "D": "Torbieli korzeniowej",
+            "E": "Zębiaka złożonego"
+        },
+        "answer": "B",
+        "justification": "Wielokomorowy szkliwiak daje klasyczny obraz radiologiczny przejaśnień podzielonych przegrodami kostnymi, przypominający 'bańki mydlane' lub 'plaster miodu'."
+    },
+    {
+        "question": "W zespole Gorlina-Goltza (zespół nabłoniaków znamionowych) w obrębie kości szczęk charakterystyczne jest występowanie mnogich:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Szkliwiaków",
+            "B": "Zębiaków",
+            "C": "Zębopochodnych torbieli rogowaciejących (KCOT/keratocyst)",
+            "D": "Torbieli tętniakowatych kości",
+            "E": "Kostniaków"
+        },
+        "answer": "C",
+        "justification": "Zespół Gorlina-Goltza charakteryzuje się triadą: mnogie ogniska raka podstawnokomórkowego skóry, mnogie zębopochodne torbiele rogowaciejące szczęk (KCOT) oraz wady układu kostnego (np. rozszczepione żebra)."
+    },
+    {
+        "question": "Torbiel korzeniowa (radicular cyst) powstaje z:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Nabłonka zredukowanego narządu szkliwotwórczego",
+            "B": "Resztek nabłonkowych Malasseza w więzadle ozębnowym pod wpływem stanu zapalnego",
+            "C": "Przetrwałych komórek blaszki zębowej (resztek Serresa)",
+            "D": "Nabłonka przewodu tarczowo-językowego",
+            "E": "Gruczołów ślinowych mniejszych"
+        },
+        "answer": "B",
+        "justification": "Torbiel korzeniowa to torbiel zapalna powstająca ze stymulacji proliferacji resztek nabłonkowych Malasseza (pozostałości pochewki Hertwiga) w ozębnej na skutek przewlekłego zapalenia tkanek okołowierzchołkowych martwego zęba."
+    },
+    {
+        "question": "Zmianą przednowotworową w jamie ustnej o najwyższym odsetku transformacji nowotworowej (zezłośliwienia) jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Leukoplakia",
+            "B": "Liszaj płaski",
+            "C": "Erytroplakia (rogowacenie czerwone)",
+            "D": "Plamki Fordyce'a",
+            "E": "Zapalenie kącików ust"
+        },
+        "answer": "C",
+        "justification": "Erytroplakia (czerwona plama) jest znacznie rzadsza niż leukoplakia, jednak charakteryzuje się nieporównywalnie wyższym odsetkiem dysplazji (często ciężkiej lub raka in situ) już w momencie diagnozy."
+    },
+    {
+        "question": "Biopsja aspiracyjna cienkoigłowa (BAC) znajduje szczególne zastosowanie w diagnostyce:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zębów zatrzymanych",
+            "B": "Płytkich owrzodzeń na języku",
+            "C": "Guzów ślinianek i powiększonych węzłów chłonnych szyi",
+            "D": "Rozszczepów podniebienia",
+            "E": "Torbieli korzeniowych przed ekstrakcją"
+        },
+        "answer": "C",
+        "justification": "BAC to złoty standard w różnicowaniu guzów szyi, ślinianek (np. guz Warthina, gruczolak wielopostaciowy) oraz ocenie węzłów chłonnych, minimalizujący ryzyko rozsiewu nowotworów ślinianek (np. w przeciwieństwie do biopsji wycinkowej)."
+    },
+    {
+        "question": "Guz Warthina (gruczolak limfatyczny brodawczakowaty) zlokalizowany jest prawie wyłącznie w:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Śliniance podżuchwowej",
+            "B": "Śliniance podjęzykowej",
+            "C": "Śliniance przyusznej, często w dolnym biegunie",
+            "D": "Tarczycy",
+            "E": "Błonie śluzowej policzka"
+        },
+        "answer": "C",
+        "justification": "Guz Warthina (cystadenolymphoma) to łagodny nowotwór wykazujący niemal 100% predylekcję do ślinianki przyusznej (często u starszych palaczy, może być obustronny)."
+    },
+    {
+        "question": "Do charakterystycznych objawów raka płaskonabłonkowego bocznej powierzchni języka we wczesnym stadium NIE NALEŻY:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Obecność owrzodzenia z wałowatymi, twardymi brzegami",
+            "B": "Naciek w podstawie (stwardnienie przy badaniu palpacyjnym)",
+            "C": "Silny i wczesny ból zębów w całej szczęce",
+            "D": "Brak tendencji do gojenia się zmiany po 14 dniach",
+            "E": "Biało-czerwone zabarwienie brzegów (erytroleukoplakia)"
+        },
+        "answer": "C",
+        "justification": "We wczesnym stadium rak języka często jest niestety bezbolesny, co opóźnia diagnozę. Ból rzutujący lub promieniujący występuje zwykle w fazie zaawansowanego naciekania nerwów."
+    },
+    {
+        "question": "Dostęp chirurgiczny do guzów przestrzeni przygardłowej lub głębokiego płata ślinianki przyusznej często wymaga resekcji (lub nacięcia i osteotomii) w obrębie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Czoła",
+            "B": "Spojenia żuchwy",
+            "C": "Gałęzi i kąta żuchwy",
+            "D": "Wyrostka zębodołowego szczęki",
+            "E": "Kości jarzmowej"
+        },
+        "answer": "C",
+        "justification": "Aby dostać się do głębokiego płata przyusznicy i przestrzeni przygardłowej stosuje się dostępy zewnątrzustne nierzadko wymagające przecięcia gałęzi żuchwy (osteotomii), by 'odchylić' kość i uzyskać dostęp do guza (unikając uszkodzenia pnia nerwu twarzowego)."
+    },
+    {
+        "question": "Torbiele pęcherzykowe (zawiązkowe - dentigerous cysts) otaczają koronę zęba zatrzymanego, najczęściej:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Dolnych siekaczy",
+            "B": "Górnych pierwszych przedtrzonowców",
+            "C": "Dolnych trzecich trzonowców (ósemek) oraz górnych kłów",
+            "D": "Zębów mlecznych",
+            "E": "Wszystkich zębów uogólnionie równomiernie"
+        },
+        "answer": "C",
+        "justification": "Torbiel zawiązkowa występuje najczęściej wokół koron zębów wykazujących największą tendencję do zatrzymania, czyli trzecich trzonowców żuchwy i kłów szczęki."
+    },
+    {
+        "question": "Klasyczna triada objawów w raku ślinianki przyusznej o wysokim stopniu złośliwości i znacznym zaawansowaniu to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ból, ślinotok i zaburzenia widzenia",
+            "B": "Powiększenie gruczołu, szybki wzrost u dziecka, suchość w ustach",
+            "C": "Porażenie nerwu twarzowego, twardy nieruchomy guz, dolegliwości bólowe",
+            "D": "Kamica ślinianki, szczękościsk i krwawienie z nosa",
+            "E": "Gorączka, dreszcze i zaczerwienienie skóry policzka"
+        },
+        "answer": "C",
+        "justification": "Rozwój złośliwego guza naciekającego w przyusznicy objawia się szybko narastającym twardym, utkanym z podłożem guzem, niszczeniem nerwu twarzowego (niedowład/porażenie) i naciekaniem na otoczenie (ból)."
+    },
+    {
+        "question": "Gruczolak wielopostaciowy (guz mieszany / pleomorphic adenoma):",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Nigdy nie ulega zezłośliwieniu",
+            "B": "Jest najczęstszym nowotworem łagodnym ślinianek (zwłaszcza przyusznej) o powolnym wzroście z ryzykiem wznowy przy niedoszczętnym wycięciu",
+            "C": "Zwykle wywołuje porażenie nerwu twarzowego",
+            "D": "Pojawia się tylko na podniebieniu",
+            "E": "Leczy się zachowawczo sterydami"
+        },
+        "answer": "B",
+        "justification": "Gruczolak wielopostaciowy stanowi ok. 60-80% wszystkich guzów ślinianek. Jego torebka często wysyła drobne wypustki, dlatego musi być usuwany z marginesem tkanki zdrowej (np. częściowa resekcja przyusznicy), by uniknąć wieloogniskowych wznów (tzw. guz mieszany nawrotowy)."
+    },
+    {
+        "question": "Do zębopochodnych nowotworów łagodnych pochodzenia nabłonkowo-mezenchymalnego z wytwarzaniem twardych tkanek zęba należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Szkliwiak (Ameloblastoma)",
+            "B": "Śluzak zębopochodny (Odontogenic myxoma)",
+            "C": "Zębiak (Odontoma)",
+            "D": "Włókniak kostniejący",
+            "E": "Szkliwiak krystaliczny"
+        },
+        "answer": "C",
+        "justification": "Zębiaki (złożone i zestawne) to guzy nowotworopodobne (hamartoma) tworzące szkliwo, zębinę, cement i miazgę. Szkliwiak pochodzi tylko z nabłonka i nie wytwarza twardych tkanek zębowych."
+    },
+    {
+        "question": "Objaw Vincenta (parestezja nerwu bródkowego) pojawiający się nagle bez urazu może być wczesnym i jedynym objawem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Cukrzycy typu II",
+            "B": "Złośliwego guza żuchwy naciekającego kanał żuchwy lub białaczki/chłoniaka w żuchwie",
+            "C": "Torbieli korzeniowej w szczęce",
+            "D": "Porażenia nerwu twarzowego",
+            "E": "Bruksizmu"
+        },
+        "answer": "B",
+        "justification": "Nienaturalnie występujący objaw Vincenta (odrętwienie wargi dolnej/bródki) bez wcześniejszej ekstrakcji czy urazu zawsze wymaga pilnej diagnostyki onkologicznej, gdyż nowotwory niszczące struktury nerwu w kanale żuchwy powodują ten objaw wcześnie."
+    },
+    {
+        "question": "Kostniak (osteoma) w obrębie głowy i szyi najczęściej zlokalizowany jest w obrębie:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Błony śluzowej policzków",
+            "B": "Zatok przynosowych (szczególnie zatoki czołowej) oraz na kościach czaszki (np. trzon żuchwy)",
+            "C": "Tarczycy",
+            "D": "Części chrzęstnej nosa",
+            "E": "Tylko w śliniance"
+        },
+        "answer": "B",
+        "justification": "Kostniaki to łagodne nowotwory wolnorosnące, z predylekcją do zatok przynosowych (bardzo często zatoka czołowa) i kości płaskich czaszki, dając cień rtg silnie wysycony."
+    },
+    {
+        "question": "Złamanie jarzmowo-szczękowo-oczodołowe (ZJSO / ZMC fracture) charakteryzuje się wczesnymi objawami, z których najważniejszym, wynikającym z przebiegu szczelin złamania przez istotne struktury, jest często:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Utrata zębów trzonowych szczęki",
+            "B": "Krwotok z uszu",
+            "C": "Zaburzenia czucia na skórze policzka i wargi górnej (uszkodzenie n. podoczodołowego), podwójne widzenie (diplopia), enoftalmia i ograniczenie otwierania ust (szczękościsk)",
+            "D": "Silny ból po stronie podniebienia",
+            "E": "Utrata węchu"
+        },
+        "answer": "C",
+        "justification": "ZJSO obejmuje oddzielenie kości jarzmowej od szczęki, czoła i kości skroniowej. Zawsze przechodzi przez dno oczodołu (kanał/otwór podoczodołowy -> parestezja n. V2) oraz wpływa na ustawienie gałki ocznej. Przesunięcie łuku ogranicza ruch wyrostka dziobastego żuchwy (szczękościsk)."
+    },
+    {
+        "question": "Klasyczna linia złamania Le Fort I (złamanie podjarzmowe, poziome) przebiega przez:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Kości nosowe i dno oczodołów",
+            "B": "Boczne ściany oczodołów i łuki jarzmowe",
+            "C": "Podstawę grzebienia jarzmowo-zębodołowego, dno zatok szczękowych, otwór gruszkowaty, dolną 1/3 wyrostków skrzydłowatych z oddzieleniem wyrostka zębodołowego i podniebienia od reszty szczęki",
+            "D": "Podstawę czaszki",
+            "E": "Trzon żuchwy symetrycznie"
+        },
+        "answer": "C",
+        "justification": "Le Fort I (Guerina) to odłamanie blaszek wyrostków zębodołowych i podniebienia twardego od mas twarzoczaszki na poziomie dna nosa i zatok szczękowych (tuż nad dnem zatoki)."
+    },
+    {
+        "question": "Ruchomość całego masywu środkowego piętra twarzy względem czaszki objawiająca się oddzieleniem twarzy od kości czołowej i czaszki oraz 'twarzą talerzowatą' to typowe objawy obustronnego złamania:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Le Fort I",
+            "B": "Le Fort II",
+            "C": "Le Fort III (oderwanie twarzoczaszki od podstawy czaszki)",
+            "D": "Izolowanego złamania ścian zatoki",
+            "E": "Złamania jarzmowo-szczękowego"
+        },
+        "answer": "C",
+        "justification": "Le Fort III (wysokie złamanie) przechodzi przez szwy czołowo-nosowe, czołowo-szczękowe, ściany oczodołów, szwy czołowo-jarzmowe i łuki jarzmowe, dając kliniczny obraz 'pływającej twarzy'."
+    },
+    {
+        "question": "W złamaniach gałęzi i wyrostków kłykciowych żuchwy, głowa żuchwy przemieszcza się najczęściej ku przodowi i dośrodkowo (pod zwichnięciem). Jaki mięsień jest główną przyczyną takiego pociągania odłamu górnego?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Mięsień żwacz",
+            "B": "Mięsień skrzydłowy boczny",
+            "C": "Mięsień skroniowy",
+            "D": "Mięsień gnykowo-językowy",
+            "E": "Mięsień skrzydłowy przyśrodkowy"
+        },
+        "answer": "B",
+        "justification": "Głowa dolna mięśnia skrzydłowego bocznego przyczepia się w dołku skrzydłowym na przedniej powierzchni szyjki żuchwy i po złamaniu pociąga krótki odłam kłykciowy do przodu i do środka."
+    },
+    {
+        "question": "Złamania typu 'blow-out' to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Złamania wybuchowe kąta żuchwy z powodu uderzenia obustronnego",
+            "B": "Izolowane złamania rozprężające dna oczodołu (rzadziej ściany przyśrodkowej) do światła zatoki szczękowej, przy nienaruszonym dolnym brzegu oczodołu z możliwym uwięźnięciem mięśni gałkoruchowych.",
+            "C": "Złamania jarzmowo-szczękowo-oczodołowe",
+            "D": "Złamania nosa",
+            "E": "Złamania żuchwy z uszkodzeniem zębów"
+        },
+        "answer": "B",
+        "justification": "Rozprężające uderzenie tępym przedmiotem w gałkę oczną zwiększa gwałtownie ciśnienie w oczodole i 'wypycha' (blow-out) najsłabszą ścianę (dno) do zatoki szczękowej, często wikłając mięsień prosty dolny lub skośny dolny (podwójne widzenie w górę)."
+    },
+    {
+        "question": "Jakie badanie radiologiczne jest 'złotym standardem' w dokładnej diagnostyce lokalizacji odłamów i uwięźnięcia mięśni w złamaniach dna oczodołu (blow-out) oraz struktur masywu sitowego?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Klasyczne zdjęcie pantomograficzne (OPG)",
+            "B": "Zdjęcie zębowe przylegające",
+            "C": "Tomografia komputerowa (TK / CBCT) struktur twarzoczaszki w projekcjach czołowych, osiowych i strzałkowych.",
+            "D": "Tylko USG",
+            "E": "Zdjęcie w projekcji Watersa jako jedyne badanie"
+        },
+        "answer": "C",
+        "justification": "Zdjęcia pantomograficzne są świetne dla żuchwy, ale dla skomplikowanych urazów oczodołów i sitowia podstawą jest TK, uwidaczniająca precyzyjnie przemieszczenia cieniutkich blaszek kostnych i wgłobienie tkanek miękkich."
+    },
+    {
+        "question": "Postępowanie doraźne po utracie przytomności pacjenta z podejrzeniem obustronnego złamania trzonu żuchwy wiąże się w pierwszej kolejności z ryzykiem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Opadania języka (retrognacja) wskutek braku podparcia (odłamanie środkowej części żuchwy), z niedrożnością dróg oddechowych",
+            "B": "Wykrwawienia się ze splotu zębodołowego",
+            "C": "Natychmiastowym złamaniem kręgosłupa",
+            "D": "Skurczem przełyku i zachłyśnięciem kwasem",
+            "E": "Uszkodzenia nerwu wzrokowego"
+        },
+        "answer": "A",
+        "justification": "Obustronne złamanie trzonu lub spojenia żuchwy pozbawia mięśnie bródkowo-językowe stałego punktu podparcia. U pacjenta nieprzytomnego (lub w pozycji leżącej na plecach) luźny masyw języka zapada się wgłąb gardła i natychmiast zatyka drogi oddechowe."
+    },
+    {
+        "question": "Leczenie zachowawczo-ortopedyczne złamań żuchwy polega na:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Otwartym nastawieniu operacyjnym (osteosyntezie tytanowymi mini-płytkami) i założeniu szwów",
+            "B": "Zastosowaniu wyciągów międzyszczękowych z szynami (np. szyny Tigerstedta lub z zaczepami Erich'a) do repozycji i stabilizacji przez około 4-6 tygodni, bez chirurgicznego cięcia skóry/śluzówki w strefie złamania",
+            "C": "Tylko założeniu opaski z bandaża elastycznego na głowę",
+            "D": "Złamań żuchwy w ogóle się nie leczy",
+            "E": "Replantacji żuchwy nową"
+        },
+        "answer": "B",
+        "justification": "Leczenie ortopedyczne wykorzystuje nienaruszony aparat zębowy (okluzję) do ustawienia i przytrzymania odłamów poprzez ich fiksację do łuku przeciwległego za pomocą drutów lub gumek na specjalnych szynach (wyciąg międzyszczękowy - MMF)."
+    },
+    {
+        "question": "Metoda otwartej repozycji (osteosyntezy) złamań z użyciem tytanowych minipłytek (np. metoda wg Champy'ego) opiera się na:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Drutowaniu wyłącznie koron zębów wokół całej głowy",
+            "B": "Fiksacji śrubami na dolnym brzegu żuchwy na zewnątrz skóry pacjenta",
+            "C": "Zastosowaniu doginanych płytek tytanowych w miejscach określonych linii obciążeń/naprężeń (linii Champy'ego) żuchwy dla uzyskania stabilności czynnościowej i pierwotnego gojenia kości, zazwyczaj z dostępu wewnątrzustnego",
+            "D": "Zablokowaniu stawów na minimum pół roku",
+            "E": "Tylko użyciu klejów tkankowych do sklejania odłamów"
+        },
+        "answer": "C",
+        "justification": "Osteosynteza wg Champy'ego to złoty standard leczenia wielu złamań żuchwy (osteosynteza mało inwazyjna), polegająca na umieszczaniu płytek mocowanych śrubami mono-korowo, zgodnie z optymalnymi wektorami biomechanicznymi (znieczulającymi siły rozciągające)."
+    },
+    {
+        "question": "Pierwsza pomoc (opatrunek) po wybiciu lub mocnym rozchwianiu w urazie zębów siecznych obejmuje u stomatologa po ich nastawieniu w zębodołach:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Natychmiastowe leczenie kanałowe z pozostawieniem zęba ruchomego",
+            "B": "Tylko usunięcie do zera bez stabilizacji",
+            "C": "Elastyczne/półelastyczne szynowanie zębów pourazowych do zębów sąsiednich nieobjętych urazem przez 2 do 4 tygodni w celu umożliwienia gojenia ozębnej i przyzębia",
+            "D": "Założenie wyciągów międzyszczękowych w całym ukladzie szczęk na 3 miesiące",
+            "E": "Zaklejenie szpary woskiem podniebiennym"
+        },
+        "answer": "C",
+        "justification": "Przy urazach zwichnięciowych i awulsjach najważniejsze po nastawieniu jest ustabilizowanie zęba, by ozębna mogła się połączyć. Służą do tego szyny elastyczne lub półelastyczne (drut+kompozyt), by zachować mikroruchy zapobiegające ankylozie."
+    },
+    {
+        "question": "Złamania poprzeczne korzenia, w których do odłamania wierzchołka dochodzi w jego górnej 1/3 lub połowie długości pod dziąsłem:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Rokują najlepiej i przy braku przemieszczeń i dobrej stabilizacji miazga bardzo często przeżywa i odłamy zrastają się włóknisto-kostnie.",
+            "B": "Zawsze skutkują natychmiastowym wyrwaniem całego zęba",
+            "C": "Są nie do zdiagnozowania na RTG, więc czeka się 5 lat na efekt",
+            "D": "Leczy się tylko operacyjnie przez resekcję 3/4 długości korzenia",
+            "E": "Zawsze zrastają się nowym szkliwem"
+        },
+        "answer": "A",
+        "justification": "Złamania głębokie (w 1/3 wierzchołkowej) są osłonięte przez dobrą kość, rzadko mają styk z jamą ustną. Po ustawieniu i zszynowaniu mają bardzo duże szanse na przetrwanie miazgi (rewaskularyzacja) i zrost w tkance bliznowatej/osteodentinie."
+    },
+    {
+        "question": "Centralny guz olbrzymiokomórkowy (CGCM - Central Giant Cell Granuloma) najczęściej występuje u:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Mężczyzn pow. 60 roku życia",
+            "B": "Dzieci i młodych dorosłych (przed 30 r.ż.), częściej w żuchwie u kobiet",
+            "C": "Noworodków jako wada genetyczna przy urodzeniu",
+            "D": "Osób pracujących w kopalni, wywołany pylicą",
+            "E": "Tylko w śliniankach twardych"
+        },
+        "answer": "B",
+        "justification": "CGCM to łagodna, chociaż bywa agresywna zmiana rozrostowa kości gnathicznych, często w przednim odcinku żuchwy występująca zazwyczaj w młodszej grupie wiekowej ze szczególną preferencją płci żeńskiej."
+    },
+    {
+        "question": "Śluzak zębopochodny (odontogenic myxoma) daje na zdjęciach radiologicznych najczęściej obraz:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Czarnej, małej kulki pod korzeniem siekacza (1 cm)",
+            "B": "Ognisk wielokomorowych, rozmytych przejaśnień z delikatnymi przegrodami kątowymi, układającymi się na kształt siatki tenisowej (lub szprych koła, litery X, Y)",
+            "C": "Potężnych białych kul zwapniałej kości twardej jak kamień",
+            "D": "Uogólnionej ciemności zatoki (zacienienie)",
+            "E": "Torbieli powietrznej na wargach"
+        },
+        "answer": "B",
+        "justification": "Cienkie, przecinające się proste linie (tzw. objaw pajęczyny / siatki tenisowej / plastra miodu lecz z ostrymi kątami) na tle rozległego zniszczenia kości są typowe dla śluzaka."
+    },
+    {
+        "question": "Typowym objawem klinicznym szkliwiaka żuchwy (ameloblastoma) we wczesnym stadium jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Powolne, bezbolesne wzdęcie kości (tzw. asymetria twarzy) bez owrzodzeń, często wykrywane przypadkowo",
+            "B": "Zawsze silny ból i drętwienie całej połowy języka",
+            "C": "Porażenie mięśnia okrężnego oka i opadanie powieki z tej samej strony",
+            "D": "Ropna wydzielina tryskająca z brodawki przyzębnej",
+            "E": "Wypadnięcie 3-4 zębów u podstawy zmian"
+        },
+        "answer": "A",
+        "justification": "Szkliwiak to guz rozprężający, powolnie i bezboleśnie poszerzający kość w każdym wymiarze i nienaciekający tkanek miękkich."
+    },
+    {
+        "question": "Torbiel boczna szyi (branchial cleft cyst) rozwija się z:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Pozostałości kieszonki skrzelowej (zazwyczaj drugiej łuku skrzelowego)",
+            "B": "Przewodu tarczowo-językowego u podstawy języka",
+            "C": "Zapalenia węzłów chłonnych w przebiegu promienicy",
+            "D": "Małych gruczołów potowych szyi",
+            "E": "Wirusa EBV"
+        },
+        "answer": "A",
+        "justification": "Są to rozwojowe wady z resztek ektodermalnych II kieszonki skrzelowej; objawiają się zwykle u młodych dorosłych jako miękkie, chełbocące guzy na szyi do przodu od m. MOS."
+    },
+    {
+        "question": "Różnicowanie torbieli środkowej szyi od węzłów chłonnych lub torbieli bocznych opiera się często na charakterystycznym objawie podczas badania palpacyjnego, którym jest:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Mocne zasinienie i tętnienie zgodne z rzutem serca",
+            "B": "Unoszenie się (ruchomość) torbieli ku górze przy wysuwaniu języka lub połykaniu ze względu na fizyczne połączenie (przewodem) z kością gnykową i nasadą języka.",
+            "C": "Ostry rąbiący ból przy ucisku na punkt spustowy",
+            "D": "Zmniejszanie wymiarów pod wpływem nacisku palcem (objaw rzekomego przepuklinowania)",
+            "E": "Zmiana koloru ze skóry na różowy pod światło"
+        },
+        "answer": "B",
+        "justification": "Torbiel przewodu tarczowo-językowego leży w linii pośrodkowej i porusza się podczas aktu połykania wraz z krtanią i kością gnykową, na której bywa często zawieszona."
+    },
+    {
+        "question": "W przypadku diagnozy nowotworu złosliwego jamy ustnej klasyfikowanego jako T2N1M0 oznacza to:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wielki guz T2, z uogólnionymi przerzutami N1 na całym ciele i do opon M0",
+            "B": "Guz pierwotny (o wielkości 2-4 cm lub inny wymiar w T2 zależnie od narządu), obecność przerzutu w jednym okolicznym węźle chłonnym do 3cm po tej samej stronie (N1) oraz brak odległych przerzutów narządowych (M0)",
+            "C": "Nowotwór całkowicie wyleczony po M0 na sterydach",
+            "D": "Rak płuc T2 z przerzutem N1 do jamy ustnej i braku zajęcia żołądka M0",
+            "E": "Brak opcji z logiką, M to przerzuty do mięśni"
+        },
+        "answer": "B",
+        "justification": "Klasyfikacja TNM (Tumor, Nodus, Metastasis). T2 to guz 2-4 cm; N1 to pojedyczny powiększony węzeł izostronny; M0 to brak odległych przerzutów."
+    },
+    {
+        "question": "Jedną z charakterystycznych zmian w uzębieniu wywołaną napromienianiem (radioterapią) twarzoczaszki pacjenta z powodu raka są:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Masywne złogi białego kamienia z ropą od pierwszej doby terapii",
+            "B": "Przyspieszone rośnięcie korzeni do 4cm i resorpcje korony w zębach mlecznych u 60 latka",
+            "C": "Tzw. popromienna próchnica okrężna zębów na wysokości szyjek i przyspieszone, kruche złamania koron z powodu suchości w jamie ustnej (xerostomia radiacyjna)",
+            "D": "Ogniwa czerniaka na szkliwie",
+            "E": "Tylko i wyłącznie ostre zapalenie przyzębia bez dotykania tkanek zęba"
+        },
+        "answer": "C",
+        "justification": "Radioterapia całkowicie niszczy funkcję małych i dużych gruczołów, obniża się pH i brak jest ochrony śliny. Doprowadza to do masywnego rozwoju próchnicy w nietypowych, bardzo odpornych normalnie miejscach – m.in. na gładkich szyjkach i korzeniach, doprowadzając do odłamywania się koron od zębów."
+    },
+    {
+        "question": "Owrzodzenie nowotworowe płaskonabłonkowe charakteryzuje się makroskopowo najczęściej:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Miękkimi, wiotkimi, zlewającymi się pęcherzykami ropnymi, szybko pękającymi bez rany z krwią",
+            "B": "Nieregularnym, kalafiorowatym, łatwo krwawiącym lub wyżłobionym kraterowatym dnem z twardymi, wyniesionymi i nacieczonymi z podłożem wałowatymi brzegami",
+            "C": "Żółtym rąbkiem z białą gładką plamą w środku, jak afty o wielkości do 3 mm",
+            "D": "Owalną gładką czarną czerwoną płaską zmianą w wardze bez żadnego owrzodzenia",
+            "E": "Równomiernie zaokrągloną blachą szkliwa w policzku"
+        },
+        "answer": "B",
+        "justification": "W badaniu makroskopowym owrzodzenie w przebiegu raka SCC cechuje się endofitycznym/egzofitycznym kształtem (często kraterem w głąb rany) o nieregularnym kształcie oraz wyraźnym stwardnieniu (induracja) samego guza oraz uniesionych jego wałowatych brzegach z tendencją do łatwego krwawienia przy badaniu."
+    },
+    {
+        "question": "W diagnostyce raka szyi dużą wartość wnosi badanie palpacyjne węzłów chłonnych. Twardy, niebolesny, połączony i zrośnięty z podłożem pakiet węzłów na bocznej powierzchni szyi świadczy zazwyczaj o:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Anginie paciorkowcowej i silnym ropniu migdałka",
+            "B": "Mononukleozie",
+            "C": "Zaawansowanym przerzucie raka płaskonabłonkowego np. z dna jamy ustnej lub gardła (węzły zmienione nowotworowo, zrośnięte periademicznie)",
+            "D": "Gruźlicy ostrej rozsianej",
+            "E": "Toksoplazmozie od kota z gorączką"
+        },
+        "answer": "C",
+        "justification": "Przerzuty nowotworowe do węzłów chłonnych tworzą pakiety twarde 'jak kamień', niebolesne, asymetryczne, a w miarę przebijania torebki węzła tracą całkowicie swoją ruchomość wtapiając się w otaczające struktury szyi powięziowej."
+    },
+    {
+        "question": "Do zębopochodnych nowotworów wywodzących się wyłącznie z mezenchymy (ektomezenchymy) zęba, czyli niezawierających nabłonka do namnażania, należy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Szkliwiak",
+            "B": "Guz Pindborga (CEOT)",
+            "C": "Śluzak zębopochodny (Odontogenic myxoma) oraz Cementoblastoma (Kostniwiak)",
+            "D": "Zębiak kompozytowy (złożony)",
+            "E": "Torbiel rogowaciejąca"
+        },
+        "answer": "C",
+        "justification": "Guz Pindborga i szkliwiak to guzy w pełni nabłonkowe. Zębiak to nowotwór mieszany z obu typów listków. Tylko śluzak oraz włókniak zębopochodny/cementoblastoma wywodzą się tylko z mezenchymy (np. z brodawki zębowej lub mieszka)."
+    },
+    {
+        "question": "Wytrzeszcz gałki ocznej (egzoftalmia), ból głowy i nosa, krwawienie z nosa (epistaxis), parestezje na policzku i ból zębów górnych przedtrzonowych - to objawy silnie wskazujące na:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Ostre zapalenie spojówek i jaskrę",
+            "B": "Raka i masywny zaawansowany nowotwór rozrastający się w zatoce szczękowej (naciekający oczodół, nerwy zębodołowe w dnie oraz ścianę przyśrodkową w nosie)",
+            "C": "Gruczolaka przysadki mózgowej",
+            "D": "Zapalenie miazgi przedtrzonowca z powikłaniami",
+            "E": "Łagodną torbiel korzeniową dającą objawy przez nacisk"
+        },
+        "answer": "B",
+        "justification": "Są to typowe kliniczne objawy zaawansowanego złośliwego naciekania i destrukcji poszczególnych ścian kostnych przez raka pierwotnie wzrastającego w mroku zatoki szczękowej (często diagnozowany po latach odrostu z mazi nabłonka)."
+    },
+    {
+        "question": "Jaki jest podstawowy cel szynowania złamanej kości przy użyciu wyciągów elastycznych międzyszczękowych z perspektywy okluzji?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zlikwidowanie zębów przez ekstrakcję bo przeszkadzają ortopedycznie",
+            "B": "Odtworzenie przedurazowego zwarcia zębów i okluzji, które dzięki prawidłowym relacjom rzutuje na zaryglowanie odłamów w odpowiedniej pozycji na kości szczęk z powrotem",
+            "C": "Podniesienie zwarcia, by wyprostować pacjentowi kręgosłup szyjny",
+            "D": "Spowodowanie sztucznego szczękościsku by pacjent schudł przed zabiegiem",
+            "E": "Wyciągi stosuje się jedynie, kiedy brakuje wszystkich zębów u chorego."
+        },
+        "answer": "B",
+        "justification": "Ustawienie zębów do ich pierwotnego, precyzyjnego ułożenia zębowego (intercuspation) na łukach przeciwnych (za pomocą sił wyciągów), automatycznie wyznacza ułamane bazy kości trzonu czy gałęzi w ich oryginalnym pośrodkowym i bocznym położeniu przed urazem."
+    },
+    {
+        "question": "W złamaniu wyrostka kłykciowego z ogromnym przemieszczeniem u małego rosnącego dziecka głównym powikłaniem przetrwałego leczenia po unieruchomieniach na wyciągach (MMF długie trzymanie w bezruchu) jest często:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Nieprawidłowe widzenie",
+            "B": "Wypadanie uszu ze stawu i zaburzenia słuchu z głuchotą obu uszu w wieku do 20 lat",
+            "C": "Asymetria twarzy wywołana niedorozwojem po stronie chorej i przede wszystkim ankyloza stawu skroniowo-żuchwowego ze skostnieniem szpary stawowej (zrośnięcie z czaszką)",
+            "D": "Szybkie wytworzenie gigantyzmu żuchwy",
+            "E": "Tylko utrata kła dolnego po strzale i zniekształcenie łuku"
+        },
+        "answer": "C",
+        "justification": "Rosnące tkanki stawu w dzieciństwie mają potężny potencjał regeneracyjny (osteogeniczny). Długotrwały bezruch, wylana krew po urazie i zniszczenie chrząstki często prowadzi u maluchów do wytworzenia się potężnego, zlewającego się masywu kostnego łączącego żuchwę i skroń (wrodzona ślepota czynności zesztywnienia - ankylozy)."
+    },
+    {
+        "question": "Złamania gałęzi żuchwy w ujęciu radiologicznym widoczne są w projekcji PA żuchwy (postero-anterior) lub OPG (pantomogramie). Odłamy są z reguły:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zawsze przemieszczone o 5 centymetrów by było to widać",
+            "B": "Nie są wcale widoczne w badaniu rtg",
+            "C": "Mało lub wcale przemieszczone (tylko szczelina jako linia), ponieważ odłamy są obustronnie otoczone i stabilizowane (zablokowane) m.in. przez mięsień żwacz od zewnątrz oraz mięsień skrzydłowy przyśrodkowy od wewnątrz tworzące pas z obu stron",
+            "D": "Z reguły pociągane do potylicy przez silne przyczepy okrężne oka z otoczenia i spadają do dołu",
+            "E": "Złamaniu towarzyszy zawsze brak mowy pacjenta"
+        },
+        "answer": "C",
+        "justification": "Potężne obustronne napięcie mięśni podnoszących i zwierających żuchwę (pterygomasseteric sling) utrzymuje jak stabilizujący gorset złamane elementy pionowej gałęzi w pozycji relatywnie prawidłowej przy małych urazach (często leczenie tylko dieta miękka)."
+    },
+    {
+        "question": "Przy ranach kąsanych (po ugryzieniu przez zwierzę w policzek) lekarz stomatolog i chirurg:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Musi zawsze zszeszyć ranę mocno podwójnym najgrubszym szwem naczyniowym wewnątrz i uważać by rana była zamknięta i drenaż zatrzymał się by wewnątrz powstał ładny bliznowiec",
+            "B": "Najczęściej ran pokąsanych się rutynowo ścisle pierwotnie zamyka, lub zbliża lekko z pozostawieniem drenażu i szerokim i wielokrotnym opracowaniem antyseptycznym/chirurgicznym z płukaniem w głąb (zagrożenie mieszaną superinfekcją patogenami i konieczność profilaktyki przeciwtężcowej/wściekliźnie).",
+            "C": "Powinien posypać ząb w ustach pacjenta pyłem kostnym by zasymulować przeszczep a na ranę założyć sam plaster bandaża bez żadnego mycia",
+            "D": "Powinien zlecić szczepienie na cholerę i dżumę na izbie przyjęć by uniknąć problemów po ślinie",
+            "E": "Tylko przepisać pastę ze sterydem i kazać smarować"
+        },
+        "answer": "B",
+        "justification": "Rany po ukąszeniach są najbardziej nieczystymi rodzajami ran obciążonych patogenami flory kałowej/śluzowej. Bezwzględnym standardem jest silne wyczyszczenie i otwarty charakter (brak ścisłego zaszycia bez obawy na brzydką bliznę) by pozwolić na spływanie wysięków uwięzionych przez drobnoustroje beztlenowe."
+    },
+    {
+        "question": "Owrzodzenie żylakowe, czy zakażenie z zęba u zdrowego pacjenta przebiegające typowo ostro ma miękkie, elastyczne brzegi. Co natomiast jest cechą palpacyjną, w teście palcowym brzegów twardych przy zmianie w J.U. świadczącą z dużym prawdopodobieństwem o raku?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Wałowatości i induracji (stwardnienie brzegów i otoczenia, które daje twardość, elastyczność i chrzęst zbliżony twardością do chrząstki bez objawów ostrego bólu wyczuwalny po nacisnięciu brzegu)",
+            "B": "Pod wpływem siły uciskowej brzegi tryskają białą ropą w rzadkiej mętnej cieczy bez oporu od wewnątrz i ustępuje obrzęk na twarzy",
+            "C": "Pod wpływem ciepła zmiana kurczy się, a w palcach jest jak wata",
+            "D": "Ciepłe brzegi wewnątrz śluzówki (wzrost temperatury w buzi o 10 stopni na policzku i pęcherze surowicze, oparzenia)",
+            "E": "Wypukły środek miękki jak ciastko, do środka wchodzą 3 igły"
+        },
+        "answer": "A",
+        "justification": "Induracja (naciekowy opór tkanek podczas omacywania, ich 'chrzęstny', napięty wałowaty charakter stwardnienia twardo osadzonego na otoczeniu tkankowym bez podatności na przesuwanie, będąca dowodem wnikania desmoplastycznych włókien w kość lub powięź i mięśnie), często opisywana jest jako podstawowy znak złośliwości."
+    },
+    {
+        "question": "Szkliwiak najczęściej radiologicznie obrazowany jest jako radiolucencja (przejaśnienie) w RTG. Kiedy jednak widoczne będzie RTG z plamami/gwiazdami w pełni i gęsto nieprzeziernych cieniami rentgenowskimi, diagnoza idzie w kierunku nowotworu odzębowego twardego zwanego:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zębiakiem (np. odontoma compositum) dającym cienie uformowane w ząbki, lub zębiaka twardego zespolonego z cieniem zębopochodnego guza o wysyceniu szkliwa (biała, bardzo ostro nieprzezroczysta chmura otoczona jasną małą prześwitującą obwódką torbielowatą).",
+            "B": "Centralnego guza olbrzymiokomórkowego z osteoporozą obwodową",
+            "C": "Przerzutowego czerniaka wykazującego osteolizę z gwałtowną szybką resorbcją",
+            "D": "Torbielem pierwotnym z woda obfitą",
+            "E": "Częściowy obrzęk tłuszczaka maziowego"
+        },
+        "answer": "A",
+        "justification": "Szkliwo i zębina wykazują znacznie gęstsze pochłanianie wiązki, co stwarza całkowity cień radiologiczny w zdjęciach analogiczny do tkanki własnego zęba. Środek taki odznacza nowotwory produkujące lub indukujące zębinę/szkliwo lub cement."
+    },
+    {
+        "question": "Co NIE NALEŻY do najczęstszych wczesnych objawów popromiennego odczynu w błonie śluzowej jamy ustnej (tzw. mucositis) podczas napromieniania onkologicznego po dawkach ok. 10-20 Gy (2. lub 3. tydzień)?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Rumień błony śluzowej (erythema)",
+            "B": "Obrzęk, utrata smaku i ból (często piekący)",
+            "C": "Pojawienie się nalotów włóknikowych błoniastych przypominających naloty na języku (śluzówka w 3 tyg ulega owrzodzeniu w dużej płachtowej białej martwiczej zmianie tzw. pseudomembranous)",
+            "D": "Popromienna ciężka martwica kości żuchwy w 1 tyg i złamanie",
+            "E": "Trudności i opór od pieczenia przy jedzeniu i połykaniu potraw kwaśnych i słonych (dysfagia bolesna)"
+        },
+        "answer": "D",
+        "justification": "Popromienna martwica kości (ORN) jest zjawiskiem PÓŹNYM. Wymaga z reguły dłuższego kumulatywnego upływu czasu (miesiące/lata po terapii o wysokich dawkach). Wczesne, powszechne powikłania ostre w pierwszych tygodniach to odczyny rumieniowe lub owrzodzenia błoniane w śluzówkach."
+    },
+    {
+        "question": "Pod pojęciem „Keratocysta” (Odontogenic keratocyst / KCOT) kryje się zmiana, której klasyczna charakterystyka różnicuje ją od np. małej torbieli zawiązkowej, mianowicie to że:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Rośnie i niszczy w potężnym stopniu objętościowo rozdymając wyrostek policzkowy jak balon na szerokość i zawsze rośnie na twarzy (z objawem piłeczki)",
+            "B": "Nie wykazuje dużej agresji nawrotowej a jedynie pęka jak opryszczka na wargach od gorączki powodując śluz",
+            "C": "Ma skłonność do rozprzestrzeniania się wzdłuż wnętrza kości długiej osi trzonu/gałęzi żuchwy, zanim spowoduje widoczne wzdęcie obwodu korowego i wykazuje wysoki i częsty wskaźnik wznowy pomimo usunięcia łyżeczką.",
+            "D": "To to samo, zmiana po prostu nie ma innej nazwy na błąd zapisu medycznego",
+            "E": "Rośnie zawsze do środka jamy ustnej wyrzucając po drodze trzonowce i n. zębodołowy, bez wznawiania (bez recurrences)"
+        },
+        "answer": "C",
+        "justification": "Typowe keratocysty rozrastają się w pierwszej kolejności na długość (mezjalnie-dystalnie) w żuchwie powodując niewielkie/późne rozszerzenie poprzeczne blaszek. Mają silny rogowaciejący nabłonek oddzielający mikro-satelity ścienne dający ok. 30% nawrotów z zostawionych fragmentów, podczas gdy zwykła zębopochodna zawiązkowa po łyżeczce rzadko nawraca."
+    },
+    {
+        "question": "Do złamań typu zamkniętego, w odniesieniu do żuchwy (z punktu widzenia urazówki otwarte czy zamknięte) i zębów na jej powierzchni należy sytuacja w której:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Szczelina złamania biegnie i przecina wyrostek zębodołowy na wysokości trzonowca przez całe ozębne do ubytku przy szyjce korony",
+            "B": "Kość nie komunikuje się ze środowiskiem zewnętrznym (nienaruszone podłoże błony/przedsionka jamy ustnej), np. izolowane stłuczenie wzdłuż podstawy trzonu żuchwy nieobejmujące i nierysujące szczelin w rejon wyrostka pod dziąsłem oraz zębów albo wyrostka kłykciowego z nienaruszoną torebką stawową i skórą",
+            "C": "Skóra na szyi z tyłu za szczęką przecięta była głęboko po tętnice twarzowe przy urazie pod zębami 4 5",
+            "D": "Kość udowa się przebiła w nodze",
+            "E": "Tylko zęby zostały zablokowane ze szczękościskiem przednią otwartą kością policzkową"
+        },
+        "answer": "B",
+        "justification": "Za złamania bezwzględnie otwarte (komunikujące się z septycznym środowiskiem) uznaje się te złamania w części zębodołowej żuchwy, w których dochodzi do pęknięcia ozębnej i naruszenia w przyzębiu brzeżnym z wewnątrz. Złamanie wyrostka kłykciowego i kąta pod powięzią i u podstawy/zębów dolnych trzonu u chorego zębnego jeśli omija przyzębia jest szczeliną zamkniętą dopóki błona na dziąsłach jest spójna z powłoką."
+    },
+    {
+        "question": "Porażenie jednostronne nerwu ocznego oraz objaw ucisku (i drenażu w obrzękach) na nerwy wzrokowe w kanale odłamami w złamaniu, to cechy groźne jakiego powikłania uszkadzającego centralę wzrokową, z czym to ma związek w JSO?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Uderzenie w czubek brody żuchwy u dorosłego mężczyzny w boksie po rzucie prostym",
+            "B": "Bezpośredniego pourazowego załamania/niedowładu rzutującego po przemieszczeniu do wnętrza (ku tyłowi) w obrębie tylnej krawędzi stożka oczodołu i szczytu – zespół szczeliny oczodołowej górnej i zespół szczytu oczodołu przy urazach piętra środkowego.",
+            "C": "Tylko izolowanego zwichnięcia zęba 1 przedniego u chorych w wypadku samochodowym z ciosem w kierownicę z ust",
+            "D": "Błędu w znieczuleniu n. zębodołowego na dole (przy strzykawce 20cm wbijanej w gałąź ku dołowi i uciskaniu nerwów z tyłu pod pachą)",
+            "E": "Szkliwiaka przy kącie"
+        },
+        "answer": "B",
+        "justification": "Urazy ciężkie masywu oczodołowego wchodzące i przemieszczające głęboko szczyt oczodołu i ściany tylne szczeliny uderzają w pęczki i struktury nerwowe oczno-ruchowe wywołując m.in oftalmoplegię i ucisk tarczy nerwu wzrokowego."
+    },
+    {
+        "question": "Jednym z często wykorzystywanych we wczesnych i ostrych bolesnych fazach oparzeń urazowo-chemicznych i podrażnieniach popromiennych jamy ustnej by znieść powikłania stanów bólu oraz zapewnić miejscowe działanie leku z grupy sterydów używa się w maściach/płynach jako dodatek, najczęściej znieczulacza miejscowego pod postacią:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Adrenaliny do oparzenia (10 mg p.os)",
+            "B": "Lignokainy (np. lidokaina płyn/zel wiskoza) oraz benzokainy – podawane powierzchniowo w celu zablokowania czuciowego włókien na błonie i śluzówce obnażonej bez nabłonka",
+            "C": "Prilokainy i Ketaminy w kość pod rany oparzone w szpitalu u pielęgniarki",
+            "D": "Novokainy po 20 zastrzykach (2 ampułki roztworów iniekcyjnych co tydzień i po jedzeniu tylko na żądanie pod każdą usterkę)",
+            "E": "Oksykodonu maść i dożylnie fenantanyl w domu przy lekkich zaczerwienieniach bez objawów powiększania"
+        },
+        "answer": "B",
+        "justification": "Podstawowym leczeniem łagodzącym ciężkie objawy mucositis lub rozległych bolesnych aft są uśmierzające pasty czy płukanki 'magiczne roztwory' opierające swoją moc o 1-2% roztwory lignokainy dla miejscowej analgezji kontaktowej."
+    },
+    {
+        "question": "Torbiele pęcherzykowe pierwotne oraz naskórkowe uważa się wg nowych koncepcji niekiedy wspólnie z klasyfikacją rogowaciejących jako tzw.:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Niezębopochodne wady naczyniowe, ale wyrastające w obrębie i na poziomie 3 i 4 kręgu u mężczyzn nad wagą i powiązana bywa ze szkliwiakiem w płucach u osób dorosłych palaczy jako mutacja M i E u szczepów gruźlicy pierwotnej zębów i kości krezkowej z uchem dolnym rzekomo wybitnie w dolnej granicy pęcherzyka cichej wody i ścieku zatoki twardej jako cichy gruczolak śluzowy i rzęskowy zębów na boku i nosie i z ust. Czekajcie co?",
+            "B": "Odontogenic Keratocysts (Torbiele rogowaciejące) KCOT/OKC traktowane w niektórych klasyfikacjach WHO z 2005 nawet jako nowotwór zębopochodny Keratocystic odontogenic tumour a w najnowszych znów jako agresywną torbiel z wewnątrzściennym rogowaceniem (co wyjaśnia wieloznaczność i wagę hist-pat rogowacenia dla patologa).",
+            "C": "Przerzutową mięsakowatą zakaźną wodę w płucach od torbieli rzęskowej od zębów dolnych bocznych w klatce bez naczyń u kobiet przed menopauzą i na sterydach dla kulturystów oraz od kleszczy na Mazurach (choroba z Lyme borelioza dająca torbiele w mózgu i szczęce w 100 procentach).",
+            "D": "To jest torbiel po zastrzyku adrenaliny i pęknięciu naczynia żylnego u górnego pierwszego kła bez żadnego związku",
+            "E": "Brak opcji prawidłowej"
+        },
+        "answer": "B",
+        "justification": "Torbiele pierwotne (primordial) rogowaciejące zawsze sprawiały problem ekspertom WHO ze względu na nowotworowy/mutacyjny przebieg (PTCH1 itp.) ich torebki (tworzącej satelity) stąd zyskiwały one czasowo nazwę Keratocystic Odontogenic Tumour (KCOT). Od 2017 powrócono do nazwy Odontogenic Keratocyst, OKC jako torbiel."
+    },
+    {
+        "question": "Biopsję otwartą u ciężkiego pacjenta na oddziale po wycięciu dużego, szybko urosłego nienaturalnego owrzodzenia z dna jamy ustnej podano z podejrzeniem SCC w opisie skierowania na cito dla patomorfologa. By w pełni utrwalić preparat biologiczny z operacji używa się w szpitalu standardowo:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zamrażania w ciekłym azocie i transportowania wyłącznie w minus 196 stopni i na koniec zanurzeniu w soli od fizjologa na oddziale szpitalnym przy oknie i kaloryferze przez tydzień w słoiku i odesłaniu pod lupę dla asystentów z pielęgniarkami w czwartki. O co tu chodzi z odpowiedzią? Nie wiadomo.",
+            "B": "Tylko sterylnie i sucho zamkniętą gąbkę",
+            "C": "W soli fizjologicznej do 2 miesięcy",
+            "D": "Buforowanego ok. 10% roztworu formaliny (objętość płynu do objętości tkanki około 10:1 lub więcej)",
+            "E": "Swoistego ludzkiego alkoholu stężonego 50% z podaniem z znieczulenia i płukaniu do pojemnika dla utrzymania sterylizacji i bez formaliny w temperaturach po 60 stopni od razu na izbie w bloku pod oknem na noc na sterylizator, u pielęgniarek. Tak jak w aptece. Słówka, tylko słówka."
+        },
+        "answer": "D",
+        "justification": "Utrwalanie 10-procentowym roztworem zbuforowanej formaliny (formalina to nasycony 40% wodny roztwór formaldehydu, tu używany w stężeniach odpowiednich do utrwalania komórek i sieciowania białek na poziomie np. 4% finalnym) jest bezwzględnym nakazem postępowania chroniącym tkankę nowotworów od momentu obcięcia nożyczkami od pacjenta przed wyruszeniem do specjalisty oceny szkiełek."
+    }
+]
