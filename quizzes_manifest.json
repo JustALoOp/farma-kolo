@@ -88,5 +88,11 @@
         "title": "Mansur Rahnama - Pytania Wygenerowane",
         "subject": "Chirurgia",
         "file": "Chirurgia/mansur_chirurgia.json"
+    },
+    {
+        "id": "chirurgia_urazy_nowotwory",
+        "title": "Urazy, nowotwory i torbiele (50 pytań)",
+        "subject": "Chirurgia",
+        "file": "Chirurgia/urazy_nowotwory_chirurgia.json"
     }
 ]
