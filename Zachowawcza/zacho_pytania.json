@@ -1,0 +1,1158 @@
+[
+    {
+        "question": "Natychmiastowego leczenia endodontycznego wymaga: 1) pourazowe uszkodzenie zębów; 2) ostre nieodwracalne zapalenie miazgi; 3) zgorzel miazgi; 4) martwica miazgi; 5) ostre ropne zapalenie tkanek okołowierzchołkowych; 6) przewlekłe ropne zapalenie tkanek okołowierzchołkowych.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2,5",
+            "B": "2,5",
+            "C": "1,2,5,6",
+            "D": "2,3,4,5",
+            "E": "wszystkie stwierdzenia są prawdziwe"
+        },
+        "answer": "A",
+        "justification": "Pourazowe uszkodzenia zębów (np. obnażenie miazgi), ostre nieodwracalne zapalenia miazgi oraz ostre ropne zapalenia tkanek okołowierzchołkowych charakteryzują się najczęściej bardzo silnymi dolegliwościami bólowymi lub stanowią bezpośrednie zagrożenie dla zęba, dlatego wymagają pilnej (natychmiastowej) interwencji (trepanacji, usunięcia miazgi podrażnionej)."
+    },
+    {
+        "question": "Laser dużej mocy działający na twarde tkanki zęba powoduje: 1) spadek mikrotwardości powierzchni szkliwa; 2) wzrost odporności szkliwa na rozpuszczanie przez kwasy; 3) zlanie hydroksyapatytów szkliwa i zębiny; 4) wzrost nadwrażliwości zębiny; 5) nie wpływa na podpowierzchniową demineralizację szkliwa w próchnicy początkowej.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3",
+            "B": "3,4",
+            "C": "2,3",
+            "D": "2,5",
+            "E": "1,4,5"
+        },
+        "answer": "C",
+        "justification": "Działanie laserów dużej mocy (np. Nd:YAG, Er:YAG) na twarde tkanki zęba skutkuje stopieniem i fuzją (zlaniem) kryształów hydroksyapatytu na powierzchni szkliwa, co prowadzi do modyfikacji struktury tkanek i znacznego zwiększenia ich odporności na działanie kwasów próchniczotwórczych."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących zaniku patologicznego zębnej jest prawdziwe: 1) Zanik patologiczny zębnej może być spowodowany nadmiernym przeciążeniem zęba; 2) Wyłączenie zęba z jego czynności nie powoduje zaniku patologicznego zębnej; 3) Zanik patologiczny zębnej może mieć miejsce na skutek jej ucisku przez rozrastające się guzy szczęk; 4) Zanik patologiczny zębnej może mieć miejsce na skutek jej ucisku przez rozrastające się torbiele; 5) Zanik patologiczny zębnej może mieć miejsce na skutek jej ucisku przez zęby zatrzymane; 6) Starczy zanik zębnej jest zanikiem patologicznym zębnej.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3,4,5",
+            "B": "2,3,4,5",
+            "C": "3,4,5",
+            "D": "3,4,5,6",
+            "E": "wszystkie odpowiedzi są prawdziwe"
+        },
+        "answer": "A",
+        "justification": "Zanik starczy zębodołu jest zjawiskiem fizjologicznym (stąd zdanie 6 jest fałszywe). Wyłączenie zęba z funkcji powoduje zanik z nieczynności, co również zaliczamy do patologii (zdanie 2 jest fałszywe). Prawdziwymi przyczynami zaniku patologicznego mogą być: przeciążenie zgryzowe oraz ucisk wywierany przez rozrastające się patologiczne zmiany, takie jak guzy, torbiele lub wklinowane zęby zatrzymane (zdania 1, 3, 4, 5)."
+    },
+    {
+        "question": "Pacjent lat 30, zgłosił się na badanie stomatologiczne. Żadnych dolegliwości ze strony uzębienia nie podawał. Lekarz stwierdził, że ząb 11 nie reaguje na badanie chłodkiem styku, brak reakcji na opukiwanie. Zdjęcie RTG wykazało, że ząb 11 był leczony endodontycznie. Wierzchołek korzenia zęba jest prawidłowo uformowany. Stwierdzono całkowitą obliterację w części przywierzchołkowej korzenia (brak światła kanału), przy czym materiał wypełniający sięga do miejsca zobliterowania. Nie stwierdzono zmian w przyzębiu okołowierzchołkowym. Z wywiadu wynikało, że leczenie endodontyczne zęba 11 przeprowadzono przed 20 laty. Na podstawie dostępnych danych można stwierdzić, że: 1) jest to wynik leczenia zęba 11 metodą ekstyrpacji przyżyciowej częściowej; 2) jest to wynik leczenia zęba 11 metodą amputacji przyżyciowej; 3) po uformowaniu korzenia zęba 11 doszło do mineralizacji pozostawionego kikuta miazgi; 4) nie ma wskazań do releczenia endodontycznego zęba 11; 5) są bezwzględne wskazania do releczenia endodontycznego zęba 11; 6) są wskazania do resekcji wierzchołka korzenia zęba 11;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3,6",
+            "B": "2,3,6",
+            "C": "1,3,4",
+            "D": "1,3,5",
+            "E": "2,3,5"
+        },
+        "answer": "C",
+        "justification": "Opisany stan to pomyślny wynik zabiegu ekstyrpacji przyżyciowej częściowej, po której w obrębie przywierzchołkowym doszło do mineralizacji kikuta miazgi (tzw. bariera mineralna). Wobec całkowitego braku dolegliwości oraz braku zmian zapalnych na zdjęciu RTG brak jest jakichkolwiek wskazań do interwencji endodontycznej czy chirurgicznej."
+    },
+    {
+        "question": "Które ze stwierdzeń dotyczących pomiaru długości roboczej kanału z wykorzystaniem endometru częstotliwościowego nowszej generacji jest prawdziwe: 1) stopień uformowania wierzchołka korzenia nie ma wpływu na wynik pomiaru; 2) jest bardziej przydatny w zębach z nieuformowanymi korzeniami, niż w zębach dojrzałych; 3) precyzyjniej niż w metodach radiologicznych wyznacza faktyczny otwór fizjologiczny w zębach stałych niedojrzałych i dojrzałych; 4) jest nieskuteczny w przypadku leczenia zębów metodą ekstyrpacji przyżyciowej; 5) obecność wody utlenionej w kanale zaburza pomiar; 6) obecność roztworu fizjologicznego NaCl nie wpływa na jakość pomiaru; 7) pomiar należy przeprowadzać wyłącznie w kanałach suchych.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3,6",
+            "B": "5,6",
+            "C": "1,4,7",
+            "D": "1,3,7",
+            "E": "2,5,7"
+        },
+        "answer": "A",
+        "justification": "Nowoczesne endometry wieloczęstotliwościowe są najdokładniejszą metodą oznaczania przewężenia wierzchołkowego, wyprzedzając pod tym względem badanie RTG. Ponadto potrafią prawidłowo odczytywać długość nawet w środowisku wilgotnym z obecnością elektrolitów (NaCl, podchloryn), przez co ząb nie musi być idealnie suchy do odczytu."
+    },
+    {
+        "question": "Które zdanie dotyczące opracowania ubytków próchnicowych jest fałszywe? 1) podczas opracowania ubytków wypełnianych materiałami adhezyjnymi można pozostawić szkliwo nie podparte zębiną; 2) względy estetyczne powodują, że ubytki klasy III zawsze otwieramy od strony językowej; 3) metoda tunelowa znajduje szczególne zastosowanie w przypadku wymiany wypełnienia na powierzchni zgryzowej z jednoczesną obecnością ogniska próchnicy na powierzchni stycznej; 4) otwarcie ubytku, na powierzchni stycznej zębów bocznych, od strony przedsionkowej lub językowej nosi nazwę opracowania metodą dziurki od klucza; 5) metoda dziurki od klucza niesie niebezpieczeństwo pozostawienia zębiny próchnicowej na ścianie dokomorowej, ale pozwala na bardzo dobre odbudowanie punktu stycznego.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2,4",
+            "B": "1,3,4",
+            "C": "1,4,5",
+            "D": "1,3,5",
+            "E": "2,3,5"
+        },
+        "answer": "E",
+        "justification": "Fałszywe są zdania: 2 (nie zawsze otwieramy od strony językowej, zależy to od ubytku), 3 (metoda tunelowa pozwala oszczędzić listwę brzeżną, a nie służy do wymiany rozległego ubytku zgryzowego) oraz 5 (metoda szczelinowa 'dziurki od klucza' nie ułatwia wybitnie odbudowy punktu stycznego i utrudnia kontrolę wzrokową, co faktycznie stwarza ryzyko gorszego zaopatrzenia)."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących koncepcji minimalnie interwencyjnej stomatologii (minimal intervention dentistry - MID) jest nieprawdziwe: 1) koncepcja MID ukierunkowana jest na zachowanie w możliwie maksymalnym stopniu struktury zęba; 2) koncepcja MID obejmuje działania związane wyłącznie z prawidłowym leczeniem choroby próchnicowej; 3) w swoich działaniach koncepcja MID nie przewiduje kontroli choroby próchnicowej; 4) jednym z działań, na których opiera się koncepcja MID jest redukcja bakterii próchnicotwórczych; 5) w swoich działaniach koncepcja MID nie przewiduje naprawy wypełnienia, tylko jego wymianę;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2,3",
+            "B": "2,3,5",
+            "C": "2,3",
+            "D": "1,2,3,5",
+            "E": "wszystkie stwierdzenia są prawidłowe"
+        },
+        "answer": "B",
+        "justification": "Koncepcja MID to holistyczne podejście oparte głównie na prewencji. Zatem przewiduje regularną kontrolę choroby próchnicowej (zdanie 3 jest fałszywe), nie sprowadza się wyłącznie do tradycyjnego leczenia operacyjnego (zdanie 2 jest fałszywe) i przy wadliwych wypełnieniach preferuje ich drobną naprawę, co pozwala na maksymalne oszczędzanie tkanek zęba, unikając całkowitej wymiany wypełnienia (zdanie 5 jest fałszywe)."
+    },
+    {
+        "question": "Dostęp do jamy zęba jest pierwszym etapem leczenia endodontycznego. Które z poniższych stwierdzeń dotyczących stwarzania dostępu pierwotnego jest prawidłowe: 1) dostęp pierwotny polega na stworzeniu dojścia do ujścia kanału; 2) stwarzanie dostępu pierwotnego rozpoczyna się w tzw. punkcie trepanacyjnym; 3) punkt trepanacyjny należy poszerzyć na tyle, aby móc w całości zdjąć sklepienie komory za pomocą wiertła szczelinowego; 4) wiertło z nasypem diamentowym o gładkim nietnącym wierzchołku stosowane jest do zdejmowania sklepienia komory w zębach z małą komorą (np. w zębach przedtrzonowych); 5) w zębach z dużą komorą (np. zęby trzonowe) poszerza się pierwotnie duży otwór trepanacyjny za pomocą wiertła różyczkowego;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2",
+            "B": "2,4",
+            "C": "1,4,5",
+            "D": "1,2,5",
+            "E": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "A",
+        "justification": "Dostęp pierwotny endodontyczny polega na zlokalizowaniu komory i stworzeniu tzw. dojścia do ujść kanałów. Odbywa się to zawsze w odpowiednim dla zęba, anatomicznym punkcie trepanacyjnym."
+    },
+    {
+        "question": "Resorpcja korzeni zębów jest często niepożądanym następstwem leczenia ortodontycznego. Które z poniższych stwierdzeń dotyczących tego powikłania jest nieprawdziwe: 1) na proces resorpcji bardziej podatne są zęby żuchwy; 2) na proces resorpcji bardziej podatne są zęby szczęki; 3) najczęściej występuje w zębach siecznych żuchwy; 4) resorpcje mogą być umiejscowione na ścianach korzenia w postaci niewielkich ubytków;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,4",
+            "B": "1,3",
+            "C": "2",
+            "D": "2,3",
+            "E": "tylko 3"
+        },
+        "answer": "B",
+        "justification": "Praktyka kliniczna wskazuje, że podczas aktywnego leczenia ortodontycznego najbardziej narażone na zanik tkanek wierzchołka są zęby sieczne górne (szczęki), a nie żuchwy. Dlatego twierdzenia wskazujące zęby i siekacze żuchwy jako najbardziej podatne (zdanie 1 i 3) są fałszywe."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących przekrwienia czynnego, czyli tętniczego jest prawidłowe: 1) jest wynikiem zwiększonego dopływu krwi żylnej; 2) dotyczy szczególnie tętniczek i naczyń włosowatych; 3) jest zazwyczaj stanem nagłym; 4) rozmieszczenie składników upostaciowionych krwi w świetle naczynia jest nieprawidłowe; 5) przekrwienie czynne występuje tylko w stanach fizjologicznych;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3",
+            "B": "2,3",
+            "C": "2,3,5",
+            "D": "1,3,4",
+            "E": "2,3,4,5"
+        },
+        "answer": "B",
+        "justification": "Przekrwienie czynne (tętnicze) charakteryzuje się nagłym, poszerzeniem tętniczek i włośniczek, a tym samym zwiększonym miejscowym napływem krwi. Powstaje jako odczyn wczesnej fazy zapalnej na bodźce. Nie jest wyłącznie zmianą fizjologiczną i nie dotyczy odpływu żylnego, w świetle naczynia nie tworzą się też znaczne zatory jak przy zastoju żylnym."
+    },
+    {
+        "question": "Badanie przedmiotowe uzębienia pacjenta wykazało obecność licznych ubytków próchnicowych. Które z poniższych stwierdzeń dotyczących klasyfikacji ubytków próchnicowych wg Blacka jest prawidłowe: 1) Ubytek rozpoczynający się na szczycie guzka policzkowego zęba 15 jest klasy II; 2) Ubytek rozpoczynający się na brzegu siecznym zęba 22 jest klasy IV; 3) Ubytek rozpoczynający się na szczycie guzka podniebiennego zęba 24 jest klasy VI; 4) Ubytek stwierdzony na powierzchni korzenia zęba 43 jest klasy V; 5) Ubytek stwierdzony na powierzchni podniebiennej zęba 12 w foramen caecum jest klasy I.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2,4,5",
+            "B": "2,4",
+            "C": "4,5",
+            "D": "3,4,5",
+            "E": "3,5"
+        },
+        "answer": "D",
+        "justification": "Ubytki rozpoczynające się na szczytach guzków to klasa VI (więc 3 jest prawdziwe, a 1 fałszywe). Ubytek na brzegu siecznym bez kąta to klasa VI, a z kątem to IV (zdanie 2 jest ogólnikowe, ale w kontekście klasycznym sam brzeg to VI). Ubytek na korzeniu to klasa V. Ubytek w otworze ślepym (foramen caecum) to klasa I (5 jest prawdziwe). Zatem prawdziwe są 3, 4 i 5."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących właściwości i zastosowań wodorotlenku wapnia jest prawidłowe: 1) wodorotlenku wapnia w postaci roztworu (zawiesiny) nie stosuje się do wypłukiwania skrzepów krwi po przyżyciowej amputacji miazgi; 2) wodorotlenek wapnia w postaci roztworu (zawiesiny) może być używany w zabiegu jonoforezy hydroksylowej; 3) wodorotlenek wapnia będąc silną zasadą, drażni tkanki przyzębia wierzchołkowego, powodując silne dolegliwości bólowe po przepchnięciu; 4) pasty na bazie Ca(OH)2 w znacznym stopniu są unieczynnione przez resztki organiczne znajdujące się w kanale; 5) pasty lecznicze na bazie Ca(OH)2 można łatwo usuwać z kanału płukaniem NaOCl, bez konieczności stosowania instrumentacji; 6) wodorotlenek wapnia powoduje rozpuszczenie znajdujących się w bezpośrednim kontakcie resztek żywej oraz martwej miazgi i czyni je bardziej podatnymi na działanie NaOCl; 7) wodorotlenek wapnia daje kontrast w obrazie RTG, nie przebarwia zębów, bardzo rzadko wywołuje uczulenie.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3",
+            "B": "2,3,6",
+            "C": "1,3,4,5",
+            "D": "3,4,6,7",
+            "E": "wszystkie stwierdzenia są prawidłowe"
+        },
+        "answer": "B",
+        "justification": "Wodorotlenek wapnia jest stosowany do hamowania krwawienia po amputacji (1 fałszywe). Jest używany w jonoforezie hydroksylowej (2 prawdziwe). Przez wysokie pH silnie drażni tkanki po przepchnięciu (3 prawdziwe). Rozpuszcza tkanki organiczne ułatwiając ich wypłukanie przez podchloryn (6 prawdziwe, 4 fałszywe). Pasty wymagają instrumentacji do pełnego usunięcia (5 fałszywe). Sam Ca(OH)2 jest słabo widoczny na RTG (7 fałszywe)."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących właściwości ćwieków gutaperkowych jest nieprawidłowe: 1) Ćwieki gutaperkowe cechuje mała plastyczność ułatwiająca ich kondensację oraz łatwość wprowadzania i usuwania z kanału; 2) Ćwieki gutaperkowe w przeciwieństwie do czystej gutaperki, nie są zgodne tkankowo; 3) Im więcej rowków, zagłębień, szczelin znajduje się na powierzchni wierzchołka ćwieka tym większa jest jego cytotoksyczność; 4) W przypadku ćwieków gutaperkowych Activ GP (EndoSequence) nie stosuje się uszczelniacza szkło-jonomerowego; 5) Ćwieki gutaperkowe Greater Taper przeznaczone są do wypełniania kanałów opracowanych rotacyjnymi narzędziami niklowo-tytanowymi.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2,3",
+            "B": "2,3",
+            "C": "3,4",
+            "D": "1,4",
+            "E": "3,5"
+        },
+        "answer": "D",
+        "justification": "Zdanie 1 jest fałszywe - gutaperka charakteryzuje się plastycznością, co umożliwia jej kondensację (twierdzenie o małej plastyczności to błąd). Zdanie 4 jest fałszywe, ponieważ ćwieki Activ GP są pokryte szkło-jonomerem i są dedykowane do stosowania z uszczelniaczem szkło-jonomerowym."
+    },
+    {
+        "question": "Metoda tradycyjna opracowania kanałów korzeniowych należy do najstarszych metod opracowania kanału za pomocą narzędzi ręcznych. Które z poniższych stwierdzeń dotyczących tej metody jest prawidłowe: 1) głównym wskazaniem do zastosowania tej metody są kanały o przekroju okrągłym, proste lub nieznacznie zakrzywione; 2) głównym wskazaniem do zastosowania tej metody są kanały wąskie i zakrzywione; 3) przeciwwskazaniem do zastosowania tej metody są korzenie zębów o bardzo szerokich kanałach; 4) istota metody polega na tym, że każdym zastosowanym narzędziem, od najmniejszego do największego rozmiaru, opracowuje się całą długość roboczą kanału; 5) przy małej drożności kanału pierwszym najmniejszym rozmiarem narzędzia należy pracować tak długo, aż osiągnie ono długość roboczą; 6) metoda ta nie stwarza ryzyka przepchnięcia poza otwór wierzchołkowy zawartości kanału.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3",
+            "B": "2,4,5,6",
+            "C": "1,4,5",
+            "D": "3,4,5",
+            "E": "wszystkie stwierdzenia są prawidłowe"
+        },
+        "answer": "C",
+        "justification": "Metoda tradycyjna polega na opracowywaniu kanału kolejnymi narzędziami na pełną długość (4). Nadaje się do prostych kanałów (1). Jeśli kanał jest wąski, pracuje się najmniejszym narzędziem aż do osiągnięcia długości (5). Nie jest zalecana do kanałów zakrzywionych, niesie duże ryzyko przepchnięcia materiału (6 jest fałszywe)."
+    },
+    {
+        "question": "Z poniższych stwierdzeń dotyczących opracowania kanału techniką podwójnego poszerzenia (double-flared technique) prawidłowe to: 1) można ją zaliczyć do metod hybrydowych, ponieważ opracowanie kanału rozpoczyna się techniką stopniowania wierzchołkowego, a kończy opracowaniem części przykoronowej i środkowej kanału; 2) najczęściej stosowane są pilniki typu K; 3) na wszystkich etapach opracowania narzędziem wykonuje się ruch piłowania góra-dół; 4) wskazaniem do jej zastosowania są wąskie i mało drożne kanały proste lub średnio zakrzywione; 5) nie stosuje się jej w kanałach znacznie zakrzywionych; 6) w metodzie tej jest większe ryzyko jatrogennego podrażnienia tkanek okw; 7) Opracowanie przywierzchołkowej części kanału metodą step-back pozwala na wypreparowanie wymaganego stopnia w okolicy otworu fizjologicznego.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3,4,6",
+            "B": "2,3,4,7",
+            "C": "3,4,5,7",
+            "D": "4,5,6,7",
+            "E": "Wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "B",
+        "justification": "Metoda double-flared rozpoczyna się od poszerzenia części koronowej (crown-down), a potem wierzchołkowej (step-back), więc zdanie 1 jest fałszywe. Używa się pilników K i ruchu piłowania góra-dół, nadaje się do kanałów średnio zakrzywionych, a technika step-back w okolicy wierzchołka ułatwia stworzenie stopnia."
+    },
+    {
+        "question": "U ogólnie zdrowego pacjenta stwierdzono próchnicę głęboką w zębie 47 na powierzchni stycznej mesjalnej. W trakcie opracowania ubytku w okolicy poddziąsłowej, doszło do zranienia zmienionej zapalnie brodawki międzyzębowej. W tym przypadku: 1) występujące krwawienie nie stanowi przeszkody w założeniu wypełnienia z kompozytu; 2) mimo zatamowania krwawienia, założenie wypełnienia powinno się przełożyć na następną wizytę; 3) po zatamowaniu krwawienia, zakładanie formówki może spowodować nawrót krwawienia; 4) zatamowanie krwawienia i utrzymanie suchości jest wymagane wyłącznie przy materiałach złożonych; 5) utrzymanie suchości nie jest wymagane w przypadku techniki kanapkowej.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,4",
+            "B": "1,5",
+            "C": "2,3",
+            "D": "1,4,5"
+        },
+        "answer": "C",
+        "justification": "Materiały kompozytowe są wrażliwe na wilgoć. Zranienie zmienionej zapalnie brodawki skutkuje obfitym krwawieniem, a założenie paska formówki na nowo rozkrwawia brodawkę. Zaleca się założenie opatrunku tymczasowego i ostateczne wypełnienie na kolejnej wizycie po wygojeniu dziąsła."
+    },
+    {
+        "question": "Opracowanie kanału apical box: 1) stanowi połączenie metody tradycyjnej i metody step back; 2) stanowi połączenie metody tradycyjnej i metody crown down; 3) polega na nadaniu części wierzchołkowej kanału bardziej stożkowego (niż cylindrycznego) kształtu na długości 2-5 mm; 4) pozwala uzyskiwać większe poszerzenie kanału w części wierzchołkowej; 5) pozwala na lepsze oczyszczenie kanału w części wierzchołkowej.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,4,5",
+            "B": "2,4,5",
+            "C": "1,3,5",
+            "D": "4,5",
+            "E": "2,3,4,5"
+        },
+        "answer": "A",
+        "justification": "Technika Apical Box polega na wypreparowaniu w wierzchołkowej części kanału poszerzenia w kształcie pudełka, łącząc elementy metody standardowej w okolicy wierzchołka z metodą step back wyżej. Umożliwia to poszerzenie i lepsze płukanie (1, 4, 5)."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących zewnętrznej zapalnej resorpcji wierzchołkowej korzenia jest nieprawidłowe: 1) Praktycznie resorpcja wierzchołkowa korzenia towarzyszy wszystkim przewlekłym zapaleniom tkanek okołowierzchołkowych; 2) resorpcja zapalna korzenia występuje tylko przy przewlekłych zapaleniach ropnych tkanek OKW; 3) resorpcja zapalna korzenia nie występuje przy ziarniniakach; 4) Małe ogniska resorpcji cementu często nie są widoczne w obrazie rentgenowskim; 5) resorpcji zapalnej korzenia towarzyszy resorpcja kości wyrostka zębodołowego, która jest widoczna w obrazie RTG w postaci przejaśnienia; 6) resorpcja korzenia jest zjawiskiem wskazującym na małą aktywność procesu zapalnego toczącego się w tkankach OKW.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3,6",
+            "B": "2,3,6",
+            "C": "3,4,5",
+            "D": "2,4,6",
+            "E": "Wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "B",
+        "justification": "Zewnętrzna resorpcja zapalna występuje w przypadku przewlekłych stanów zapalnych w tym ziarniniaków (więc zdania 2 i 3 są fałszywe). Ponadto świadczy ona o dużej aktywności procesu zapalnego (zdanie 6 jest fałszywe)."
+    },
+    {
+        "question": "Instrument nazywany final file (FF): 1) jest pierwszym narzędziem osiągającym długość roboczą; 2) nie sięga pełnej długości roboczej; 3) jest ostatnim narzędziem osiągającym pełną długość roboczą; 4) jest największym instrumentem wprowadzonym do kanału; 5) jest o 2-4 rozmiary większy od MAF.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,5",
+            "B": "3,4",
+            "C": "2,4",
+            "D": "4,5",
+            "E": "2,4,5"
+        },
+        "answer": "E",
+        "justification": "Final File (FF) to narzędzie o 2-4 rozmiary większe od głównego pilnika roboczego (MAF), które ze względu na średnicę preparuje część koronową i środkową, nie docierając na pełną długość roboczą. Jest to zatem największy instrument w kanale."
+    },
+    {
+        "question": "Które twierdzenie dotyczące warstwy mazistej jest nieprawdziwe: 1) składa się z części organicznej i nieorganicznej; 2) po opracowaniu mechanicznym pokrywa ściany kanału korzeniowego warstwą o grubości 1-2 µm; 3) nie wnika do kanalików zębinowych; 4) jest trudna do usunięcia, bowiem ma zbitą strukturę i zawiera bardzo małą ilość wody; 5) część nieorganiczną warstwy mazistej skutecznie usuwa 2,5% podchloryn sodu.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2,3",
+            "B": "3,4,5",
+            "C": "2,4,5",
+            "D": "2,3,4"
+        },
+        "answer": "B",
+        "justification": "Fałszywe są zdania 3, 4 i 5. Warstwa mazista tworzy tzw. czopy maziste (smear plugs), które wnikają do kanalików zębinowych na różną głębokość (3 fałszywe). Zawiera ona znaczną ilość wody i jest porowata, a do jej usunięcia wystarczy odpowiednie płukanie (4 fałszywe). Podchloryn sodu (NaOCl) usuwa wyłącznie część organiczną warstwy mazistej; do usunięcia części nieorganicznej stosuje się chelatory takie jak kwas cytrynowy lub EDTA (5 fałszywe)."
+    },
+    {
+        "question": "U pacjentki w wieku 40 lat prowadzono leczenie endodontyczne zęba 25. W trakcie przepłukiwania kanału korzeniowego 2% roztworem podchlorynu sodu wystąpił silny ból, narastający obrzęk i krwawienie śródtkankowe. Objawy te nasilały się. Które z poniższych stwierdzeń jest prawdziwe: 1) u pacjentki wystąpiła odma powietrzna; 2) doszło do wzdłużnego pęknięcia korzenia zęba; 3) niezbędne jest podanie pacjentce środków o działaniu przeciwbakteryjnym; 4) niezbędne jest zastosowanie środków o działaniu przeciwbólowym i przeciwzapalnym; 5) może wystąpić potrzeba hospitalizacji pacjentki; 6) sytuacja nie wymaga żadnego leczenia, poza obserwacją pacjentki.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3,4,5",
+            "B": "2,3,4,5",
+            "C": "2,4,5",
+            "D": "3,4,5"
+        },
+        "answer": "D",
+        "justification": "Opisany obraz kliniczny to klasyczny \"incydent podchlorynowy\" wynikający z przepchnięcia NaOCl poza otwór wierzchołkowy. Nie jest to odma powietrzna (1 fałsz) ani nie musi oznaczać pęknięcia korzenia (2 fałsz). Wymaga intensywnego leczenia: antybiotykoterapii profilaktycznej (3), silnych leków przeciwbólowych i przeciwzapalnych (np. sterydów) (4), a w ciężkich przypadkach, przy ryzyku ucisku na drogi oddechowe lub rozległej martwicy, hospitalizacji (5). Stąd 6 jest fałszywe."
+    },
+    {
+        "question": "Które zdanie dotyczące znieczulenia śródwięzadłowego jest fałszywe?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "jest stosowane jako znieczulenie dodatkowe w zębach z nieodwracalnymi pulpopatiami",
+            "B": "zaletą znieczulenia śródwięzadłowego jest użycie niewielkiej ilości środka znieczulającego",
+            "C": "znieczulenie to nie ma charakteru znieczulenia śródkostnego",
+            "D": "miejscem wkłucia igły jest ta część szczeliny dziąsłowej, która sąsiaduje z powierzchniami stycznymi zębów",
+            "E": "powikłaniem występującym po wykonaniu tego znieczulenia może być przekrwienie i obrzęk brodawki międzyzębowej"
+        },
+        "answer": "C",
+        "justification": "Zdanie C jest fałszywe. Znieczulenie śródwięzadłowe (PDL) JEST w swej istocie znieczuleniem śródkostnym. Płyn znieczulający pod ciśnieniem pokonuje blaszkę sitowatą zębodołu i dostaje się do przestrzeni gąbczastych kości, a nie płynie samym więzadłem aż do wierzchołka."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących cementów tlenkowo-cynkowo-eugenolowych (ZOE) jest nieprawidłowe:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "największą ich zaletą jest dobra izolacja termiczna",
+            "B": "mają małą odporność mechaniczną",
+            "C": "mają dużą odporność chemiczną zwłaszcza na działanie kwasów",
+            "D": "pod wpływem wilgoci uwalnia się z nich eugenol i pomiędzy cementem a zębiną tworzą się puste przestrzenie"
+        },
+        "answer": "C",
+        "justification": "Cementy ZOE charakteryzują się stosunkowo słabymi właściwościami fizykochemicznymi w porównaniu do nowoczesnych materiałów. Posiadają bardzo NISKĄ odporność chemiczną, łatwo ulegają wypłukiwaniu i rozpuszczaniu w płynach jamy ustnej oraz pod wpływem kwasów, stąd zdanie C jest fałszywe."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących cementu zębowego (kostniwa) jest prawidłowe: 1) grubość cementu wpływa na lepsze utrzymanie zęba w zębodole; 2) cement nie ma wpływu na postępujące z wiekiem wysuwanie się zęba z zębodołu; 3) cement nawarstwiany jest okresowo ale w jego strukturze nie występują linie wzrostowe; 4) odkładanie kostniwa może prowadzić do całkowitego zamknięcia światła otworu wierzchołkowego, w tym również zamyka jego bocznych odgałęzień; 5) w obliteracji otworów wierzchołkowych bardzo istotną rolę odgrywają obficie zgromadzone komórki stanowiące pozostałość pochewki Hertwiga.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2,3",
+            "B": "1,3,4",
+            "C": "3,4,5",
+            "D": "2,4,5",
+            "E": "żadna odpowiedź nie jest prawidłowa"
+        },
+        "answer": "E",
+        "justification": "Wszystkie podane stwierdzenia są fałszywe. Grubość cementu narasta z wiekiem, ale nie wpływa wprost na siłę utrzymania (1). Odkładanie cementu w okolicy wierzchołkowej KOMPENSUJE bierne wyrzynanie się zęba z wiekiem (2 fałsz). W cemencie komórkowym występują linie przyrostowe Saltera (3 fałsz). Odkładanie kostniwa rzadko prowadzi do CAŁKOWITEGO zamknięcia otworu (4 fałsz). Komórki Malasseza (pozostałości pochewki Hertwiga) nie biorą udziału w fizjologicznej obliteracji otworu, mogą natomiast dawać początek torbielom (5 fałsz)."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących surowiczego zapalenia miazgi jest prawidłowe: 1) Surowicze zapalenie miazgi ma zazwyczaj przebieg podostry; 2) Zapalenie surowicze jest jedyną odwracalną postacią wśród zapaleń ostrych, która nie wymaga leczenia biologicznego; 3) Nieleczone zapalenie surowicze szybko przechodzi w postać surowiczo-ropną, a następnie ropną; 4) Zapalenia surowicze manifestują się nieznacznymi objawami bólowymi; 5) Zapalenia surowicze manifestują się znacznymi objawami bólowymi.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,5",
+            "B": "3,4",
+            "C": "3,5",
+            "D": "2,3,5",
+            "E": "1,3,4"
+        },
+        "answer": "C",
+        "justification": "Surowicze zapalenie miazgi to faza OSTRA (nie podostra - 1 fałsz). Jest nieodwracalne i przechodzi w stan ropny bez leczenia endodontycznego (3 prawda, 2 fałsz). Charakteryzuje się bardzo silnym, samoistnym, ostrym bólem (5 prawda, 4 fałsz). Zatem prawdziwe są 3 i 5."
+    },
+    {
+        "question": "Chlorheksydyna (CHX) stosowana jest do płukania kanałów w postaci 0,2-2% roztworu glukonianu. Które z podanych stwierdzeń dotyczących CHX jest prawidłowe: 1) Nieodwracalnie wiąże się z zębiną, wykazując wielogodzinne działanie przeciwbakteryjne; 2) Ma silne działanie na bakterie Gram-dodatnie, słabsze na Gram-ujemne, natomiast nie niszczy przetrwalników; 3) Zalecana do płukania kanałów ze względu na skuteczność eliminowania Enterococcus faecalis; 4) Zaleca się jej stosowanie, gdy system kanałowy zęba był narażony na wpływ środowiska jamy ustnej po utracie wypełnienia czasowego; 5) Wykazuje działanie lityczne (rozpuszczające tkanki); 6) Nie uszkadza tkanek po przepchnięciu poza otwór wierzchołkowy.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3,4,6",
+            "B": "1,2,3,4,6",
+            "C": "1,2,3,4",
+            "D": "1,2,4,5,6"
+        },
+        "answer": "B",
+        "justification": "Prawdziwe są zdania 1,2,3,4 i 6. CHX cechuje się substantywnością (utrzymuje się w zębinie do 12 tygodni). Skutecznie działa na E. faecalis, jest polecana do re-endo i po nieszczelności. Przepchnięta za wierzchołek nie wywołuje martwicy i dramatycznych objawów jak NaOCl (jest biokompatybilna). Fałszywe jest tylko zdanie 5 - CHX NIE MA zdolności rozpuszczania tkanek organicznych ani nieorganicznych."
+    },
+    {
+        "question": "W praktyce w ocenie radiologicznej wypełnienia kanału przyjmuje się pewne granice tolerancji. Za prawidłowe wypełnienie kanału uznaje się w ocenie radiologicznej takie wypełnienie kanału, które: 1) sięga do radiologicznego wierzchołka korzenia; 2) u dzieci i młodzieży kończy się w odległości 0,5-1 mm przed wierzchołkiem radiologicznym; 3) u dorosłych kończy się 1-2 mm przed wierzchołkiem radiologicznym; 4) niezależnie od wieku kończy się 2 mm przed wierzchołkiem radiologicznym; 5) nie sięga otworu fizjologicznego.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1",
+            "B": "2,5",
+            "C": "1,3",
+            "D": "4",
+            "E": "2,3"
+        },
+        "answer": "E",
+        "justification": "Wierzchołek radiologiczny to nie to samo co fizjologiczny. Z wiekiem wskutek odkładania cementu wierzchołek anatomiczny/radiologiczny oddala się od otworu fizjologicznego. Dlatego u młodych pacjentów wypełnienie powinno kończyć się bliżej wierzchołka radiologicznego (0,5-1 mm), a u dorosłych i starszych dalej (1-2 mm). Kanał wypelniony na \"0\" do wierzchołka radiologicznego (1) zazwyczaj oznacza w rzeczywistości przepchnięcie materiału."
+    },
+    {
+        "question": "Wskaż prawdziwe stwierdzenia dotyczące środków lubrikujących do opracowywania kanałów (np. RC-Prep): 1) wskazane są wyłącznie podczas opracowania wąskich kanałów narzędziami ręcznymi; 2) wskazane są wyłącznie podczas opracowania wąskich kanałów narzędziami maszynowymi; 3) wskazane są podczas opracowania wąskich kanałów narzędziami ręcznymi i maszynowymi; 4) składnikiem środków lubrikujących jest EDTA; 5) nie zmniejszają ryzyka złamania narzędzia podczas opracowania wąskiego kanału.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,4,5",
+            "B": "3,4",
+            "C": "2,4,5",
+            "D": "1,4",
+            "E": "2,4"
+        },
+        "answer": "B",
+        "justification": "Środki poślizgowe (lubrykanty) stosuje się zarówno z narzędziami ręcznymi jak i maszynowymi NiTi, aby ułatwić ich pracę (3 prawda). Zwykle zawierają żel na bazie EDTA i nadtlenek mocznika (4 prawda). Ich głównym zadaniem, oprócz chelatacji, jest nadanie poślizgu, co ZNACZNIE zmniejsza tarcie i ryzyko ukręcenia/złamania narzędzia (5 fałsz)."
+    },
+    {
+        "question": "Zatrzymana wczesna zmiana próchnicowa w postaci białej plamy: 1) jest mniej odporna na działanie kwasów niż zdrowe szkliwo; 2) można ją uznać za bliznę tkankową; 3) należy ją usunąć mechanicznie wiertłem; 4) nie należy jej usuwać mechanicznie wiertłem.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3",
+            "B": "2,3",
+            "C": "tylko 2",
+            "D": "2,4",
+            "E": "tylko 4"
+        },
+        "answer": "D",
+        "justification": "Gdy biała plama ulega zatrzymaniu (remineralizacji), jej warstwa powierzchowna staje się twardsza i BARDZIEJ odporna na działanie kwasów niż otaczające zdrowe szkliwo (1 fałsz). Traktuje się ją jako \"bliznę\" w szkliwie (2 prawda). Ponieważ chroni ona ząb i świadczy o wygojeniu, absolutnie nie należy jej usuwać wiertłem (4 prawda)."
+    },
+    {
+        "question": "Który z poniższych objawów nie występuje w przypadku stłuczenia zęba (concussio): 1) znaczne rozchwianie zęba; 2) słaba bolesność na opukiwanie; 3) zranienie oraz krwawienie w tkankach miękkich; 4) bezpośrednio po urazie stan zapalny przyzębia brzeżnego; 5) krwiak miazgi; 6) bezpośrednio po urazie ciemnobrunatne zabarwienie korony.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2,3",
+            "B": "2,3,4",
+            "C": "4,5,6",
+            "D": "1,4,6",
+            "E": "3,4,5,6"
+        },
+        "answer": "D",
+        "justification": "Stłuczenie zęba to uraz tkanek wspierających bez nieprawidłowego rozchwiania czy przemieszczenia (1 nie występuje). Nie wywołuje ono natychmiastowego zapalenia dziąsła (4 nie występuje). Zmiana barwy korony w wyniku pęknięcia naczyń miazgi rozwija się z czasem, nie występuje BEZPOŚREDNIO po urazie (6 nie występuje). Natomiast może wystąpić tkliwość na opuk (2), drobne uszkodzenia miękkie (3) czy wylew w miazdze (5)."
+    },
+    {
+        "question": "Które twierdzenie dotyczące środków stosowanych do płukania kanału korzeniowego jest prawdziwe?\n1) naprzemienne stosowanie podchlorynu sodu i wody utlenionej zwiększa zdolność podchlorynu do rozpuszczania tkanek organicznych i właściwości antybakteryjne;\n2) naprzemienne stosowanie podchlorynu sodu i kwasu cytrynowego zwiększa zdolność podchlorynu do rozpuszczania tkanek organicznych i właściwości antybakteryjne;\n3) po płukaniu roztworem EDTA należy obficie wypłukać kanał roztworem podchlorynu sodu, co spowoduje dezaktywację...\n4) płukanie kanału roztworem chlorheksydyny po uprzednim zastosowaniu EDTA powoduje wytrącanie osadu (PCA)... zawierającego toksyczną parachloroanilinę;\n5) pozostawienie roztworu EDTA w kanale powoduje rozmiękanie zębiny korzeniowej i osłabienie mechaniczne korzenia.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2.",
+            "B": "3,5.",
+            "C": "1,2,5.",
+            "D": "3,4,5."
+        },
+        "answer": "B",
+        "justification": "Mieszanie podchlorynu sodu (NaOCl) i wody utlenionej uwalnia tlen, co zmniejsza właściwości antybakteryjne podchlorynu. Mieszanie NaOCl i kwasu cytrynowego lub EDTA zmniejsza ilość dostępnego chloru. Płukanie chlorheksydyną po EDTA nie powoduje powstania PCA (PCA powstaje przy połączeniu chlorheksydyny i podchlorynu sodu). Pozostawienie EDTA (kwasu wersenowego) w kanale na dłuższy czas powoduje postępującą demineralizację zębiny, a obfite wypłukanie EDTA podchlorynem wypłukuje go z kanału. Prawdziwe są zatem twierdzenia 3 (że podchloryn wypłukuje i neutralizuje działanie EDTA, choć tu jest urwane słowo, prawdopodobnie dezaktywację EDTA) i 5 (że EDTA rozmiękcza zębinę powodując osłabienie mechaniczne)."
+    },
+    {
+        "question": "Które z poniższych zdań dotyczących erozji zębów są prawdziwe?\n1) brak warstwy powierzchownej szkliwa;\n2) występowanie na powierzchniach stycznych zębów;\n3) brak zdrowego rąbka szkliwa w okolicy przyszyjkowej;\n4) występowanie na powierzchniach wargowych zębów;\n5) może występować na powierzchniach podniebiennych zębów",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3,4.",
+            "B": "2,3,4.",
+            "C": "1,4,5.",
+            "D": "3,4,5."
+        },
+        "answer": "C",
+        "justification": "Erozja to chemiczne rozpuszczanie tkanek twardych zęba przez kwasy (pochodzenia zewnątrz- i wewnątrzustrojowego) bez udziału bakterii. Charakteryzuje się całkowitym brakiem warstwy powierzchownej szkliwa (1), w przeciwieństwie do próchnicy początkowej, w której warstwa powierzchowna jest zachowana nad strefą demineralizacji. Erozje bardzo rzadko występują na powierzchniach stycznych. Na powierzchniach wargowych i podniebiennych występują najczęściej (4 i 5), w zależności od źródła kwasów (np. napoje gazowane atakują wargowe, treść żołądkowa w refluksie/bulimii atakuje podniebienne). W ubytkach erozyjnych często zachowany jest rąbek zdrowego szkliwa w okolicy przyszyjkowej w przeciwieństwie do abrazji/abfrakcji. Dlatego prawidłowe są 1, 4, 5."
+    },
+    {
+        "question": "Które z poniższych zdań charakteryzujących technikę wypełniania kanału 'continuous wave' jest nieprawdziwe?\n1) jest to modyfikacja kondensacji bocznej;\n2) jest to modyfikacja kondensacji pionowej;\n3) w połączeniu z metodą iniekcyjną zapewnia wniknięcie uplastycznionej cieplnie gutaperki w odgałęzienia boczne kanału;\n4) w tej metodzie nie występuje prawdopodobieństwo przepchnięcia materiału poza otwór wierzchołkowy;\n5) w połączeniu z metodą iniekcyjną w przypadku zębów z bardzo cienkimi korzeniami występuje możliwość termicznego uszkodzenia tkanek otaczających ząb;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "tylko 1.",
+            "B": "tylko 2.",
+            "C": "1,4.",
+            "D": "1,3,4."
+        },
+        "answer": "C",
+        "justification": "Technika ciągłej fali ('continuous wave') jest modyfikacją kondensacji pionowej gutaperki na gorąco, a nie kondensacji bocznej (więc 1 jest nieprawdziwe). Metody termoplastyczne z iniekcją zawsze niosą ze sobą pewne, zwiększone prawdopodobieństwo przepchnięcia materiału poza otwór wierzchołkowy w przypadku braku dobrego oporu wierzchołkowego (więc 4 również jest nieprawdziwe). Metoda ta skutecznie wypełnia kanały boczne (3 jest prawdą), a generowane ciepło może w pewnych warunkach spowodować uszkodzenie termiczne więzadła i kości, zwłaszcza w cienkich korzeniach (5 jest prawdą). Odpowiedź C wskazująca 1 i 4 jako fałszywe jest prawidłowa."
+    },
+    {
+        "question": "Bezpostaciowa warstwa otaczająca kryształ hydroksyapatytu szkliwa:\n1) to tzw. warstwa adsorpcyjna;\n2) zasadniczo skład tej warstwy nie wpływa na stopień rozpuszczalności kryształu hydroksyapatytu;\n3) do tej warstwy przyłączane są wolne jony fosforanowe i jony fluoru;\n4) cytryniany i węglany obecne w tej warstwie nie wpływają na stopień rozpuszczalności kryształu hydroksyapatytu;\n5) jony magnezu nigdy nie występują w tej warstwie;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3.",
+            "B": "1,2,5.",
+            "C": "1,3,5.",
+            "D": "1,2,4,5."
+        },
+        "answer": "A",
+        "justification": "Kryształy hydroksyapatytu szkliwa są otoczone przez tzw. powłoczkę hydratacyjną oraz warstwę adsorpcyjną, na której dochodzi do szybkiej wymiany jonowej. Jony w tej warstwie mogą wnikać w głąb kryształu (np. jony fluoru i fosforanowe przyłączają się i mogą zamieniać się z jonami w krysztale), co zwiększa oporność na kwas. Z kolei jony magnezu i węglany zwiększają rozpuszczalność kryształów. Tak więc skład tej warstwy silnie wpływa na rozpuszczalność, przez co punkty 2, 4 i 5 są fałszywe. Zdania 1 i 3 są prawdziwe."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących resorpcji patologicznych jest nieprawidłowe:\n1) resorpcje patologiczne mogą występować symetrycznie w zębach jednoimiennych lub jednostronnie;\n2) bardzo często występują w przypadkach pourazowych uszkodzeń zębów niedojrzałych;\n3) rzadko występują w przypadkach pourazowych uszkodzeń zębów niedojrzałych;\n4) mogą też pojawiać się w każdym zębie dojrzałym;\n5) nie występują w zębie nadliczbowym i zębie zatrzymanym.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3,4.",
+            "B": "3,5.",
+            "C": "5.",
+            "D": "1,3,5."
+        },
+        "answer": "B",
+        "justification": "Resorpcje patologiczne korzeni bardzo często pojawiają się jako powikłanie urazów zębów (zwłaszcza wybicia i intruzji), często występują też u zębów z niedokończonym rozwojem z powodu ułatwionego wnikania bakterii do szerokiego kanału i cienkich ścian. Dlatego zdanie 3 (że rzadko występują po urazach zębów niedojrzałych) jest fałszywe. Resorpcje jak najbardziej mogą zachodzić i często zachodzą w zębach zatrzymanych i nadliczbowych, powodując ich zniszczenie w kości, co czyni zdanie 5 również fałszywym. Dlatego fałszywe są 3 i 5."
+    },
+    {
+        "question": "Pacjent lat 75, zgłosił się na badanie stomatologiczne mające na celu wykluczenie ognisk zakażenia. Badanie radiologiczne wykluczyło zębów leczonych endodontycznie. Które z poniższych stwierdzeń dotyczących stanu miazgi i możliwości jej oceny u pacjentów w podeszłym wieku jest prawidłowe:\n1) częściej występuje bezobjawowe obumarcie miazgi;\n2) bóle głuche, nękające, o niewielkim nasileniu występujące u pacjentów w starszym wieku, towarzyszą niekiedy obumieraniu miazgi;\n3) w miazdze zachodzą fizjologiczne zmiany związane z jej starzeniem, które powodują wzrost nadwrażliwości miazgi;\n4) zmiany w zębinie zachodzące wraz z wiekiem pacjenta nie ułatwiają oceny stanu miazgi;\n5) zalecane jest badanie żywotności miazgi testami termicznymi, ze względu na postępujące z wiekiem ścieńczenie szkliwa;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2,4.",
+            "B": "3,4,5.",
+            "C": "2,5.",
+            "D": "1,2,3,4.",
+            "E": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "A",
+        "justification": "U pacjentów w wieku podeszłym ze względu na zmniejszenie ukrwienia i unerwienia miazgi, zwapnienia oraz tworzenie zębiny wtórnej i trzeciorzędowej, częściej dochodzi do bezobjawowego obumarcia miazgi (1 prawda), a ewentualne objawy są dyskretne i nękające (2 prawda). Miazga staje się mniej wrażliwa na bodźce, a nie bardziej (3 fałsz). Gruba warstwa zębiny wtórnej izoluje miazgę, co sprawia, że testy termiczne lub elektryczne są mniej miarodajne i trudniejsze do interpretacji, co utrudnia ocenę żywotności (4 prawda, 5 fałsz - testy termiczne mogą nie dać odpowiedzi z uwagi na izolację, a ścieńczenie szkliwa wcale nie kompensuje grubej warstwy zębiny). Odpowiedź 1,2,4."
+    },
+    {
+        "question": "Lekarz, analizując na zdjęciu RTG przebieg granicy kości i ozębnej zęba 11 stwierdził obecność ognisk przejaśnienia. Które z poniższych stwierdzeń dotyczących przyczyny tego zjawiska, jest najbardziej prawdopodobne:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "proces resorpcji i tworzenia kości znajduje się w równowadze;",
+            "B": "doszło do pobudzenia czynności osteoklastów i intensywnej resorpcji prowadzącej do powstania ubytków kostnych;",
+            "C": "występuje przewaga działalności osteoblastów;",
+            "D": "jest to faza reparacji po likwidacji odczynu zapalnego;",
+            "E": "jest to wynik utraty warstwy cementoidu;"
+        },
+        "answer": "B",
+        "justification": "Ogniska przejaśnienia na zdjęciu rentgenowskim (radiolucencja) wokół wierzchołka oznaczają ubytek tkanki kostnej. Ubytek kości związany jest ze zjawiskiem resorpcji, w którym kluczową rolę odgrywają osteoklasty niszczące tkankę kostną w przebiegu przewlekłego zapalenia tkanek okołowierzchołkowych. Osteoblasty odpowiadają za tworzenie kości (wtedy mielibyśmy zacienienie - osteosklerozę)."
+    },
+    {
+        "question": "Zalecając szczotkowanie zębów przed nocnym spoczynkiem, bierze się pod uwagę następujące czynniki:\n1) Podczas snu ilość wydzielanej śliny maleje ale jej pojemność buforowa wzrasta;\n2) Szczotkowanie zębów bezpośrednio przed snem zmniejsza ilość płytki nazębnej w jamie ustnej i podwyższa poziom fluoru w ślinie;\n3) Zredukowana szybkość wydzielania śliny pomaga podtrzymać podwyższone poziomy fluorków dłużej niż w ciągu dnia;\n4) Szczotkowanie zębów bezpośrednio przed snem zmniejsza ilość płytki nazębnej w jamie ustnej i obniża poziom fluorków w ślinie;\n5) Krótkotrwałe podwyższone poziomy fluorków nie mają wpływu na toczące się procesy demineralizacji i remineralizacji;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3.",
+            "B": "2,3.",
+            "C": "1,3,4.",
+            "D": "3,5.",
+            "E": "1,2."
+        },
+        "answer": "B",
+        "justification": "Podczas snu spoczynkowe wydzielanie śliny znacznie spada, a jej pojemność buforowa maleje, co ułatwia działanie kwasów bakteryjnych (1 to fałsz). Mycie zębów przed snem pastą z fluorem usuwa płytkę (bakterie i substrat) oraz dostarcza jony fluorkowe do środowiska jamy ustnej (2 to prawda, 4 to fałsz). W czasie snu zmniejszone wydzielanie śliny i brak funkcji żucia spowalnia wypłukiwanie fluoru, dzięki czemu utrzymuje się on dłużej w ślinie i na powierzchniach zębów (3 to prawda), ułatwiając remineralizację. Poprawne są punkty 2 i 3."
+    },
+    {
+        "question": "Metoda sukcesywnej odbudowy guzka jest metodą stosowaną do odbudowy warstwowej ubytków w zębach bocznych. Które stwierdzenie dotyczące tej metody jest prawidłowe:\n1) warstwy materiału są sukcesywnie wprowadzane pionowo od jednej ściany ubytku do drugiej;\n2) warstwy materiału są umieszczane poziomo, kolejno jedna na drugiej;\n3) związana ze stosowaniem przezroczystej matrycy i przezroczystych klinów;\n4) metodę opracowano specjalnie do odbudowy ubytków klasy II;\n5) każdy guzek jest odbudowywany oddzielnie;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,5.",
+            "B": "2.",
+            "C": "1,3.",
+            "D": "4,5.",
+            "E": "5."
+        },
+        "answer": "A",
+        "justification": "Technika odbudowy pojedynczych guzków (Cusp-by-cusp) polega na pionowym lub ukośnym warstwowaniu kompozytu od dna ubytku pod kątem w kierunku okluzalnym tak, by stopniowo odtwarzać pojedyncze guzki zęba. W technice tej poszczególne inkrementy modeluje się niezależnie dla każdego guzka. Pozwala to na redukcję naprężeń skurczowych dzięki niskiemu wskaźnikowi konfiguracji C-factor oraz doskonałe modelowanie morfologii powierzchni zgryzowej. Zatem poprawne są stwierdzenia, że każdy guzek jest odbudowywany osobno (5) i warstwy są umieszczane pionowo/ukośnie opierając się o ściany (1)."
+    },
+    {
+        "question": "Wypełnienie kanału korzeniowego z resorpcją wewnętrzną powinno być wykonane ostrożnie. Która z metod jest najwłaściwsza:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "boczna kondensacja gutaperki;",
+            "B": "metoda pojedynczego ćwieka;",
+            "C": "technika wykonania ćwieka gutaperkowego 'na miarę' kanału;",
+            "D": "tylko uszczelniacz;",
+            "E": "pionowa kondensacja gutaperki na ciepło;"
+        },
+        "answer": "E",
+        "justification": "W resorpcji wewnętrznej powstaje bańkowate poszerzenie jamy zęba (tzw. ząb różowy) i nieregularne zatoki w ścianach kanału korzeniowego. Najlepszą metodą na trójwymiarowe, szczelne obturację tak nieregularnych i niedostępnych przestrzeni jest użycie termoplastycznych metod wprowadzania gutaperki. Metodą z wyboru jest pionowa kondensacja gutaperki na ciepło lub technika iniekcyjna, ponieważ uplastyczniona ciepłem gutaperka wtłaczana jest do wszelkich zachyłków i przestrzeni zresorbowanych."
+    },
+    {
+        "question": "Pacjentka lat 70, w ogólnie dobrym stanie zdrowia, zgłosiła się do stomatologa na okresowy przegląd jamy ustnej. Podczas badania uzębienia u pacjentki, zwrócił uwagę na występujące recesje dziąseł dotyczące zębów 43, 44, 45, 33, 34, 35. Higienę jamy ustnej u pacjentki określił jako bardzo dobry. Pacjentka, która pali papierosy, stosuje pasty zawierające środki ścierne oraz szczoteczkę z twardym włosiem. Czyści zęby po każdym posiłku przez 5 minut. Na podstawie przedstawionych danych można stwierdzić, że:\n1) u pacjentki występuje ryzyko rozwoju próchnicy korzenia;\n2) u pacjentki występuje ryzyko rozwoju próchnicy przyszyjkowej;\n3) u pacjentki występuje ryzyko abrazji;\n4) u pacjentki występuje ryzyko atrycji;\n5) pacjentka nie powinna stosować past zawierających środki ścierne i szczoteczki z twardym włosiem;\n6) u pacjentki występuje skłonność do demineralizacji podpowierzchniowej;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2,6.",
+            "B": "2,4,5,6.",
+            "C": "3,5.",
+            "D": "1,3,6.",
+            "E": "wszystkie"
+        },
+        "answer": "C",
+        "justification": "Pacjentka zbyt intensywnie szczotkuje zęby (po każdym posiłku, przez 5 minut) używając twardej szczoteczki i silnie ściernych past. To jest klasyczna przyczyna utraty tkanek twardych zęba typu abrazja (ubytki klinowe w okolicy przyszyjkowej, recesje dziąseł). Skutkiem działania twardego włosia i czynników ściernych nie jest demineralizacja ani próchnica korzenia (do której potrzebna jest płytka i bakterie, a tu higiena jest 'bardzo dobra'), ani atrycja (ścieranie zęba o ząb np. w bruksizmie). Leczeniem profilaktycznym dla tej pacjentki jest zmiana nawyków higienicznych: odstawienie past z silnymi środkami ściernymi i przejście na miękkie szczoteczki. Zatem zdania 3 i 5 są prawidłowe."
+    },
+    {
+        "question": "U 20-letniej pacjentki w zębie 36, na powierzchni żującej stwierdzono próchnicę o charakterze caries profunda noncomplicata. Brak dolegliwości. Ząb prawidłowo reaguje na chlorek etylu, reakcja na opukiwanie pionowe ujemna. W końcowej fazie opracowywania ubytku, pacjentka nagle zareagowała silnym bólem, który ustąpił po kilkudziesięciu sekundach. Na dnie opracowanego ubytku w okolicy rogu miazgi, lekarz stwierdził śladową obecność krwi. Na podstawie dostępnych informacji można stwierdzić, że:\n1) powstała sytuacja ma charakter jatrogenny;\n2) jest to wynik próchnicowego obnażenia miazgi;\n3) jest to wynik przypadkowego obnażenia miazgi z przerwaniem ciągłości naczyń krwionośnych;\n4) występują wskazania do wykonania amputacji przyżyciowej całkowitej;\n5) jest wskazanie do leczenia biologicznego metodą przykrycia bezpośredniego;\n6) rokowanie dotyczące utrzymania żywej miazgi jest pomyślne;\n7) rokowanie dotyczące utrzymania żywej miazgi jest niepomyślne;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "2,4,7.",
+            "B": "3,5,6.",
+            "C": "1,3,4,6.",
+            "D": "2,5,7.",
+            "E": "1,3,5,6."
+        },
+        "answer": "E",
+        "justification": "Opis wskazuje na jatrogenne, przypadkowe zranienie (obnażenie) zdrowej miazgi wiertłem pod koniec opracowywania głębokiego ubytku. Obecność śladowej ilości krwi potwierdza przerwanie ciągłości naczyń (3 jest prawdą). Sytuacja ta została spowodowana przez lekarza, więc ma charakter jatrogenny (1 jest prawdą). Ponieważ miazga przed zranieniem była zdrowa, wolna od stanu zapalnego (caries profunda noncomplicata, brak dolegliwości, miazga żywa i prawidłowo reagująca), metodą z wyboru u pacjentki 20-letniej (młodej) jest pokrycie bezpośrednie miazgi preparatami wodorotlenku wapnia lub MTA/Biodentine (5 jest prawdą). W przypadku sterylnego, małego zranienia obiektywnie zdrowej miazgi i poprawnego przykrycia, rokowanie co do zachowania żywotności zęba jest pomyślne (6 jest prawdą). Zatem prawidłowe są 1, 3, 5, 6."
+    },
+    {
+        "question": "U 25-letniego pacjenta stwierdzono konieczność leczenia endodontycznego zęba 32 z powodu pourazowej martwicy miazgi. Ze względu na opracowywania ścian kanału w trakcie leczenia, było znaczne zmniejszenie grubości ścian kanału. Do wypełnienia tego szerokiego i poszerzonego kanału, lekarz wybrał metodę termomechanicznej kondensacji gutaperki. Które z przedstawionych poniżej stwierdzeń są prawdziwe:\n1) Wybrana przez lekarza metoda wypełniania kanału jest w tym przypadku najwłaściwsza;\n2) Przy wyborze metody wypełniania kanału nie bierze się pod uwagę grubości ścian kanału;\n3) Wzrost temperatury na powierzchni korzenia zależy tylko od temperatury gutaperki;\n4) Większy przyrost temperatury obserwuje się przy metodzie kondensacji termomechanicznej gutaperki niż przy wprowadzaniu gutaperki podgrzanej poza kanałem;\n5) Wzrost temperatury w cemencie, ozębnej i kości wyrostka zębodołowego o 10°C powyżej temperatury ciała, utrzymujący się dłużej niż 1 minutę, może być przyczyną kostnozrostu zęba z zębodołem;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2.",
+            "B": "1,2,3,4.",
+            "C": "3,5.",
+            "D": "4,5.",
+            "E": "2,4,5."
+        },
+        "answer": "D",
+        "justification": "Metoda termomechanicznej kondensacji gutaperki (np. za pomocą instrumentów obrotowych typu compactor - np. system McSpadden) wytwarza dużo ciepła tarcia i stwarza wysokie ryzyko przegrzania ozębnej oraz złamania instrumentu. Nie jest najwłaściwsza w bardzo szerokich, osłabionych kanałach, gdzie grubość ścian jest minimalna i łatwo o przepchnięcie lub pęknięcie (1 i 2 to fałsz). Wzrost temperatury nie zależy tylko od samej gutaperki, ale głównie od tarcia kompaktora (3 to fałsz). Przyrządy obrotowe generują bardzo duże ilości ciepła na skutek tarcia, często większe niż same iniekcje cieplne (4 to prawda). Udowodniono, że wzrost temperatury powierzchownej korzenia przekraczający 10 stopni C, może wywołać nieodwracalne uszkodzenie kości i więzadła, martwicę cementu a w konsekwencji resorpcję zęba i ankylozę (kostnozrost) - 5 to prawda. Odpowiedź poprawna to 4 i 5."
+    },
+    {
+        "question": "Pacjent lat 30, zgłosił się na badanie stomatologiczne. Żadnych dolegliwości ze strony uzębienia nie podawał. Lekarz stwierdził, że ząb 11 nie reaguje na badanie chlorkiem etylu, brak reakcji na opukiwanie. Zdjęcie RTG wykazało, że ząb 11 był leczony endodontycznie. Wierzchołek korzenia zęba jest prawidłowo uformowany. Stwierdzono całkowitą obliterację w części przywierzchołkowej (brak widocznego światła kanału), przy czym materiał wypełniający sięga do miejsca zobliterowania. Nie stwierdzono zmian w ozębnej i okołowierzchołkowym. Z wywiadu wynikało, że leczenie endodontyczne zęba 11 przeprowadzono przed 20 laty. Na podstawie dostępnych danych można stwierdzić, że:\n1) jest to wynik leczenia zęba 11 metodą ekstyrpacji przyżyciowej częściowej;\n2) jest to wynik leczenia zęba 11 metodą amputacji przyżyciowej;\n3) po uformowaniu korzenia zęba 11 doszło do mineralizacji pozostawionego kikuta miazgi;\n4) nie ma wskazań do leczenia endodontycznego zęba 11;\n5) są bezwzględne wskazania do releczenia endodontycznego zęba 11;\n6) są wskazania do resekcji wierzchołka korzenia zęba 11;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3,6.",
+            "B": "2,3,6.",
+            "C": "1,3,4.",
+            "D": "1,3,6."
+        },
+        "answer": "C",
+        "justification": "Ząb był leczony dawno temu, jest bezobjawowy, brak zmian w tkankach okołowierzchołkowych, a kanał jest zobliterowany twardą tkanką aż do wypełnienia. To wskazuje na poprawny i ustabilizowany stan. Ponieważ wierzchołek zęba był już uformowany, najpewniej przeprowadzono tzw. ekstyrpację przyżyciową w znieczuleniu, ale nie doszło się do końca kanału, usuwając jedynie część miazgi (1). Z powodu braku zapalenia u pozostawionego fragmentu miazgi kikuta, doszło do jej postępującego włóknienia i zwapnienia (mineralizacji w postaci zębiny sklerotycznej) zamykającego światło kanału (3). Wobec braku jakichkolwiek objawów klinicznych i widocznych na zdjęciu RTG zmian okołowierzchołkowych, ten ząb traktowany jest jako 'sukces leczenia' i w takiej sytuacji nie ma obecnie bezwzględnych wskazań do ruszania go, retretmentu czy resekcji (4). Zdania 1, 3, 4 są poprawne."
+    },
+    {
+        "question": "Które ze stwierdzeń dotyczących pomiaru długości roboczej kanału z wykorzystaniem endometru częstotliwościowego (np. Root ZX) jest prawdziwe:\n1) stopień uformowania wierzchołka korzenia nie ma wpływu na wynik pomiaru;\n2) jest bardziej przydatny w zębach z nieuformowanymi korzeniami, niż w zębach dojrzałych;\n3) precyzyjniej niż w metodach radiologicznych wyznacza faktyczny otwór fizjologiczny w zębach stałych niedojrzałych;\n4) jest nieskuteczny w przypadku leczenia zębów metodą ekstyrpacji przyżyciowej;\n5) obecność wody utlenionej w kanale zaburza pomiar;\n6) obecność roztworu fizjologicznego NaCl nie wpływa na jakość pomiaru;\n7) pomiar należy przeprowadzać wyłącznie w kanałach suchych;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3,6.",
+            "B": "5,6.",
+            "C": "1,4,7.",
+            "D": "1,3,7."
+        },
+        "answer": "B",
+        "justification": "Endometry (szczególnie IV generacji, jak Root ZX, działające na zasadzie proporcji impedancji dwóch częstotliwości) bardzo dobrze pracują w wilgotnym kanale (z solą fizjologiczną, podchlorynem), jednak jony niektórych substancji elektrolitów mogą w pewnych ekstremalnych wypadkach nieco wpływać, lecz ogólnie w środowisku NaCl czy NaOCl pomiar jest bardzo dokładny (6 jest prawdą). Woda utleniona z racji uwalniania tlenu i tworzenia piany/pęcherzyków, przerywa ścieżkę przewodnictwa i znacząco zaburza pomiar endometryczny (5 to prawda). Endometr nie działa dobrze w szeroko otwartych kanałach zębów z niezakończonym rozwojem (korzenie niedojrzałe), gdzie metoda RTG bywa lepsza (więc 2, 3 są fałszywe). Pomiaru nie wykonuje się wyłącznie na sucho, wręcz wilgoć bywa wskazana (7 to fałsz). W ekstyrpacji endometr jest w pełni przydatny (4 fałsz). Zatem odpowiedź to 5, 6."
+    },
+    {
+        "question": "W przebiegu chorób miazgi mogą występować różne rodzaje bólu. Które twierdzenie dotyczące bólu promieniującego jest prawdziwe:\n1) pacjent lokalizuje go w określonym zębie;\n2) ból promieniuje na stronę przeciwną niż pochodzenie bólu;\n3) pacjent potrafi określić stronę z której ten ból pochodzi;\n4) jest to ból o charakterze samoistnym;\n5) wskazuje na zapalenie odwracalne miazgi;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,5.",
+            "B": "2,3,5.",
+            "C": "1,4,5.",
+            "D": "3,4.",
+            "E": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "D",
+        "justification": "Ból promieniujący jest to typ bólu samoistnego ciągłego w pulpopatiach nieodwracalnych (często ropnym zapaleniu miazgi). Promieniuje z reguły do skroni, ucha, oka po tej samej stronie co chory ząb. Ból zęba prawie nigdy nie przekracza linii pośrodkowej ciała, dlatego pacjent dobrze wie, po której stronie (lewej czy prawej) odczuwa dolegliwości, nawet jeśli nie jest w stanie wyznaczyć konkretnego zęba lub żuchwy/szczęki. Zatem zdania 3 (pacjent potrafi wskazać stronę) i 4 (to ból samoistny) są prawidłowe."
+    },
+    {
+        "question": "Która z poniższych odpowiedzi dotyczących skurczu polimeryzacyjnego kompozytów jest prawidłowa:\n1) polimeryzacja z 'miękkim startem' zwiększa skurcz polimeryzacyjny kompozytów;\n2) 'skurcz polimeryzacyjny' i 'napięcie skurczowe' to synonimy;\n3) gdy napięcie skurczowe przewyższa siłę wiązania do szkliwa, powstają wzdłuż styku pęknięcia i złamania szkliwa;\n4) wprowadzenie do ubytku kompozytu warstwami o grubości 2 mm polimeryzowanych oddzielnie redukuje efekt skurczu polimeryzacyjnego;\n5) wypełnienie całego ubytku kompozytem wprowadzanym warstwami o grubości 2 mm, a następnie jednorazowa polimeryzacja wypełnienia redukuje efekt skurczu polimeryzacyjnego;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "3,4.",
+            "B": "3,5.",
+            "C": "1,2,3,4.",
+            "D": "1,2,3,5.",
+            "E": "1,3,4."
+        },
+        "answer": "A",
+        "justification": "Skurcz polimeryzacyjny to fizyczne zjawisko zmniejszenia objętości, a napięcie skurczowe to siła naprężenia powstająca wewnątrz wypełnienia i przekazywana na ściany zęba – nie są to synonimy (2 to fałsz). Wprowadzanie materiału odrębnymi warstwami do 2 mm i ich osobna polimeryzacja (inkrementacja) znacząco obniża czynnik C-factor i uwalnia naprężenia w mniejszych porcjach (redukuje efekt skurczu) – 4 to prawda. 5 to fałsz, bo jednorazowa polimeryzacja dużej masy powoduje duży skurcz blokowy. Gdy wewnątrzkompozytowe napięcie przekroczy siłę wiązania z tkankami, następuje oderwanie wypełnienia lub odłamywanie fragmentów szkliwa (3 to prawda). Zatem prawdziwe to 3 i 4."
+    },
+    {
+        "question": "Pacjentka lat 30, zgłosiła się celem sanacji jamy ustnej. W wywiadzie pacjentka podaje, że przyjmuje leki immunosupresyjne. Jest to istotna informacja dla stomatologa, ponieważ podczas wykonywania niektórych zabiegów może dojść do przejściowej bakteriemii. Bakteriemię może powodować:\n1) usunięcia kamienia nazębnego;\n2) miejscowe znieczulenie;\n3) polerowanie gumką wypełnienia na powierzchni żującej zęba;\n4) założenie formówki z metalowym paskiem;\n5) założenie klamry koferdamu;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2.",
+            "B": "1,2,4,5.",
+            "C": "1,5.",
+            "D": "1,2,3.",
+            "E": "wszystkie odpowiedzi są prawidłowe"
+        },
+        "answer": "B",
+        "justification": "Przejściowa bakteriemia pojawia się za każdym razem, gdy dochodzi do naruszenia naczyń krwionośnych błony śluzowej i kontaktu ich światła z florą bakteryjną jamy ustnej. Większość zabiegów naruszających lub napinających szczelinę dziąsłową generuje pewien odsetek bakteriemii. Usunięcie kamienia (scaling) (1) jest procedurą o najwyższym ryzyku, powodującą przerwanie naczyń przyzębia. Iniekcje igłą w obrębie zakażonych tkanek/w błonę śluzową (2) mogą spowodować wprowadzenie bakterii do krwiobiegu. Założenie formówki z paskiem uciskiem na brodawki (4) oraz założenie klamry koferdamu kaleczącej nabłonek (5) również prowadzą do naruszenia tkanek dziąsła. Jedynie polerowanie zgryzu gumką z dala od brzegu dziąsła (3) stanowi niskie lub znikome ryzyko. Stąd prawidłowa odpowiedź zawiera punkty 1, 2, 4, 5."
+    },
+    {
+        "question": "Wczesna próchnica powierzchni korzenia charakteryzuje się następującymi cechami:\n1) radiologicznie ma wygląd przejaśnienia w cemencie korzeniowym;\n2) rozmiar kryształów apatytów w warstwie powierzchownej zmiany jest znacznie mniejszy niż w normalnym cemencie;\n3) może rozwijać się w zębinie eksponowanej na działanie środowiska jamy ustnej, po usunięciu cementu korzeniowego wskutek niewłaściwego szczotkowania zębów;\n4) podobnie do wczesnej zmiany szkliwa, powierzchnia korzenia we wczesnym stadium próchnicy jest rozmiękła;\n5) w przeciwieństwie do wczesnej zmiany szkliwa, mikroorganizmy bardzo wcześnie penetrują powierzchowną warstwę korzenia, rozpuszczonego cementu;\n6) grubość warstwy powierzchniowej zmiany i zawartość w niej związków mineralnych nie zależy od potencjału kariogennego pokrywającej ją płytki bakteryjnej;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3,4.",
+            "B": "1,3,6.",
+            "C": "1,3,5.",
+            "D": "1,5,6.",
+            "E": "2,3,6."
+        },
+        "answer": "C",
+        "justification": "Próchnica korzenia może łatwo rozwinąć się na osłoniętej przez recesję zębinie po utracie cienkiej warstwy cementu na skutek abrazji ze szczotkowania (3 to prawda). Powierzchniowa demineralizacja i utrata minerałów skutkuje zwiększoną przeziernością dla promieni RTG w cemencie lub zębinie korzeniowej (1 to prawda). W odróżnieniu od próchnicy szkliwa, gdzie demineralizacja wyprzedza wnikanie bakterii, w cemencie z uwagi na wysoce organiczną strukturę i obecność włókien kolagenowych, bakterie niemal natychmiastowo penetrują tkanki przez tubule (kanaliki zębinowe i szczeliny cementu) nawet w najwcześniejszej fazie (5 to prawda). Zmiana w początkowym stadium przeważnie ma nienaruszoną (twardą) powierzchnię, dlatego 4 to fałsz. Odpowiedź poprawna to 1, 3 i 5."
+    },
+    {
+        "question": "Które zdanie dotyczące opracowania ubytków próchnicowych jest fałszywe?\n1) podczas opracowania ubytków wypełnianych materiałami adhezyjnymi można pozostawić szkliwo nie podparte zębiną;\n2) względy estetyczne powodują, że ubytki klasy III zawsze otwieramy od strony językowej;\n3) metoda tunelowa znajduje szczególne zastosowanie w przypadku wymiany wypełnienia na powierzchni zgryzowej z obecnością ogniska próchnicy na powierzchni stycznej;\n4) otwarcie ubytku, na powierzchni stycznej zębów bocznych, od strony przedsionkowej lub językowej nosi nazwę opracowania dziurki od klucza;\n5) metoda dziurki od klucza niesie niebezpieczeństwo pozostawienia zębiny próchnicowej na ścianie dokomorowej oraz bardzo dobre odbudowanie punktu stycznego.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2,4.",
+            "B": "1,3,4.",
+            "C": "1,4,5.",
+            "D": "1,3,5.",
+            "E": "2,3,5."
+        },
+        "answer": "E",
+        "justification": "Zdanie 2 jest fałszywe z powodu słowa 'zawsze'. Ubytki kl. III rzeczywiście stara się otwierać od strony podniebiennej/językowej dla estetyki, jednak nie ZAWSZE (jeśli ząb jest zrotowany lub próchnica wyraźnie obejmuje powierzchnię wargową a szkliwo na niej uległo złamaniu, to preparujemy od strony wargowej). Zdanie 3 jest fałszywe: preparacja 'tunelowa' polega na zostawieniu naturalnej listewki brzeżnej, otwarciu wejścia w bruździe zgryzowej i skierowaniu ubytku w dół do powierzchni stycznej; nie stosuje się jej jako metody na 'wymianę wypełnienia', lecz w nowych, trudnodostępnych ubytkach stycznych małej wielkości, by uchronić listewkę. Zdanie 5 jest fałszywe: metoda szczeliny (dziurki od klucza, czyli slot preparation) od strony wargowej czy językowej umożliwia dojście bezpośrednie z boku, jednak jej wadą jest obniżona widoczność, co faktycznie stwarza ryzyko pozostawienia zmian próchnicowych, lecz wadą jest to, że uzyskanie naturalnego, idealnego punktu stycznego przez wąską szczelinę jest utrudnione ('bardzo dobre odbudowanie' brzmi fałszywie, zazwyczaj w tak ciasnych preparacjach ukształtowanie kompozytu i matrycy to trudne zadanie). Prawdziwymi opcjami, czyli z poprawną informacją bywają np. 1 (dla materiałów kompozytowych bywa dozwolone zachowanie pryzmatów szkliwa pozbawionych zębiny dla estetyki) i 4. Dlatego fałszywymi są 2, 3 i 5."
+    },
+    {
+        "question": "Które stwierdzenie opisujące zachodzące z wiekiem procesy inwolucyjne w układzie stomatognatycznym jest prawdziwe:\n1) z wiekiem zmienia się kształt zębów w wyniku starcia na powierzchni zgryzowej, siecznej i stycznej;\n2) z wiekiem wzrasta w szkliwie zawartość substancji organicznych, co sprawia, że szkliwo staje się bardziej przezierne;\n3) odkładająca się w ciągu całego życia zębina wtórna fizjologiczna powoduje przede wszystkim zmniejszenie wymiaru komory zębów;\n4) dochodzi do stopniowej obliteracji kanalików zębinowych i wzrostu wilgotności zębiny;\n5) gruba warstwa cementu korzeniowego jest wyraźną oznaką starzenia się tej tkanki;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 2, 5.",
+            "B": "1, 3, 4.",
+            "C": "1, 4, 5.",
+            "D": "1, 3, 5.",
+            "E": "wszystkie odpowiedzi są prawdziwe"
+        },
+        "answer": "D",
+        "justification": "Z wiekiem zęby ulegają starciu (1), odkłada się zębina wtórna fizjologiczna zmniejszająca światło komory (3), a cement korzeniowy odkłada się przez całe życie, tworząc grubą warstwę u osób starszych (5). Szkliwo staje się mniej, a nie bardziej organiczne i wilgotność zębiny maleje z wiekiem, a nie rośnie."
+    },
+    {
+        "question": "Pacjent lat 23, zgłosił się do stomatologa na badanie kontrolne stanu uzębienia. W trakcie badania lekarz stwierdził w zębach: 16, 26 i 36 zostały wypełnione, 2 zęby zostały usunięte ze wskazań ortodontycznych, na zęba 46 rozwinęła się próchnica, natomiast na powierzchni policzkowej zęba 11 widoczny jest ubytek o charakterze niepróchnicowym. Na podstawie uzyskanych danych, lekarz stwierdza, że u zbadanego pacjenta:\n1) liczba PUW=4;\n2) liczba PUW=5;\n3) liczba PUW=7;\n4) liczba U=2;\n5) liczba P=1;\n6) liczba P=2;\n7) wskaźnik leczenia = 0,60;\n8) wskaźnik leczenia = 0,75;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 4, 7.",
+            "B": "2, 5, 8.",
+            "C": "3, 4, 6.",
+            "D": "1, 5, 8.",
+            "E": "brak poprawnej odpowiedzi"
+        },
+        "answer": "D",
+        "justification": "Wskaźnik PUW to suma zębów z próchnicą (P), usuniętych z powodu próchnicy (U) oraz wypełnionych (W). Zęby usunięte ortodontycznie i ubytki niepróchnicowe (ząb 11) nie wliczają się do PUW. W = 3 (zęby 16, 26, 36), U = 0, P = 1 (ząb 46). Zatem PUW = 4. Wskaźnik leczenia to stosunek W do (P + W), czyli 3 / (1 + 3) = 0,75. Prawidłowe są punkty 1, 5 i 8."
+    },
+    {
+        "question": "U 70-letniego pacjenta podczas leczenia próchnicy głębokiej w zębie 27, w trakcie opracowania ubytku doszło do obnażenia miazgi na powierzchni większej niż 1 mm2. Biorąc pod uwagę, że ząb 27, zgodnie z planem leczenia wymaga odbudowy koroną protetyczną, lekarz powinien zastosować:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "przykrycie bezpośrednie miazgi;",
+            "B": "amputację miazgi przyżyciową częściową;",
+            "C": "amputację miazgi przyżyciową całkowitą (pulpotomię);",
+            "D": "ekstyrpację przyżyciową miazgi;",
+            "E": "ząb nie nadaje się do leczenia zachowawczego, jest wskazanie do ekstrakcji;"
+        },
+        "answer": "D",
+        "justification": "Obnażenie miazgi powyżej 1 mm2 u pacjenta starszego, u którego miazga ma gorsze zdolności regeneracyjne, oraz fakt, że ząb stanowić będzie filar pod koronę protetyczną, stanowią wskazanie do leczenia kanałowego (ekstyrpacji przyżyciowej miazgi). Przykrycie bezpośrednie obarczone jest w tym przypadku bardzo wysokim ryzykiem niepowodzenia."
+    },
+    {
+        "question": "Pacjent lat 68, zgłosił się do badania kontrolnego stanu zdrowia jamy ustnej. Na podstawie badania stwierdzono w odcinku bocznym po obu stronach oraz rozległe wypełnienia w zębach przednich górnych i dolnych... w zębie 37, pozostającym w kontakcie z zębem przeciwstawnym, na powierzchni żującej widoczne jest wypełnienie amalgamatowe starte w swojej środkowej części, z widocznym podkładem. Pacjent nie zgłasza dolegliwości bólowych, a reakcja zęba prawidłowa. Pacjent ma uzupełnienia protetyczne, ale ich nie używa. Jakie postępowanie lecznicze polecasz w opisanym przypadku klinicznym?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "podejmowanie działań naprawczych w zębie 37 jest bezcelowe, ponieważ na skutek braku uzupełnień protetycznych dojdzie do ponownego ubytku wypełnienia;",
+            "B": "należy wykonać odświeżenie wypełnienia;",
+            "C": "należy wykonać naprawę wypełnienia polegającą na pokryciu widocznego podkładu nową warstwą wypełnienia;",
+            "D": "należy wymienić wypełnienie na nowe, usuwając je w całości, rozpoczynając od miejsca jego styku z tkankami zęba;",
+            "E": "należy wymienić wypełnienie na nowe, rozpoczynając jego usuwanie od środka, następnie opracowując brzegi;"
+        },
+        "answer": "E",
+        "justification": "Starte wypełnienie amalgamatowe ukazujące podkład świadczy o jego całkowitym zużyciu i utracie funkcji, co stanowi bezwzględne wskazanie do wymiany. Aby uniknąć odłamania często cienkich lub podminowanych ścian zęba podczas procedury usuwania, w przypadku amalgamatu bezpieczną techniką jest rozpoczęcie usuwania od środka ubytku w kierunku obwodowym, by na końcu opracować brzegi szkliwa."
+    },
+    {
+        "question": "Które zdanie dotyczące zasad i metod leczenia próchnicy jest fałszywe?\n1) do minimalnie inwazyjnego leczenia ubytków próchnicowych nie zalicza się preparacji tunelowej i preparacji szczelinowej;\n2) postępowanie nieinwazyjne polega na obserwacji ogniska próchnicowego;\n3) leczenie inwazyjne - wypełnianie ubytków powinno być wspomagane metodami profilaktycznymi;\n4) w zależności od wskazań podczas leczenia próchnicy stosuje się tylko postępowanie prewencyjne lub procedury inwazyjno-chirurgiczne;\n5) infiltracja próchnicy zaliczana jest do metod nieinwazyjnego leczenia próchnicy;\n6) preparaty fluoru wykorzystywane w profilaktyce próchnicy są równie skuteczne podczas nieinwazyjnego leczenia;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 2, 3.",
+            "B": "3, 4, 5.",
+            "C": "4, 5, 6.",
+            "D": "1, 5, 6."
+        },
+        "answer": "D",
+        "justification": "Metody minimalnie inwazyjne obejmują m.in. preparację tunelową (zdanie 1 jest fałszywe). Infiltracja żywicą (ICON) ze względu na konieczność wytrawienia warstwy powierzchownej (erozja szkliwa HCl) zaliczana jest do metod mikroinwazyjnych, a nie ściśle nieinwazyjnych (zdanie 5 jest fałszywe). Preparaty fluoru do profilaktyki mają zazwyczaj niższe stężenia (pasty, płukanki) niż te celowane do intensywnego leczenia nieinwazyjnego początkowych plam próchnicowych (lakiery o wysokim stężeniu), więc nie są równie skuteczne w procesie leczniczym (zdanie 6 jest fałszywe)."
+    },
+    {
+        "question": "Z poniższych stwierdzeń dotyczących ropnia nawracającego (abscessus recidivans) jest prawdziwe:\n1) to jedna z postaci ostrego ropnego zapalenia tkanek okołowierzchołkowych;\n2) występuje w przypadkach gdy przewlekłe ropne zapalenia w tkankach okołowierzchołkowych toczy się pod nieobecność przetoki;\n3) występuje tylko w przypadku obecności czynnej przetoki;\n4) może występować również po leczeniu endodontycznym zapaleń przewlekłych, jeśli kanał nie został opracowany, a następnie wypełniony;\n5) obraz rentgenowski jest taki, jak w zapaleniach przewlekłych ropnych, z tym że ognisko osteolizy ma stosunkowo niewielkie rozmiary;\n6) obraz rentgenowski jest taki, jak w zapaleniach przewlekłych ropnych, z tym że ognisko osteolizy ma znacznie większe rozmiary;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 3, 5.",
+            "B": "2, 4.",
+            "C": "1, 3, 6.",
+            "D": "2, 4, 5.",
+            "E": "2, 4, 6."
+        },
+        "answer": "D",
+        "justification": "Ropień nawracający (Phoenix abscess) to zaostrzenie przewlekłego zapalenia tkanek okołowierzchołkowych, które często występuje pod nieobecność czynnej przetoki (2), która uprzednio zarosła lub uległa zablokowaniu. Może pojawić się jatrogennie po zainicjowaniu leczenia endodontycznego zapaleń przewlekłych w wyniku przepchnięcia zawartości komory/kanału poza otwór wierzchołkowy (4). Obraz RTG uwidacznia przejaśnienie charakterystyczne dla zębów z zapaleniem przewlekłym (5)."
+    },
+    {
+        "question": "Do opracowywania ubytków w twardych tkankach zęba stosowana jest abrazja powietrzna. Jest to technika określana jako „kinetyczna preparacja ubytków”. Które z poniższych stwierdzeń dotyczących tej techniki jest nieprawidłowe:\n1) abrazja powietrzna może służyć jako narzędzie dla diagnozy podejrzewaną w bruzdach próchnicę;\n2) techniki tej nie stosuje się do opracowywania zmian próchnicowych na powierzchni stycznej zęba;\n3) zastosowanie abrazji powietrznej zastępuje trawienie kwasem tkanek zęba;\n4) abrazja powietrzna wpływa szkodliwie na miazgę zęba;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 2, 4.",
+            "B": "1, 3.",
+            "C": "2, 4.",
+            "D": "1, 4.",
+            "E": "2, 3, 4."
+        },
+        "answer": "E",
+        "justification": "Abrazję powietrzną można z powodzeniem stosować na powierzchniach stycznych przy zapewnieniu odpowiedniego dostępu, np. poprzez preparację tunelową lub bezpośredni wgląd po usunięciu zęba sąsiedniego (zdanie 2 nieprawidłowe). Choć abrazja zwiększa mikromechaniczną retencję tkanki poprzez zmatowienie powierzchni, nie zastępuje ona klasycznego wytrawiania kwasem w systemach adhezyjnych (zdanie 3 nieprawidłowe). Procedura jest na ogół bezbolesna i oszczędza miazgę zęba poprzez brak wibracji, ucisku i emisji szkodliwego dla niej ciepła (zdanie 4 nieprawidłowe)."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących stosowania ozonu do dezynfekcji kanałów korzeniowych jest nieprawidłowe:\nA. zastosowanie wody ozonowanej na etapie opracowania kanału, wyklucza równoczesne płukanie kanału podchlorynem sodu;\nB. wodę ozonowaną stosuje się po całkowitym mechanicznym opracowaniu kanału, podczas ostatecznego płukania z dodatkowym użyciem ultradźwięków;\nC. do ostatecznego osuszenia kanału przed jego wypełnieniem, stosuje się ozon w postaci gazowej;\nD. prawidłowa jest odpowiedź A i B;\nE. prawidłowa jest odpowiedź A i C;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "zastosowanie wody ozonowanej na etapie opracowania kanału, wyklucza równoczesne płukanie kanału podchlorynem sodu;",
+            "B": "wodę ozonowaną stosuje się po całkowitym mechanicznym opracowaniu kanału, podczas ostatecznego płukania z dodatkowym użyciem ultradźwięków;",
+            "C": "do ostatecznego osuszenia kanału przed jego wypełnieniem, stosuje się ozon w postaci gazowej;",
+            "D": "prawidłowa jest odpowiedź A i B;",
+            "E": "prawidłowa jest odpowiedź A i C;"
+        },
+        "answer": "D",
+        "justification": "Zastosowanie wody ozonowanej może odbywać się jako płukanie uzupełniające w nowoczesnych protokołach dezynfekcyjnych i nie stanowi ona wykluczenia dla płukania podchlorynem sodu (A jest nieprawidłowe). Ozon stosowany jest na różnych etapach pracy w kanale i płukanie wodą ozonowaną nie wymaga obligatoryjnie stosowania wyłącznie przy płukaniu ostatecznym ani aktywacji ultradźwiękowej w każdym z wariantów klinicznych (B jest nieprawidłowe). Stąd wybór D wskazujący fałszywość A i B."
+    },
+    {
+        "question": "Z poniższych stwierdzeń dotyczących wodnych roztworów jodu i jego pochodnych stosowanych w leczeniu endodontycznym nieprawidłowe jest:\n1) preparatów tych nie stosuje się w leczeniu kanałowym pomiędzy wizytami;\n2) roztwory jodu charakteryzują się bardzo wolną utratą właściwości bakteriobójczych;\n3) ze względu na szybką utratę właściwości bakteriobójczych, nie powinny przebywać w kanale dłużej niż 1-2 dni;\n4) przeciwbakteryjne działanie spowodowane jest łączeniem się jodu z białkami komórek bakteryjnych oraz wydzielaniem czynnego tlenu w wyniku reakcji z wodą;\n5) w małych stężeniach bardzo szybko i skutecznie niszczą bakterie i ich toksyny nie uszkadzając przy tym tkanek;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 2, 4.",
+            "B": "1, 3.",
+            "C": "3, 5.",
+            "D": "3, 4, 5.",
+            "E": "1, 2, 5."
+        },
+        "answer": "B",
+        "justification": "Związki jodu (np. płyn Lugola, jodoform, wkładki jodowe) są z powodzeniem stosowane jako antyseptyki w leczeniu kanałowym pomiędzy wizytami (zdanie 1 jest fałszywe). Jedną z głównych zalet materiałów opartych na jodzie jest powolne, długotrwałe uwalnianie substancji aktywnej zapewniające przedłużone działanie przeciwbakteryjne w świetle kanału. W związku z tym twierdzenie o szybkiej utracie właściwości po 1-2 dniach mija się z prawdą (zdanie 3 jest fałszywe). Zatem nieprawidłowe to 1 i 3."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących świeżej infekcji zębiny w przebiegu nieodwracalnych zapaleń miazgi jest prawidłowe:\n1) bakterie wnikają głęboko w odgałęzienia boczne kanałów i w kanaliki zębinowe, którymi docierają nawet do granicy cementowo-zębinowej;\n2) głębokość wnikania drobnoustrojów przekracza 10 um;\n3) samo mechaniczne opracowanie kanału może całkowicie usunąć infekcję z zębiny;\n4) stosowanie wkładków z antyseptykiem jest bezwzględnie potrzebne;\n5) kanał może być wypełniony podczas tej samej wizyty.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 2.",
+            "B": "3.",
+            "C": "4, 5.",
+            "D": "3, 5.",
+            "E": "wszystkie odpowiedzi są prawidłowe."
+        },
+        "answer": "D",
+        "justification": "W świeżej infekcji podczas nieodwracalnego zapalenia miazgi (np. miazga żywa z obnażeniem punktowym w przebiegu próchnicy) penetracja bakterii w kanaliki korzeniowe jest znikoma. Infekcja dotyczy głównie zębiny przy komorze i najbardziej powierzchownych warstw kanału. Z tego powodu samo mechaniczne opracowanie ścian z poszerzeniem światła kanału usuwa warstwę zainfekowaną, umożliwiając (w sprzyjających warunkach po płukaniu) wypełnienie kanału na tej samej wizycie. Zatem prawidłowe są stwierdzenia 3 i 5."
+    },
+    {
+        "question": "Trepanacja komory jest pierwszym etapem leczenia endodontycznego. Które z poniższych stwierdzeń dotyczących stwarzania dostępu do ujścia kanału jest prawdziwe:\n1) zabieg ten polega na stworzeniu dojścia do ujścia kanału;\n2) preparację zęba trzonowego rozpoczyna się w tzw. punkcie trepanacyjnym;\n3) otwór trepanacyjny należy poszerzyć na tyle, aby móc w całości zdjąć sklepienie komory za pomocą wiertła szczelinowego;\n4) wiertłem szczelinowym o gładkim nietnącym wierzchołku stosowane jest do zdejmowania sklepienia komory w zębach bocznych (trzonowych i przedtrzonowych);\n5) we wszystkich zębach (np. zęby trzonowe) poszerza się pierwotnie duży otwór trepanacyjny za pomocą wiertła różyczkowego;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 2.",
+            "B": "2, 3.",
+            "C": "3, 4, 5.",
+            "D": "1, 2, 5.",
+            "E": "wszystkie odpowiedzi są prawdziwe."
+        },
+        "answer": "E",
+        "justification": "Wszystkie z podanych zasad stwarzania dostępu endodontycznego są prawdziwe: celem zabiegu jest szeroki, prostoliniowy dostęp i wgląd do ujść kanałów bez zakłóceń (1), początek wiercenia zlokalizowany jest w odpowiednio dobranym do każdego zęba punkcie trepanacyjnym (2), komora musi być poszerzona z pełnym zniesieniem nawisającego sklepienia (3), w czym niezastąpione i bezpieczne dla dna komory są wiertła szczelinowe typu Endo-Z o nietnącym szczycie (4). Zgodnie z procedurami wstępną penetrację i poszerzenie zarysu otworu prowadzi się m.in. różyczką (5)."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących „poszukiwaczy” (canal finders) jest prawidłowe:\n1) są przeznaczone do lokalizacji ujść i do wstępnej penetracji kanałów;\n2) wykonane są ze stali nierdzewnej lub węglowej;\n3) wykonane są ze stopu NiTi;\n4) standaryzacja ISO ich nie obejmuje;\n5) na potrzeby standaryzacji wg ISO oznaczone są kolorem pomarańczowym lub brązowym;\n6) są produkowane z uchwytami przystosowanymi do pracy ręcznej lub maszynowej;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 3, 5.",
+            "B": "1, 5, 6.",
+            "C": "1, 2, 3, 5.",
+            "D": "1, 6.",
+            "E": "1, 2, 4, 6."
+        },
+        "answer": "E",
+        "justification": "Poszukiwacze (np. C+ files, pathfindery) to sztywne narzędzia przeznaczone do odszukiwania ujść trudnych kanałów i pokonywania wąskich lub zobliterowanych odcinków (1). Wymagają one wysokiej twardości, stąd wykonuje się je ze stali nierdzewnej lub węglowej (2), a nie wysoce elastycznych stopów NiTi. Ze względu na specyficzną budowę (np. mniejszą zbieżność) wymykają się tradycyjnej standaryzacji ISO dla pilników (4). Dostępne bywają zarówno w formie ręcznej, jak i specjalnych wkładów na kątnicę (6). Twierdzenie 5 jest fałszywe, stąd właściwy wybór to 1, 2, 4 i 6."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących bezpiecznego pilnika typu H (Safety Hedstroem) jest prawidłowe:\n1) pilnik jest przeznaczony do bezpiecznego udrażniania kanałów zakrzywionych;\n2) pilnik jest przeznaczony do pracy w kanałach zakrzywionych, w których skrawanie zębiny po wewnętrznej krzywiźnie ściany kanału są cienkie, jest przeciwwskazane ze względu na grożącą perforację;\n3) pilnik jest przeznaczony do pracy w kanałach zakrzywionych, w których ściany kanału są cienkie;\n4) pilnik na całej długości ma wygładzone ostre krawędzie tnące po obu przeciwległych stronach;\n5) pilnik ma zaokrąglony, nietnący wierzchołek;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 3, 4.",
+            "B": "2, 5.",
+            "C": "2, 4, 5.",
+            "D": "3, 4, 5.",
+            "E": "1, 3, 4, 5."
+        },
+        "answer": "B",
+        "justification": "Narzędzie Safety Hedstroem posiada modyfikację w postaci jednej gładkiej (nietnącej) krawędzi, która podczas opracowania bocznego ma być ustawiona w stronę wewnętrznej krzywizny korzenia, by zapobiegać ryzyku perforacji obocznej w strefach niebezpiecznych (tzw. strip-perforacji). Opisuje to idealnie punkt 2. Co więcej, posiada on dla bezpieczeństwa przy wierzchołku tępą (zaokrągloną) końcówkę (5), unikając w ten sposób tworzenia stopni i odchyłek. Nie posiada wygładzenia z dwóch przeciwległych stron (punkt 4)."
+    },
+    {
+        "question": "Pacjent lat 50, zgłosił się do stomatologa zaniepokojony ciemniejszą barwą ściany policzkowej korony zęba 46. Innych dolegliwości nie podaje. W badaniu przedmiotowym stwierdzono w zębie 46 wypełnienie amalgamatowe. Szczelność brzeżna wypełnienia zachowana, ząb reaguje prawidłowo na chlorek etylu, test na opukiwanie ujemny. Na podstawie dostępnych informacji można stwierdzić, że w tym przypadku:\n1) występujące przebarwienie jest wynikiem zgorzeli miazgi;\n2) istnieją bezwzględne dowody na występowanie w badanym zębie próchnicy wtórnej zewnętrznej;\n3) poprzez cienką ścianę szkliwa może przeświecać amalgamat;\n4) występuje bezwzględne wskazanie do całkowitej wymiany wypełnienia;\n5) nie występuje bezwzględne wskazanie do całkowitej wymiany wypełnienia;\n6) pod wypełnieniem znajduje się pęcherzyk powietrza;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 3.",
+            "B": "2, 4.",
+            "C": "5, 6.",
+            "D": "3, 5.",
+            "E": "3, 6."
+        },
+        "answer": "D",
+        "justification": "Prawidłowa, pozytywna reakcja na badanie żywotności (chlorek etylu) wskazuje na żywą i wydolną miazgę, wykluczając diagnozę martwicy czy zgorzeli (odrzucamy 1). Ciemne zabarwienie korony przy ujemnych wywiadach bólowych i szczelnym wypełnieniu amalgamatowym wynika najczęściej z faktu, że ciemny kolor stopu prześwieca przez szkliwo (3). Z punktu widzenia terapeutycznego, szczelny, funkcjonalny amalgamat w zębie trzonowym dolnym (o ile nie ma zdiagnozowanej próchnicy) nie kwalifikuje się do bezwzględnej wymiany medycznej jedynie z powodu defektu kosmetycznego, z czym zgodny jest punkt 5."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących przewlekłego ropnego rozlanego zapalenia miazgi jest prawidłowe:\n1) najczęściej jest zejściem zapaleń podostrych i rozpoczyna się z chwilą obnażenia miazgi, spowodowanego przez proces próchnicowy;\n2) najczęściej jest zejściem zapaleń ostrych i rozpoczyna się z chwilą obnażenia miazgi, spowodowanego przez proces próchnicowy;\n3) może trwać miesiącami;\n4) jest zapaleniem toczącym się bez objawów bólowych;\n5) jest zapaleniem nieodwracalnym, toczącym się z silnymi objawami bólowymi;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 3, 4.",
+            "B": "1, 3, 5.",
+            "C": "2, 3, 4.",
+            "D": "4, 5.",
+            "E": "2, 3, 5."
+        },
+        "answer": "C",
+        "justification": "Przewlekłe ropne zapalenie miazgi otwarte (wrzodziejące) ewoluuje najczęściej jako forma przejścia z uogólnionych zapaleń ostrych lub ropnych po tym, gdy w dnie ubytku dochodzi do perforacji (obnażenia) i miazga otwiera się na środowisko zewnętrzne (2). Stały odpływ ropy oraz czynników zapalnych łagodzi wzrost ciśnienia śródkomorowego, co powoduje, że choroba może toczyć się długo, nawet w skali miesięcy (3) i przy tym dawać objawy nikłe, dyskretne lub nie przebiegać w ogóle z bólem samoistnym, ewentualnie dając tylko dolegliwości przy wtłaczaniu resztek pod komorę (4)."
+    },
+    {
+        "question": "U pacjentki w wieku 18 lat, ogólnie zdrowej, stwierdzono w zębie 36 na powierzchni żującej ubytek o ostrym przebiegu. W świetle powyższych informacji, prawdziwe jest stwierdzenie:\n1) w takich przypadkach procesowi próchnicowemu towarzyszy jednoczesne powstawanie zębiny obronnej;\n2) w takich przypadkach procesowi próchnicowemu towarzyszy jednoczesne powstawanie zębiny wtórnej;\n3) ubytek należy przemywać wodą destylowaną lub roztworem soli fizjologicznej o temperaturze ciała;\n4) istnieje wskazanie do zastosowania na dno ubytku preparatu na bazie wodorotlenku wapnia twardniejącego;\n5) na dno ubytku wystarczy założyć wyłącznie warstwę cementu glasjonomerowego jako podkład;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 3, 5.",
+            "B": "2, 3, 4.",
+            "C": "3, 4.",
+            "D": "1, 4, 5.",
+            "E": "2, 5."
+        },
+        "answer": "C",
+        "justification": "Próchnica ostra postępuje niezwykle szybko u osób młodych, w związku z czym fizjologiczna bariera odczynowa zębiny nie nadąża się organizować; formacja zębiny sklerotycznej (obronnej) jest znikoma (zdania 1 i 2 są fałszywe). Aby ochronić narażoną na ostre bodźce miazgę, głęboki ubytek z ostrą postacią choroby należy płukać delikatnymi izotonicznymi roztworami o temperaturze pokojowej bądź ciała (3). Niezbędne jest także zaaplikowanie na samo dno twardniejącego preparatu wodorotlenku wapnia w celu zachowania przyżyciowości, zneutralizowania kwasów i ewentualnego zainicjowania powstawania mostu zębinowego po leczeniu (4)."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń nie opisuje czynnika ryzyka próchnicy?",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "podjadanie słodyczy pomiędzy posiłkami.",
+            "B": "zły stan higieny jamy ustnej.",
+            "C": "obecność próchnicy w uzębieniu mlecznym.",
+            "D": "aktywna zmiana próchnicowa w zębach przednich.",
+            "E": "duża liczba wypełnień."
+        },
+        "answer": "E",
+        "justification": "Koncepcja oceny ryzyka próchnicy CAMBRA rozróżnia biologiczne czynniki ryzyka (bakterie, nawyki żywieniowe jak podjadanie, brak stosowania fluoru, zła higiena) od klinicznych wskaźników postępu choroby (tzw. disease indicators). Duża liczba uprzednio umiejscowionych wypełnień (doświadczenie ubytków) odzwierciedla przeszłość z silną aktywnością chorobową i obciąża rokowania na przyszłość, ale z definicji klasyfikowana jest w modelu CAMBRA jako wskaźnik przebytej lub aktywnej choroby (disease indicator), a nie czynnik biologicznie ją kreujący, taki jak mikroflora czy obecne słodycze (czynniki ryzyka z ang. risk factors)."
+    },
+    {
+        "question": "Wskaż cechy charakteryzujące materiały złożone światłoutwardzalne, przeznaczone wyłącznie do wypełniania ubytków w zębach bocznych:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "duża zawartość wypełniacza, duża gęstość i twardość, mała ścieralność;",
+            "B": "duży skurcz polimeryzacyjny, mała gęstość, duża twardość;",
+            "C": "mała zawartość wypełniacza, duża twardość, mała ścieralność;",
+            "D": "mniejsza adaptacja brzeżna i ścieralność, duża gęstość i twardość;",
+            "E": "duża zawartość wypełniacza, mały moduł sprężystości, mała ścieralność;"
+        },
+        "answer": "A",
+        "justification": "Materiały dedykowane na żujące płaszczyzny zębów bocznych to kompozyty o zwiększonej wytrzymałości mechanicznej na siły zgryzowe (tzw. kompozyty kondensowalne lub pakerowalne). Parametry te osiągają one głównie poprzez znaczną redukcję matrycy organicznej (żywicy) w stosunku do fazy nieorganicznej, czyli posiadają bardzo dużą zawartość wypełniacza. Gwarantuje to wysoką gęstość i mechaniczną twardość, znaczną redukcję współczynnika ścieralności (który jest krytyczny na powierzchni okluzyjnej) oraz obniżony skurcz polimeryzacyjny (który w opcji B był wskazany jako duży)."
+    },
+    {
+        "question": "W celu usunięcia przebarwienia w zębach bezmiazgowych:\n1) stosuje się zewnętrzne wybielanie domowe;\n2) stosuje się wyłącznie wybielanie profesjonalne;\n3) stosuje się metodę stopniowego wybielania, w której wykorzystuje się wodę destylowaną i nadboran sodu;\n4) nie stosuje się wybielania metodą termokatalityczną;\n5) nie stosuje się wybielania wewnętrznego w przypadku braku dostatecznej ilości twardych tkanek zęba;\n6) przeciwwskazaniem do wybielania są stany zapalne przyzębia brzeżnego;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 3, 4, 5, 6.",
+            "B": "2, 3, 5, 6.",
+            "C": "4, 5.",
+            "D": "2, 5.",
+            "E": "3, 5, 6."
+        },
+        "answer": "B",
+        "justification": "Wybielanie wewnątrzkomorowe zębów przebarwionych po zgorzelach i leczeniu endodontycznym wyklucza rutynowe wybielanie domowe i odbywa się wyłącznie jako leczenie profesjonalne wewnątrz gabinetu (2). Powszechną i skuteczną formą jest wkładka 'walking bleach' – powolne wydzielanie bąbelków tlenu z pasty zarobionej z nadboranu sodu na wodzie destylowanej lub rzadszej wodzie utlenionej (3). Przy nadmiernym osłabieniu tkanek twardych zęba ryzyko powikłań np. resorpcji sprawia, że odradza się osłabiający zabieg na rzecz korekcji protetycznej, np. korony (5). Ponadto stany zapalne otaczającego przyzębia (zwłaszcza aktywne) uniemożliwiają bezpieczne przeprowadzenie leczenia wybielającego (6)."
+    },
+    {
+        "question": "Metoda step-back opracowania kanałów korzeniowych jest szczególnie zalecana dla:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Zębów przedtrzonowych żuchwy;",
+            "B": "Kłów żuchwy;",
+            "C": "Kłów szczęki i siekaczy żuchwy;",
+            "D": "Pierwszych zębów przedtrzonowych szczęki;",
+            "E": "Odpowiedzi C i D są prawidłowe;"
+        },
+        "answer": "E",
+        "justification": "Opracowanie typu step-back (poszerzanie od wierzchołka wzwyż narastającą średnicą narzędzi ze stopniowym cofaniem się co 0,5-1 mm) zalecane jest przede wszystkim do wąskich, zakrzywionych i spłaszczonych anatomicznie kanałów korzeniowych. Zapobiega klinowaniu, łamaniu się igieł i deformowaniu ścieżki wierzchołkowej (zipping/transportation). Typowe zęby o takim utrudnionym wariancie krzywizn i przewężeń to małe i cienkie kanały siekaczy dolnych czy odnogi (najczęściej dwie) w pierwszym przedtrzonowcu szczęki (stąd prawda w C i D)."
+    },
+    {
+        "question": "Fałszywie negatywna reakcja na prąd elektryczny w trakcie badania żywotności miazgi testem elektrycznym:\n1) może być spowodowana kontaktem elektrody czynnej z dziąsłem lub wypełnieniem metalowym;\n2) może dotyczyć zębów będących w pierwszym okresie po urazie, gdy włókna nerwowe miazgi znajdują się w stanie wstrząsu, co może trwać nawet rok;\n3) nie występuje w zębach niedojrzałych z nieuformowanymi wierzchołkami korzeni;\n4) może dotyczyć zębów z rozległymi złogami mineralnymi w kanale;\n5) nie występuje w zębach z martwicą częściową;\n6) może wystąpić u pacjentów po zażyciu środków uspokajających;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 2, 4.",
+            "B": "3, 4, 5.",
+            "C": "3, 4, 6.",
+            "D": "2, 4, 6.",
+            "E": "wszystkie odpowiedzi są prawdziwe"
+        },
+        "answer": "D",
+        "justification": "Wynik fałszywie ujemny (brak wskazania mimo żywej miazgi) w elektronadiagnozie wynika na ogół z wysokiego progu oporności lub blokady przekaźnictwa nerwowego. Stan taki zachodzi czasowo po uderzeniach/urazach skutkujących tzw. wstrząsem miazgi i apraksją włókien (2). Duże zmineralizowanie, w tym wtórna obronna zębina, zębiniaki lub grube pokrywy tkankowe utrudniają przepływ prądu z powierzchni szkliwa (4). Wpływ ogólny na układ nerwowy ze strony silnych leków wyciszających psychikę bądź o potencjale przeciwbólowym maskuje rzeczywiste odczuwanie mikropobudzeń i zaniża próg odpowiedzi u chorego (6). Punkt 1 z kolei może sprokurować nieprawidłowy błąd przeciwny (wynik fałszywie dodatni)."
+    },
+    {
+        "question": "Przeszłość próchnicowa (PUW) odzwierciedla kumulacyjny efekt wszystkich znanych i nieznanych czynników ryzyka... był pacjent. Które z poniższych stwierdzeń jest prawdziwe:\n1) U osób dorosłych i w starszym wieku, u których stwierdza się znaczny odsetek wypełnionych powierzchni zębów, PUW może być słabszym czynnikiem rokowania próchnicy korony, niż w przypadku ludzi młodych;\n2) U osób dorosłych i w starszym wieku, u których stwierdza się znaczny odsetek wypełnionych powierzchni zębów, PUW może być lepszym czynnikiem rokowania próchnicy korony, niż w przypadku ludzi młodych;\n3) Istnieje związek pomiędzy przeszłością próchnicową danego pacjenta, a ryzykiem rozwoju próchnicy na powierzchni korzenia;\n4) Istnieje negatywna korelacja pomiędzy wyjściowym wskaźnikiem powierzchni korzenia objętych próchnicą a ryzykiem nowej próchnicy korzenia;\n5) Osoba z niską wartością PUW nie będzie zagrożona w przyszłości próchnicą, nawet jeżeli poziom wszystkich czynników ryzyka znacznie wzrośnie;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1, 3.",
+            "B": "2, 5.",
+            "C": "2, 4, 5.",
+            "D": "1, 5.",
+            "E": "1, 3, 5."
+        },
+        "answer": "A",
+        "justification": "Wskaźnik PUW jako wskaźnik przebytej już choroby i ilości założonych ubytków ma wysoką wartość prognostyczną w zakresie oceniania ryzyka, z tymże traci on powoli rację bytu z racji wysycenia u pacjentów starszych. U nich po latach wskaźnik wypełnień i utraty nie obrazuje jednoznacznie rzutu nowych ognisk, z czym mierzy się chociażby starzenie fizjologiczne jamy ustnej (odsłonięte powierzchnie korzeni tracą naturalny płaszcz z dziąsła stając się podatne inaczej niż korony), a zatem u tych osób mocne PUW w przeszłości silnie predysponuje właśnie do powstawania i wznowy zjawiska, jakim jest postępująca próchnica w obrębie odsłoniętego cementu korzeniowego (rozwój próchnicy na powierzchni korzenia opisany w 3). Wiek stanowi tu zmienną predysponującą w ten sam sposób co historia (1)."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących problemu „wyprostowania” przebiegu zakrzywionego kanału w trakcie jego opracowywania są nieprawidłowe:\n1) „wyprostowanie” przebiegu kanału jest wynikiem usunięcia większej ilości zębiny w obrębie krzywizny większej;\n2) „wyprostowanie” przebiegu kanału jest wynikiem usunięcia większej ilości zębiny w obrębie krzywizny mniejszej;\n3) w wyniku „wyprostowania” przebiegu kanału dochodzi do skrócenia długości roboczej kanału;\n4) RDK mierzona przed opracowaniem kanału, po opracowaniu może okazać się za krótka nawet o 1 mm;\n5) w wyniku „wyprostowania” przebiegu kanału narzędzie również ulega wyprostowaniu;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,4.",
+            "B": "1,5.",
+            "C": "2,4.",
+            "D": "2,3,4.",
+            "E": "1,3,4."
+        },
+        "answer": "A",
+        "justification": "Wyprostowanie kanału następuje na skutek nadmiernego usunięcia zębiny z krzywizny mniejszej (wewnętrznej), a nie większej, co czyni zdanie 1 fałszywym. Ponadto, wyprostowanie kanału skraca jego przebieg, co oznacza, że długość robocza mierzona na początku staje się zbyt długa (narzędzie może wyjść poza otwór wierzchołkowy), a nie za krótka. Zdanie 4 jest więc nieprawidłowe. Zatem odpowiedzi 1 i 4 są błędne."
+    },
+    {
+        "question": "Przeciwwskazaniem do leczenia endodontycznego jest:\n1) nosicielstwo wirusa HIV;\n2) drugi trymestr ciąży;\n3) złamanie podłużne korzeni;\n4) bardzo duża patologiczna resorpcja zewnętrzna przywierzchołkowych części korzenia, będąca następstwem rozległych zmian zapalnych w tkankach okołowierzchołkowych;\n5) resorpcja wewnętrzna z towarzyszącą perforacją ściany kanału;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2,3,4.",
+            "B": "3,4.",
+            "C": "2,4,5.",
+            "D": "3,4,5.",
+            "E": "wszystkie stwierdzenia są prawdziwe"
+        },
+        "answer": "D",
+        "justification": "Nosicielstwo HIV oraz drugi trymestr ciąży nie są bezwzględnymi przeciwwskazaniami do leczenia endodontycznego. Natomiast złamanie podłużne korzenia, rozległa resorpcja zewnętrzna niszcząca korzeń oraz resorpcja wewnętrzna z perforacją dyskwalifikują ząb z leczenia zachowawczego, stanowiąc wskazania do ekstrakcji."
+    },
+    {
+        "question": "Wskaż strukturę anatomiczną, która może rzutować się na wierzchołki zębów trzonowych szczęki w trakcie badania radiologicznego:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Otwór podniebienny większy;",
+            "B": "Kość jarzmowa i kolec nosowy przedni;",
+            "C": "Wyrostek dziobiasty żuchwy;",
+            "D": "Kość skrzydłowa;",
+            "E": "Wszystkie odpowiedzi są nieprawidłowe;"
+        },
+        "answer": "E",
+        "justification": "W praktyce radiologicznej wyrostek dziobiasty żuchwy (odpowiedź C) często nakłada się na obszar guzowatości szczęki i trzonowców górnych. Jednakże w kluczach testowych czasem odpowiedź ta traktowana jest jako rzutująca się bardziej na korony zębów lub po prostu w teście uznano, że żadna struktura nie pasuje idealnie do projekcji samych 'wierzchołków', stąd zaznaczona odpowiedź E. Podręcznikowo jednak wyrostek dziobiasty to klasyczna struktura nakładająca się na zęby trzonowe górne."
+    },
+    {
+        "question": "Natychmiastowego leczenia endodontycznego wymaga:\n1) pourazowe uszkodzenia zębów;\n2) ostre nieodwracalne zapalenie miazgi;\n3) zgorzel miazgi;\n4) martwica miazgi;\n5) ostre początkowe zapalenie tkanek okw;\n6) przewlekłe ropne zapalenie tkanek okw;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2,5.",
+            "B": "2,5.",
+            "C": "1,2,5,6.",
+            "D": "2,3,4,5.",
+            "E": "wszystkie stwierdzenia"
+        },
+        "answer": "D",
+        "justification": "Stany ostre (jak ostre nieodwracalne zapalenie miazgi i ostre zapalenie tkanek okołowierzchołkowych) wymagają pilnej interwencji ze względu na silne dolegliwości bólowe. Martwica i zgorzel również stanowią wskazanie do leczenia (często natychmiastowego rozpoczęcia ze względu na silne zakażenie i ryzyko zaostrzeń), dlatego zestawienie tych chorób zostało zaznaczone jako prawidłowe."
+    },
+    {
+        "question": "Ubytki erozyjne określane jako perimolysis (perimylolysis) występują na:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "powierzchniach językowych dolnych zębów przednich;",
+            "B": "powierzchniach wargowych i policzkowych zębów górnych;",
+            "C": "powierzchniach podniebiennych i żujących wszystkich zębów szczęki oraz powierzchniach policzkowych i żujących zębów trzonowych żuchwy;",
+            "D": "powierzchniach językowych zębów żuchwy;",
+            "E": "wszystkich powierzchniach zębów;"
+        },
+        "answer": "C",
+        "justification": "Perimoliza to erozja szkliwa pochodzenia endogennego, wywołana działaniem kwasu żołądkowego (np. w przebiegu bulimii lub refluksu żołądkowo-przełykowego). Najbardziej charakterystycznym obrazem jest niszczenie powierzchni podniebiennych i żujących zębów szczęki, a w zaawansowanych stadiach obejmuje także zęby żuchwy."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących zaniku patologicznego ozębnej jest prawdziwe:\n1. Zanik patologiczny ozębnej może być spowodowany nadmiernym przeciążeniem zęba;\n2. Wyłączenie zęba z jego czynności nie powoduje zaniku patologicznego ozębnej;\n3. Zanik patologiczny ozębnej może mieć miejsce na skutek jej ucisku przez rozrastające się guzy szczęk;\n4. Zanik patologiczny ozębnej może mieć miejsce na skutek jej ucisku przez rozrastające się torbiele;\n5. Zanik patologiczny ozębnej może mieć miejsce na skutek jej ucisku przez zęby zatrzymane;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3,4,5.",
+            "B": "2,3,4,5.",
+            "C": "3,4,5.",
+            "D": "3,4,5,6.",
+            "E": "wszystkie odpowiedzi"
+        },
+        "answer": "A",
+        "justification": "Zanik patologiczny ozębnej często ma charakter uściskowy i występuje w wyniku ucisku przez rosnące w pobliżu torbiele, guzy oraz zęby zatrzymane. Dodatkowo ciągłe przeciążenie zgryzowe doprowadza początkowo do poszerzenia szpary ozębnowej, ale może również indukować obszary ucisku prowadzące do lokalnej martwicy i patologicznego zaniku więzadeł. Wyłączenie zęba z funkcji (brak pracy) również powoduje zanik, co czyni zdanie 2 fałszywym."
+    },
+    {
+        "question": "O dużej aktywności zmiany próchnicowej szkliwa nie świadczą następujące jej cechy:\n1) kolor jasny, kredowy;\n2) kolor ciemny;\n3) powierzchnia szklista i gładka;\n4) powierzchnia szorstka;\n5) lokalizacja w pobliżu dziąsła;\n6) lokalizacja odległa od brzegu dziąsła;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,3,6.",
+            "B": "1,4,5.",
+            "C": "1,4.",
+            "D": "2,3,6.",
+            "E": "2,3,5."
+        },
+        "answer": "D",
+        "justification": "Aktywna (szybko postępująca) próchnica charakteryzuje się kredowym (matowo-jasnym) kolorem, szorstką powierzchnią (uszkodzenie mikroporowate) i lokalizacją w miejscu zalegania płytki bakteryjnej (np. w rejonie przydziąsłowym). Próchnica zatrzymana lub o wolnym przebiegu ma kolor ciemny/brunatny (2), stwardniałą, wygładzoną i szklistą powierzchnię (3) i często ze względu na zachodzącą z czasem recesję oddala się od brzegu dziąsła (6)."
+    },
+    {
+        "question": "W postępowaniu remineralizacyjnym początkowych zmian próchnicowych:\n1) stosuje się bioaktywne szkło czyli fosforokrzemian wapniowo-sodowy;\n2) stosuje się kompleks kazeinianu fosfopeptydowego z amorficznym fosforanem wapnia, zawierający 900 ppm F;\n3) nie stosuje się kompleksu kazeinianu fosfopeptydowego z amorficznym fosforanem wapnia bez dodatku fluoru;\n4) stosuje się zestaw Icon, w skład którego wchodzi żywica kompozytowa.",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2.",
+            "B": "1,2,3.",
+            "C": "2,3.",
+            "D": "3,4.",
+            "E": "wszystkie odpowiedzi"
+        },
+        "answer": "A",
+        "justification": "Bioaktywne szkło oraz CPP-ACP z fluorem to skuteczne metody remineralizacji (wzbogacania szkliwa w składniki mineralne). Pasty CPP-ACP bez fluoru (Tooth Mousse) również są wykorzystywane do remineralizacji, więc zdanie 3 jest fałszywe. Metoda Icon (infiltracja) nie jest chemiczną remineralizacją, lecz uszczelnieniem mikroporów żywicą (metoda mikroinwazyjna)."
+    },
+    {
+        "question": "W trakcie leczenia endodontycznego może wystąpić potrzeba obniżenia cienkich ścian ubytku i skrócenia wysokości guzków. Które z poniższych stwierdzeń dotyczących tego zabiegu jest prawdziwe:\n1) zabieg ten pozwoli poprawić widoczność pola operacyjnego;\n2) obniżenie cienkich ścian ubytku i skrócenie wysokości guzków ma zapobiec ich złamaniu;\n3) w szczęce skrócenie dotyczy niepodpartych zębiną wysokich szczytów guzków policzkowych na powierzchniach (wyłączenia ich z okluzji);\n4) w żuchwie skrócenie dotyczy niepodpartych zębiną wysokich szczytów guzków językowych na powierzchniach (wyłączenia ich z okluzji);\n5) celowe usunięcie części korony zapobiegnie odłamaniu większych fragmentów ścian pod wpływem nacisku w trakcie żucia;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2,5.",
+            "B": "2,4,5.",
+            "C": "1,2,3,5.",
+            "D": "1,2,4,5.",
+            "E": "wszystkie odpowiedzi"
+        },
+        "answer": "A",
+        "justification": "Skrócenie niepodpartych (pozbawionych zębiny) ścian i guzków poprawia widoczność (1) i jest kluczowe w profilaktyce złamań korony (2,5) podczas leczenia kanałowego. Skrócenia wymagają wszystkie niepodparte struktury, co sprawia, że ograniczanie tego zabiegu do konkretnego pojedynczego guzka jako uniwersalnej reguły (zdania 3 i 4) jest błędem."
+    },
+    {
+        "question": "Które z poniższych stwierdzeń dotyczących komórek nabłonkowych, będących pozostałością po niewykorzystanej listewce zębowej lub pochewce nabłonkowej Hertwiga, jest prawdziwe:\n1) w warunkach fizjologicznych pozostają w stanie czynnym;\n2) w warunkach patologicznych w wyniku działania bodźców drażniących zanikają;\n3) mogą uczestniczyć w tworzeniu pereł szkliwnych;\n4) są przyczyną resztkowego zapalenia miazgi;\n5) uczestniczą w tworzeniu ziarniniaków nabłonkowych;\n6) mogą rozrastać się w wyniku działania bodźców drażniących;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,2,3.",
+            "B": "tylko 5,6.",
+            "C": "3,5,6.",
+            "D": "1,3,4,5."
+        },
+        "answer": "C",
+        "justification": "Pozostałości nabłonkowe Malasseza znajdują się w ozębnej. W zdrowiu pozostają uśpione (stąd 1 i 2 fałszywe). Przewlekły stan zapalny okw. (bodziec drażniący) stymuluje je do proliferacji (6), co doprowadza do wyścielenia ziarniniaka nabłonkiem (ziarniniak nabłonkowy - 5) lub powstania torbieli. Rzadko mogą z nich powstawać ektopowe perły szkliwne (3)."
+    },
+    {
+        "question": "Wskaż fałszywe zdanie dotyczące ozębnej:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "ozębna zęba pozbawionego antagonisty jest szersza niż zęba uczestniczącego w zgryzie;",
+            "B": "z wiekiem ozębna się zwęża;",
+            "C": "uraz zgryzowy może powodować poszerzenie ozębnej;",
+            "D": "głównym składnikiem ozębnej są włókna kolagenowe;",
+            "E": "jest szersza przy szyjce niż w środkowej części korzenia;"
+        },
+        "answer": "A",
+        "justification": "Ząb całkowicie pozbawiony działania antagonisty przestaje pełnić funkcje żucia, co wywołuje zanik z nieczynności jego aparatu zawieszeniowego. W konsekwencji przestrzeń ozębnej ulega zwężeniu. Dlatego stwierdzenie, że jest ona szersza (odpowiedź A) jest fałszywe."
+    },
+    {
+        "question": "Korona zęba jest polichromatyczna. Które z poniższych stwierdzeń dotyczących koloru korony zęba jest prawdziwe:\n1. Korona zęba w części przyszyjkowej jest ciemniejsza ze względu na znaczną grubość szkliwa;\n2. Korona zęba w rejonie stycznym jest ciemniejsza ze względu na obecność tylko samego szkliwa;\n3. Korona zęba w rejonie stycznym jest jaśniejsza i bardziej przezierna;\n4. Korona zęba w rejonie siecznym jest jaśniejsza i bardziej przezierna ze względu na obecność zębiny;\n5. Wraz z wiekiem zęby zmieniają się na ciemniejsze o słabym nasyceniu barwy ze względu na spadek przezierności;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "1,5.",
+            "B": "2,3.",
+            "C": "3.",
+            "D": "4.",
+            "E": "2,3,5."
+        },
+        "answer": "C",
+        "justification": "Szkliwo w części przyszyjkowej jest bardzo cienkie, co powoduje prześwitywanie ciemniejszej zębiny (1 jest fałszem). Brzeg sieczny jest jaśniejszy, ale brakuje mu podparcia zębinowego (4 jest fałszem). Wraz z wiekiem zęby stają się ciemniejsze i bardziej nasycone kolorem, ale nie wykazują 'słabego nasycenia' (5 jest fałszem). Najbardziej prawdziwe jest stwierdzenie, że rejon styczny, ze względu na dużą masę szkliwa, jest jaśniejszy i silniej przezierny, dlatego poprawna odpowiedź to C. (Na skanie zaznaczono odp. A, lecz ją przekreślono i wybrano opcję nr 3 marką w kolorze zielonym)."
+    },
+    {
+        "question": "Wskaż prawdziwe stwierdzenie opisujące szansę osiągnięcia sukcesu klinicznego po leczeniu endodontycznym:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Odsetek pozytywnych wyników pozabiegowych jest wyższy w przypadku pierwotnego leczenia endodontycznego, w porównaniu z ponownym leczeniem endodontycznym;",
+            "B": "Odsetek pozytywnych wyników pozabiegowych jest wyższy w przypadku, gdy przed zabiegiem chirurgii endodontycznej (np. resekcji) wykonano ponowne leczenie endodontyczne;",
+            "C": "Odsetek pozytywnych wyników pozabiegowych jest wyższy w przypadku pierwotnego leczenia endodontycznego pulpopatii nieodwracalnych z miazgą martwą, w porównaniu do leczenia pulpopatii nieodwracalnych z miazgą żywą;",
+            "D": "Odpowiedzi A i B są prawidłowe;",
+            "E": "Odpowiedzi A i C są prawidłowe;"
+        },
+        "answer": "D",
+        "justification": "Skuteczność pierwszorazowego leczenia endodontycznego jest statystycznie większa niż re-endo (odpowiedź A). Jeśli planowany jest zabieg resekcji wierzchołka, wcześniejsze przeprowadzenie właściwego powtórnego leczenia kanałowego znacznie zwiększa szanse na sukces (odpowiedź B). Dlatego obydwie odpowiedzi opisane pod D są poprawne."
+    },
+    {
+        "question": "Użycie jednego otworu w gumie koferdamu do jej umocowania na dwóch i/lub więcej koronach zębów:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "jest niedopuszczalne i przeciwwskazane;",
+            "B": "jest wskazane w przypadku leczenia endodontycznego zębów zszynowanych;",
+            "C": "jest niewskazane w przypadku leczenia endodontycznego zębów stanowiących filary mostu;",
+            "D": "jest zalecane rutynowo w każdym przypadku leczenia endodontycznego;",
+            "E": "odpowiedzi B i D są prawidłowe;"
+        },
+        "answer": "B",
+        "justification": "Technika tzw. szerokiej szczeliny ('slit technique'), czyli zrobienia jednego połączonego otworu lub rozcięcia przegrody w koferdamie, jest jedyną praktyczną możliwością zaizolowania zębów zblokowanych na stałe szyną, stałymi aparatami retencyjnymi lub stanowiacymi filary dla mostu protetycznego (gdyż nie da się przeciągnąć gumy przez punkt styczny)."
+    },
+    {
+        "question": "Które twierdzenie dotyczące resorpcji przyszyjkowej jest nieprawdziwe:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "postać zewnętrznej postępującej resorpcji pojawia się zawsze w miejscu uszkodzenia przyczepu nabłonkowego i powstania kieszonki przyzębnej;",
+            "B": "ogniska resorpcji przyszyjkowej mogą dotyczyć tylko cementu lub powierzchownych części zębiny;",
+            "C": "w powstawaniu tego typu resorpcji miazga odgrywa główną rolę;",
+            "D": "postać kraterowata resorpcji przyszyjkowej obejmuje cement na niewielkiej przestrzeni i drążąc tunel w zębinie, sięga aż do miazgi, która ulega w tych przypadkach zakażeniu od strony kieszonki przyzębnej.",
+            "E": "resorpcja przyszyjkowa może pojawić się po wytrawianiu szkliwa kwasem i założeniu wypełnienia w części przyszyjkowej korony..."
+        },
+        "answer": "C",
+        "justification": "Resorpcja przyszyjkowa ma charakter zewnątrzzębowy. Odontoklasty drążą zębinę podminowując tkanki twarde, natomiast w stosunku do komory miazgi występuje zjawisko zachowania ochronnej warstwy prazębiny (pericanalar resorption-resistant sheet). Z tego powodu miazga bardzo długo pozostaje chroniona i nie odgrywa głównej roli w napędzaniu tego procesu - stąd zdanie C jest fałszywe."
+    },
+    {
+        "question": "U pacjentki w wieku 19 lat, ogólnie zdrowej, stwierdzono w zębie 26 na powierzchni żującej próchnicę głęboką o ostrym przebiegu. Pacjentka nie zgłasza dolegliwości samoistnych. Ząb reaguje prawidłowo na chlorek etylu, brak reakcji na opukiwanie pionowe. W oparciu o powyższe informacje, prawdziwe jest następujące stwierdzenie:\n1) dno ubytku może być bolesne przy zgłębnikowaniu;\n2) warstwa zdrowej zębiny oddzielająca ubytek od komory jest gruba;\n3) w zębinie oddzielającej ubytek od komory jest szeroka warstwa zębiny przezroczystej;\n4) warstwa zębiny przylegająca do miazgi jest w całości odwapniona;\n5) może wystąpić krótkotrwały ból sprowokowany bodźcami termicznymi;\n6) istnieje wskazanie do zastosowania preparatu zawierającego glikokortykosteroid i antybiotyk;",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "2,3,5.",
+            "B": "1,5.",
+            "C": "1,5,6.",
+            "D": "4,5,6.",
+            "E": "1,4,5."
+        },
+        "answer": "B",
+        "justification": "W ubytku z ostrą, gwałtownie postępującą próchnicą nie dochodzi do wytworzenia szerokiej bariery ze stwardniałej zębiny sklerotycznej (przezroczystej), a obnażona odwapniona struktura sprawia, że zgłębnikowanie dna może prowokować ból (1). Ubytek głęboki blisko komory objawia się też nasiloną reakcją (krótkotrwałym bólem) na czynniki termiczne (5). Terapia lekowa sterydowo-antybiotykowa w takich przypadkach odeszła do lamusa."
+    },
+    {
+        "question": "Wskaż fałszywe zdanie dotyczące infiltracji próchnicy:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "wykonanie zabiegu infiltracji nie eliminuje możliwości następczej remineralizacji.",
+            "B": "Wskazaniem do stosowania tej metody są początkowe zmiany próchnicowe znajdujące się na powierzchniach gładkich – wargowych i stycznych.",
+            "C": "Zabieg infiltracji jest postępowaniem leczniczym stanowiącym pomost pomiędzy zapobieganiem a wypełnieniem.",
+            "D": "W zabiegu infiltracji próchnicy stosuje się 15% HCl.",
+            "E": "Podczas zabiegu infiltracji próchnicy stosuje się etanol."
+        },
+        "answer": "A",
+        "justification": "Procedura infiltracji polega na wyparciu wody z porowatego obszaru szkliwa i całkowitym nasączeniu ich żywicą (przy użyciu Icon-Etch 15% HCl i Icon-Dry na bazie etanolu). Skutkuje to zablokowaniem struktury krystalicznej szkliwa, co uniemożliwia przenikanie składników mineralnych, tym samym trwale eliminując szansę na naturalną, następczą remineralizację ubytku. Stwierdzenie A jest fałszem."
+    },
+    {
+        "question": "U pacjenta 50-letniego stwierdzono konieczność przeleczenia metodą ekstyrpacji przyżyciowej zęba 35, stanowiącego filar stałego mostu i pokrytego koroną metalową. Które z poniższych stwierdzeń jest prawdziwe:",
+        "type": "single_choice_abcd",
+        "options": {
+            "A": "Istnieje bezwzględna konieczność usunięcia przed rozpoczęciem leczenia korony metalowej;",
+            "B": "Obecność korony metalowej jest przeciwwskazaniem do wykonania zdjęcia RTG zęba;",
+            "C": "Istnieje bezwzględne przeciwwskazanie do wykonania pomiaru długości kanału za pomocą endometru;",
+            "D": "Do pomiaru endometrycznego niezbędne jest odizolowanie instrumentu od korony metalowej;",
+            "E": "Kontakt instrumentu z koroną metalową w trakcie pomiaru endometrycznego nie ma znaczenia dla jakości pomiaru."
+        },
+        "answer": "D",
+        "justification": "Działanie endometru bazuje na zamknięciu mikroobwodu elektrycznego. Jakikolwiek fizyczny kontakt metalowego instrumentu z metalową koroną powoduje natychmiastowe zwarcie i daje fałszywy wynik pomiaru na urządzeniu. Należy zatem zabezpieczyć wejście do komory wokół pliku (np. taśmą teflonową), by zapewnić całkowitą izolację narzędzia."
+    }
+]
