@@ -94,5 +94,11 @@
         "title": "Urazy, nowotwory i torbiele (100 pytań)",
         "subject": "Chirurgia",
         "file": "Chirurgia/urazy_nowotwory_chirurgia.json"
+    },
+    {
+        "id": "zacho_pytania_1",
+        "title": "Zachowawcza egzaminy",
+        "subject": "Zachowawcza",
+        "file": "Zachowawcza/zacho_pytania.json"
     }
 ]
